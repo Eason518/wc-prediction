@@ -44,9 +44,11 @@ export function renderNav() {
   const chips = dayMatches.map(m => {
     const h = TEAMS[m.homeCode], a = TEAMS[m.awayCode];
     const active = m.id === st.matchId;
-    const isLive = m.status === 'live';
     const isFt = m.status === 'ft';
-    const dotColor = isLive ? '#E30A17' : isFt ? '#64748B' : '#22c55e';
+    const startMs = new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
+    const nowMs = Date.now();
+    const isLive = m.status === 'live' || (!isFt && nowMs >= startMs - 10 * 60 * 1000 && nowMs < startMs + 120 * 60 * 1000);
+    const dotColor = isLive ? '#22c55e' : isFt ? '#64748B' : 'transparent';
     return `<button class="chip-btn${active ? ' active' : ''}" data-match="${m.id}">
       <span class="chip-dot" style="background:${dotColor}"></span>
       <span class="chip-flag">${h.flag}</span>

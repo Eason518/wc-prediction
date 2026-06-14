@@ -1,27 +1,62 @@
 [
   {
+    "id": "m-qat-sui",
+    "date": "2026-06-13",
+    "file": "m-qat-sui.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-aus-tur",
+    "date": "2026-06-14",
+    "file": "m-aus-tur.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-bra-mar",
+    "date": "2026-06-14",
+    "file": "m-bra-mar.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-hai-sco",
+    "date": "2026-06-14",
+    "file": "m-hai-sco.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
     "id": "m-ger-cuw",
     "date": "2026-06-15",
-    "file": "m-ger-cuw.md"
+    "file": "m-ger-cuw.md",
+    "model": "Claude Sonnet 4.6"
   },
   {
     "id": "m-ned-jpn",
     "date": "2026-06-15",
-    "file": "m-ned-jpn.md"
+    "file": "m-ned-jpn.md",
+    "model": "Claude Sonnet 4.6"
   },
   {
     "id": "m-civ-ecu",
     "date": "2026-06-15",
-    "file": "m-civ-ecu.md"
+    "file": "m-civ-ecu.md",
+    "model": "Claude Sonnet 4.6"
   },
   {
     "id": "m-swe-tun",
     "date": "2026-06-15",
-    "file": "m-swe-tun.md"
+    "file": "m-swe-tun.md",
+    "model": "Claude Sonnet 4.6"
   },
   {
     "id": "m-esp-cpv",
     "date": "2026-06-16",
-    "file": "m-esp-cpv.md"
+    "file": "m-esp-cpv.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-esp-cpv",
+    "date": "2026-06-16",
+    "file": "m-esp-cpv-2.md",
+    "model": "Gemini 3.5 Flash"
   }
 ]

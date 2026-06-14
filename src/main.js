@@ -29,13 +29,19 @@ function bindEvents() {
     btn.addEventListener('click', () => {
       const dateKey = btn.dataset.date;
       const first = getSchedule().find(m => m.dateKey === dateKey);
-      setState({ dateKey, matchId: first ? first.id : getState().matchId, tab: 'summary' });
+      setState({ dateKey, matchId: first ? first.id : getState().matchId, modelIndex: 0, tab: 'summary' });
     });
   });
 
   document.querySelectorAll('[data-match]').forEach(btn => {
     btn.addEventListener('click', () => {
-      setState({ matchId: btn.dataset.match, tab: 'summary' });
+      setState({ matchId: btn.dataset.match, modelIndex: 0, tab: 'summary' });
+    });
+  });
+
+  document.querySelectorAll('[data-model]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      setState({ modelIndex: Number(btn.dataset.model) });
     });
   });
 

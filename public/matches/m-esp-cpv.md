@@ -9,124 +9,126 @@ venueShort: Atlanta, USA
 status: upcoming
 homeCode: ESP
 awayCode: CPV
-referee: Wilmar Roldán (COL)
+referee: Adham Makhadmeh (JOR)
 homeFormation: 4-3-3
-awayFormation: 4-3-3
+awayFormation: 4-2-3-1
 homeCoach: Luis de la Fuente
-awayCoach: Bubista
-oddsHome: "1.12"
-oddsDraw: "7.50"
-oddsAway: "17.00"
+awayCoach: Pedro Bubista
+oddsHome: "1.10"
+oddsDraw: "9.00"
+oddsAway: "25.00"
 predScoreHome: 3
 predScoreAway: 0
-aiModel: Gemini 3.5 Flash
+aiModel: Claude Sonnet 4.6
 ---
 
 ## home_note
-西班牙作為 2024 年歐國盃冠軍，由 Luis de la Fuente 領軍，目前處於全盛時期。球隊打法兼具傳統的傳控（Tiki-Taka）與現代的高效兩翼突破。由 Rodri 坐鎮中場大腦，搭配 Lamine Yamal 與 Nico Williams 的世界級雙翼，進攻侵略性極強。賽前狀態火熱，被公認為本屆世界盃的奪冠熱門之一。
+西班牙作為 2024 歐洲冠軍強勢出征，FIFA 世界排名第 2，被視為本屆世界盃奪冠大熱門。主帥 Luis de la Fuente 延續 4-3-3 體系，中場鐵三角 Rodri、Pedri、Fabian Ruiz 掌控節奏，攻擊線擁有 Lamine Yamal（傷後復出）、Nico Williams、Mikel Oyarzabal 等世界頂尖人才。值得注意的是，本屆陣容不含任何皇家馬德里球員，為史上首次。資格賽六戰五勝，狀態極佳。賽前熱身以多球大勝秘魯，Oyarzabal 首發進球已確認出賽。
 
 ## away_note
-維德角（Cabo Verde）在主教練 Bubista 的帶領下，歷史性首次闖入世界盃決賽圈。雖然全國人口僅約 60 萬，但他們在 2024 年非洲盃闖入八強，展現了極強的凝聚力與韌性。球隊防守端仰賴西甲主力 Logan Costa，進攻則依靠經驗豐富的隊長 Ryan Mendes 與速度型邊鋒 Jovane Cabral。面對強大的西班牙，他們預計會擺出低區防守並伺機反擊。
+佛得角首次打入世界盃，書寫國家足球史最光輝一頁。人口僅 52.5 萬，成為史上第二小國出線（僅次於 2018 冰島）。主帥 Bubista 帶領球隊以 3-0 大勝史瓦帝尼晉級，並在小組賽頂過喀麥隆。採 4-2-3-1 陣型，後防以 Villarreal 中衛 Logan Costa 和老將 Pico（Stopira）為核心，中場靠 Kevin Pina 和 Jamiro Monteiro 護盾，進攻依靠 39 歲老將門將 Vozinha 後方的快速反擊和隊長 Ryan Mendes 的老辣經驗。整體陣容身價僅約 1,570 萬歐元，與西班牙 5.48 億相差 35 倍。
 
 ## odds_note
-賠率顯示：西班牙勝 1.12、平局 7.50、維德角勝 17.00。這是一場實力懸殊的對決。西班牙在整體實力、戰術配合與大賽經驗上都全面壓倒對手，博彩市場對西班牙取得開門紅抱持極高信心，平局與維德角爆冷勝出的機率極低。
+賠率高度失衡：西班牙勝 1.10、平局 9.00、佛得角勝 25.00。西班牙是史上最壓倒性大熱門之一，但佛得角並非毫無機會——首次世界盃登場往往能激發驚人鬥志，加上反擊戰術成熟，若西班牙輕敵或大意，仍有意外風險。
 
 ## home_squad
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Unai Simón | Athletic Bilbao | 🇪🇸 | 1 | starter,league | false | 畢爾包與國家隊一號門將，西甲主力，歐國盃奪冠功臣，以出色的門線技術與點球撲救著稱。 |
-| DEF | #2 | Dani Carvajal | Real Madrid | 🇪🇸 | 4 | starter,league | false | 皇馬與國家隊傳奇右後衛，西甲主力，世界頂尖明星球員，大賽防守堅固，具定位球前插頭球威脅。 |
-| DEF | #3 | Robin Le Normand | Atlético Madrid | 🇪🇸 | 3 | starter | false | 馬競主力中衛，西甲主力，防守凶悍，防空能力卓越，國家隊防線的防守鐵閘。 |
-| DEF | #4 | Aymeric Laporte | Al Nassr | 🇸🇦 | 3 | starter,team | false | 國家隊主力中衛，沙超主力，經驗豐富，出球能力極佳，定位球高空攻勢的核心點。 |
-| DEF | #24 | Marc Cucurella | Chelsea | 🇬🇧 | 2 | starter | false | 切爾西主力左後衛，英超主力，防守覆蓋面廣，拼搶積極，善於與左路 Williams 配合插上。 |
-| CM | #16 | Rodri | Manchester City | 🇬🇧 | 12 | starter,league | false | 曼城與西班牙中場核心，英超主力，金球獎明星球員，控球與調度大師，禁區前插遠射能力極強。 |
-| CM | #8 | Fabián Ruiz | PSG | 🇫🇷 | 10 | starter,league | false | 大巴黎核心中場，法甲主力，歐國盃最佳陣容明星，擅長持球推進與精準弧線球遠射。 |
-| CM | #20 | Pedri | Barcelona | 🇪🇸 | 8 | starter,league | false | 巴塞隆納核心，西甲主力，控傳天份極高的明星球員，擅長在中路直塞與尋求門前補射機會。 |
-| RW | #19 | Lamine Yamal | Barcelona | 🇪🇸 | 22 | starter,league | false | 巴塞超新星，西甲主力，世界頂尖巨星，擅長內切射門與致命傳中，是西班牙最犀利的進攻箭頭。 |
-| ST | #7 | Álvaro Morata | AC Milan | 🇮🇹 | 26 | starter,team | false | 隊長，意甲米蘭主力前鋒，國家隊進球核心，擅長禁區內無球跑位與高空頭球，是本場得分主力。 |
-| LW | #17 | Nico Williams | Athletic Bilbao | 🇪🇸 | 20 | starter,league | false | 畢爾包明星翼鋒，西甲主力，爆發力與1v1突破世界頂尖，左路切入禁區射門極具威脅。 |
-| FWD | 備援 | Dani Olmo | Barcelona | 🇪🇸 | 15 | league,squad | true | 巴塞隆納明星，西甲主力，進攻多面手，射門嗅覺和穿透性傳球均屬頂尖，替補出場的得分利器。 |
-| FWD | 備援 | Mikel Oyarzabal | Real Sociedad | 🇪🇸 | 14 | team,squad | true | 皇家社會隊長，西甲主力，全能攻擊手，2024歐國盃決賽絕殺功臣，具備強大門前搶點與後備衝擊力。 |
+| GK | #1 | Unai Simón | Athletic Club | 🇪🇸 | 1 | starter,team | false | 西班牙首選門將，拉利加主力，2024 歐冠出色表現，大賽穩定性高。 |
+| DEF | #2 | Pedro Porro | Tottenham | 🇬🇧 | 2 | starter,league | false | 英超熱刺主力右後衛，進攻性強，側翼推進積極，替補 Carvajal 首選。 |
+| DEF | #4 | Pau Cubarsí | Barcelona | 🇪🇸 | 8 | starter,league | false | 17 歲巴薩天才中衛，技術型後防，歐冠決賽表現出色，西班牙未來核心。 |
+| DEF | #14 | Aymeric Laporte | Athletic Club | 🇪🇸 | 5 | starter,league | false | 重返西班牙聯賽的老將中衛，世界盃及歐洲盃冠軍成員，後防穩定器。 |
+| DEF | #3 | Marc Cucurella | Chelsea | 🇬🇧 | 6 | starter,league | false | 英超切爾西主力左後衛，2024 歐洲盃冠軍獻出助攻，防守頑強。 |
+| CM | #16 | Rodri | Manchester City | 🇬🇧 | 4 | starter,league | false | 2024 年金球獎得主，當今世界最佳後腰，組織+攔截無出其右，西班牙絕對核心。 |
+| CM | #8 | Pedri | Barcelona | 🇪🇸 | 12 | starter,league | false | 巴薩技術核心，傳球視野和跑動節奏一流，中場靈魂，進球率不低。 |
+| CM | #7 | Fabian Ruiz | PSG | 🇫🇷 | 10 | starter,league | false | 巴黎聖日耳曼主力中場，2024 歐洲盃最佳進球得主，遠射威脅巨大。 |
+| RW | #19 | Dani Olmo | Barcelona | 🇪🇸 | 18 | starter,league | false | 巴薩翼鋒，Yamal 傷後候補首選，靈活多變，可假九前鋒，國家隊進球手感佳。 |
+| ST | #9 | Mikel Oyarzabal | Real Sociedad | 🇪🇸 | 16 | starter,league | false | 皇家社會中鋒，2024 歐洲盃決賽絕殺英格蘭英雄，賽前熱身已確認適合出賽。 |
+| LW | #11 | Ferran Torres | Barcelona | 🇪🇸 | 14 | starter,league | false | 巴薩左翼鋒，2022 世界盃對哥斯達黎加攻入兩球，本場 Nico Williams 因傷缺陣下的替代人選。 |
+| FWD | 備援 | Nico Williams | Athletic Club | 🇪🇸 | 9 | league,squad | true | 2024 歐洲盃最佳球員之一，極速左翼，若傷愈後備衝擊力驚人。 |
+| FWD | 備援 | Lamine Yamal | Barcelona | 🇪🇸 | 15 | league,squad | true | 18 歲世界最佳新人候選，歐洲盃驚豔全球，本場因傷恢復性出賽或替補登場。 |
 
 ## away_squad
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Vozinha | Chaves | 🇵🇹 | 1 | starter,team | false | 隊內功勳門將，效力葡甲，豐富國家隊經驗，本場將面對西班牙狂轟濫炸，面臨極大考验。 |
-| DEF | #2 | Steven Moreira | Columbus Crew | 🇺🇸 | 2 | starter | false | 美職聯主力右後衛，防守穩健，體能充沛，本場將正面迎戰西班牙左路 Williams 的爆破。 |
-| DEF | #4 | Logan Costa | Villarreal | 🇪🇸 | 4 | starter,league | false | 西甲比利亞雷亞爾主力中衛，球隊唯一五大聯賽後防主力，身材高大，是定位球進攻唯一點。 |
-| DEF | #3 | Roberto Lopes | Shamrock Rovers | 🇮🇪 | 2 | starter | false | 愛超主力中衛，對抗能力強，經驗豐富，主要負責禁區內對 Morata 的貼身防守。 |
-| DEF | #5 | João Paulo Fernandes | FCSB | 🇷🇴 | 2 | starter | false | 羅馬尼亞聯賽主力左後衛，跑動積極且防守強硬，本場將面對 Yamal 內切的嚴峻防守考驗。 |
-| CM | #6 | Kevin Pina | Krasnodar | 🇷🇺 | 4 | starter | false | 俄超主力防守中場，中場攔截核心，本場主要任務是阻斷 Rodri 與 Pedri 的中路滲透。 |
-| CM | #10 | Jamiro Monteiro | PEC Zwolle | 🇳🇱 | 6 | starter,team | false | 荷甲主力中場，球隊中場大腦與組織者，腳法細膩，負責反擊第一時間的球權輸送。 |
-| CM | #8 | Deroy Duarte | Ludogorets | 🇧🇬 | 5 | starter | false | 保加利亞聯賽主力中場，覆蓋面積大，提供中場第二點的掃蕩與防守保護。 |
-| RW | #20 | Ryan Mendes | Iğdır FK | 🇹🇷 | 10 | starter,team | false | 隊長兼歷史神射手，效力土耳其聯賽，隊內傳奇，反擊速度快，是定位球和進球的主要威脅。 |
-| ST | #9 | Dailon Livramento | Casa Pia | 🇵🇹 | 8 | starter | false | 葡超主力前鋒，速度與對抗性兼備的靶型前鋒，是前場長傳反擊的主要接應點。 |
-| LW | #7 | Jovane Cabral | Estrela Amadora | 🇵🇹 | 8 | starter,team | false | 葡超主力邊鋒，具備前葡萄牙體育背景，具強烈個人盤帶與外圍遠射能力，反擊核心。 |
-| FWD | 備援 | Garry Rodrigues | Apollon Limassol | 🇨🇾 | 6 | squad | true | 塞浦路斯聯賽主力，國家隊資深攻擊手，替補登場後可提供極佳的反擊突破速度。 |
-| FWD | 備援 | Willy Semedo | Omonia Nicosia | 🇨🇾 | 5 | squad | true | 塞浦路斯聯賽主力，身體素質強壯的邊路球員，替補出場提供體能與衝擊力。 |
+| GK | #1 | Vozinha | GD Chaves | 🇵🇹 | 1 | starter,team | false | 39 歲老將門將，佛得角最具代表性的球員之一，職業生涯大部分在葡萄牙踢球，大賽心理素質佳。 |
+| DEF | #13 | João Paulo | FCSB | 🇷🇴 | 2 | starter,team | false | 羅馬尼亞甲組聯賽右後衛，攻守均衡，擅長協助中場組織。 |
+| DEF | #5 | Logan Costa | Villarreal | 🇪🇸 | 6 | starter,league | false | 西甲 Villarreal 主力中衛，25 歲，佛得角陣中唯一出自五大聯賽的球員，後防核心。 |
+| DEF | #4 | Roberto Lopes "Pico" | Shamrock Rovers | 🇮🇪 | 4 | starter,team | false | 愛爾蘭甲組主力中衛，老將，2024 年非洲盃四強功臣，經驗豐富。 |
+| DEF | #3 | Steven Moreira | Columbus Crew | 🇺🇸 | 3 | starter,team | false | MLS 哥倫布機組左後衛，攻守平衡，在主場城市附近出賽，動力十足。 |
+| CM | #8 | Kevin Pina | Krasnodar | 🇷🇺 | 5 | starter,team | false | 俄超後腰，覆蓋面廣，是中場防守屏障，保護後防關鍵。 |
+| CM | #17 | Yannick Semedo | Farense | 🇵🇹 | 5 | starter,team | false | 葡甲主力中場，節奏控制能力不錯，搭配 Kevin Pina 雙後腰。 |
+| RW | #11 | Jovane Cabral | Estrela Amadora | 🇵🇹 | 8 | starter,team | false | 葡甲翼鋒，速度快，1v1 能力強，是佛得角最具攻擊性的球員之一，可撕裂防線。 |
+| AM | #10 | Jamiro Monteiro | PEC Zwolle | 🇳🇱 | 7 | starter,team | false | 荷甲中場組織者，創造力強，是佛得角進攻靈魂，傳球視野出色。 |
+| LW | #7 | Ryan Mendes | Iğdır FK | 🇹🇷 | 12 | starter,team | false | 隊長，佛得角歷史射手王（22 球/94 帽），35 歲老辣經驗，本屆世界盃首秀的情感核心。 |
+| ST | #9 | Dailon Livramento | Casa Pia | 🇵🇹 | 11 | starter,team | false | 葡甲前鋒，資格賽進球貢獻最大，速度快，擅長把握反擊機會，是佛得角的最大進球希望。 |
+| FWD | 備援 | Garry Rodrigues | Apollon Limassol | 🇨🇾 | 6 | squad | true | 塞浦路斯甲組翼鋒，替補攻擊選項，速度型。 |
 
 ## score_predictions
 | score | result | prob | color | badge |
 |-------|--------|------|-------|-------|
-| 3-0 🇪🇸 | 西班牙勝 | 20 | #E03A3E | 最高機率 |
-| 2-0 🇪🇸 | 西班牙勝 | 22 | #E03A3E | 次高 |
-| 4-0 🇪🇸 | 西班牙勝 | 12 | #E03A3E | |
-| 1-0 🇪🇸 | 西班牙勝 | 12 | #E03A3E | |
-| 2-1 🇪🇸 | 西班牙勝 | 10 | #E03A3E | |
-| 3-1 🇪🇸 | 西班牙勝 | 8 | #E03A3E | |
-| 1-1 | 平局 | 6 | #6b7280 | |
-| 其他 | — | 10 | #94a3b8 | |
+| 3-0 🇪🇸 | 西班牙勝 | 22 | #EF4444 | 最高機率 |
+| 2-0 🇪🇸 | 西班牙勝 | 18 | #EF4444 | 次高 |
+| 4-0 🇪🇸 | 西班牙勝 | 13 | #EF4444 | |
+| 2-1 🇪🇸 | 西班牙勝 | 11 | #EF4444 | |
+| 3-1 🇪🇸 | 西班牙勝 | 9 | #EF4444 | |
+| 1-0 🇪🇸 | 西班牙勝 | 8 | #EF4444 | |
+| 4-1 🇪🇸 | 西班牙勝 | 5 | #EF4444 | |
+| 0-1 🇨🇻 | 佛得角勝 | 3 | #3B82F6 | 爆冷 |
+| 1-1 | 平局 | 4 | #6b7280 | |
+| 其他 | — | 7 | #94a3b8 | |
 
 ## event_preds
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 8–12 | 預測角球數 | 西班牙將主導控球並透過 Yamal 與 Williams 的邊路突破施壓，綠角群島防線收縮，預期將產生大量被阻擋的傳中，從而帶來較多角角球。 |
-| 🟡 | 4–6 | 預測黃牌數 | 主裁 Roldán 執法風格以嚴厲著稱，場均出牌超過 5 張。面對西班牙控球，綠角群島球員可能被迫採取戰術犯規防守，容易積累黃牌。 |
-| 🟥 | 0–1 | 預測紅牌數 | Roldán 歷來出卡毫不手軟，生涯紅牌率高達 33% 左右。若下半場對抗升溫，出現粗野攔截，極有機會掏出紅牌。 |
-| ⚠️ | 24–28 | 裁判犯規數/場 | 綠角群島將在中後場進行激烈拼搶以阻斷西班牙傳控，主裁吹罰尺度嚴格，預期犯規次數偏高。 |
+| ⛳ | 10–14 | 預測角球數 | 西班牙壓迫性進攻製造大量角球，邊翼突破頻繁，角球數量預計偏高。佛得角防守收縮讓出空間，更多角球機會。 |
+| 🟡 | 2–4 | 預測黃牌數 | Makhadmeh 場均 3.17 黃牌，出牌尺度中等偏嚴。佛得角防守反擊戰術下可能有犯規積累。 |
+| 🟥 | 0–1 | 預測紅牌數 | 紅牌機率較低，但佛得角後衛面對速度型攻擊者若犯規可能有警告甚至紅牌風險。 |
+| ⚠️ | 18–22 | 裁判犯規數/場 | Makhadmeh 歷史均牌約 3.17/場，偏向中等管理，雙方力量差異大時犯規數量不會過高。 |
 
 ## referee
 - icon: ⚖️
-- name: Wilmar Roldán
-- country: 🇨🇴 哥倫比亞 · CONMEBOL · FIFA
-- note: 南美洲最著名的「卡牌大師」之一，曾兩度執法世界盃（2014, 2018）以及多次美洲盃、解放者盃決賽。執法風格極其威嚴、不容侵犯，出牌果斷，生涯紅黃牌數量驚人。
+- name: Adham Makhadmeh
+- country: 🇯🇴 約旦 · AFC · FIFA 國際
+- note: 約旦籍國際裁判，FIFA 名冊自 2013 年起，執法涵蓋 AFC 亞冠聯賽、亞洲世界盃資格賽。生涯場均 3.17 黃牌，出牌尺度中等，紅牌率偏低（生涯 64 場 12 紅牌，約 19%）。首次執法世界盃正賽，被認為是 AFC 區域代表性裁判選派。
 
 | stat | value | color |
 |------|-------|-------|
-| 執法場次 | 460+ | #F1F5F9 |
-| 黃牌總數 | 2300+ | #EAB308 |
-| 黃紅牌 | 88 | orange |
-| 紅牌總數 | 150+ | #EF4444 |
-| 均牌/場 | 5.1 | #60a5fa |
-| 均犯規/場 | ~26 | #60a5fa |
+| 執法場次 | 64+ | #F1F5F9 |
+| 黃牌總數 | 203+ | #EAB308 |
+| 紅牌總數 | 12 | #EF4444 |
+| 均牌/場 | 3.17 | #60a5fa |
+| 紅牌率 | ~19% | #f97316 |
+| 聯賽經歷 | AFC/中超 | #60a5fa |
 
 ## h2h
-- title: 歷史交鋒紀錄（首次交鋒，無歷史紀錄）
+- title: 歷史交鋒紀錄（首次正式比賽）
 - homeWins: 0
 - draws: 0
 - awayWins: 0
-- note: 西班牙與維德角從未在正式比賽中交手。這場比賽將是雙方的歷史性首戰。西班牙將尋求以一場大勝奠定小組出線基礎，而維德角則期盼能依靠防守鐵壁與反擊創造奇蹟。
+- note: 兩隊從未在正式賽事交手過。西班牙賽前熱身大勝秘魯，Oyarzabal 進球確認適合；佛得角備戰友誼賽以 0-1 負於塞爾維亞，防守韌性仍有展現。
 
 ## battles
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Lamine Yamal | 🇪🇸 RW | João Paulo Fernandes | 🇨🇻 LB | 世界級超新星的內切盤帶 vs 維德角左後衛的死纏爛打，西班牙右路的進攻火花將是關鍵。 |
-| Nico Williams | 🇪🇸 LW | Steven Moreira | 🇨🇻 RB | 西班牙爆速左翼 vs 美職聯老手右後衛，Nico Williams 的邊路強行突破是西班牙扯開對手防線的利器。 |
-| Rodri | 🇪🇸 DM | Jamiro Monteiro | 🇨🇻 CM | 金球中場大腦對陣維德角反擊核心，Rodri 能否成功防守搶斷並轉守為攻是控制全局的關鍵。 |
-| Álvaro Morata | 🇪🇸 ST | Logan Costa | 🇨🇻 CB | 西班牙主力射手的門前跑位 vs 西甲比利亞雷亞爾主力中衛，高空球與禁區對抗是防守亮點。 |
+| Dani Olmo | 🇪🇸 RW | Steven Moreira | 🇨🇻 LB | 巴薩靈活翼鋒 vs MLS 左後衛，西班牙右路是最大突破口，Olmo 的跑動和假九使用讓 Moreira 難以應對。 |
+| Pedri | 🇪🇸 CM | Kevin Pina | 🇨🇻 DM | 巴薩技術核心 vs 俄超後腰，中場控制之爭，若 Pina 被 Pedri 突破，佛得角後防門洞大開。 |
+| Ferran Torres | 🇪🇸 LW | João Paulo | 🇨🇻 RB | 巴薩快速左翼 vs FCSB 右後衛，速度差異顯著，Torres 的斜插和傳中是佛得角右路最大考驗。 |
+| Dailon Livramento | 🇨🇻 ST | Pau Cubarsí | 🇪🇸 CB | 佛得角資格賽最佳射手 vs 巴薩17歲天才中衛，Livramento 的快速反擊能否打穿 Cubarsí 是佛得角唯一進球希望。 |
 
 ## summary_verdict
-西班牙整體實力無庸置疑，處於全盛期的他們將利用強悍的左右雙翼 Yamal 與 Williams 徹底撕裂維德角的防線，加上中場 Rodri、Fabián 與 Pedri 的完美傳控與後插上射門，預期將掌控 70% 以上的控球率。
+西班牙是本屆世界盃最強陣容之一，2024 歐洲盃衛冕冠軍，FIFA 排名第 2，市值約 5.48 億歐元的豪華陣容對上僅值 1,570 萬的佛得角，是本組最懸殊的對陣。即使 Lamine Yamal 和 Nico Williams 因傷不在首發，以 Rodri（金球獎得主）+ Pedri + Fabian Ruiz 的三中場仍遠超對手。
 
-維德角唯一的策略是深度退防（Low Block），將所有球員收縮在禁區前，並依仗 Logan Costa 的制空權與門將 Vozinha 的神勇發揮限制失球，再透過 Cabral 與 Mendes 的速度打快速反擊。然而，面對西班牙極高強度的壓迫與防線梳理，維德角很難維持整場的防守專注度。
+佛得角的歷史奇蹟固然值得尊重——人口 52.5 萬的小島國首度登上世界最大舞台，資格賽頂過喀麥隆的表現令人印象深刻。然而，實力差距如此之大，他們最現實的目標是守住開局、爭取令人尊敬的比分，同時留下後兩場（沙特/烏拉圭）的出線希望。
 
-預測：西班牙以 3-0 輕鬆勝出，Lamine Yamal 與 Nico Williams 將在邊路大放異彩，Morata 或替補登場的 Olmo 將取得入球，為小組賽首戰順利拿下三分。
+預測：西班牙 3-0 勝。西班牙控球壓制、佛得角疲於防守，中後段體能下滑後必然失球。佛得角縱使發揮最佳水準，也難阻西班牙的多路進攻。
 
 ## observations
 | title | detail |
 |-------|--------|
-| 🇪🇸 歐國盃冠軍起手式 | 西班牙作為衛冕歐國盃盟主，此役首秀將極力避免爆冷，全力展現強大進攻火力，取得淨勝球優勢。 |
-| 🇨🇻 維德角歷史時刻 | 隊史首次晉身世界盃決賽週，隊員無不充滿拼勁， Logan Costa 是限制西班牙邊路內切的關鍵防線人物。 |
-| 🪄 雙翼齊飛 Lamine + Nico | 西班牙的 Yamal 與 Williams 堪稱當今世界足壇最恐怖邊路組合，他們的突破將決定能否儘早取得進球。 |
-| ⚖️ 裁判 Wilmar Roldán 的紅黃牌威脅 | Roldán 吹罰風格極嚴，面對西班牙高速盤帶，維德角戰術犯規極多，極易觸發 Roldán 的「發卡模式」甚至紅牌。 |
-| 🏆 H組出線格局 | 同組還有烏拉圭與沙烏地阿拉伯，本仗勝負和淨勝球對小組頭名爭奪至關重要，西班牙不能放鬆。 |
+| 👑 西班牙控球天下 | 預計持球率超過 70%，Rodri 和 Pedri 的中場控制讓佛得角幾乎不可能主動進攻。 |
+| 🦈 佛得角歷史首秀 | 人口 52.5 萬的小島國首次參加世界盃，比 2018 冰島更小，僅取得積分已是巨大成就。 |
+| ⚠️ Yamal/Williams 傷情 | 兩名主力翼鋒狀態存疑，若均不首發，Olmo+Torres 的替代組合仍然強大但略缺決定性。 |
+| 🎯 Livramento 反擊機會 | 佛得角唯一機會在於快速反擊，Livramento 的速度若把握住一個機會，比賽可能變得更加有趣。 |
+| 🏆 H 組格局 | 西班牙大勝可建立可觀積分差，進球數對日後積分排名至關重要，預計不會輕易收手。 |
+| 🌍 小組奇蹟可能 | 若佛得角能取得一分（平局），將是世界盃史上最大冷門之一，媒體效應不可估量。 |

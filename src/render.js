@@ -1,4 +1,4 @@
-import { getTeams, getState, getDates, getSchedule, getCurrentMatch, setState } from './store.js';
+import { getTeams, getState, getDates, getSchedule, getCurrentMatch, getMatchVariants, setState } from './store.js';
 
 // ─── tag styles ────────────────────────────────────────────────────
 const TAG_STYLES = {
@@ -73,6 +73,7 @@ export function renderNav() {
 // ─── Hero ───────────────────────────────────────────────────────────
 export function renderHero() {
   const m = getCurrentMatch();
+  const st = getState();
   const TEAMS = getTeams();
   const h = TEAMS[m.homeCode], a = TEAMS[m.awayCode];
   const sp = m.scorePredictions || [];
@@ -87,6 +88,16 @@ export function renderHero() {
   const winH = Math.round(pH / tot * 100);
   const winA = Math.round(pA / tot * 100);
   const winD = Math.max(0, 100 - winH - winA);
+
+  const variants = getMatchVariants(m.id);
+  const modelHtml = variants.length > 1
+    ? `<div class="model-switcher">
+        ${variants.map((v, i) => `
+          <button class="model-btn${st.modelIndex === i ? ' active' : ''}" data-model="${i}">
+            🤖 ${v.aiModel || 'Model ' + (i + 1)}
+          </button>`).join('')}
+       </div>`
+    : (m.aiModel ? `<div class="hero-ai-badge"><span class="ai-icon">🤖</span> AI 分析 · <span class="ai-model-name">${m.aiModel}</span></div>` : '');
 
   return `
     <div class="hero-badge">FIFA WORLD CUP 2026 · GROUP ${m.group} · ${m.matchday}</div>
@@ -104,7 +115,7 @@ export function renderHero() {
       </div>
     </div>
     <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${m.dateKey} · ${m.time} MYT</span> &nbsp;|&nbsp; 裁判: ${m.referee}</div>
-    ${m.aiModel ? `<div class="hero-ai-badge"><span class="ai-icon">🤖</span> AI 分析 · <span class="ai-model-name">${m.aiModel}</span></div>` : ''}
+    ${modelHtml}
     <div class="hero-stats">
       <div class="hero-stat-cell">
         <div class="stat-label">預測比分</div>

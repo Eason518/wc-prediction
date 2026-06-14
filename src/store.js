@@ -2,7 +2,8 @@ import { parseMatchMD } from './parser.js';
 
 let TEAMS = {};
 let schedule = [];
-let state = { dateKey: '', matchId: '', tab: 'summary' };
+let matchVariantsMap = {};
+let state = { dateKey: '', matchId: '', modelIndex: 0, tab: 'summary' };
 let listeners = [];
 
 export async function loadData() {
@@ -21,16 +22,32 @@ export async function loadData() {
         .then(text => parseMatchMD(text))
     )
   );
-  schedule = mds;
 
-  // Default to first match
+  // Group variants by match ID (preserving insertion order)
+  matchVariantsMap = {};
+  for (const md of mds) {
+    if (!matchVariantsMap[md.id]) matchVariantsMap[md.id] = [];
+    matchVariantsMap[md.id].push(md);
+  }
+
+  // schedule = one entry per unique match ID (for nav)
+  const seen = new Set();
+  schedule = [];
+  for (const md of mds) {
+    if (!seen.has(md.id)) {
+      seen.add(md.id);
+      schedule.push(md);
+    }
+  }
+
   const first = schedule[0];
-  state = { dateKey: first.dateKey, matchId: first.id, tab: 'summary' };
+  state = { dateKey: first.dateKey, matchId: first.id, modelIndex: 0, tab: 'summary' };
 }
 
 export function getTeams() { return TEAMS; }
 export function getSchedule() { return schedule; }
 export function getState() { return state; }
+export function getMatchVariants(id) { return matchVariantsMap[id] || []; }
 
 export function setState(patch) {
   state = { ...state, ...patch };
@@ -63,5 +80,7 @@ export function getDates() {
 }
 
 export function getCurrentMatch() {
-  return schedule.find(m => m.id === state.matchId) || schedule[0];
+  const variants = matchVariantsMap[state.matchId];
+  if (variants && variants.length > 0) return variants[state.modelIndex] || variants[0];
+  return schedule[0];
 }

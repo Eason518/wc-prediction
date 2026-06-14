@@ -6,7 +6,7 @@ group: F
 matchday: GROUP STAGE
 venue: Estadio BBVA, Monterrey, Mexico
 venueShort: BBVA, MTY
-status: upcoming
+status: completed
 homeCode: SWE
 awayCode: TUN
 referee: Yael Falcón Pérez (ARG)

@@ -6,7 +6,7 @@ group: E
 matchday: GROUP STAGE
 venue: Lincoln Financial Field, Philadelphia
 venueShort: Philadelphia, USA
-status: upcoming
+status: completed
 homeCode: CIV
 awayCode: ECU
 referee: François Letexier (FRA)

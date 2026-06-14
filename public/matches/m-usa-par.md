@@ -6,7 +6,7 @@ group: D
 matchday: GROUP STAGE
 venue: SoFi Stadium, Los Angeles
 venueShort: Los Angeles, USA
-status: upcoming
+status: completed
 homeCode: USA
 awayCode: PAR
 referee: Danny Makkelie (NED)

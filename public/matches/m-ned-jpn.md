@@ -6,7 +6,7 @@ group: F
 matchday: GROUP STAGE
 venue: AT&T Stadium, Dallas (Arlington), Texas
 venueShort: AT&T Stadium, DAL
-status: upcoming
+status: completed
 homeCode: NED
 awayCode: JPN
 referee: Ismail Elfath (USA)

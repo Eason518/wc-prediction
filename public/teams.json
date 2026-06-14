@@ -28,5 +28,9 @@
   "BIH": { "code": "BIH", "zh": "波赫", "en": "BOSNIA & HERZEGOVINA", "flag": "🇧🇦", "color": "#0072CE", "rank": "歐洲代表", "barColor": "linear-gradient(90deg,#0072CE,#FFCD00)" },
   "PAR": { "code": "PAR", "zh": "巴拉圭", "en": "PARAGUAY", "flag": "🇵🇾", "color": "#D52B1E", "rank": "南美代表", "barColor": "linear-gradient(90deg,#D52B1E,#FFFFFF)" },
   "BEL": { "code": "BEL", "zh": "比利時", "en": "BELGIUM", "flag": "🇧🇪", "color": "#EF4444", "rank": "歐洲強隊", "barColor": "linear-gradient(90deg,#1F1F1F,#F59E0B)" },
-  "EGY": { "code": "EGY", "zh": "埃及", "en": "EGYPT", "flag": "🇪🇬", "color": "#C41E3A", "rank": "非洲代表", "barColor": "linear-gradient(90deg,#C41E3A,#FFFFFF)" }
+  "EGY": { "code": "EGY", "zh": "埃及", "en": "EGYPT", "flag": "🇪🇬", "color": "#C41E3A", "rank": "非洲代表", "barColor": "linear-gradient(90deg,#C41E3A,#FFFFFF)" },
+  "IRN": { "code": "IRN", "zh": "伊朗", "en": "IRAN", "flag": "🇮🇷", "color": "#239F40", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#239F40,#FFFFFF)" },
+  "NZL": { "code": "NZL", "zh": "紐西蘭", "en": "NEW ZEALAND", "flag": "🇳🇿", "color": "#00247D", "rank": "大洋洲代表", "barColor": "linear-gradient(90deg,#00247D,#CC0000)" },
+  "KSA": { "code": "KSA", "zh": "沙烏地阿拉伯", "en": "SAUDI ARABIA", "flag": "🇸🇦", "color": "#006C35", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#006C35,#FFFFFF)" },
+  "URU": { "code": "URU", "zh": "烏拉圭", "en": "URUGUAY", "flag": "🇺🇾", "color": "#5DADE2", "rank": "南美強隊", "barColor": "linear-gradient(90deg,#5DADE2,#FFFFFF)" }
 }

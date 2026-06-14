@@ -88,5 +88,17 @@
     "date": "2026-06-16",
     "file": "m-bel-egy-2.md",
     "model": "GPT-5.5"
+  },
+  {
+    "id": "m-ksa-uru",
+    "date": "2026-06-16",
+    "file": "m-ksa-uru.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-iri-nzl",
+    "date": "2026-06-16",
+    "file": "m-iri-nzl.md",
+    "model": "Claude Sonnet 4.6"
   }
 ]

@@ -1,14 +1,20 @@
 [
   {
-    "id": "m-qat-sui",
+    "id": "m-can-bih",
     "date": "2026-06-13",
-    "file": "m-qat-sui.md",
+    "file": "m-can-bih.md",
     "model": "Claude Sonnet 4.6"
   },
   {
-    "id": "m-aus-tur",
+    "id": "m-usa-par",
+    "date": "2026-06-13",
+    "file": "m-usa-par.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-qat-sui",
     "date": "2026-06-14",
-    "file": "m-aus-tur.md",
+    "file": "m-qat-sui.md",
     "model": "Claude Sonnet 4.6"
   },
   {
@@ -21,6 +27,12 @@
     "id": "m-hai-sco",
     "date": "2026-06-14",
     "file": "m-hai-sco.md",
+    "model": "Claude Sonnet 4.6"
+  },
+  {
+    "id": "m-aus-tur",
+    "date": "2026-06-14",
+    "file": "m-aus-tur.md",
     "model": "Claude Sonnet 4.6"
   },
   {

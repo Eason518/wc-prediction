@@ -1,7 +1,7 @@
 ---
 id: m-qat-sui
-date: 2026-06-13
-time: "20:00"
+date: 2026-06-14
+time: "03:00"
 group: B
 matchday: GROUP STAGE
 venue: Levi's Stadium, Santa Clara

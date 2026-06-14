@@ -24,5 +24,7 @@
   "QAT": { "code": "QAT", "zh": "卡達", "en": "QATAR", "flag": "🇶🇦", "color": "#8B1538", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#8B1538,#FFFFFF)" },
   "SUI": { "code": "SUI", "zh": "瑞士", "en": "SWITZERLAND", "flag": "🇨🇭", "color": "#EF4444", "rank": "歐洲勁旅", "barColor": "linear-gradient(90deg,#EF4444,#FFFFFF)" },
   "HAI": { "code": "HAI", "zh": "海地", "en": "HAITI", "flag": "🇭🇹", "color": "#003F87", "rank": "北中美黑馬", "barColor": "linear-gradient(90deg,#003F87,#D21034)" },
-  "SCO": { "code": "SCO", "zh": "蘇格蘭", "en": "SCOTLAND", "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "color": "#003DA5", "rank": "歐洲勁旅", "barColor": "linear-gradient(90deg,#003DA5,#FFFFFF)" }
+  "SCO": { "code": "SCO", "zh": "蘇格蘭", "en": "SCOTLAND", "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿", "color": "#003DA5", "rank": "歐洲勁旅", "barColor": "linear-gradient(90deg,#003DA5,#FFFFFF)" },
+  "BIH": { "code": "BIH", "zh": "波赫", "en": "BOSNIA & HERZEGOVINA", "flag": "🇧🇦", "color": "#0072CE", "rank": "歐洲代表", "barColor": "linear-gradient(90deg,#0072CE,#FFCD00)" },
+  "PAR": { "code": "PAR", "zh": "巴拉圭", "en": "PARAGUAY", "flag": "🇵🇾", "color": "#D52B1E", "rank": "南美代表", "barColor": "linear-gradient(90deg,#D52B1E,#FFFFFF)" }
 }

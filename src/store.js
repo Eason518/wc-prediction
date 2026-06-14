@@ -40,8 +40,25 @@ export async function loadData() {
     }
   }
 
-  const first = schedule[0];
-  state = { dateKey: first.dateKey, matchId: first.id, modelIndex: 0, tab: 'summary' };
+  const now = new Date();
+  const nowMs = now.getTime();
+  const MATCH_WINDOW_MS = 105 * 60 * 1000; // 90 min + 15 min buffer
+
+  // Match times are in MYT (UTC+8); parse with explicit offset
+  const startMs = m => new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
+
+  const ongoingMatch = schedule.find(m => nowMs >= startMs(m) && nowMs < startMs(m) + MATCH_WINDOW_MS);
+
+  let defaultMatch;
+  if (ongoingMatch) {
+    defaultMatch = ongoingMatch;
+  } else {
+    const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+    const nextMatch = schedule.find(m => startMs(m) > nowMs);
+    defaultMatch = schedule.find(m => m.dateKey === todayKey) || nextMatch || schedule[0];
+  }
+
+  state = { dateKey: defaultMatch.dateKey, matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };
 }
 
 export function getTeams() { return TEAMS; }

@@ -6,16 +6,17 @@ let state = { dateKey: '', matchId: '', tab: 'home' };
 let listeners = [];
 
 export async function loadData() {
+  const base = import.meta.env.BASE_URL;
   const [teamsRes, indexRes] = await Promise.all([
-    fetch('/teams.json'),
-    fetch('/matches/index.json'),
+    fetch(`${base}teams.json`),
+    fetch(`${base}matches/index.json`),
   ]);
   TEAMS = await teamsRes.json();
   const index = await indexRes.json();
 
   const mds = await Promise.all(
     index.map(entry =>
-      fetch(`/matches/${entry.file}`)
+      fetch(`${base}matches/${entry.file}`)
         .then(r => r.text())
         .then(text => parseMatchMD(text))
     )

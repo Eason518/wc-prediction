@@ -14,5 +14,10 @@
   "USA": { "code": "USA", "zh": "美國", "en": "USA", "flag": "🇺🇸", "color": "#4C5FAF", "rank": "地主隊", "barColor": "linear-gradient(90deg,#4C5FAF,#F59E0B)" },
   "MEX": { "code": "MEX", "zh": "墨西哥", "en": "MEXICO", "flag": "🇲🇽", "color": "#1B7A3D", "rank": "地主隊", "barColor": "linear-gradient(90deg,#1B7A3D,#F59E0B)" },
   "GER": { "code": "GER", "zh": "德國", "en": "GERMANY", "flag": "🇩🇪", "color": "#185FA5", "rank": "奪冠熱門", "barColor": "linear-gradient(90deg,#185FA5,#FFFFFF)" },
-  "CUW": { "code": "CUW", "zh": "庫拉索", "en": "CURAÇAO", "flag": "🇨🇼", "color": "#0F6E56", "rank": "首次參賽", "barColor": "linear-gradient(90deg,#0F6E56,#F59E0B)" }
+  "CUW": { "code": "CUW", "zh": "庫拉索", "en": "CURAÇAO", "flag": "🇨🇼", "color": "#0F6E56", "rank": "首次參賽", "barColor": "linear-gradient(90deg,#0F6E56,#F59E0B)" },
+  "CIV": { "code": "CIV", "zh": "象牙海岸", "en": "CÔTE D'IVOIRE", "flag": "🇨🇮", "color": "#F97316", "rank": "非洲冠軍", "barColor": "linear-gradient(90deg,#F97316,#1A7A3D)" },
+  "ECU": { "code": "ECU", "zh": "厄瓜多", "en": "ECUADOR", "flag": "🇪🇨", "color": "#FACC15", "rank": "南美勁旅", "barColor": "linear-gradient(90deg,#FACC15,#1B4FB6)" },
+  "NED": { "code": "NED", "zh": "荷蘭", "en": "NETHERLANDS", "flag": "🇳🇱", "color": "#FF6B00", "rank": "奪冠熱門", "barColor": "linear-gradient(90deg,#FF6B00,#FFFFFF)" },
+  "SWE": { "code": "SWE", "zh": "瑞典", "en": "SWEDEN", "flag": "🇸🇪", "color": "#3B82F6", "rank": "北歐強隊", "barColor": "linear-gradient(90deg,#3B82F6,#FACC15)" },
+  "TUN": { "code": "TUN", "zh": "突尼西亞", "en": "TUNISIA", "flag": "🇹🇳", "color": "#EF4444", "rank": "非洲黑馬", "barColor": "linear-gradient(90deg,#EF4444,#FFFFFF)" }
 }

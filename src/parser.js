@@ -21,6 +21,7 @@ export function parseMatchMD(text) {
     awayCoach: fm.awayCoach,
     odds: { home: fm.oddsHome, draw: fm.oddsDraw, away: fm.oddsAway },
     predScore: { home: Number(fm.predScoreHome), away: Number(fm.predScoreAway) },
+    aiModel: fm.aiModel || null,
     homeNote: sections.home_note || '',
     awayNote: sections.away_note || '',
     oddsNote: sections.odds_note || '',

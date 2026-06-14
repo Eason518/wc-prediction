@@ -19,6 +19,7 @@ oddsDraw: "7.50"
 oddsAway: "17.00"
 predScoreHome: 3
 predScoreAway: 0
+aiModel: Gemini 3.5 Flash
 ---
 
 ## home_note

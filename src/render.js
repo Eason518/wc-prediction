@@ -104,6 +104,7 @@ export function renderHero() {
       </div>
     </div>
     <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${m.dateKey} · ${m.time} MYT</span> &nbsp;|&nbsp; 裁判: ${m.referee}</div>
+    ${m.aiModel ? `<div class="hero-ai-badge"><span class="ai-icon">🤖</span> AI 分析 · <span class="ai-model-name">${m.aiModel}</span></div>` : ''}
     <div class="hero-stats">
       <div class="hero-stat-cell">
         <div class="stat-label">預測比分</div>
@@ -393,5 +394,13 @@ export function renderSummary() {
 
     <div class="section-title" style="margin-top:20px"><span class="section-dot"></span>關鍵觀察</div>
     ${observations}
+
+    ${m.aiModel ? `<div class="ai-disclaimer">
+      <span class="ai-disclaimer-icon">🤖</span>
+      <div class="ai-disclaimer-text">
+        <span class="ai-disclaimer-title">AI 分析聲明</span>
+        本頁所有賽事分析、球員評分、比分預測及裁判數據，均由 <strong>${m.aiModel}</strong> 根據公開資訊生成，僅供參考，不構成任何投注建議。預測結果可能與實際賽況存在差異。
+      </div>
+    </div>` : ''}
   `;
 }

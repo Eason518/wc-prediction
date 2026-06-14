@@ -170,6 +170,49 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   max-width: 780px;
   margin: 0 auto;
 }
+.hero-ai-badge {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin: 7px auto 0;
+  max-width: 780px;
+  font-size: 10px;
+  letter-spacing: 0.8px;
+  color: #c4b5fd;
+  background: rgba(139, 92, 246, 0.1);
+  border: 1px solid rgba(139, 92, 246, 0.3);
+  border-radius: 999px;
+  padding: 4px 14px;
+  width: fit-content;
+  font-weight: 500;
+}
+.ai-icon { font-size: 12px; }
+.ai-model-name { color: #a78bfa; font-weight: 700; }
+
+/* ── AI Disclaimer ── */
+.ai-disclaimer {
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+  margin-top: 28px;
+  background: rgba(139, 92, 246, 0.06);
+  border: 1px solid rgba(139, 92, 246, 0.2);
+  border-left: 3px solid #7c3aed;
+  border-radius: 0 10px 10px 0;
+  padding: 14px 18px;
+}
+.ai-disclaimer-icon { font-size: 22px; flex-shrink: 0; line-height: 1.4; }
+.ai-disclaimer-text { font-size: 11px; color: var(--muted); line-height: 1.7; }
+.ai-disclaimer-title {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  color: #a78bfa;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
 
 .hero-stats {
   display: flex;

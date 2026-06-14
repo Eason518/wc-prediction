@@ -19,6 +19,7 @@ oddsDraw: "2.80"
 oddsAway: "2.35"
 predScoreHome: 1
 predScoreAway: 1
+aiModel: Claude Sonnet 4.6
 ---
 
 ## home_note

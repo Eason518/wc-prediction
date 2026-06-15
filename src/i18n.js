@@ -70,11 +70,14 @@ const locales = {
     'date.dows': ['週日', '週一', '週二', '週三', '週四', '週五', '週六'],
     'date.mons': ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
 
+    'placeholder.tbd': '待定',
+    'placeholder.desc': '對陣隊伍待小組賽結束後公布，分析資料即將上線。',
+
     'stage.group-stage': '小組賽',
     'stage.round-32': '32強',
     'stage.round-16': '16強',
-    'stage.quarter-final': '八強',
-    'stage.semi-final': '四強',
+    'stage.quarter-final': '8強',
+    'stage.semi-final': '4強',
     'stage.third-place': '季軍賽',
     'stage.final': '決賽',
   },
@@ -138,6 +141,9 @@ const locales = {
 
     'date.dows': ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
     'date.mons': ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
+
+    'placeholder.tbd': 'TBD',
+    'placeholder.desc': 'Teams will be confirmed after the group stage. Analysis coming soon.',
 
     'stage.group-stage': 'Group Stage',
     'stage.round-32': 'Round of 32',
@@ -208,11 +214,14 @@ const locales = {
     'date.dows': ['周日', '周一', '周二', '周三', '周四', '周五', '周六'],
     'date.mons': ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
 
+    'placeholder.tbd': '待定',
+    'placeholder.desc': '对阵队伍将在小组赛结束后公布，分析资料即将上线。',
+
     'stage.group-stage': '小组赛',
     'stage.round-32': '32强',
     'stage.round-16': '16强',
-    'stage.quarter-final': '八强',
-    'stage.semi-final': '四强',
+    'stage.quarter-final': '8强',
+    'stage.semi-final': '4强',
     'stage.third-place': '季军赛',
     'stage.final': '决赛',
   },
@@ -276,6 +285,9 @@ const locales = {
 
     'date.dows': ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'],
     'date.mons': ['Th1', 'Th2', 'Th3', 'Th4', 'Th5', 'Th6', 'Th7', 'Th8', 'Th9', 'Th10', 'Th11', 'Th12'],
+
+    'placeholder.tbd': 'Chờ xác nhận',
+    'placeholder.desc': 'Các đội thi đấu sẽ được xác nhận sau vòng bảng. Phân tích sắp có.',
 
     'stage.group-stage': 'Vòng Bảng',
     'stage.round-32': 'Vòng 32',

@@ -16,6 +16,44 @@ async function fetchMatchFile(base, filename) {
 }
 
 async function loadVariants(entry, lang) {
+  if (!entry.files || entry.files.length === 0) {
+    return [{
+      id: entry.id,
+      dateKey: entry.date,
+      time: entry.time || '00:00',
+      group: '',
+      matchday: entry.stage || '',
+      venue: '',
+      venueShort: '',
+      status: 'upcoming',
+      homeCode: entry.homeCode || 'TBD',
+      awayCode: entry.awayCode || 'TBD',
+      referee: '',
+      homeFormation: '',
+      awayFormation: '',
+      homeCoach: '',
+      awayCoach: '',
+      odds: { home: '—', draw: '—', away: '—' },
+      predScore: { home: 0, away: 0 },
+      actualScore: { home: 0, away: 0 },
+      aiModel: null,
+      homeNote: '',
+      awayNote: '',
+      oddsNote: '',
+      homeSquad: [],
+      awaySquad: [],
+      scorePredictions: [],
+      eventPreds: [],
+      referee_data: null,
+      h2h: null,
+      battles: [],
+      summaryVerdict: '',
+      observations: [],
+      placeholder: true,
+      stage: entry.stage || 'group-stage',
+    }];
+  }
+
   const variants = await Promise.all(
     entry.files.map(f => fetchMatchFile(BASE_URL, f).then(text => parseMatchMD(text, lang)))
   );

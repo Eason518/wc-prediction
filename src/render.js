@@ -74,13 +74,16 @@ export function renderNav() {
     const isLive = m.status === 'live' || (!isFt && nowMs >= startMs - 10 * 60 * 1000 && nowMs < startMs + 120 * 60 * 1000);
     const dotColor = isLive ? '#22c55e' : isFt ? '#64748B' : 'transparent';
     const lt = localMatchTime(m.dateKey, m.time);
-    return `<button class="chip-btn${active ? ' active' : ''}" data-match="${m.id}">
+    const isPlaceholder = m.placeholder || m.homeCode === 'TBD';
+    return `<button class="chip-btn${active ? ' active' : ''}${isPlaceholder ? ' chip-tbd' : ''}" data-match="${m.id}">
       <span class="chip-dot" style="background:${dotColor}"></span>
-      <span class="chip-flag">${h.flag}</span>
+      ${isPlaceholder
+        ? `<span class="chip-tbd-label">${t('placeholder.tbd')}</span>`
+        : `<span class="chip-flag">${h.flag}</span>
       <span class="chip-code">${h.code}</span>
       <span class="chip-vs">vs</span>
       <span class="chip-code">${a.code}</span>
-      <span class="chip-flag">${a.flag}</span>
+      <span class="chip-flag">${a.flag}</span>`}
       ${isLive ? '<span class="chip-live">LIVE</span>' : ''}
       <span class="chip-time${active ? ' chip-time-active' : ''}">${lt.time}</span>
     </button>`;
@@ -150,8 +153,10 @@ export function renderHero() {
        </div>`
     : (m.aiModel ? `<div class="hero-ai-badge"><span class="ai-icon">🤖</span> ${t('hero.ai_analysis')} · <span class="ai-model-name">${m.aiModel}</span></div>` : '');
 
+  const isPlaceholder = m.placeholder || m.homeCode === 'TBD';
+
   return `
-    <div class="hero-badge">FIFA WORLD CUP 2026 · GROUP ${m.group} · ${m.matchday}</div>
+    <div class="hero-badge">FIFA WORLD CUP 2026${m.group ? ` · GROUP ${m.group}` : ''} · ${t('stage.' + (m.stage || 'group-stage'))}</div>
     <div class="hero-teams">
       <div class="hero-team">
         <div class="hero-flag">${h.flag}</div>
@@ -171,8 +176,8 @@ export function renderHero() {
         <div class="hero-en" style="color:${a.color}">${a.en}</div>
       </div>
     </div>
-    <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${localMatchTime(m.dateKey, m.time).date} · ${localMatchTime(m.dateKey, m.time).time} ${localMatchTime(m.dateKey, m.time).tz}</span> &nbsp;|&nbsp; ${t('hero.referee')}: ${m.referee}</div>
-    ${modelHtml}
+    <div class="hero-info"><span style="color:#F59E0B">${localMatchTime(m.dateKey, m.time).date} · ${localMatchTime(m.dateKey, m.time).time} ${localMatchTime(m.dateKey, m.time).tz}</span>${m.venue ? ` &nbsp;|&nbsp; 📍 ${m.venue}` : ''}</div>
+    ${isPlaceholder ? '' : `${modelHtml}
     <div class="hero-stats">
       <div class="hero-stat-cell">
         <div class="stat-label">${t('hero.pred_score')}</div>
@@ -212,7 +217,7 @@ export function renderHero() {
           </div>
         </div>
       </div>
-    </div>
+    </div>`}
   `;
 }
 
@@ -266,6 +271,7 @@ function renderPlayerCard(p, team) {
 
 export function renderSquad(side) {
   const m = getCurrentMatch();
+  if (m.placeholder) return renderPlaceholder(m);
   const TEAMS = getTeams();
   const squad = side === 'home' ? m.homeSquad : m.awaySquad;
   const code = side === 'home' ? m.homeCode : m.awayCode;
@@ -298,6 +304,7 @@ export function renderSquad(side) {
 // ─── Other ──────────────────────────────────────────────────────────
 export function renderOther() {
   const m = getCurrentMatch();
+  if (m.placeholder) return renderPlaceholder(m);
   const TEAMS = getTeams();
   const h = TEAMS[m.homeCode], a = TEAMS[m.awayCode];
 
@@ -403,9 +410,22 @@ export function renderOther() {
   `;
 }
 
+// ─── Placeholder ─────────────────────────────────────────────────────
+function renderPlaceholder(m) {
+  const lt = localMatchTime(m.dateKey, m.time);
+  return `
+    <div class="placeholder-card">
+      <div class="placeholder-icon">🏆</div>
+      <div class="placeholder-title">${t('stage.' + (m.stage || 'group-stage'))}</div>
+      <div class="placeholder-time">${lt.date} · ${lt.time} ${lt.tz}</div>
+      <div class="placeholder-desc">${t('placeholder.desc')}</div>
+    </div>`;
+}
+
 // ─── Summary ─────────────────────────────────────────────────────────
 export function renderSummary() {
   const m = getCurrentMatch();
+  if (m.placeholder) return renderPlaceholder(m);
   const TEAMS = getTeams();
   const h = TEAMS[m.homeCode], a = TEAMS[m.awayCode];
   const sp = m.scorePredictions || [];

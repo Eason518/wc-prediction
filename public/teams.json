@@ -390,5 +390,13 @@
     "flag": "🇿🇦",
     "color": "#007A4D",
     "barColor": "linear-gradient(90deg,#007A4D,#FFB612)"
+  },
+  "TBD": {
+    "code": "TBD",
+    "zh": "待定",
+    "en": "TBD",
+    "flag": "🏴",
+    "color": "#64748B",
+    "barColor": "linear-gradient(90deg,#475569,#64748B)"
   }
 }

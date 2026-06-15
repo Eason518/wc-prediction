@@ -56,10 +56,10 @@ export async function loadData() {
   } else {
     const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
     const nextMatch = schedule.find(m => startMs(m) > nowMs);
-    defaultMatch = schedule.find(m => m.dateKey === todayKey) || nextMatch || schedule[0];
+    defaultMatch = schedule.find(m => matchLocalDateKey(m) === todayKey) || nextMatch || schedule[0];
   }
 
-  state = { dateKey: defaultMatch.dateKey, matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };
+  state = { dateKey: matchLocalDateKey(defaultMatch), matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };
 }
 
 export async function reloadMatchData() {
@@ -82,6 +82,11 @@ export function getSchedule() { return schedule; }
 export function getState() { return state; }
 export function getMatchVariants(id) { return matchVariantsMap[id] || []; }
 
+export function matchLocalDateKey(m) {
+  const d = new Date(`${m.dateKey}T${m.time}:00+08:00`);
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+
 export function setState(patch) {
   state = { ...state, ...patch };
   listeners.forEach(fn => fn(state));
@@ -95,16 +100,17 @@ export function subscribe(fn) {
 export function getDates() {
   const map = {};
   for (const m of schedule) {
-    if (!map[m.dateKey]) map[m.dateKey] = { count: 0 };
-    map[m.dateKey].count++;
+    const localKey = matchLocalDateKey(m);
+    if (!map[localKey]) map[localKey] = { count: 0, date: new Date(`${m.dateKey}T${m.time}:00+08:00`) };
+    map[localKey].count++;
   }
   return Object.entries(map).map(([key, v]) => {
-    const d = new Date(key);
+    const d = v.date;
     return {
       key,
-      dow: t('date.dows')[d.getUTCDay()],
-      dom: String(d.getUTCDate()),
-      mon: t('date.mons')[d.getUTCMonth()],
+      dow: t('date.dows')[d.getDay()],
+      dom: String(d.getDate()),
+      mon: t('date.mons')[d.getMonth()],
       count: v.count,
     };
   });

@@ -1,4 +1,4 @@
-import { getTeams, getState, getDates, getSchedule, getCurrentMatch, getMatchVariants } from './store.js';
+import { getTeams, getState, getDates, getSchedule, getCurrentMatch, getMatchVariants, matchLocalDateKey } from './store.js';
 import { t, getLang, LANG_OPTIONS } from './i18n.js';
 
 // ─── tag styles ────────────────────────────────────────────────────
@@ -17,6 +17,14 @@ const POS_STYLES = {
   fwd: 'background:#3a1a1a;color:#f87171',
 };
 
+function localMatchTime(dateKey, time) {
+  const d = new Date(`${dateKey}T${time}:00+08:00`);
+  const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+  const localTime = `${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`;
+  const tz = new Intl.DateTimeFormat(undefined, { timeZoneName: 'short' }).formatToParts(d).find(p => p.type === 'timeZoneName')?.value || '';
+  return { date, time: localTime, tz };
+}
+
 function posType(p) {
   p = p.toUpperCase();
   if (p === 'GK') return 'gk';
@@ -34,7 +42,7 @@ export function renderNav() {
   const st = getState();
   const dates = getDates();
   const schedule = getSchedule();
-  const dayMatches = schedule.filter(m => m.dateKey === st.dateKey);
+  const dayMatches = schedule.filter(m => matchLocalDateKey(m) === st.dateKey);
   const TEAMS = getTeams();
 
   const dateBtns = dates.map(d => {
@@ -54,6 +62,7 @@ export function renderNav() {
     const nowMs = Date.now();
     const isLive = m.status === 'live' || (!isFt && nowMs >= startMs - 10 * 60 * 1000 && nowMs < startMs + 120 * 60 * 1000);
     const dotColor = isLive ? '#22c55e' : isFt ? '#64748B' : 'transparent';
+    const lt = localMatchTime(m.dateKey, m.time);
     return `<button class="chip-btn${active ? ' active' : ''}" data-match="${m.id}">
       <span class="chip-dot" style="background:${dotColor}"></span>
       <span class="chip-flag">${h.flag}</span>
@@ -62,7 +71,7 @@ export function renderNav() {
       <span class="chip-code">${a.code}</span>
       <span class="chip-flag">${a.flag}</span>
       ${isLive ? '<span class="chip-live">LIVE</span>' : ''}
-      <span class="chip-time${active ? ' chip-time-active' : ''}">${m.time}</span>
+      <span class="chip-time${active ? ' chip-time-active' : ''}">${lt.time}</span>
     </button>`;
   }).join('');
 
@@ -151,7 +160,7 @@ export function renderHero() {
         <div class="hero-en" style="color:${a.color}">${a.en}</div>
       </div>
     </div>
-    <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${m.dateKey} · ${m.time} MYT</span> &nbsp;|&nbsp; ${t('hero.referee')}: ${m.referee}</div>
+    <div class="hero-info">📍 ${m.venue} &nbsp;|&nbsp; <span style="color:#F59E0B">${localMatchTime(m.dateKey, m.time).date} · ${localMatchTime(m.dateKey, m.time).time} ${localMatchTime(m.dateKey, m.time).tz}</span> &nbsp;|&nbsp; ${t('hero.referee')}: ${m.referee}</div>
     ${modelHtml}
     <div class="hero-stats">
       <div class="hero-stat-cell">

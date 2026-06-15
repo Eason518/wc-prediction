@@ -1,5 +1,5 @@
 import './style.css';
-import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule } from './store.js';
+import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 
@@ -33,7 +33,7 @@ function bindEvents() {
   document.querySelectorAll('[data-date]').forEach(btn => {
     btn.addEventListener('click', () => {
       const dateKey = btn.dataset.date;
-      const first = getSchedule().find(m => m.dateKey === dateKey);
+      const first = getSchedule().find(m => matchLocalDateKey(m) === dateKey);
       setState({ dateKey, matchId: first ? first.id : getState().matchId, modelIndex: 0, tab: 'summary' });
     });
   });

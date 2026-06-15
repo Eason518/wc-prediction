@@ -1,5 +1,5 @@
 ---
-id: m-ecu-cur
+id: m-ecu-cuw
 date: 2026-06-21
 time: "08:00"
 group: E

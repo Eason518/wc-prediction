@@ -9,8 +9,6 @@ venueShort: Vancouver, Canada
 status: completed
 homeCode: AUS
 awayCode: TUR
-actualScoreHome: 2
-actualScoreAway: 0
 referee: Jesús Valenzuela (VEN)
 homeFormation: 3-4-2-1
 awayFormation: 4-2-3-1

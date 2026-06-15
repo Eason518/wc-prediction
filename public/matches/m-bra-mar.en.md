@@ -9,8 +9,6 @@ venueShort: New Jersey, USA
 status: completed
 homeCode: BRA
 awayCode: MAR
-actualScoreHome: 1
-actualScoreAway: 1
 referee: Slavko Vinčić (SVN)
 homeFormation: 4-2-3-1
 awayFormation: 4-2-3-1

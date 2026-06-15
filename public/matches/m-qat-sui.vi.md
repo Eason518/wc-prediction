@@ -9,8 +9,6 @@ venueShort: San Francisco Bay Area, USA
 status: completed
 homeCode: QAT
 awayCode: SUI
-actualScoreHome: 1
-actualScoreAway: 1
 referee: Saíd Martínez (HON)
 homeFormation: 4-3-3
 awayFormation: 4-2-3-1

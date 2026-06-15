@@ -9,8 +9,6 @@ venueShort: Boston, USA
 status: completed
 homeCode: HAI
 awayCode: SCO
-actualScoreHome: 0
-actualScoreAway: 1
 referee: Mustapha Ghorbal (ALG)
 homeFormation: 4-4-2
 awayFormation: 4-2-3-1

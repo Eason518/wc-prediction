@@ -45,7 +45,7 @@ export async function loadData() {
   BASE_URL = import.meta.env.BASE_URL;
   const [teamsRes, indexRes] = await Promise.all([
     fetch(`${BASE_URL}teams.json`),
-    fetch(`${BASE_URL}matches/index.json`),
+    fetch(`${BASE_URL}matches/index.json`, { cache: 'no-cache' }),
   ]);
   TEAMS = await teamsRes.json();
   INDEX = await indexRes.json();
@@ -80,6 +80,8 @@ export async function loadData() {
 
 export async function reloadMatchData() {
   const lang = getLang();
+  const indexRes = await fetch(`${BASE_URL}matches/index.json`, { cache: 'no-cache' });
+  INDEX = await indexRes.json();
   const variantsList = await Promise.all(INDEX.map(entry => loadVariants(entry, lang)));
 
   matchVariantsMap = {};

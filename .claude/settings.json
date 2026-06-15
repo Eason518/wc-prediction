@@ -14,10 +14,15 @@
       "Bash(npx playwright *)",
       "Read(//tmp/**)",
       "Read(//private/tmp/**)",
-      "Bash(pkill -f \"vite --port 5193\")"
+      "Bash(pkill -f \"vite --port 5193\")",
+      "Bash(cp /Users/eason.chen/Documents/GitHub/wc-prediction/public/banner.png /Users/eason.chen/Documents/GitHub/wc-prediction/public/banners/banner-en.png)",
+      "Bash(~/.bun/bin/nano-banana \"Dark dramatic stadium background with bright spotlights, golden football on left side, shiny FIFA World Cup trophy on right side, large gold metallic bold text FIFA 世界盃 2026 in center, white subtitle text 加入預測挑戰 below title, small rectangular bordered gold button with text 預測贏大獎, 12BET logo in bottom-right corner, professional sports prediction website banner, dark navy background, cinematic lighting\" -s 4K -a 4:1 -o banner-zh -d /tmp/generated-assets/ -r /Users/eason.chen/Documents/GitHub/wc-prediction/public/banners/banner-en.png)",
+      "Bash(~/.bun/bin/nano-banana \"Dark dramatic stadium background with bright spotlights, golden football on left side, shiny FIFA World Cup trophy on right side, large gold metallic bold text FIFA WORLD CUP 2026 in center, white subtitle text THAM GIA THACH THUC DU DOAN below title, small rectangular bordered gold button with text DU DOAN VA THANG, 12BET logo in bottom-right corner, professional sports prediction website banner, dark navy background, cinematic lighting\" -s 4K -a 4:1 -o banner-vi -d /tmp/generated-assets/ -r /Users/eason.chen/Documents/GitHub/wc-prediction/public/banners/banner-en.png)",
+      "Bash(wait)"
     ],
     "additionalDirectories": [
-      "/private/tmp/generated-assets"
+      "/private/tmp/generated-assets",
+      "/Users/eason.chen/Documents/GitHub/wc-prediction/public"
     ]
   }
 }

@@ -1,7 +1,7 @@
 import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
-import { setLang, onLangChange, t } from './i18n.js';
+import { getLang, setLang, onLangChange, t } from './i18n.js';
 
 const $nav = document.getElementById('nav');
 const $hero = document.getElementById('hero');
@@ -68,7 +68,13 @@ async function init() {
   try {
     await loadData();
     subscribe(update);
-    onLangChange(() => reloadMatchData().then(update));
+    onLangChange(lang => {
+      const img = document.getElementById('banner-img');
+      if (img) img.src = `/banners/banner-${lang}.png`;
+      reloadMatchData().then(update);
+    });
+    const img = document.getElementById('banner-img');
+    if (img) img.src = `/banners/banner-${getLang()}.png`;
     update();
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');

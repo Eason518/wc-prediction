@@ -43,10 +43,11 @@ jobs:
           with open("/tmp/api_response.json") as f:
               data = json.load(f)
 
-          finished = [m for m in data.get("matches", []) if m["status"] == "FINISHED"]
+          active = [m for m in data.get("matches", [])
+                    if m["status"] in ("FINISHED", "IN_PLAY", "PAUSED", "HALFTIME")]
 
-          if not finished:
-              print("No finished matches today")
+          if not active:
+              print("No active matches in range")
               sys.exit(0)
 
           with open("public/matches/index.json") as f:
@@ -55,7 +56,7 @@ jobs:
           index_map = {entry["id"]: entry for entry in index}
           updated = []
 
-          for m in finished:
+          for m in active:
               home_tla = normalize(m["homeTeam"]["tla"])
               away_tla = normalize(m["awayTeam"]["tla"])
               match_id = f"m-{home_tla}-{away_tla}"
@@ -70,10 +71,15 @@ jobs:
               api_home = m["score"]["fullTime"]["home"]
               api_away = m["score"]["fullTime"]["away"]
 
+              # IN_PLAY 時 fullTime 可能是 null，跳過
+              if api_home is None or api_away is None:
+                  continue
+
               if entry["actualScoreHome"] != api_home or entry["actualScoreAway"] != api_away:
                   entry["actualScoreHome"] = api_home
                   entry["actualScoreAway"] = api_away
-                  updated.append(f"{match_id}: {api_home}-{api_away}")
+                  status_label = m["status"]
+                  updated.append(f"{match_id}: {api_home}-{api_away} ({status_label})")
 
           if not updated:
               print("No new scores to update")

@@ -29,18 +29,16 @@ async function fetchMatchFile(base, filename, lang) {
   return fetch(`${base}matches/${filename}`, { cache: 'no-cache' }).then(r => r.text());
 }
 
-function buildVariantsAndSchedule(mds) {
-  const map = {};
-  for (const md of mds) {
-    if (!map[md.id]) map[md.id] = [];
-    map[md.id].push(md);
-  }
-  const seen = new Set();
-  const sched = [];
-  for (const md of mds) {
-    if (!seen.has(md.id)) { seen.add(md.id); sched.push(md); }
-  }
-  return { map, sched };
+async function loadVariants(entry, lang) {
+  const variants = await Promise.all(
+    entry.files.map(f => fetchMatchFile(BASE_URL, f, lang).then(parseMatchMD))
+  );
+  const actualScore = {
+    home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
+    away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
+  };
+  variants.forEach(v => { v.actualScore = actualScore; });
+  return variants;
 }
 
 export async function loadData() {
@@ -53,20 +51,14 @@ export async function loadData() {
   INDEX = await indexRes.json();
 
   const lang = getLang();
-  const mds = await Promise.all(
-    INDEX.map(entry => fetchMatchFile(BASE_URL, entry.file, lang).then(parseMatchMD))
-  );
+  const variantsList = await Promise.all(INDEX.map(entry => loadVariants(entry, lang)));
 
+  matchVariantsMap = {};
+  schedule = [];
   INDEX.forEach((entry, i) => {
-    mds[i].actualScore = {
-      home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
-      away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
-    };
+    matchVariantsMap[entry.id] = variantsList[i];
+    schedule.push(variantsList[i][0]);
   });
-
-  const { map, sched } = buildVariantsAndSchedule(mds);
-  matchVariantsMap = map;
-  schedule = sched;
 
   const now = new Date();
   const nowMs = now.getTime();
@@ -88,20 +80,14 @@ export async function loadData() {
 
 export async function reloadMatchData() {
   const lang = getLang();
-  const mds = await Promise.all(
-    INDEX.map(entry => fetchMatchFile(BASE_URL, entry.file, lang).then(parseMatchMD))
-  );
+  const variantsList = await Promise.all(INDEX.map(entry => loadVariants(entry, lang)));
 
+  matchVariantsMap = {};
+  schedule = [];
   INDEX.forEach((entry, i) => {
-    mds[i].actualScore = {
-      home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
-      away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
-    };
+    matchVariantsMap[entry.id] = variantsList[i];
+    schedule.push(variantsList[i][0]);
   });
-
-  const { map, sched } = buildVariantsAndSchedule(mds);
-  matchVariantsMap = map;
-  schedule = sched;
   listeners.forEach(fn => fn(state));
 }
 

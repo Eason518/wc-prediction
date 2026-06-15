@@ -243,5 +243,41 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null
+  },
+  {
+    "id": "m-usa-aus",
+    "date": "2026-06-20",
+    "files": [
+      "m-usa-aus.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-sco-mar",
+    "date": "2026-06-20",
+    "files": [
+      "m-sco-mar.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-bra-hai",
+    "date": "2026-06-20",
+    "files": [
+      "m-bra-hai.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-tur-par",
+    "date": "2026-06-20",
+    "files": [
+      "m-tur-par.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null
   }
 ]

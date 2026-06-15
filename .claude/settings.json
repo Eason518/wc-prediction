@@ -32,7 +32,20 @@
       "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction log --oneline)",
       "Bash(node scripts/merge-match-files.mjs)",
       "Bash(node scripts/merge-match-files.mjs --write)",
-      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/wc-prediction/)"
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/wc-prediction/)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(f'dist index.json has {len\\(d\\)} entries, last date: {d[-1][\\\\\"date\\\\\"]}'\\)\")",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction ls-files dist/matches/)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction diff public/matches/index.json)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction diff public/teams.json)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction check-ignore -v public/matches/m-can-qat.md public/matches/index.json public/teams.json)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction status --porcelain)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction status --short)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction ls-files public/matches/m-can-qat.md public/matches/index.json public/teams.json)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction log --oneline origin/main..HEAD)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction log --oneline origin/main -5)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction show --name-only f31133c)",
+      "Bash(gh run *)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction log --oneline -3)"
     ],
     "additionalDirectories": [
       "/private/tmp/generated-assets",

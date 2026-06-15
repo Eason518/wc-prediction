@@ -1,4 +1,4 @@
-import { getTeams, getState, getDates, getSchedule, getCurrentMatch, getMatchVariants, matchLocalDateKey } from './store.js';
+import { getTeams, getState, getDates, getSchedule, getStages, getCurrentMatch, getMatchVariants, matchLocalDateKey } from './store.js';
 import { t, getLang, LANG_OPTIONS } from './i18n.js';
 
 // ─── tag styles ────────────────────────────────────────────────────
@@ -38,11 +38,22 @@ function teamName(team) {
 }
 
 // ─── Nav ────────────────────────────────────────────────────────────
+function renderStageFilter() {
+  const stages = getStages();
+  const st = getState();
+  if (stages.length === 0) return '';
+  return `<div class="nav-stages scrollx">${stages.map(s => {
+    const active = s.key === st.stage;
+    return `<button class="stage-btn${active ? ' active' : ''}" data-stage="${s.key}">${t('stage.' + s.key)}</button>`;
+  }).join('')}</div>`;
+}
+
 export function renderNav() {
   const st = getState();
   const dates = getDates();
   const schedule = getSchedule();
-  const dayMatches = schedule.filter(m => matchLocalDateKey(m) === st.dateKey);
+  const stageSchedule = st.stage ? schedule.filter(m => (m.stage || 'group-stage') === st.stage) : schedule;
+  const dayMatches = stageSchedule.filter(m => matchLocalDateKey(m) === st.dateKey);
   const TEAMS = getTeams();
 
   const dateBtns = dates.map(d => {
@@ -84,9 +95,9 @@ export function renderNav() {
     <div class="nav-brand">
       <span class="brand-wc">WC 2026</span>
       <span class="brand-pred">${t('nav.pred')}</span>
-      <span class="brand-stage">GROUP STAGE</span>
       <select class="lang-select">${langOptions}</select>
     </div>
+    ${renderStageFilter()}
     <div class="nav-dates scrollx">${dateBtns}</div>
     <div class="nav-chips scrollx">${chips}</div>
   `;

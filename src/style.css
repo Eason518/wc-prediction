@@ -104,6 +104,29 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   letter-spacing: 0;
 }
 
+/* Stage filter */
+.nav-stages {
+  display: flex;
+  gap: 6px;
+  padding: 8px 16px 4px;
+  max-width: 1120px;
+  margin: 0 auto;
+}
+.stage-btn {
+  flex-shrink: 0;
+  padding: 4px 14px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.4px;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  transition: color .15s, border-color .15s, background .15s;
+  white-space: nowrap;
+}
+.stage-btn:hover { color: var(--text); border-color: rgba(245,158,11,0.4); }
+.stage-btn.active { color: var(--gold); border-color: rgba(245,158,11,0.6); background: rgba(245,158,11,0.1); }
+
 /* Date strip */
 .nav-dates {
   display: flex;

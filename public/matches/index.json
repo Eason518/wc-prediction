@@ -6,7 +6,8 @@
       "m-can-bih.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-usa-par",
@@ -15,7 +16,8 @@
       "m-usa-par.md"
     ],
     "actualScoreHome": 4,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-qat-sui",
@@ -24,7 +26,8 @@
       "m-qat-sui.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-bra-mar",
@@ -33,7 +36,8 @@
       "m-bra-mar.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-hai-sco",
@@ -42,7 +46,8 @@
       "m-hai-sco.md"
     ],
     "actualScoreHome": 0,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-aus-tur",
@@ -51,7 +56,8 @@
       "m-aus-tur.md"
     ],
     "actualScoreHome": 2,
-    "actualScoreAway": 0
+    "actualScoreAway": 0,
+    "stage": "group-stage"
   },
   {
     "id": "m-ger-cuw",
@@ -60,7 +66,8 @@
       "m-ger-cuw.md"
     ],
     "actualScoreHome": 7,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-ned-jpn",
@@ -70,7 +77,8 @@
       "m-ned-jpn-2.md"
     ],
     "actualScoreHome": 2,
-    "actualScoreAway": 2
+    "actualScoreAway": 2,
+    "stage": "group-stage"
   },
   {
     "id": "m-civ-ecu",
@@ -79,7 +87,8 @@
       "m-civ-ecu.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 0
+    "actualScoreAway": 0,
+    "stage": "group-stage"
   },
   {
     "id": "m-swe-tun",
@@ -88,7 +97,8 @@
       "m-swe-tun.md"
     ],
     "actualScoreHome": 5,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "stage": "group-stage"
   },
   {
     "id": "m-esp-cpv",
@@ -98,7 +108,8 @@
       "m-esp-cpv-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-bel-egy",
@@ -108,7 +119,8 @@
       "m-bel-egy-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-ksa-uru",
@@ -117,7 +129,8 @@
       "m-ksa-uru.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-iri-nzl",
@@ -126,7 +139,8 @@
       "m-iri-nzl.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-fra-sen",
@@ -136,7 +150,8 @@
       "m-fra-sen-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-irq-nor",
@@ -146,7 +161,8 @@
       "m-irq-nor-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-arg-alg",
@@ -156,7 +172,8 @@
       "m-arg-alg-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-aut-jor",
@@ -166,7 +183,8 @@
       "m-aut-jor-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-por-cod",
@@ -176,7 +194,8 @@
       "m-por-cod-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-eng-cro",
@@ -186,7 +205,8 @@
       "m-eng-cro-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-gha-pan",
@@ -196,7 +216,8 @@
       "m-gha-pan-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-uzb-col",
@@ -206,7 +227,8 @@
       "m-uzb-col-2.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-cze-rsa",
@@ -215,7 +237,8 @@
       "m-cze-rsa.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-sui-bih",
@@ -224,7 +247,8 @@
       "m-sui-bih.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-can-qat",
@@ -233,7 +257,8 @@
       "m-can-qat.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-mex-kor",
@@ -242,7 +267,8 @@
       "m-mex-kor.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-usa-aus",
@@ -251,7 +277,8 @@
       "m-usa-aus.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-sco-mar",
@@ -260,7 +287,8 @@
       "m-sco-mar.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-bra-hai",
@@ -269,7 +297,8 @@
       "m-bra-hai.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   },
   {
     "id": "m-tur-par",
@@ -278,6 +307,7 @@
       "m-tur-par.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "stage": "group-stage"
   }
 ]

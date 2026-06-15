@@ -30,6 +30,17 @@ function update() {
 }
 
 function bindEvents() {
+  document.querySelectorAll('[data-stage]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const stage = btn.dataset.stage;
+      const filtered = getSchedule().filter(m => (m.stage || 'group-stage') === stage);
+      const first = filtered[0];
+      const dateKey = first ? matchLocalDateKey(first) : getState().dateKey;
+      const matchId = first ? first.id : getState().matchId;
+      setState({ stage, dateKey, matchId, modelIndex: 0, tab: 'summary' });
+    });
+  });
+
   document.querySelectorAll('[data-date]').forEach(btn => {
     btn.addEventListener('click', () => {
       const dateKey = btn.dataset.date;

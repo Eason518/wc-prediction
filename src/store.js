@@ -1,10 +1,12 @@
 import { parseMatchMD } from './parser.js';
 import { t, getLang } from './i18n.js';
 
+export const STAGE_ORDER = ['group-stage', 'round-32', 'round-16', 'quarter-final', 'semi-final', 'third-place', 'final'];
+
 let TEAMS = {};
 let schedule = [];
 let matchVariantsMap = {};
-let state = { dateKey: '', matchId: '', modelIndex: 0, tab: 'summary' };
+let state = { stage: '', dateKey: '', matchId: '', modelIndex: 0, tab: 'summary' };
 let listeners = [];
 let BASE_URL = '/';
 let INDEX = [];
@@ -21,7 +23,10 @@ async function loadVariants(entry, lang) {
     home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
     away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
   };
-  variants.forEach(v => { v.actualScore = actualScore; });
+  variants.forEach(v => {
+    v.actualScore = actualScore;
+    v.stage = entry.stage || 'group-stage';
+  });
   return variants;
 }
 
@@ -59,7 +64,7 @@ export async function loadData() {
     defaultMatch = schedule.find(m => matchLocalDateKey(m) === todayKey) || nextMatch || schedule[0];
   }
 
-  state = { dateKey: matchLocalDateKey(defaultMatch), matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };
+  state = { stage: defaultMatch.stage || 'group-stage', dateKey: matchLocalDateKey(defaultMatch), matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };
 }
 
 export async function reloadMatchData() {
@@ -82,6 +87,15 @@ export function getSchedule() { return schedule; }
 export function getState() { return state; }
 export function getMatchVariants(id) { return matchVariantsMap[id] || []; }
 
+export function getStages() {
+  const counts = {};
+  for (const m of schedule) {
+    const s = m.stage || 'group-stage';
+    counts[s] = (counts[s] || 0) + 1;
+  }
+  return STAGE_ORDER.filter(s => counts[s] > 0).map(s => ({ key: s, count: counts[s] }));
+}
+
 export function matchLocalDateKey(m) {
   const d = new Date(`${m.dateKey}T${m.time}:00+08:00`);
   return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
@@ -98,8 +112,9 @@ export function subscribe(fn) {
 }
 
 export function getDates() {
+  const filtered = state.stage ? schedule.filter(m => (m.stage || 'group-stage') === state.stage) : schedule;
   const map = {};
-  for (const m of schedule) {
+  for (const m of filtered) {
     const localKey = matchLocalDateKey(m);
     if (!map[localKey]) map[localKey] = { count: 0, date: new Date(`${m.dateKey}T${m.time}:00+08:00`) };
     map[localKey].count++;

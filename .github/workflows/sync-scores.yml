@@ -19,11 +19,13 @@ jobs:
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
         run: |
+          # 抓昨天到今天(UTC)，涵蓋 GMT+8 跨日的比賽（凌晨 00:00–07:59 GMT+8 = UTC 前一天）
+          YESTERDAY=$(date -d "yesterday" +%Y-%m-%d)
           TODAY=$(date +%Y-%m-%d)
-          echo "Fetching matches for $TODAY..."
+          echo "Fetching matches from $YESTERDAY to $TODAY (UTC)..."
 
           curl -s \
-            "https://api.football-data.org/v4/competitions/WC/matches?date=$TODAY" \
+            "https://api.football-data.org/v4/competitions/WC/matches?dateFrom=$YESTERDAY&dateTo=$TODAY" \
             -H "X-Auth-Token: $FOOTBALL_DATA_TOKEN" \
             -o /tmp/api_response.json
 

@@ -49,7 +49,9 @@
       "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(list\\(d.keys\\(\\)\\)\\)\")",
       "Skill(schedule)",
       "Skill(schedule:*)",
-      "Bash(rm /Users/eason.chen/Documents/GitHub/wc-prediction/.git/HEAD.lock && echo \"Removed\")"
+      "Bash(rm /Users/eason.chen/Documents/GitHub/wc-prediction/.git/HEAD.lock && echo \"Removed\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d, indent=2\\)\\)\")",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); finished=[m for m in d if m.get\\('actualScoreHome'\\) is not None]; print\\(json.dumps\\(finished[:10], indent=2\\)\\)\")"
     ],
     "additionalDirectories": [
       "/private/tmp/generated-assets",

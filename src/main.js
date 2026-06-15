@@ -3,6 +3,10 @@ import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule }
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 
+// Sync: set banner src immediately based on stored lang, before any async operations
+const $bannerImg = document.getElementById('banner-img');
+if ($bannerImg) $bannerImg.src = `${import.meta.env.BASE_URL}banners/banner-${getLang()}.png`;
+
 const $nav = document.getElementById('nav');
 const $hero = document.getElementById('hero');
 const $tabs = document.getElementById('tabs');
@@ -73,8 +77,6 @@ async function init() {
       if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
       reloadMatchData().then(update);
     });
-    const img = document.getElementById('banner-img');
-    if (img) img.src = `/banners/banner-${getLang()}.png`;
     update();
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');

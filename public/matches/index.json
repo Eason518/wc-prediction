@@ -311,6 +311,46 @@
     "stage": "group-stage"
   },
   {
+    "id": "m-ned-swe",
+    "date": "2026-06-21",
+    "files": [
+      "m-ned-swe.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-ger-civ",
+    "date": "2026-06-21",
+    "files": [
+      "m-ger-civ.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-ecu-cur",
+    "date": "2026-06-21",
+    "files": [
+      "m-ecu-cur.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-tun-jpn",
+    "date": "2026-06-21",
+    "files": [
+      "m-tun-jpn.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
     "id": "r32-m01",
     "date": "2026-06-29",
     "time": "03:00",

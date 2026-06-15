@@ -38,5 +38,12 @@
   "NOR": { "code": "NOR", "zh": "挪威", "en": "NORWAY", "flag": "🇳🇴", "color": "#EF2B2D", "rank": "北歐黑馬", "barColor": "linear-gradient(90deg,#EF2B2D,#003087)" },
   "ALG": { "code": "ALG", "zh": "阿爾及利亞", "en": "ALGERIA", "flag": "🇩🇿", "color": "#006233", "rank": "非洲代表", "barColor": "linear-gradient(90deg,#006233,#FFFFFF)" },
   "AUT": { "code": "AUT", "zh": "奧地利", "en": "AUSTRIA", "flag": "🇦🇹", "color": "#ED2939", "rank": "歐洲黑馬", "barColor": "linear-gradient(90deg,#ED2939,#FFFFFF)" },
-  "JOR": { "code": "JOR", "zh": "約旦", "en": "JORDAN", "flag": "🇯🇴", "color": "#007A3D", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#007A3D,#CE1126)" }
+  "JOR": { "code": "JOR", "zh": "約旦", "en": "JORDAN", "flag": "🇯🇴", "color": "#007A3D", "rank": "亞洲代表", "barColor": "linear-gradient(90deg,#007A3D,#CE1126)" },
+  "ENG": { "code": "ENG", "zh": "英格蘭", "en": "ENGLAND", "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "color": "#C8102E", "rank": "奪冠熱門", "barColor": "linear-gradient(90deg,#C8102E,#FFFFFF)" },
+  "CRO": { "code": "CRO", "zh": "克羅埃西亞", "en": "CROATIA", "flag": "🇭🇷", "color": "#C4152D", "rank": "歐洲黑馬", "barColor": "linear-gradient(90deg,#C4152D,#FFFFFF)" },
+  "PAN": { "code": "PAN", "zh": "巴拿馬", "en": "PANAMA", "flag": "🇵🇦", "color": "#B00D15", "rank": "北中美代表", "barColor": "linear-gradient(90deg,#B00D15,#003087)" },
+  "POR": { "code": "POR", "zh": "葡萄牙", "en": "PORTUGAL", "flag": "🇵🇹", "color": "#006600", "rank": "奪冠熱門", "barColor": "linear-gradient(90deg,#006600,#CC0000)" },
+  "COD": { "code": "COD", "zh": "剛果民主", "en": "DR CONGO", "flag": "🇨🇩", "color": "#007FFF", "rank": "非洲代表", "barColor": "linear-gradient(90deg,#007FFF,#F7D000)" },
+  "UZB": { "code": "UZB", "zh": "烏茲別克", "en": "UZBEKISTAN", "flag": "🇺🇿", "color": "#1EB53A", "rank": "亞洲黑馬", "barColor": "linear-gradient(90deg,#1EB53A,#FFFFFF)" },
+  "COL": { "code": "COL", "zh": "哥倫比亞", "en": "COLOMBIA", "flag": "🇨🇴", "color": "#FCD116", "rank": "南美強隊", "barColor": "linear-gradient(90deg,#FCD116,#003087)" }
 }

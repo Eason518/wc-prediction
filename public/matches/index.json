@@ -124,5 +124,33 @@
     "files": ["m-aut-jor.md", "m-aut-jor-2.md"],
     "actualScoreHome": null,
     "actualScoreAway": null
+  },
+  {
+    "id": "m-por-cod",
+    "date": "2026-06-18",
+    "files": ["m-por-cod.md", "m-por-cod-2.md"],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-eng-cro",
+    "date": "2026-06-18",
+    "files": ["m-eng-cro.md", "m-eng-cro-2.md"],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-gha-pan",
+    "date": "2026-06-18",
+    "files": ["m-gha-pan.md", "m-gha-pan-2.md"],
+    "actualScoreHome": null,
+    "actualScoreAway": null
+  },
+  {
+    "id": "m-uzb-col",
+    "date": "2026-06-18",
+    "files": ["m-uzb-col.md", "m-uzb-col-2.md"],
+    "actualScoreHome": null,
+    "actualScoreAway": null
   }
 ]

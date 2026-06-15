@@ -70,7 +70,7 @@ async function init() {
     subscribe(update);
     onLangChange(lang => {
       const img = document.getElementById('banner-img');
-      if (img) img.src = `/banners/banner-${lang}.png`;
+      if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
       reloadMatchData().then(update);
     });
     const img = document.getElementById('banner-img');

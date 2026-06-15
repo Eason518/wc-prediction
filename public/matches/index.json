@@ -2,154 +2,209 @@
   {
     "id": "m-can-bih",
     "date": "2026-06-13",
-    "files": ["m-can-bih.md"],
+    "files": [
+      "m-can-bih.md"
+    ],
     "actualScoreHome": 1,
     "actualScoreAway": 1
   },
   {
     "id": "m-usa-par",
     "date": "2026-06-13",
-    "files": ["m-usa-par.md"],
+    "files": [
+      "m-usa-par.md"
+    ],
     "actualScoreHome": 4,
     "actualScoreAway": 1
   },
   {
     "id": "m-qat-sui",
     "date": "2026-06-14",
-    "files": ["m-qat-sui.md"],
+    "files": [
+      "m-qat-sui.md"
+    ],
     "actualScoreHome": 1,
     "actualScoreAway": 1
   },
   {
     "id": "m-bra-mar",
     "date": "2026-06-14",
-    "files": ["m-bra-mar.md"],
+    "files": [
+      "m-bra-mar.md"
+    ],
     "actualScoreHome": 1,
     "actualScoreAway": 1
   },
   {
     "id": "m-hai-sco",
     "date": "2026-06-14",
-    "files": ["m-hai-sco.md"],
+    "files": [
+      "m-hai-sco.md"
+    ],
     "actualScoreHome": 0,
     "actualScoreAway": 1
   },
   {
     "id": "m-aus-tur",
     "date": "2026-06-14",
-    "files": ["m-aus-tur.md"],
+    "files": [
+      "m-aus-tur.md"
+    ],
     "actualScoreHome": 2,
     "actualScoreAway": 0
   },
   {
     "id": "m-ger-cuw",
     "date": "2026-06-15",
-    "files": ["m-ger-cuw.md"],
+    "files": [
+      "m-ger-cuw.md"
+    ],
     "actualScoreHome": 7,
     "actualScoreAway": 1
   },
   {
     "id": "m-ned-jpn",
     "date": "2026-06-15",
-    "files": ["m-ned-jpn.md", "m-ned-jpn-2.md"],
+    "files": [
+      "m-ned-jpn.md",
+      "m-ned-jpn-2.md"
+    ],
     "actualScoreHome": 2,
     "actualScoreAway": 2
   },
   {
     "id": "m-civ-ecu",
     "date": "2026-06-15",
-    "files": ["m-civ-ecu.md"],
-    "actualScoreHome": 0,
+    "files": [
+      "m-civ-ecu.md"
+    ],
+    "actualScoreHome": 1,
     "actualScoreAway": 0
   },
   {
     "id": "m-swe-tun",
     "date": "2026-06-15",
-    "files": ["m-swe-tun.md"],
+    "files": [
+      "m-swe-tun.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-esp-cpv",
     "date": "2026-06-16",
-    "files": ["m-esp-cpv.md", "m-esp-cpv-2.md"],
+    "files": [
+      "m-esp-cpv.md",
+      "m-esp-cpv-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-bel-egy",
     "date": "2026-06-16",
-    "files": ["m-bel-egy.md", "m-bel-egy-2.md"],
+    "files": [
+      "m-bel-egy.md",
+      "m-bel-egy-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-ksa-uru",
     "date": "2026-06-16",
-    "files": ["m-ksa-uru.md"],
+    "files": [
+      "m-ksa-uru.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-iri-nzl",
     "date": "2026-06-16",
-    "files": ["m-iri-nzl.md"],
+    "files": [
+      "m-iri-nzl.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-fra-sen",
     "date": "2026-06-17",
-    "files": ["m-fra-sen.md", "m-fra-sen-2.md"],
+    "files": [
+      "m-fra-sen.md",
+      "m-fra-sen-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-irq-nor",
     "date": "2026-06-17",
-    "files": ["m-irq-nor.md", "m-irq-nor-2.md"],
+    "files": [
+      "m-irq-nor.md",
+      "m-irq-nor-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-arg-alg",
     "date": "2026-06-17",
-    "files": ["m-arg-alg.md", "m-arg-alg-2.md"],
+    "files": [
+      "m-arg-alg.md",
+      "m-arg-alg-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-aut-jor",
     "date": "2026-06-17",
-    "files": ["m-aut-jor.md", "m-aut-jor-2.md"],
+    "files": [
+      "m-aut-jor.md",
+      "m-aut-jor-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-por-cod",
     "date": "2026-06-18",
-    "files": ["m-por-cod.md", "m-por-cod-2.md"],
+    "files": [
+      "m-por-cod.md",
+      "m-por-cod-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-eng-cro",
     "date": "2026-06-18",
-    "files": ["m-eng-cro.md", "m-eng-cro-2.md"],
+    "files": [
+      "m-eng-cro.md",
+      "m-eng-cro-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-gha-pan",
     "date": "2026-06-18",
-    "files": ["m-gha-pan.md", "m-gha-pan-2.md"],
+    "files": [
+      "m-gha-pan.md",
+      "m-gha-pan-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   },
   {
     "id": "m-uzb-col",
     "date": "2026-06-18",
-    "files": ["m-uzb-col.md", "m-uzb-col-2.md"],
+    "files": [
+      "m-uzb-col.md",
+      "m-uzb-col-2.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null
   }

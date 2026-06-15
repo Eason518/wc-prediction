@@ -183,10 +183,10 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 /* ── Hero ── */
 #hero {
   background: linear-gradient(135deg,#001a0a 0%,#0A0E1A 45%,#1a000a 100%);
-  padding: 18px 20px 0;
+  padding: 18px 16px 0;
   border-bottom: 1px solid var(--border);
 }
-#hero > * { max-width: 780px; margin: 0 auto; }
+#hero > * { max-width: 920px; margin: 0 auto; }
 
 #hero .hero-badge {
   font-size: 10px;
@@ -208,7 +208,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   align-items: center;
   gap: 18px;
   margin-bottom: 8px;
-  max-width: 780px;
+  max-width: 920px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -227,7 +227,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   font-size: 11px;
   color: var(--muted);
   text-align: center;
-  max-width: 780px;
+  max-width: 920px;
   margin: 0 auto;
 }
 .hero-ai-badge {
@@ -236,7 +236,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   justify-content: center;
   gap: 6px;
   margin: 7px auto 0;
-  max-width: 780px;
+  max-width: 920px;
   font-size: 10px;
   letter-spacing: 0.8px;
   color: #c4b5fd;
@@ -312,7 +312,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   flex-wrap: wrap;
   margin-top: 14px;
   border-top: 1px solid var(--border);
-  max-width: 780px;
+  max-width: 920px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -379,7 +379,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 #content {
   max-width: 920px;
   margin: 0 auto;
-  padding: 24px 18px 80px;
+  padding: 24px 16px 80px;
 }
 
 /* ── Section title ── */
@@ -637,7 +637,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   .score-row { grid-template-columns: 70px 1fr 1.4fr; font-size: 12px; }
   .pred-grid { grid-template-columns: repeat(2, 1fr); }
   .squad-meta { grid-template-columns: 1fr 1fr; }
-  #content { padding: 16px 12px 80px; }
+  #content { padding: 16px 16px 80px; }
   .verdict-num { font-size: 40px; }
   .battle-card { flex-direction: column; }
 }

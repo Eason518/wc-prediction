@@ -1,7 +1,8 @@
 // Parse match MD file into structured data
-export function parseMatchMD(text) {
+export function parseMatchMD(text, lang = 'zh') {
   const fm = parseFrontmatter(text);
   const sections = parseSections(text);
+  const s = (name) => getSection(sections, name, lang);
 
   return {
     id: fm.id,
@@ -26,19 +27,26 @@ export function parseMatchMD(text) {
       away: fm.actualScoreAway != null ? Number(fm.actualScoreAway) : 0,
     },
     aiModel: fm.aiModel || null,
-    homeNote: sections.home_note || '',
-    awayNote: sections.away_note || '',
-    oddsNote: sections.odds_note || '',
-    homeSquad: parseTable(sections.home_squad),
-    awaySquad: parseTable(sections.away_squad),
-    scorePredictions: parseTable(sections.score_predictions),
-    eventPreds: parseTable(sections.event_preds),
-    referee_data: parseReferee(sections.referee),
-    h2h: parseH2H(sections.h2h),
-    battles: parseTable(sections.battles),
-    summaryVerdict: sections.summary_verdict || '',
-    observations: parseTable(sections.observations),
+    homeNote: s('home_note'),
+    awayNote: s('away_note'),
+    oddsNote: s('odds_note'),
+    homeSquad: parseTable(s('home_squad')),
+    awaySquad: parseTable(s('away_squad')),
+    scorePredictions: parseTable(s('score_predictions')),
+    eventPreds: parseTable(s('event_preds')),
+    referee_data: parseReferee(s('referee')),
+    h2h: parseH2H(s('h2h')),
+    battles: parseTable(s('battles')),
+    summaryVerdict: s('summary_verdict'),
+    observations: parseTable(s('observations')),
   };
+}
+
+function getSection(sections, name, lang) {
+  return sections[`${name}:${lang}`]
+    ?? sections[`${name}:zh`]
+    ?? sections[name]
+    ?? '';
 }
 
 function parseFrontmatter(text) {

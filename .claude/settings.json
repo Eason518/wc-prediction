@@ -25,7 +25,14 @@
       "Bash(grep '\\\\.md$')",
       "Bash(python3 -c \"import opencc; print\\('opencc available'\\)\")",
       "Bash(pip3 install *)",
-      "Bash(python3 -c \"import opencc; cc = opencc.OpenCC\\('t2s'\\); print\\(cc.convert\\('賽事預測'\\)\\)\")"
+      "Bash(python3 -c \"import opencc; cc = opencc.OpenCC\\('t2s'\\); print\\(cc.convert\\('賽事預測'\\)\\)\")",
+      "Bash(grep \"\\\\.md$\")",
+      "Bash(grep \"\\\\.en\\\\.md$\")",
+      "Bash(xargs ls -la)",
+      "Bash(git -C /Users/eason.chen/Documents/GitHub/wc-prediction log --oneline)",
+      "Bash(node scripts/merge-match-files.mjs)",
+      "Bash(node scripts/merge-match-files.mjs --write)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173/wc-prediction/)"
     ],
     "additionalDirectories": [
       "/private/tmp/generated-assets",

@@ -22,16 +22,43 @@ predScoreAway: 1
 aiModel: GPT-5.5
 ---
 
-## home_note
+## home_note:zh
 比利時正處於黃金世代末期與新世代交替階段。Kevin De Bruyne 仍是國家隊核心，搭配 Doku、Trossard、De Ketelaere 等英超與歐洲五大聯賽主力。主帥 Rudi Garcia 強調高位壓迫與邊路突破，本屆世界盃被視為比利時最後一次由 De Bruyne 領銜衝擊佳績的機會。
 
-## away_note
+## home_note:en
+Belgium is in a transitional phase between the tail end of its golden generation and a new era. Kevin De Bruyne remains the national team's core, alongside Premier League and top-five-league regulars such as Doku, Trossard, and De Ketelaere. Head coach Rudi Garcia emphasizes high pressing and wide breakthroughs. This World Cup is seen as Belgium's last chance to challenge for a top result with De Bruyne at the helm.
+
+## home_note:zh-cn
+比利时正处于黄金世代末期与新世代交替阶段。Kevin De Bruyne 仍是国家队核心，搭配 Doku、Trossard、De Ketelaere 等英超与欧洲五大联赛主力。主帅 Rudi Garcia 强调高位压迫与边路突破，本届世界杯被视为比利时最后一次由 De Bruyne 领衔冲击佳绩的机会。
+
+## home_note:vi
+Bỉ đang ở giai đoạn chuyển giao giữa thế hệ vàng và thế hệ mới. Kevin De Bruyne vẫn là trụ cột của đội tuyển quốc gia, sát cánh cùng Doku, Trossard, De Ketelaere và các trụ cột từ Premier League và năm giải vô địch hàng đầu châu Âu. HLV Rudi Garcia nhấn mạnh pressing cao và đột phá từ hai cánh. World Cup lần này được xem là cơ hội cuối cùng để Bỉ, dưới sự dẫn dắt của De Bruyne, chinh phục thành tích cao nhất.
+
+## away_note:zh
 埃及自 2018 世界盃後再次回到世界最高舞台。Mohamed Salah 依然是國家隊絕對核心，與 Marmoush 組成非洲最具威脅的攻擊線之一。球隊風格偏向防守反擊，依靠 Salah 的速度與個人能力創造機會，力爭小組出線。
 
-## odds_note
+## away_note:en
+Egypt returns to the world's biggest stage for the first time since the 2018 World Cup. Mohamed Salah remains the undisputed focal point of the national team, forming one of Africa's most dangerous attacking partnerships with Marmoush. The team's style leans toward defensive counter-attacking, relying on Salah's pace and individual brilliance to create chances as they push to advance from the group stage.
+
+## away_note:zh-cn
+埃及自 2018 世界杯后再次回到世界最高舞台。Mohamed Salah 依然是国家队绝对核心，与 Marmoush 组成非洲最具威胁的攻击线之一。球队风格偏向防守反击，依靠 Salah 的速度与个人能力创造机会，力争小组出线。
+
+## away_note:vi
+Ai Cập trở lại sân chơi lớn nhất thế giới sau World Cup 2018. Mohamed Salah vẫn là tuyệt đối trung tâm của đội tuyển, cùng Marmoush tạo thành một trong những bộ đôi tấn công nguy hiểm nhất châu Phi. Phong cách chơi của đội thiên về phòng thủ phản công, dựa vào tốc độ và khả năng cá nhân của Salah để tạo cơ hội, quyết tâm giành vé đi tiếp từ vòng bảng.
+
+## odds_note:zh
 賠率顯示：比利時勝 2.05、平局 3.30、埃及勝 3.75。市場普遍看好比利時憑藉整體陣容深度與中場控制力取勝，但 Salah 的個人能力足以讓埃及保有爆冷機會。
 
-## home_squad
+## odds_note:en
+The odds read: Belgium win 2.05, Draw 3.30, Egypt win 3.75. The market generally favors Belgium thanks to their squad depth and midfield control, but Salah's individual quality is enough to keep an upset on the table for Egypt.
+
+## odds_note:zh-cn
+赔率显示：比利时胜 2.05、平局 3.30、埃及胜 3.75。市场普遍看好比利时凭借整体阵容深度与中场控制力取胜，但 Salah 的个人能力足以让埃及保有爆冷机会。
+
+## odds_note:vi
+Tỷ lệ cược: Bỉ thắng 2.05, hòa 3.30, Ai Cập thắng 3.75. Thị trường nhìn chung nghiêng về Bỉ nhờ chiều sâu đội hình tổng thể và khả năng kiểm soát tuyến giữa, nhưng khả năng cá nhân của Salah đủ để Ai Cập giữ nguyên cơ hội gây bất ngờ.
+
+## home_squad:zh
 
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -48,7 +75,58 @@ aiModel: GPT-5.5
 | ST | #17 | Charles De Ketelaere | Atalanta | 🇮🇹 | 15 | starter,team | false | 義甲明星，進攻核心之一。 |
 | FWD | 備援 | Romelu Lukaku | Napoli | 🇮🇹 | 17 | squad,worldstar | true | 世界盃經驗豐富，後備殺手。 |
 
-## away_squad
+## home_squad:en
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Thibaut Courtois | Real Madrid | 🇪🇸 | 1 | starter,worldstar | false | World-class goalkeeper and Real Madrid's No.1 — still Belgium's last line of defence. |
+| DEF | #21 | Timothy Castagne | Fulham | 🇬🇧 | 2 | starter | false | Premier League first-choice right back, solid at both ends. |
+| DEF | #4 | Wout Faes | Leicester City | 🇬🇧 | 3 | starter | false | Strong in the air, key figure in the defensive backline. |
+| DEF | #2 | Zeno Debast | Sporting CP | 🇵🇹 | 4 | starter,league | false | Representative of Belgium's new-generation centre-backs, with good organisational ability. |
+| DEF | #5 | Maxim De Cuyper | Club Brugge | 🇧🇪 | 3 | starter | false | An attacking-minded left back who loves to overlap. |
+| DM | #24 | Amadou Onana | Aston Villa | 🇬🇧 | 7 | starter,league | false | Premier League starting defensive midfielder with exceptional coverage range. |
+| DM | #8 | Youri Tielemans | Aston Villa | 🇬🇧 | 10 | starter,league | false | Midfield metronome with an excellent long-range shot. |
+| RW | #22 | Jeremy Doku | Manchester City | 🇬🇧 | 18 | starter,league | false | Premier League star winger with world-class dribbling ability. |
+| AM | #7 | Kevin De Bruyne | Napoli | 🇮🇹 | 22 | starter,worldstar | false | World-class central midfielder and the brain of the team. |
+| LW | #19 | Leandro Trossard | Arsenal | 🇬🇧 | 20 | starter,league | false | Premier League starter on the wing, highly efficient in front of goal. |
+| ST | #17 | Charles De Ketelaere | Atalanta | 🇮🇹 | 15 | starter,team | false | Serie A star and one of the key attacking threats. |
+| FWD | Sub | Romelu Lukaku | Napoli | 🇮🇹 | 17 | squad,worldstar | true | Wealth of World Cup experience, a dangerous impact substitute. |
+
+## home_squad:zh-cn
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Thibaut Courtois | Real Madrid | 🇪🇸 | 1 | starter,worldstar | false | 世界级门将，皇马主力，仍是比利时最后防线。 |
+| DEF | #21 | Timothy Castagne | Fulham | 🇬🇧 | 2 | starter | false | 英超主力右后卫，攻守平衡。 |
+| DEF | #4 | Wout Faes | Leicester City | 🇬🇧 | 3 | starter | false | 防空能力强，中后场核心。 |
+| DEF | #2 | Zeno Debast | Sporting CP | 🇵🇹 | 4 | starter,league | false | 新世代中卫代表，具组织能力。 |
+| DEF | #5 | Maxim De Cuyper | Club Brugge | 🇧🇪 | 3 | starter | false | 积极插上的左后卫。 |
+| DM | #24 | Amadou Onana | Aston Villa | 🇬🇧 | 7 | starter,league | false | 英超主力后腰，覆盖范围极大。 |
+| DM | #8 | Youri Tielemans | Aston Villa | 🇬🇧 | 10 | starter,league | false | 中场节拍器，远射能力优秀。 |
+| RW | #22 | Jeremy Doku | Manchester City | 🇬🇧 | 18 | starter,league | false | 英超明星边锋，突破能力世界级。 |
+| AM | #7 | Kevin De Bruyne | Napoli | 🇮🇹 | 22 | starter,worldstar | false | 世界级中场核心，球队大脑。 |
+| LW | #19 | Leandro Trossard | Arsenal | 🇬🇧 | 20 | starter,league | false | 英超主力翼锋，射门效率高。 |
+| ST | #17 | Charles De Ketelaere | Atalanta | 🇮🇹 | 15 | starter,team | false | 义甲明星，进攻核心之一。 |
+| FWD | 备援 | Romelu Lukaku | Napoli | 🇮🇹 | 17 | squad,worldstar | true | 世界杯经验丰富，后备杀手。 |
+
+## home_squad:vi
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Thibaut Courtois | Real Madrid | 🇪🇸 | 1 | starter,worldstar | false | Thủ môn đẳng cấp thế giới, trụ cột Real Madrid, vẫn là phòng tuyến cuối của Bỉ. |
+| DEF | #21 | Timothy Castagne | Fulham | 🇬🇧 | 2 | starter | false | Hậu vệ phải chính của Premier League, cân bằng tấn công lẫn phòng thủ. |
+| DEF | #4 | Wout Faes | Leicester City | 🇬🇧 | 3 | starter | false | Khả năng tranh chấp trên không tốt, trung tâm tuyến giữa hàng thủ. |
+| DEF | #2 | Zeno Debast | Sporting CP | 🇵🇹 | 4 | starter,league | false | Đại diện trung vệ thế hệ mới, có khả năng tổ chức trận đấu. |
+| DEF | #5 | Maxim De Cuyper | Club Brugge | 🇧🇪 | 3 | starter | false | Hậu vệ trái tích cực dâng lên hỗ trợ tấn công. |
+| DM | #24 | Amadou Onana | Aston Villa | 🇬🇧 | 7 | starter,league | false | Tiền vệ phòng ngự chính Premier League, khả năng bao phủ rất lớn. |
+| DM | #8 | Youri Tielemans | Aston Villa | 🇬🇧 | 10 | starter,league | false | Nhạc trưởng tuyến giữa, sút xa xuất sắc. |
+| RW | #22 | Jeremy Doku | Manchester City | 🇬🇧 | 18 | starter,league | false | Ngôi sao cánh phải Premier League, khả năng đột phá đẳng cấp thế giới. |
+| AM | #7 | Kevin De Bruyne | Napoli | 🇮🇹 | 22 | starter,worldstar | false | Tiền vệ trung tâm đẳng cấp thế giới, bộ não của đội. |
+| LW | #19 | Leandro Trossard | Arsenal | 🇬🇧 | 20 | starter,league | false | Tiền vệ cánh chính Premier League, hiệu suất dứt điểm cao. |
+| ST | #17 | Charles De Ketelaere | Atalanta | 🇮🇹 | 15 | starter,team | false | Ngôi sao Serie A, một trong những trụ cột tấn công. |
+| FWD | 備援 | Romelu Lukaku | Napoli | 🇮🇹 | 17 | squad,worldstar | true | Giàu kinh nghiệm World Cup, sát thủ từ băng ghế dự bị. |
+
+## away_squad:zh
 
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
@@ -65,7 +143,58 @@ aiModel: GPT-5.5
 | LW | #14 | Ibrahim Adel | Pyramids FC | 🇪🇬 | 10 | starter,team | false | 埃及新生代希望。 |
 | FWD | 備援 | Mostafa Mohamed | Nantes | 🇫🇷 | 11 | squad | true | 法甲中鋒，後備高空戰武器。 |
 
-## score_predictions
+## away_squad:en
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Mohamed El Shenawy | Al Ahly | 🇪🇬 | 1 | starter,team | false | Captain-level goalkeeper for the Egyptian national team. |
+| DEF | #2 | Mohamed Hany | Al Ahly | 🇪🇬 | 2 | starter | false | Reliable and consistent right back. |
+| DEF | #6 | Ahmed Hegazi | Neom SC | 🇸🇦 | 3 | starter,team | false | Veteran international and leader of the defensive line. |
+| DEF | #5 | Mohamed Abdelmonem | Nice | 🇫🇷 | 4 | starter,league | false | First-choice centre-back in Ligue 1. |
+| DEF | #13 | Ahmed Fattouh | Zamalek | 🇪🇬 | 2 | starter | false | Frequently contributes to attacks down the left flank. |
+| CM | #8 | Hamdy Fathy | Al Wakrah | 🇶🇦 | 5 | starter | false | Midfield interceptor. |
+| CM | #19 | Marwan Attia | Al Ahly | 🇪🇬 | 5 | starter | false | Key starter in the Egyptian midfield. |
+| CM | #17 | Mahmoud Trezeguet | Al Rayyan | 🇶🇦 | 12 | starter,team | false | An important attacking outlet for the national team. |
+| RW | #10 | Mohamed Salah | Liverpool | 🇬🇧 | 35 | starter,worldstar | false | World-class superstar and Egypt's absolute focal point. |
+| ST | #22 | Omar Marmoush | Manchester City | 🇬🇧 | 25 | starter,league | false | Premier League star striker in blazing form this season. |
+| LW | #14 | Ibrahim Adel | Pyramids FC | 🇪🇬 | 10 | starter,team | false | The hope of Egypt's new generation. |
+| FWD | Sub | Mostafa Mohamed | Nantes | 🇫🇷 | 11 | squad | true | Ligue 1 striker, aerial threat off the bench. |
+
+## away_squad:zh-cn
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Mohamed El Shenawy | Al Ahly | 🇪🇬 | 1 | starter,team | false | 埃及国家队队长级门将。 |
+| DEF | #2 | Mohamed Hany | Al Ahly | 🇪🇬 | 2 | starter | false | 稳定型右后卫。 |
+| DEF | #6 | Ahmed Hegazi | Neom SC | 🇸🇦 | 3 | starter,team | false | 资深国脚，中卫领袖。 |
+| DEF | #5 | Mohamed Abdelmonem | Nice | 🇫🇷 | 4 | starter,league | false | 法甲主力中卫。 |
+| DEF | #13 | Ahmed Fattouh | Zamalek | 🇪🇬 | 2 | starter | false | 左路进攻参与度高。 |
+| CM | #8 | Hamdy Fathy | Al Wakrah | 🇶🇦 | 5 | starter | false | 中场拦截者。 |
+| CM | #19 | Marwan Attia | Al Ahly | 🇪🇬 | 5 | starter | false | 埃及超主力中场。 |
+| CM | #17 | Mahmoud Trezeguet | Al Rayyan | 🇶🇦 | 12 | starter,team | false | 国家队重要攻击点。 |
+| RW | #10 | Mohamed Salah | Liverpool | 🇬🇧 | 35 | starter,worldstar | false | 世界级球星，埃及绝对核心。 |
+| ST | #22 | Omar Marmoush | Manchester City | 🇬🇧 | 25 | starter,league | false | 英超明星前锋，本季状态火热。 |
+| LW | #14 | Ibrahim Adel | Pyramids FC | 🇪🇬 | 10 | starter,team | false | 埃及新生代希望。 |
+| FWD | 备援 | Mostafa Mohamed | Nantes | 🇫🇷 | 11 | squad | true | 法甲中锋，后备高空战武器。 |
+
+## away_squad:vi
+
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Mohamed El Shenawy | Al Ahly | 🇪🇬 | 1 | starter,team | false | Thủ môn cấp đội trưởng của đội tuyển quốc gia Ai Cập. |
+| DEF | #2 | Mohamed Hany | Al Ahly | 🇪🇬 | 2 | starter | false | Hậu vệ phải ổn định. |
+| DEF | #6 | Ahmed Hegazi | Neom SC | 🇸🇦 | 3 | starter,team | false | Tuyển thủ kỳ cựu, thủ lĩnh hàng thủ. |
+| DEF | #5 | Mohamed Abdelmonem | Nice | 🇫🇷 | 4 | starter,league | false | Trung vệ chính của Ligue 1. |
+| DEF | #13 | Ahmed Fattouh | Zamalek | 🇪🇬 | 2 | starter | false | Mức độ tham gia tấn công từ cánh trái cao. |
+| CM | #8 | Hamdy Fathy | Al Wakrah | 🇶🇦 | 5 | starter | false | Tiền vệ chặn bóng tuyến giữa. |
+| CM | #19 | Marwan Attia | Al Ahly | 🇪🇬 | 5 | starter | false | Tiền vệ chính của giải đấu Ai Cập. |
+| CM | #17 | Mahmoud Trezeguet | Al Rayyan | 🇶🇦 | 12 | starter,team | false | Điểm tấn công quan trọng của đội tuyển quốc gia. |
+| RW | #10 | Mohamed Salah | Liverpool | 🇬🇧 | 35 | starter,worldstar | false | Siêu sao đẳng cấp thế giới, tuyệt đối trung tâm của Ai Cập. |
+| ST | #22 | Omar Marmoush | Manchester City | 🇬🇧 | 25 | starter,league | false | Tiền đạo ngôi sao Premier League, phong độ bùng nổ mùa này. |
+| LW | #14 | Ibrahim Adel | Pyramids FC | 🇪🇬 | 10 | starter,team | false | Niềm hy vọng thế hệ mới của Ai Cập. |
+| FWD | 備援 | Mostafa Mohamed | Nantes | 🇫🇷 | 11 | squad | true | Tiền đạo trung tâm Ligue 1, vũ khí tranh chấp trên không từ băng ghế dự bị. |
+
+## score_predictions:zh
 
 | score | result | prob | color | badge | winner |
 |-------|--------|------|-------|-------| ------- |
@@ -78,7 +207,46 @@ aiModel: GPT-5.5
 | 0-0 | 平局 | 7 | #6b7280 | | draw |
 | 其他 | — | 18 | #94a3b8 | | - |
 
-## event_preds
+## score_predictions:en
+
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇧🇪 | Belgium Win | 18 | #F97316 | Top Pick | home |
+| 1-1 | Draw | 15 | #6b7280 | 2nd Pick | draw |
+| 2-0 🇧🇪 | Belgium Win | 13 | #F97316 | | home |
+| 1-0 🇧🇪 | Belgium Win | 12 | #F97316 | | home |
+| 3-1 🇧🇪 | Belgium Win | 9 | #F97316 | | home |
+| 1-2 🇪🇬 | Egypt Win | 8 | #FACC15 | | away |
+| 0-0 | Draw | 7 | #6b7280 | | draw |
+| Others | — | 18 | #94a3b8 | | - |
+
+## score_predictions:zh-cn
+
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇧🇪 | 比利时胜 | 18 | #F97316 | 最高机率 | home |
+| 1-1 | 平局 | 15 | #6b7280 | 次高 | draw |
+| 2-0 🇧🇪 | 比利时胜 | 13 | #F97316 | | home |
+| 1-0 🇧🇪 | 比利时胜 | 12 | #F97316 | | home |
+| 3-1 🇧🇪 | 比利时胜 | 9 | #F97316 | | home |
+| 1-2 🇪🇬 | 埃及胜 | 8 | #FACC15 | | away |
+| 0-0 | 平局 | 7 | #6b7280 | | draw |
+| 其他 | — | 18 | #94a3b8 | | - |
+
+## score_predictions:vi
+
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------| ------- |
+| 2-1 🇧🇪 | Bỉ Thắng | 18 | #F97316 | Cao Nhất | home |
+| 1-1 | Hòa | 15 | #6b7280 | Thứ 2 | draw |
+| 2-0 🇧🇪 | Bỉ Thắng | 13 | #F97316 | | home |
+| 1-0 🇧🇪 | Bỉ Thắng | 12 | #F97316 | | home |
+| 3-1 🇧🇪 | Bỉ Thắng | 9 | #F97316 | | home |
+| 1-2 🇪🇬 | Ai Cập Thắng | 8 | #FACC15 | | away |
+| 0-0 | Hòa | 7 | #6b7280 | | draw |
+| Khác | — | 18 | #94a3b8 | | - |
+
+## event_preds:zh
 
 | icon | value | label | detail |
 |------|-------|-------|--------|
@@ -87,7 +255,34 @@ aiModel: GPT-5.5
 | 🟥 | 0–1 | 預測紅牌數 | 紅牌機率偏低，但若 Salah 遭針對性防守可能提高衝突。 |
 | ⚠️ | 20–25 | 裁判犯規數/場 | 世界盃平均執法尺度估計。 |
 
-## referee
+## event_preds:en
+
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | Predicted Corners | Belgium's frequent wide play means Doku and Trossard are expected to generate a high volume of corners. |
+| 🟡 | 3–5 | Predicted Yellow Cards | World Cup openers tend to be cautious, but midfield battles should be intense. |
+| 🟥 | 0–1 | Predicted Red Cards | Red card probability is low, though targeted marking of Salah could raise the risk of confrontations. |
+| ⚠️ | 20–25 | Referee Fouls per Match | Estimated based on average World Cup officiating standards. |
+
+## event_preds:zh-cn
+
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | 预测角球数 | 比利时边路进攻频繁，Doku、Trossard 预计制造大量角球。 |
+| 🟡 | 3–5 | 预测黄牌数 | 世界杯首战通常较保守，但中场对抗激烈。 |
+| 🟥 | 0–1 | 预测红牌数 | 红牌机率偏低，但若 Salah 遭针对性防守可能提高冲突。 |
+| ⚠️ | 20–25 | 裁判犯规数/场 | 世界杯平均执法尺度估计。 |
+
+## event_preds:vi
+
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 8–11 | Dự đoán số phạt góc | Bỉ tấn công biên thường xuyên, Doku và Trossard dự kiến tạo ra nhiều phạt góc. |
+| 🟡 | 3–5 | Dự đoán số thẻ vàng | Trận đầu World Cup thường thận trọng hơn, nhưng cuộc đối đầu tuyến giữa rất quyết liệt. |
+| 🟥 | 0–1 | Dự đoán số thẻ đỏ | Xác suất thẻ đỏ thấp, nhưng nếu Salah bị kèm chặt có thể làm tăng xung đột. |
+| ⚠️ | 20–25 | Số lần phạm lỗi trọng tài/trận | Ước tính dựa trên tiêu chuẩn thổi phạt trung bình tại World Cup. |
+
+## referee:zh
 
 - icon: ⚖️
 - name: TBD
@@ -103,7 +298,55 @@ aiModel: GPT-5.5
 | 均牌/場 | 3.8 | #60a5fa |
 | 均犯規/場 | ~22 | #60a5fa |
 
-## h2h
+## referee:en
+
+- icon: ⚖️
+- name: TBD
+- country: To be announced by FIFA
+- note: As of the time of analysis, FIFA has not yet confirmed the official referee, so the figures below are estimated based on average World Cup officiating standards.
+
+| stat | value | color |
+|------|-------|-------|
+| Matches Officiated | TBA | #F1F5F9 |
+| Total Yellow Cards | TBA | #EAB308 |
+| Yellow-Reds | TBA | orange |
+| Total Red Cards | TBA | #EF4444 |
+| Avg Cards/Match | 3.8 | #60a5fa |
+| Avg Fouls/Match | ~22 | #60a5fa |
+
+## referee:zh-cn
+
+- icon: ⚖️
+- name: TBD
+- country: FIFA 指派待公布
+- note: 截至分析时间 FIFA 尚未公布正式主裁判，因此以下数据依世界杯平均执法尺度估算。
+
+| stat | value | color |
+|------|-------|-------|
+| 执法场次 | TBA | #F1F5F9 |
+| 黄牌总数 | TBA | #EAB308 |
+| 黄红牌 | TBA | orange |
+| 红牌总数 | TBA | #EF4444 |
+| 均牌/场 | 3.8 | #60a5fa |
+| 均犯规/场 | ~22 | #60a5fa |
+
+## referee:vi
+
+- icon: ⚖️
+- name: TBD
+- country: FIFA chỉ định - chưa công bố
+- note: Tính đến thời điểm phân tích, FIFA chưa công bố trọng tài chính thức, vì vậy các số liệu dưới đây được ước tính dựa trên tiêu chuẩn thổi phạt trung bình tại World Cup.
+
+| stat | value | color |
+|------|-------|-------|
+| Số trận thổi phạt | TBA | #F1F5F9 |
+| Tổng số thẻ vàng | TBA | #EAB308 |
+| Thẻ vàng-đỏ | TBA | orange |
+| Tổng số thẻ đỏ | TBA | #EF4444 |
+| Thẻ TB/trận | 3.8 | #60a5fa |
+| Phạm lỗi TB/trận | ~22 | #60a5fa |
+
+## h2h:zh
 
 - title: 歷史交鋒紀錄
 - homeWins: 2
@@ -111,7 +354,31 @@ aiModel: GPT-5.5
 - awayWins: 1
 - note: 雙方正式賽事交手不多，比利時近年整體實力較強，但埃及擁有 Salah 這類可單獨改變比賽的球員。
 
-## battles
+## h2h:en
+
+- title: Head-to-Head Record
+- homeWins: 2
+- draws: 1
+- awayWins: 1
+- note: The two sides have met infrequently in official competition. Belgium has been the stronger side in recent years overall, but Egypt possesses a player in Salah who is capable of changing a game single-handedly.
+
+## h2h:zh-cn
+
+- title: 历史交锋纪录
+- homeWins: 2
+- draws: 1
+- awayWins: 1
+- note: 双方正式赛事交手不多，比利时近年整体实力较强，但埃及拥有 Salah 这类可单独改变比赛的球员。
+
+## h2h:vi
+
+- title: Lịch sử đối đầu
+- homeWins: 2
+- draws: 1
+- awayWins: 1
+- note: Hai đội không có nhiều trận đấu chính thức, Bỉ nhìn chung mạnh hơn trong những năm gần đây, nhưng Ai Cập có Salah - cầu thủ có thể thay đổi cục diện trận đấu một mình.
+
+## battles:zh
 
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
@@ -120,7 +387,34 @@ aiModel: GPT-5.5
 | Mohamed Salah | 🇪🇬 RW | Maxim De Cuyper | 🇧🇪 LB | Salah 的個人突破能力決定埃及進攻上限。 |
 | Omar Marmoush | 🇪🇬 ST | Courtois | 🇧🇪 GK | 埃及主要得分點對決世界級門將。 |
 
-## summary_verdict
+## battles:en
+
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Kevin De Bruyne | 🇧🇪 AM | Hamdy Fathy | 🇪🇬 DM | A world-class midfielder against Egypt's defensive engine — the battle for midfield control will be decisive. |
+| Jeremy Doku | 🇧🇪 RW | Ahmed Fattouh | 🇪🇬 LB | Doku's pace and dribbling will be Egypt's biggest challenge to contain. |
+| Mohamed Salah | 🇪🇬 RW | Maxim De Cuyper | 🇧🇪 LB | Salah's ability to beat his man will determine the ceiling of Egypt's attack. |
+| Omar Marmoush | 🇪🇬 ST | Courtois | 🇧🇪 GK | Egypt's primary scoring threat goes up against a world-class goalkeeper. |
+
+## battles:zh-cn
+
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Kevin De Bruyne | 🇧🇪 AM | Hamdy Fathy | 🇪🇬 DM | 世界级中场对上埃及防守核心，中场控制权关键。 |
+| Jeremy Doku | 🇧🇪 RW | Ahmed Fattouh | 🇪🇬 LB | Doku 的速度与盘带将是埃及最大考验。 |
+| Mohamed Salah | 🇪🇬 RW | Maxim De Cuyper | 🇧🇪 LB | Salah 的个人突破能力决定埃及进攻上限。 |
+| Omar Marmoush | 🇪🇬 ST | Courtois | 🇧🇪 GK | 埃及主要得分点对决世界级门将。 |
+
+## battles:vi
+
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Kevin De Bruyne | 🇧🇪 AM | Hamdy Fathy | 🇪🇬 DM | Tiền vệ đẳng cấp thế giới đối đầu trụ cột phòng thủ Ai Cập, then chốt kiểm soát tuyến giữa. |
+| Jeremy Doku | 🇧🇪 RW | Ahmed Fattouh | 🇪🇬 LB | Tốc độ và khả năng rê dắt của Doku sẽ là thách thức lớn nhất cho Ai Cập. |
+| Mohamed Salah | 🇪🇬 RW | Maxim De Cuyper | 🇧🇪 LB | Khả năng đột phá cá nhân của Salah quyết định giới hạn tấn công của Ai Cập. |
+| Omar Marmoush | 🇪🇬 ST | Courtois | 🇧🇪 GK | Điểm ghi bàn chính của Ai Cập đối đầu thủ môn đẳng cấp thế giới. |
+
+## summary_verdict:zh
 
 比利時整體陣容深度、五大聯賽主力比例以及中場控制力均優於埃及。De Bruyne、Doku、Trossard 三人組能夠持續製造進攻壓力。
 
@@ -130,7 +424,37 @@ aiModel: GPT-5.5
 
 預測：Belgium 2-1 Egypt
 
-## observations
+## summary_verdict:en
+
+Belgium's overall squad depth, proportion of top-five-league starters, and midfield control are all superior to Egypt's. The trio of De Bruyne, Doku, and Trossard can sustain relentless attacking pressure throughout the match.
+
+Egypt's greatest advantage lies in the counter-attacking threat posed by Salah and Marmoush. If Belgium's defensive line pushes too high, Egypt can strike at pace at any moment and find the net.
+
+Assessing the overall statistics, player market values, world rankings, and attacking creativity, Belgium has a slightly higher probability of winning — but this is unlikely to be a comfortable game.
+
+Prediction: Belgium 2-1 Egypt
+
+## summary_verdict:zh-cn
+
+比利时整体阵容深度、五大联赛主力比例以及中场控制力均优于埃及。De Bruyne、Doku、Trossard 三人组能够持续制造进攻压力。
+
+埃及最大的优势在于 Salah 与 Marmoush 的反击威胁，只要比利时防线压得过高，埃及随时可能利用速度取得进球。
+
+从整体数据、球员身价、世界排名以及进攻创造力评估，比利时胜面略高，但预计不会是轻松的比赛。
+
+预测：Belgium 2-1 Egypt
+
+## summary_verdict:vi
+
+Chiều sâu đội hình tổng thể, tỷ lệ trụ cột từ năm giải hàng đầu và khả năng kiểm soát tuyến giữa của Bỉ đều vượt trội Ai Cập. Bộ ba De Bruyne, Doku, Trossard có thể liên tục tạo áp lực tấn công.
+
+Lợi thế lớn nhất của Ai Cập nằm ở mối đe dọa phản công từ Salah và Marmoush - chỉ cần hàng thủ Bỉ dâng quá cao, Ai Cập có thể tận dụng tốc độ ghi bàn bất cứ lúc nào.
+
+Đánh giá từ số liệu tổng thể, giá trị cầu thủ, thứ hạng FIFA và khả năng sáng tạo tấn công, Bỉ có tỷ lệ thắng nhỉnh hơn, nhưng dự kiến đây sẽ không phải trận đấu dễ dàng.
+
+Dự đoán: Belgium 2-1 Egypt
+
+## observations:zh
 
 | title | detail |
 |-------|--------|
@@ -140,3 +464,36 @@ aiModel: GPT-5.5
 | 🔥 Marmoush 狀態火熱 | 近兩季進球效率大幅提升。 |
 | 🛡️ Courtois 關鍵 | 若比利時遭遇反擊，Courtois 將成為勝負手。 |
 | 🏆 G組出線戰 | 本場很可能直接影響小組第一歸屬。 |
+
+## observations:en
+
+| title | detail |
+|-------|--------|
+| ⭐ De Bruyne's Last Dance | The 35-year-old De Bruyne is very likely playing in his final World Cup. |
+| 👑 Salah Leads the Way | Almost every Egyptian attacking move revolves around Salah. |
+| ⚡ Doku's Explosive Potential | The Manchester City winger is the biggest attacking spark in this match. |
+| 🔥 Marmoush in Red-Hot Form | His scoring efficiency has improved dramatically over the past two seasons. |
+| 🛡️ Courtois is the Key | If Belgium face a counter-attack, Courtois could be the decisive factor between winning and losing. |
+| 🏆 Group G Advancement Battle | This match is very likely to directly determine who finishes top of the group. |
+
+## observations:zh-cn
+
+| title | detail |
+|-------|--------|
+| ⭐ De Bruyne 最后一舞 | 35 岁的 De Bruyne 很可能迎来最后一次世界杯。 |
+| 👑 Salah 领军 | 埃及几乎所有进攻都围绕 Salah 展开。 |
+| ⚡ Doku 爆点 | Manchester City 边锋是本场最大突破点。 |
+| 🔥 Marmoush 状态火热 | 近两季进球效率大幅提升。 |
+| 🛡️ Courtois 关键 | 若比利时遭遇反击，Courtois 将成为胜负手。 |
+| 🏆 G组出线战 | 本场很可能直接影响小组第一归属。 |
+
+## observations:vi
+
+| title | detail |
+|-------|--------|
+| ⭐ Vũ điệu cuối của De Bruyne | De Bruyne 35 tuổi rất có thể đang trải qua World Cup cuối cùng trong sự nghiệp. |
+| 👑 Salah dẫn dắt đội | Hầu hết các pha tấn công của Ai Cập đều xoay quanh Salah. |
+| ⚡ Điểm bùng nổ của Doku | Tiền vệ cánh Manchester City là điểm đột phá lớn nhất trận này. |
+| 🔥 Marmoush đang trong phong độ bùng nổ | Hiệu suất ghi bàn cải thiện đáng kể trong hai mùa gần đây. |
+| 🛡️ Courtois là chìa khóa | Nếu Bỉ bị phản công, Courtois sẽ là nhân tố quyết định kết quả. |
+| 🏆 Trận chiến vé đi tiếp bảng G | Trận đấu này rất có thể trực tiếp ảnh hưởng đến việc ai giành ngôi đầu bảng. |

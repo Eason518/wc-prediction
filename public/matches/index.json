@@ -107,8 +107,8 @@
       "m-esp-cpv.md",
       "m-esp-cpv-2.md"
     ],
-    "actualScoreHome": 0,
-    "actualScoreAway": 0,
+    "actualScoreHome": null,
+    "actualScoreAway": null,
     "stage": "group-stage"
   },
   {

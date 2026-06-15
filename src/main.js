@@ -12,9 +12,20 @@ const $hero = document.getElementById('hero');
 const $tabs = document.getElementById('tabs');
 const $content = document.getElementById('content');
 
+function scrollActiveIntoView(containerSelector, activeSelector) {
+  const container = $nav.querySelector(containerSelector);
+  const active = container?.querySelector(activeSelector);
+  if (!container || !active) return;
+  const scrollTarget = active.offsetLeft - (container.offsetWidth - active.offsetWidth) / 2;
+  container.scrollLeft = Math.max(0, scrollTarget);
+}
+
 function update() {
   const st = getState();
   $nav.innerHTML = renderNav();
+  scrollActiveIntoView('.nav-stages', '.stage-btn.active');
+  scrollActiveIntoView('.nav-dates', '.date-btn.active');
+  scrollActiveIntoView('.nav-chips', '.chip-btn.active');
   $hero.innerHTML = renderHero();
   $tabs.innerHTML = renderTabs();
 

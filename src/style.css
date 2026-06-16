@@ -42,7 +42,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 /* Brand */
 .nav-brand {
   padding: 10px 16px 6px;
-  max-width: 1120px;
+  max-width: 920px;
   margin: 0 auto;
   white-space: nowrap;
   line-height: 1;
@@ -149,7 +149,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   display: flex;
   gap: 6px;
   padding: 8px 16px 4px;
-  max-width: 1120px;
+  max-width: 920px;
   margin: 0 auto;
 }
 .stage-btn {
@@ -172,7 +172,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   display: flex;
   gap: 8px;
   padding: 4px 16px 8px;
-  max-width: 1120px;
+  max-width: 920px;
   margin: 0 auto;
 }
 .date-btn {
@@ -196,7 +196,7 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
   display: flex;
   gap: 8px;
   padding: 0 16px 10px;
-  max-width: 1120px;
+  max-width: 920px;
   margin: 0 auto;
 }
 .chip-btn {

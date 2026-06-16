@@ -491,6 +491,27 @@ Australia's 2-0 win over Turkey showed their defensive organization is no joke. 
 
 Prediction: 2-0 USA win. Home atmosphere, Balogun's continued form, and Reyna adding the creative spark — Australia will defend bravely for spells but cannot hold out.
 
+## summary_verdict:zh-cn
+美国以地主优势、首战 4-1 大胜的高涨士气迎战澳大利亚。西雅图主场近 7 万球迷的噪音将成为第 12 人，Balogun 的进球灵感正旺，Pulisic 体能若无碍将全力出击。4-2-3-1 阵型创造力十足，Adams 与 McKennie 双后腰防控稳固。
+
+澳大利亚首战 2-0 胜土耳其，显示整体组织力不弱，Irankunda 速度反击具威胁，Souttar 与 Burgess 的高中卫组合在定位球有优势。但个人实力与大赛资历差距仍大。
+
+预测：2-0 美国胜。美国主场气氛加持，Balogun 延续状态，Reyna 创造力补充第二点。澳大利亚后防可能顽强抵抗一段时间，但难阻美国进球。
+
+## summary_verdict:vi
+Mỹ bước vào trận đấu với cơn sóng sau chiến thắng 4-1 trước Paraguay, với bầu không khí sân nhà Seattle đóng vai người thứ 12. Balogun đang ở phong độ xuất thần, và Pulisic — nếu hoàn toàn bình phục — sẽ quyết tâm tiếp tục ghi bàn. Hệ thống 4-2-3-1 sáng tạo tạo ra chiều rộng và chiều sâu, với Adams và McKennie là tấm chắn đáng tin cậy.
+
+Chiến thắng 2-0 của Australia trước Thổ Nhĩ Kỳ cho thấy tổ chức phòng thủ của họ không phải chuyện đùa. Tốc độ phản công của Irankunda là mối đe dọa thực sự, và cặp trung vệ Souttar-Burgess mang lại lợi thế trong các tình huống cố định. Nhưng khoảng cách về chất lượng cá nhân và kinh nghiệm thi đấu lớn vẫn còn đáng kể.
+
+Dự đoán: Mỹ thắng 2-0. Bầu không khí sân nhà, phong độ liên tục của Balogun, và tia sáng sáng tạo của Reyna — Australia sẽ phòng thủ dũng cảm trong những quãng thời gian nhất định nhưng không thể cầm cự được.
+
+## summary_verdict:th
+สหรัฐฯ เข้าสู่การแข่งขันด้วยคลื่นโมเมนตัมหลังจากการชนะอย่างยับเยินด้วยสกอร์ 4-1 เหนือปารากวัย โดยมีบรรยากาศสนามเหย้าซีแอตเทิลทำหน้าที่เป็นผู้เล่นคนที่ 12 Balogun อยู่ในฟอร์มสดใสสุดขีด และ Pulisic — ถ้าฟิตเต็มที่ — จะมุ่งมั่นที่จะเพิ่มสถิติประตูของตัวเอง ระบบ 4-2-3-1 ที่สร้างสรรค์มอบความกว้างและความลึก โดยมี Adams และ McKennie เป็นกำแพงที่เชื่อถือได้
+
+ชัยชนะ 2-0 ของออสเตรเลียเหนือตุรกีแสดงให้เห็นว่าองค์กรการป้องกันของพวกเขาไม่ใช่เรื่องตลก ความเร็วโต้กลับของ Irankunda เป็นภัยคุกคามที่แท้จริง และคู่กองหลังกลาง Souttar-Burgess มอบความได้เปรียบในเซตพีซ แต่ช่องว่างในคุณภาพส่วนบุคคลและประสบการณ์เกมใหญ่ยังคงมีนัยสำคัญ
+
+พยากรณ์: สหรัฐฯ ชนะ 2-0 บรรยากาศสนามเหย้า ฟอร์มต่อเนื่องของ Balogun และประกายความคิดสร้างสรรค์ของ Reyna — ออสเตรเลียจะป้องกันอย่างกล้าหาญในบางช่วงแต่ไม่สามารถยืนหยัดได้
+
 ## observations:zh
 | title | detail |
 |-------|--------|
@@ -510,3 +531,33 @@ Prediction: 2-0 USA win. Home atmosphere, Balogun's continued form, and Reyna ad
 | 🔥 Pulisic Fitness Doubt | Substituted at halftime in the opener as a precaution — whether he starts here is the USA's biggest variable. |
 | 🚀 Irankunda's Pace Threat | The 20-year-old sensation's explosive speed is Australia's counter-attack core — can he exploit the USA's high defensive line? |
 | 🎯 Set-Piece Danger | Souttar (2m) anchors Australia's threat from corners and free kicks — the USA must be alert at dead balls. |
+
+## observations:zh-cn
+| title | detail |
+|-------|--------|
+| 🏠 西雅图主场优势 | 近 7 万球迷，球场噪音世界知名，美国主场气势加持巨大。 |
+| ⚡ Balogun 状态火热 | 首战梅开二度，1930 年后首位美国双响球员，射手灵感正旺。 |
+| 🟢 澳大利亚首战佳绩 | 2-0 胜土耳其，防守组织强，不容轻视的潜在爆冷者。 |
+| 🔥 Pulisic 体能存疑 | 首战下半场保护换出，出场状态是美国最大变数。 |
+| 🚀 Irankunda 速度威胁 | 20 岁天才翼锋速度爆炸，澳洲反击核心，挑战美国高位防线的关键。 |
+| 🎯 定位球大战 | Souttar（2 米）领军的澳洲后防在角球定位球有优势，美国需注意。 |
+
+## observations:vi
+| title | detail |
+|-------|--------|
+| 🏠 Pháo Đài Sân Nhà Seattle | Gần 70.000 cổ động viên tại một trong những sân vận động ồn nhất thế giới — lợi thế sân nhà là yếu tố đáng kể. |
+| ⚡ Balogun Đang Bùng Cháy | Hai bàn trong trận đầu, người Mỹ đầu tiên ghi đôi trong một trận World Cup kể từ năm 1930 — tiền đạo này đang trong trạng thái xuất thần. |
+| 🟢 Australia Khởi Đầu Đáng Khích Lệ | Chiến thắng 2-0 trước Thổ Nhĩ Kỳ cho thấy tổ chức phòng thủ vững chắc; Australia không thể bị xem nhẹ. |
+| 🔥 Nghi Ngờ Về Thể Lực của Pulisic | Bị thay ra lúc nghỉ giải lao ở trận đầu như một biện pháp phòng ngừa — liệu anh ấy có ra sân không là biến số lớn nhất của Mỹ. |
+| 🚀 Mối Đe Dọa Tốc Độ của Irankunda | Tốc độ bùng nổ của tài năng 20 tuổi này là cốt lõi phản công của Australia — liệu anh có thể khai thác hàng thủ dâng cao của Mỹ? |
+| 🎯 Nguy Hiểm từ Tình Huống Cố Định | Souttar (2m) là trụ cột đe dọa của Australia từ các tình huống phạt góc và đá phạt — Mỹ phải cảnh giác khi bóng chết. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🏠 ป้อมปราการสนามเหย้าซีแอตเทิล | เกือบ 70,000 คนในหนึ่งในสนามที่เสียงดังที่สุดในโลก — ความได้เปรียบในบ้านเป็นปัจจัยสำคัญ |
+| ⚡ Balogun อยู่ในฟอร์มสุดร้อนแรง | สองประตูในเกมแรก ชาวอเมริกันคนแรกที่ทำสองประตูในเกม World Cup นับตั้งแต่ปี 1930 — สไตรเกอร์คนนี้กำลังอยู่ในสภาพสมบูรณ์ |
+| 🟢 ออสเตรเลียเริ่มต้นได้ดีน่าชื่นชม | ชนะ 2-0 เหนือตุรกีแสดงให้เห็นถึงองค์กรการป้องกันที่แข็งแกร่ง ออสเตรเลียไม่ควรถูกประเมินต่ำเกินไป |
+| 🔥 ความสงสัยเรื่องสมรรถภาพของ Pulisic | ถูกเปลี่ยนออกในช่วงพักครึ่งของเกมแรกเพื่อป้องกัน — ว่าเขาจะลงสนามที่นี่หรือไม่คือตัวแปรที่ใหญ่ที่สุดของสหรัฐฯ |
+| 🚀 ภัยคุกคามความเร็วของ Irankunda | ความเร็วระเบิดของดาวเด่นอายุ 20 ปีคือแกนหลักการโต้กลับของออสเตรเลีย — เขาสามารถใช้ประโยชน์จากแนวรับสูงของสหรัฐฯ ได้หรือไม่? |
+| 🎯 อันตรายจากเซตพีซ | Souttar (2 เมตร) เป็นแกนหลักภัยคุกคามของออสเตรเลียจากมุมเตะและฟรีคิก — สหรัฐฯ ต้องระวังในสถานการณ์บอลหยุด |

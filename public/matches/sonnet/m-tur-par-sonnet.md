@@ -491,6 +491,13 @@ Paraguay's morale took a heavy blow from their 1-4 defeat to the USA, but their 
 
 Prediction: 2-1 Turkey win. Turkey's individual quality edge should show under pressure, with Çalhanoğlu needing to step up and Güler likely to be the decisive factor. Paraguay may score on the counter but cannot hold on for a full result.
 
+## summary_verdict:zh-cn
+土耳其首战 0-2 负澳大利亚令人失望，尤其是 Çalhanoğlu 和年轻攻击线未能发挥应有水准。但论阵容深度、联赛资历与个人能力，土耳其明显优于巴拉圭。Güler 的天才一闪、Kenan Yıldız 的技术优势都可能是比赛关键。这是土耳其 24 年后重返世界杯必须打好的一仗，心理压力是最大变数。
+
+巴拉圭 1-4 负美国首战影响士气，但防守组织以 Gustavo Gomez 为核心仍具竞争力。Diego Gómez 是有能力在中场主导比赛的球员。若巴拉圭能抓住反击机会，爆冷并非不可能。
+
+预测：2-1 土耳其胜。土耳其个人实力优势需在压力下展现，Çalhanoğlu 此役必须站出来领导球队，Güler 或成决定性因素。巴拉圭可能反击得分，但难以取得全胜。
+
 ## summary_verdict:vi
 Thất bại 0-2 trước Australia của Thổ Nhĩ Kỳ thật đáng thất vọng, đặc biệt khi Çalhanoğlu và hàng tấn công trẻ không thể hiện được phong độ thường ngày. Nhưng về độ sâu đội hình, kinh nghiệm giải đấu châu Âu và chất lượng cá nhân, Thổ Nhĩ Kỳ rõ ràng vượt trội hơn Paraguay. Thiên tài của Güler, sự vượt trội kỹ thuật của Yıldız và tầm hoạt động của Çalhanoğlu đều có thể mang tính quyết định. Đây là trận đấu Thổ Nhĩ Kỳ không thể thua sau 24 năm vắng bóng tại World Cup — áp lực tâm lý là biến số lớn nhất.
 
@@ -524,6 +531,16 @@ Dự đoán: Thổ Nhĩ Kỳ thắng 2-1. Lợi thế chất lượng cá nhân 
 | ⚽ Diego Gómez's European Quality | The Brighton midfielder is Paraguay's highest-quality player — whether he can match Turkey's midfield core is the key question. |
 | 🔥 Paraguay's Counter-Attack Danger | The combination of Almirón's veteran craftiness and Enciso's explosive speed means a fast counter can catch Turkey's defense off guard. |
 | 🏟️ Neutral Venue | At Levi's Stadium there is no significant home crowd advantage for either side — this becomes a pure contest of quality and nerve. |
+
+## observations:zh-cn
+| title | detail |
+|-------|--------|
+| ⚡ Güler 决定性因素 | 皇马天才本赛季欧冠启示，首战表现受限，本场是他展示真实水准的时刻。 |
+| 🚨 两队背水一战 | 首战均告负，本场输者几乎确定出局，比赛强度与心理压力将极高。 |
+| 🎯 Çalhanoğlu 必须出位 | 队长首战表现欠佳，作为土耳其中场灵魂本场必须展示领袖素质。 |
+| ⚽ Diego Gómez 欧洲牌 | 布莱顿中场是巴拉圭最高水平球员，能否对抗土耳其中场核心是关键。 |
+| 🔥 巴拉圭反击威胁 | Almirón 老辣与 Enciso 爆发力结合，反击速度可令土耳其后防失措。 |
+| 🏟️ 中立赛场 | 圣克拉拉球场无明显球迷优势方，纯粹技术与心理层面对决。 |
 
 ## observations:vi
 | title | detail |

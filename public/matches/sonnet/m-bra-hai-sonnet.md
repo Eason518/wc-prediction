@@ -491,6 +491,27 @@ Haiti's return to the World Cup is a miracle in itself, but the gulf in class ag
 
 Prediction: 4-0 Brazil win. Brazil need a statement result after their opener, and Vinicius, Raphinha, and possibly Neymar will all get in on the act. A score above three goals is highly probable. Haiti keeping a clean sheet is close to impossible.
 
+## summary_verdict:zh-cn
+巴西首战 1-1 平摩洛哥虽让球迷稍感意外，但个人实力依然豪华无比。对阵海地此役是一场必赢的补课机会——Vinícius 的速度、Raphinha 的状态、Neymar 的灵感（若首发）都可能在 90 分钟内砍瓜切菜。Ancelotti 需要本场大胜重拾积分优势。
+
+海地重返世界杯是奇迹，但与五届冠军的实力差距实在过大。联赛质量、个人能力、大赛经验全面落后。最理想策略是深沟高垒守住零失球尽可能长时间，已是道德胜利。
+
+预测：4-0 巴西胜。巴西首战后强烈需要大胜，Vinicius、Raphinha 各入一球，Neymar 加分，比分很可能超过 3 个。海地零失球机率接近零。
+
+## summary_verdict:vi
+Trận hòa 1-1 của Brazil với Morocco ở vòng mở màn gây bất ngờ cho nhiều người, nhưng chất lượng cá nhân của đội này vẫn còn phi thường. Trận đấu với Haiti là cơ hội phải thắng để quay lại đúng hướng — tốc độ của Vinicius, phong độ của Raphinha, và cảm hứng của Neymar (nếu ra sân chính) đều có thể đóng góp vào một tỷ số rất lớn trong 90 phút. Ancelotti cần chiến thắng lớn để khôi phục hiệu số bàn thắng và động lực nhóm.
+
+Sự trở lại của Haiti với World Cup tự nó là một kỳ tích, nhưng khoảng cách về đẳng cấp so với đội vô địch năm lần quá lớn. Sự chênh lệch về chất lượng giải đấu, năng lực cá nhân, và kinh nghiệm thi đấu lớn là toàn diện. Tham vọng thực tế nhất của họ là giữ chặt càng lâu càng tốt — điều đó tự nó sẽ là chiến thắng tinh thần.
+
+Dự đoán: Brazil thắng 4-0. Brazil cần một kết quả gây ấn tượng sau vòng mở màn, và Vinicius, Raphinha, và có thể cả Neymar sẽ góp phần. Tỷ số trên ba bàn là rất có khả năng. Haiti giữ sạch lưới gần như là không thể.
+
+## summary_verdict:th
+การเสมอ 1-1 ของบราซิลกับโมร็อกโกในเกมแรกทำให้หลายคนประหลาดใจ แต่คุณภาพส่วนบุคคลของทีมนี้ยังคงน่าทึ่ง เกมกับเฮตินี้เป็นโอกาสที่ต้องชนะเพื่อกลับมาสู่เส้นทางที่ถูกต้อง — ความเร็วของ Vinicius ฟอร์มของ Raphinha และแรงบันดาลใจของ Neymar (ถ้าลงสนาม) ล้วนสามารถมีส่วนร่วมในการทำสกอร์ขนาดใหญ่ภายใน 90 นาที Ancelotti ต้องการชัยชนะครั้งใหญ่เพื่อฟื้นฟูสถิติประตูและโมเมนตัมของกลุ่ม
+
+การกลับมาของเฮติสู่ World Cup ถือเป็นปาฏิหาริย์ในตัวมันเอง แต่ความแตกต่างในระดับความสามารถเทียบกับแชมป์โลกห้าสมัยนั้นใหญ่มากเกินไป ความแตกต่างในคุณภาพลีก ความสามารถส่วนบุคคล และประสบการณ์การแข่งขันในเกมใหญ่นั้นครอบคลุมทุกด้าน ความทะเยอทะยานที่เป็นจริงที่สุดของพวกเขาคือการรับมืออย่างแน่นหนาให้นานที่สุดเท่าที่จะทำได้ ซึ่งในตัวมันเองก็ถือเป็นชัยชนะทางศีลธรรม
+
+พยากรณ์: บราซิลชนะ 4-0 บราซิลต้องการผลลัพธ์ที่น่าประทับใจหลังจากเกมแรก และ Vinicius, Raphinha และอาจรวมถึง Neymar จะมีส่วนร่วม สกอร์มากกว่าสามประตูมีความน่าจะเป็นสูงมาก เฮติรักษาประตูสะอาดนั้นแทบเป็นไปไม่ได้
+
 ## observations:zh
 | title | detail |
 |-------|--------|
@@ -510,3 +531,33 @@ Prediction: 4-0 Brazil win. Brazil need a statement result after their opener, a
 | 📊 Brazil Need a Big Win | The 1-1 draw means group pressure has increased; a large win here is important to restore goal difference and momentum. |
 | 🌟 Endrick's Moment | If the young forward starts, he is likely to contribute goals and announce himself to the world. |
 | 🧤 Haiti Goalkeeper's Test | Josué Duverger faces a relentless wave of world-class attackers — his individual performance may produce moments of inspiration. |
+
+## observations:zh-cn
+| title | detail |
+|-------|--------|
+| 🌟 Vinicius 复仇模式 | 首战 1-1 后 Vinicius 急欲大量进球，预计本场火力全开。 |
+| 🔙 Neymar 传奇回归 | 79 球神奇职业生涯，最后世界杯，若首发将制造万众瞩目焦点。 |
+| 🇭🇹 海地奇迹之旅 | 52 年后重返世界杯，本身就是历史性成就，一切胜利都是加分。 |
+| 📊 巴西需大胜 | 首战 1-1 使得积分压力增加，本场需要大胜并改善净球差。 |
+| 🌟 Endrick 新星时刻 | 年轻前锋若首发有望贡献进球，展示新一代巴西人的才能。 |
+| 🧤 海地门将考验 | Josué Duverger 面对世界级前锋浪潮，个人表现可能创造奇迹。 |
+
+## observations:vi
+| title | detail |
+|-------|--------|
+| 🌟 Vinicius trong Chế Độ Báo Thù | Sau trận hòa 1-1 ở vòng mở màn, Vinicius sẽ khao khát ghi nhiều bàn — dự kiến anh sẽ vô cùng quyết liệt trong trận này. |
+| 🔙 Neymar Trở Lại Huyền Thoại | Với 79 bàn thắng trong sự nghiệp quốc tế ở kỳ World Cup cuối có thể, nếu ra sân anh sẽ là tâm điểm chú ý của thế giới. |
+| 🇭🇹 Hành Trình Kỳ Diệu của Haiti | Trở lại World Cup sau 52 năm là thành tích lịch sử — mọi khoảnh khắc tích cực đều sẽ được tán dương. |
+| 📊 Brazil Cần Thắng Đậm | Trận hòa 1-1 khiến áp lực ở bảng đấu tăng lên; một chiến thắng lớn là cần thiết để cải thiện hiệu số bàn thắng và động lực. |
+| 🌟 Khoảnh Khắc của Endrick | Nếu tiền đạo trẻ này ra sân chính, anh có khả năng ghi bàn và giới thiệu tên tuổi với thế giới. |
+| 🧤 Thử Thách cho Thủ Môn Haiti | Josué Duverger đối mặt với làn sóng tấn công đẳng cấp thế giới — màn trình diễn cá nhân của anh có thể tạo ra những khoảnh khắc xuất thần. |
+
+## observations:th
+| title | detail |
+|-------|--------|
+| 🌟 Vinicius ในโหมดแก้แค้น | หลังจากเสมอ 1-1 ในเกมแรก Vinicius จะหิวโหยที่จะทำประตูมาก ๆ — คาดว่าเขาจะไม่หยุดพัก |
+| 🔙 การกลับมาในตำนานของ Neymar | ด้วย 79 ประตูในอาชีพระดับนานาชาติในสิ่งที่น่าจะเป็น World Cup ครั้งสุดท้าย ถ้าเขาลงสนามเขาจะเป็นจุดสนใจของโลก |
+| 🇭🇹 การเดินทางอันมหัศจรรย์ของเฮติ | การกลับสู่ World Cup หลังจาก 52 ปีเป็นความสำเร็จทางประวัติศาสตร์ในตัวเอง — ทุกช่วงเวลาเชิงบวกจะได้รับการเฉลิมฉลอง |
+| 📊 บราซิลต้องการชัยชนะครั้งใหญ่ | การเสมอ 1-1 ทำให้แรงกดดันในกลุ่มเพิ่มขึ้น การชนะครั้งใหญ่ที่นี่เป็นสิ่งสำคัญเพื่อฟื้นฟูสถิติประตูและโมเมนตัม |
+| 🌟 ช่วงเวลาของ Endrick | ถ้านักเตะหนุ่มคนนี้ลงสนามจริง เขามีแนวโน้มที่จะทำประตูและแนะนำตัวเองให้โลกรู้จัก |
+| 🧤 การทดสอบของประตูเฮติ | Josué Duverger ต้องเผชิญกับคลื่นกองหน้าระดับโลก — ผลงานส่วนตัวของเขาอาจสร้างช่วงเวลาที่ยอดเยี่ยม |

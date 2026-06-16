@@ -149,8 +149,8 @@
       "m-fra-sen.md",
       "m-fra-sen-2.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wc2026-prediction.postqueue.net/sitemap.xml

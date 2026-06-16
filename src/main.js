@@ -3,9 +3,23 @@ import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, 
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary } from './render.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 
+const BANNER_LINKS = {
+  zh: 'https://037go.nufrel.com/mqfzxmywyy6n',
+  'zh-cn': 'https://037go.nufrel.com/mqfzxmywyy6n',
+  en: 'https://037go.nufrel.com/mqfzxmywyy6n',
+  th: 'https://037go.tlndor.com/mqfzzhkpbf0a',
+  vi: 'https://037go.nufrel.com/mqfzyp59bmvt',
+};
+
+function syncBanner(lang) {
+  const img = document.getElementById('banner-img');
+  const link = document.getElementById('banner-link');
+  if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
+  if (link) link.href = BANNER_LINKS[lang] || BANNER_LINKS.en;
+}
+
 // Sync: set banner src immediately based on stored lang, before any async operations
-const $bannerImg = document.getElementById('banner-img');
-if ($bannerImg) $bannerImg.src = `${import.meta.env.BASE_URL}banners/banner-${getLang()}.png`;
+syncBanner(getLang());
 
 const $nav = document.getElementById('nav');
 const $hero = document.getElementById('hero');
@@ -109,8 +123,7 @@ async function init() {
     await loadData();
     subscribe(update);
     onLangChange(lang => {
-      const img = document.getElementById('banner-img');
-      if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
+      syncBanner(lang);
       reloadMatchData().then(update);
     });
     update();

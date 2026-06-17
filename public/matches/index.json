@@ -267,7 +267,26 @@
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 0,
-    "stage": "group-stage"
+    "stage": "group-stage",
+    "liveStats": {
+      "possession": [45, 50],
+      "possession_contested": 5,
+      "goals": [3, 0],
+      "attempts_total": [10, 7],
+      "attempts_on": [6, 0],
+      "attempts_off": [4, 4],
+      "passes": [571, 619],
+      "passes_completed": [513, 554],
+      "crosses": [5, 7],
+      "crosses_completed": [1, 0],
+      "corners": [2, 2],
+      "free_kicks": [8, 16],
+      "yellow_cards": [0, 0],
+      "red_cards": [0, 0],
+      "fouls": [13, 7],
+      "offsides": [3, 1],
+      "forced_turnovers": [22, 21]
+    }
   },
   {
     "id": "m-aut-jor",

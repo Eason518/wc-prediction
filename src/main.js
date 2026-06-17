@@ -60,6 +60,54 @@ const HERO_CTA_BTN = {
   vi: 'Nhận Thưởng Ngay →',
 };
 
+const FOOTER_CTA_TITLE = {
+  zh: '準備好在世界盃 2026 大贏了嗎？',
+  'zh-cn': '准备好在世界杯 2026 大赢了吗？',
+  en: 'Ready to Win on World Cup 2026?',
+  th: 'พร้อมชนะ World Cup 2026 แล้วหรือยัง?',
+  vi: 'Sẵn Sàng Thắng Lớn World Cup 2026?',
+};
+
+const FOOTER_CTA_SUB = {
+  zh: '加入數千名球迷，使用 AI 預測找到超值賠率 — 限新會員專屬歡迎禮金',
+  'zh-cn': '加入数千名球迷，使用 AI 预测找到超值赔率 — 限新会员专属欢迎礼金',
+  en: 'Join thousands of fans using AI predictions to find value bets — exclusive welcome bonus for new members.',
+  th: 'ร่วมกับแฟนบอลหลายพันคน ใช้ AI ทำนายหาพนันคุ้มค่า — โบนัสต้อนรับสำหรับสมาชิกใหม่',
+  vi: 'Cùng hàng nghìn fan bóng đá dùng AI dự đoán tìm cược giá trị — thưởng chào mừng dành cho thành viên mới.',
+};
+
+const FOOTER_CTA_BTN = {
+  zh: '領取歡迎獎金 →',
+  'zh-cn': '领取欢迎奖金 →',
+  en: 'Claim Welcome Bonus →',
+  th: 'รับโบนัสต้อนรับ →',
+  vi: 'Nhận Thưởng Chào Mừng →',
+};
+
+const FOOTER_CTA_NOTE = {
+  zh: '18+ · T&C 適用 · 請理性博彩',
+  'zh-cn': '18+ · T&C 适用 · 请理性博彩',
+  en: '18+ · T&Cs Apply · Please Gamble Responsibly',
+  th: '18+ · เงื่อนไขใช้บังคับ · โปรดพนันอย่างรับผิดชอบ',
+  vi: '18+ · T&Cs Áp Dụng · Hãy Cá Cược Có Trách Nhiệm',
+};
+
+const SPONSOR_TEXT_PRE = {
+  zh: '本站所有賽事預測與 AI 分析資訊，由',
+  'zh-cn': '本站所有赛事预测与 AI 分析资讯，由',
+  en: 'All predictions and AI analysis on this site are sponsored by',
+  th: 'การทำนายและการวิเคราะห์ AI ทั้งหมดบนเว็บไซต์นี้ได้รับการสนับสนุนโดย',
+  vi: 'Tất cả dự đoán và phân tích AI trên trang này được tài trợ bởi',
+};
+
+const SPONSOR_TEXT_POST = {
+  zh: '12BET 贊助提供 · 18+ · 博彩有風險，請量力而為',
+  'zh-cn': '12BET 赞助提供 · 18+ · 博彩有风险，请量力而为',
+  en: '12BET · 18+ · Gamble Responsibly',
+  th: '12BET · 18+ · โปรดพนันอย่างรับผิดชอบ',
+  vi: '12BET · 18+ · Hãy cá cược có trách nhiệm',
+};
+
 function syncBanner(lang) {
   const img = document.getElementById('banner-img');
   const link = document.getElementById('banner-link');
@@ -81,12 +129,27 @@ function syncBanner(lang) {
   const heroTitle = document.querySelector('#hero-cta-section .hero-cta-title');
   const heroSub = document.querySelector('#hero-cta-section .hero-cta-sub');
   const heroBtn = document.querySelector('#hero-cta-section .hero-cta-btn span');
-  const heroCta = document.querySelector('#hero-cta-section .hero-cta-btn');
+  const heroCta = document.getElementById('hero-cta-btn');
   if (heroBadge) heroBadge.textContent = HERO_CTA_BADGE[lang] || HERO_CTA_BADGE.en;
   if (heroTitle) heroTitle.textContent = HERO_CTA_TITLE[lang] || HERO_CTA_TITLE.en;
   if (heroSub) heroSub.textContent = HERO_CTA_SUB[lang] || HERO_CTA_SUB.en;
   if (heroBtn) heroBtn.textContent = HERO_CTA_BTN[lang] || HERO_CTA_BTN.en;
   if (heroCta) heroCta.href = href;
+
+  const footerTitle = document.getElementById('footer-cta-title');
+  const footerSub = document.getElementById('footer-cta-sub');
+  const footerBtn = document.getElementById('footer-cta-btn');
+  const footerBtnText = document.getElementById('footer-cta-btn-text');
+  const footerNote = document.getElementById('footer-cta-note');
+  const sponsorPre = document.getElementById('sponsor-text-pre');
+  const sponsorPost = document.getElementById('sponsor-text-post');
+  if (footerTitle) footerTitle.textContent = FOOTER_CTA_TITLE[lang] || FOOTER_CTA_TITLE.en;
+  if (footerSub) footerSub.textContent = FOOTER_CTA_SUB[lang] || FOOTER_CTA_SUB.en;
+  if (footerBtn) footerBtn.href = href;
+  if (footerBtnText) footerBtnText.textContent = FOOTER_CTA_BTN[lang] || FOOTER_CTA_BTN.en;
+  if (footerNote) footerNote.textContent = FOOTER_CTA_NOTE[lang] || FOOTER_CTA_NOTE.en;
+  if (sponsorPre) sponsorPre.textContent = SPONSOR_TEXT_PRE[lang] || SPONSOR_TEXT_PRE.en;
+  if (sponsorPost) sponsorPost.textContent = SPONSOR_TEXT_POST[lang] || SPONSOR_TEXT_POST.en;
 }
 
 // Sync: set banner src immediately based on stored lang, before any async operations
@@ -204,6 +267,8 @@ function bindCtaEvents() {
     { id: 'banner-link',   location: 'banner' },
     { id: 'promo-bar-btn', location: 'promo_bar' },
     { id: 'floating-cta',  location: 'floating_button' },
+    { id: 'footer-cta-btn', location: 'footer_cta' },
+    { id: 'hero-cta-btn',   location: 'hero_cta' },
   ].forEach(({ id, location }) => {
     document.getElementById(id)?.addEventListener('click', () => {
       trackEvent('cta_click', { location });

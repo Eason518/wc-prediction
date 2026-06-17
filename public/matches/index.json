@@ -402,8 +402,8 @@
       "opus/m-por-cod-opus.md",
       "sonnet/m-por-cod-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

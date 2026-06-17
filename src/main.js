@@ -116,16 +116,21 @@ function bindEvents() {
     btn.addEventListener('click', () => {
       const dateKey = btn.dataset.date;
       const first = getSchedule().find(m => matchLocalDateKey(m) === dateKey);
+      const matchId = first ? first.id : getState().matchId;
+      const m = getMatchVariants(matchId)[0];
+      const tab = m?.resultHits?.length ? 'result' : m?.liveStats ? 'stats' : 'summary';
       trackEvent('date_click', { date: dateKey });
-      setState({ dateKey, matchId: first ? first.id : getState().matchId, modelIndex: 0, tab: 'summary' });
+      setState({ dateKey, matchId, modelIndex: 0, tab });
     });
   });
 
   document.querySelectorAll('[data-match]').forEach(btn => {
     btn.addEventListener('click', () => {
       const matchId = btn.dataset.match;
+      const m = getMatchVariants(matchId)[0];
+      const tab = m?.resultHits?.length ? 'result' : m?.liveStats ? 'stats' : 'summary';
       trackEvent('match_click', { match_id: matchId });
-      setState({ matchId, modelIndex: 0, tab: 'summary' });
+      setState({ matchId, modelIndex: 0, tab });
     });
   });
 

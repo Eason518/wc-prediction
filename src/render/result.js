@@ -15,7 +15,11 @@ export function renderResult() {
     ? `<div class="result-badge result-badge-hit">✅ ${t('result.correct')}</div>`
     : `<div class="result-badge result-badge-miss">❌ ${t('result.miss')}</div>`;
 
-  const scoreCompare = `
+  const exactScore =
+    m.predScore.home === m.actualScore.home &&
+    m.predScore.away === m.actualScore.away;
+
+  const scoreCompare = exactScore ? `
     <div class="result-score-compare">
       <div class="result-score-card">
         <div class="result-score-label">${t('result.pred_score')}</div>
@@ -29,7 +33,7 @@ export function renderResult() {
           <span style="color:${ac}">${away.flag}</span>
         </div>
       </div>
-      <div class="result-score-arrow">${correct ? '✅' : '❌'}</div>
+      <div class="result-score-arrow">✅</div>
       <div class="result-score-card result-score-card-actual">
         <div class="result-score-label">${t('result.actual_score')}</div>
         <div class="result-score-nums">
@@ -43,7 +47,7 @@ export function renderResult() {
         </div>
       </div>
     </div>
-  `;
+  ` : '';
 
   const hits = (m.resultHits || []).map(item =>
     `<div class="result-hit-item">${item}</div>`

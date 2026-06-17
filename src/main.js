@@ -28,6 +28,38 @@ const GET_BONUS_TEXT = {
   vi: 'Nhận Thưởng',
 };
 
+const HERO_CTA_BADGE = {
+  zh: 'EXCLUSIVE OFFER',
+  'zh-cn': 'EXCLUSIVE OFFER',
+  en: 'EXCLUSIVE OFFER',
+  th: 'ข้อเสนอพิเศษ',
+  vi: 'ƯU ĐÃI ĐỘC QUYỀN',
+};
+
+const HERO_CTA_TITLE = {
+  zh: '用 AI 預測，贏在賠率之前',
+  'zh-cn': '用 AI 预测，赢在赔率之前',
+  en: 'Beat the Odds with AI Predictions',
+  th: 'เอาชนะราคาต่อรองด้วย AI',
+  vi: 'Chiến Thắng Tỷ Lệ Cược với AI',
+};
+
+const HERO_CTA_SUB = {
+  zh: '獲取世界盃 2026 每場賽事最佳賠率',
+  'zh-cn': '获取世界杯 2026 每场赛事最佳赔率',
+  en: 'Get the best odds on every World Cup 2026 match',
+  th: 'รับราคาต่อรองดีที่สุดในทุกนัด World Cup 2026',
+  vi: 'Nhận tỷ lệ cược tốt nhất cho mọi trận World Cup 2026',
+};
+
+const HERO_CTA_BTN = {
+  zh: '立即領取獎金 →',
+  'zh-cn': '立即领取奖金 →',
+  en: 'Get Bonus Now →',
+  th: 'รับโบนัสเลย →',
+  vi: 'Nhận Thưởng Ngay →',
+};
+
 function syncBanner(lang) {
   const img = document.getElementById('banner-img');
   const link = document.getElementById('banner-link');
@@ -44,6 +76,17 @@ function syncBanner(lang) {
   if (promoBarLabel) promoBarLabel.textContent = PROMO_BAR_TEXT[lang] || PROMO_BAR_TEXT.en;
   if (promoBarBtnText) promoBarBtnText.textContent = CLAIM_BONUS_TEXT[lang] || CLAIM_BONUS_TEXT.en;
   if (getBonusText) getBonusText.textContent = GET_BONUS_TEXT[lang] || GET_BONUS_TEXT.en;
+
+  const heroBadge = document.querySelector('#hero-cta-section .hero-cta-badge');
+  const heroTitle = document.querySelector('#hero-cta-section .hero-cta-title');
+  const heroSub = document.querySelector('#hero-cta-section .hero-cta-sub');
+  const heroBtn = document.querySelector('#hero-cta-section .hero-cta-btn span');
+  const heroCta = document.querySelector('#hero-cta-section .hero-cta-btn');
+  if (heroBadge) heroBadge.textContent = HERO_CTA_BADGE[lang] || HERO_CTA_BADGE.en;
+  if (heroTitle) heroTitle.textContent = HERO_CTA_TITLE[lang] || HERO_CTA_TITLE.en;
+  if (heroSub) heroSub.textContent = HERO_CTA_SUB[lang] || HERO_CTA_SUB.en;
+  if (heroBtn) heroBtn.textContent = HERO_CTA_BTN[lang] || HERO_CTA_BTN.en;
+  if (heroCta) heroCta.href = href;
 }
 
 // Sync: set banner src immediately based on stored lang, before any async operations

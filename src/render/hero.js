@@ -50,6 +50,10 @@ export function renderHero() {
 
   const isPlaceholder = m.placeholder || m.homeCode === 'TBD';
 
+  const predResultHtml = m.predictionCorrect != null
+    ? `<div class="hero-pred-result ${m.predictionCorrect ? 'pred-hit' : 'pred-miss'}">${m.predictionCorrect ? '✅' : '❌'} ${m.predictionCorrect ? t('hero.pred_hit') : t('hero.pred_miss')}</div>`
+    : '';
+
   return `
     <div class="hero-badge">FIFA WORLD CUP 2026${m.group ? ` · ${t('hero.group')} ${m.group}` : ''} · ${t('stage.' + (m.stage || 'group-stage'))}</div>
     <div class="hero-teams">
@@ -59,6 +63,7 @@ export function renderHero() {
       </div>
       <div class="hero-vs">
         ${isLive ? `<div class="hero-live-badge"><span class="hero-live-dot"></span>${t('hero.live')}</div>` : ''}
+        ${predResultHtml}
         <div class="actual-score">
           <span style="color:${h.color}">${m.actualScore.home}</span>
           <span class="actual-score-sep">–</span>

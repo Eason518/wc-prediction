@@ -28,6 +28,8 @@ const locales = {
     'hero.cd.mins': (m) => `${m} 分鐘後開賽`,
     'hero.live': '直播',
     'hero.group': '小組',
+    'hero.pred_hit': '預測命中',
+    'hero.pred_miss': '預測失準',
 
     'tabs.summary': '🏆 總結',
     'tabs.players': '球員',
@@ -142,6 +144,8 @@ const locales = {
     'hero.cd.mins': (m) => `Kickoff in ${m}m`,
     'hero.live': 'LIVE',
     'hero.group': 'GROUP',
+    'hero.pred_hit': 'Prediction Hit',
+    'hero.pred_miss': 'Prediction Miss',
 
     'tabs.summary': '🏆 Summary',
     'tabs.players': 'Players',
@@ -256,6 +260,8 @@ const locales = {
     'hero.cd.mins': (m) => `${m} 分钟后开赛`,
     'hero.live': '直播',
     'hero.group': '小组',
+    'hero.pred_hit': '预测命中',
+    'hero.pred_miss': '预测失准',
 
     'tabs.summary': '🏆 总结',
     'tabs.players': '球员',
@@ -370,6 +376,8 @@ const locales = {
     'hero.cd.mins': (m) => `Khai cuộc sau ${m}p`,
     'hero.live': 'TRỰC TIẾP',
     'hero.group': 'BẢNG',
+    'hero.pred_hit': 'Dự Đoán Đúng',
+    'hero.pred_miss': 'Dự Đoán Sai',
 
     'tabs.summary': '🏆 Tổng Kết',
     'tabs.players': 'Cầu Thủ',
@@ -484,6 +492,8 @@ const locales = {
     'hero.cd.mins': (m) => `เตะใน ${m}น`,
     'hero.live': 'สด',
     'hero.group': 'กลุ่ม',
+    'hero.pred_hit': 'ทำนายถูก',
+    'hero.pred_miss': 'ทำนายผิด',
 
     'tabs.summary': '🏆 สรุป',
     'tabs.players': 'นักเตะ',

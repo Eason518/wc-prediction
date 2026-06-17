@@ -1,5 +1,5 @@
 import './style.css';
-import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey } from './store.js';
+import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS } from './config.js';
@@ -84,7 +84,7 @@ function update() {
 }
 
 function trackEvent(name, params) {
-  if (typeof gtag === 'function') gtag('event', name, params);
+  if (typeof gtag === 'function') gtag('event', name, { lang: getLang(), ...params });
 }
 
 function bindEvents() {
@@ -120,7 +120,9 @@ function bindEvents() {
   document.querySelectorAll('[data-model]').forEach(btn => {
     btn.addEventListener('click', () => {
       const modelIndex = Number(btn.dataset.model);
-      trackEvent('model_click', { model_index: modelIndex });
+      const variants = getMatchVariants(getState().matchId);
+      const modelName = variants[modelIndex]?.aiModel || `Model ${modelIndex + 1}`;
+      trackEvent('model_click', { model_name: modelName, model_index: modelIndex });
       setState({ modelIndex });
     });
   });
@@ -152,13 +154,16 @@ function bindEvents() {
     });
   });
 
+}
+
+function bindCtaEvents() {
   [
     { id: 'banner-link',   location: 'banner' },
     { id: 'promo-bar-btn', location: 'promo_bar' },
     { id: 'floating-cta',  location: 'floating_button' },
   ].forEach(({ id, location }) => {
     document.getElementById(id)?.addEventListener('click', () => {
-      trackEvent('cta_click', { location, lang: getLang() });
+      trackEvent('cta_click', { location });
     });
   });
 }
@@ -185,6 +190,7 @@ async function init() {
       reloadMatchData().then(update);
     });
     update();
+    bindCtaEvents();
     const promoBar = document.getElementById('promo-bar');
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');

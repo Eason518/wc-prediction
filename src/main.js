@@ -4,11 +4,21 @@ import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSumm
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS } from './config.js';
 
+const BANNER_CTA_TEXT = {
+  zh: '立即加入 →',
+  'zh-cn': '立即加入 →',
+  en: 'Join Now →',
+  th: 'คลิกเลย →',
+  vi: 'Tham gia ngay →',
+};
+
 function syncBanner(lang) {
   const img = document.getElementById('banner-img');
   const link = document.getElementById('banner-link');
+  const ctaText = document.getElementById('banner-cta-text');
   if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
   if (link) link.href = BANNER_LINKS[lang] || BANNER_LINKS.en;
+  if (ctaText) ctaText.textContent = BANNER_CTA_TEXT[lang] || BANNER_CTA_TEXT.en;
 }
 
 // Sync: set banner src immediately based on stored lang, before any async operations

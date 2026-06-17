@@ -233,21 +233,64 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 }
 #banner-link {
   display: block;
+  position: relative;
   max-width: 920px;
   margin: 0 auto;
   border-radius: 10px;
   overflow: hidden;
-  transition: opacity 0.15s, transform 0.15s;
+  transition: box-shadow 0.2s, transform 0.2s;
+  box-shadow: 0 0 0 0 rgba(245,158,11,0);
 }
 #banner-link:hover {
-  opacity: 0.9;
-  transform: scale(1.005);
+  transform: scale(1.008);
+  box-shadow: 0 0 24px rgba(245,158,11,0.35);
 }
 #banner-img {
   width: 100%;
   height: auto;
   display: block;
   border-radius: 10px;
+}
+
+/* CTA overlay */
+.banner-cta-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: 10px 14px;
+  pointer-events: none;
+}
+.banner-cta-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
+  color: #0A0E1A;
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.4px;
+  border-radius: 999px;
+  box-shadow: 0 0 14px rgba(245,158,11,0.55), 0 2px 8px rgba(0,0,0,0.4);
+  animation: banner-cta-pulse 2.2s ease-in-out infinite;
+  white-space: nowrap;
+  user-select: none;
+}
+@keyframes banner-cta-pulse {
+  0%, 100% { box-shadow: 0 0 10px rgba(245,158,11,0.45), 0 2px 8px rgba(0,0,0,0.4); transform: scale(1); }
+  50%       { box-shadow: 0 0 22px rgba(245,158,11,0.9), 0 2px 8px rgba(0,0,0,0.4);  transform: scale(1.05); }
+}
+#banner-link:hover .banner-cta-btn {
+  background: linear-gradient(135deg, #FCD34D 0%, #F59E0B 100%);
+  box-shadow: 0 0 28px rgba(245,158,11,1), 0 2px 8px rgba(0,0,0,0.4);
+  animation-play-state: paused;
+  transform: scale(1.08);
+}
+@media (max-width: 480px) {
+  .banner-cta-btn { font-size: 10px; padding: 5px 10px; gap: 4px; }
+  .banner-cta-overlay { padding: 7px 10px; }
 }
 
 /* ── Hero ── */

@@ -13,7 +13,8 @@ function syncBanner(lang) {
   const getBonusBtn = document.getElementById('floating-cta');
   const getBonusText = document.getElementById('get-bonus-text');
   const href = BANNER_LINKS[lang] || BANNER_LINKS.en;
-  if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
+  const variant = window.innerWidth >= 768 ? 'desktop-' : '';
+  if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${variant}${lang}.png`;
   if (link) link.href = href;
   if (promoBarBtn) promoBarBtn.href = href;
   if (getBonusBtn) getBonusBtn.href = href;
@@ -50,6 +51,9 @@ function syncBanner(lang) {
 
 // Sync: set banner src immediately based on stored lang, before any async operations
 syncBanner(getLang());
+
+// Swap between desktop/mobile banner when viewport crosses 768px
+window.matchMedia('(min-width: 768px)').addEventListener('change', () => syncBanner(getLang()));
 
 const $nav = document.getElementById('nav');
 const $hero = document.getElementById('hero');

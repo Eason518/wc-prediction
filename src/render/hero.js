@@ -51,14 +51,14 @@ export function renderHero() {
   const isPlaceholder = m.placeholder || m.homeCode === 'TBD';
 
   return `
-    <div class="hero-badge">FIFA WORLD CUP 2026${m.group ? ` · GROUP ${m.group}` : ''} · ${t('stage.' + (m.stage || 'group-stage'))}</div>
+    <div class="hero-badge">FIFA WORLD CUP 2026${m.group ? ` · ${t('hero.group')} ${m.group}` : ''} · ${t('stage.' + (m.stage || 'group-stage'))}</div>
     <div class="hero-teams">
       <div class="hero-team">
         <div class="hero-flag">${h.flag}</div>
         <div class="hero-en" style="color:${h.color}">${h.en}</div>
       </div>
       <div class="hero-vs">
-        ${isLive ? '<div class="hero-live-badge"><span class="hero-live-dot"></span>LIVE</div>' : ''}
+        ${isLive ? `<div class="hero-live-badge"><span class="hero-live-dot"></span>${t('hero.live')}</div>` : ''}
         <div class="actual-score">
           <span style="color:${h.color}">${m.actualScore.home}</span>
           <span class="actual-score-sep">–</span>

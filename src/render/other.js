@@ -77,7 +77,7 @@ export function renderOther() {
         <div class="battle-name">${b.playerA}</div>
         <div class="battle-pos">${b.posA}</div>
       </div>
-      <div class="battle-vs">VS</div>
+      <div class="battle-vs">${t('battle.vs')}</div>
       <div class="battle-player">
         <div class="battle-name">${b.playerB}</div>
         <div class="battle-pos">${b.posB}</div>

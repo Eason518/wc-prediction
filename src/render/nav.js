@@ -48,7 +48,7 @@ export function renderNav() {
       <span class="chip-vs">vs</span>
       <span class="chip-code">${a.code}</span>
       <span class="chip-flag">${a.flag}</span>`}
-      ${isLive ? '<span class="chip-live">LIVE</span>' : ''}
+      ${isLive ? `<span class="chip-live">${t('hero.live')}</span>` : ''}
       <span class="chip-time${active ? ' chip-time-active' : ''}">${lt.time}</span>
     </button>`;
   }).join('');

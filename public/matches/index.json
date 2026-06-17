@@ -1731,7 +1731,94 @@
     "actualScoreHome": 4,
     "actualScoreAway": 2,
     "stage": "group-stage",
-    "predictionCorrect": true
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        49,
+        40
+      ],
+      "possession_contested": 11,
+      "goals": [
+        4,
+        2
+      ],
+      "attempts_total": [
+        21,
+        9
+      ],
+      "attempts_on": [
+        11,
+        5
+      ],
+      "attempts_off": [
+        6,
+        3
+      ],
+      "attempts_inside": [
+        19,
+        3
+      ],
+      "attempts_outside": [
+        2,
+        6
+      ],
+      "assists": [
+        3,
+        2
+      ],
+      "passes": [
+        482,
+        434
+      ],
+      "passes_completed": [
+        411,
+        369
+      ],
+      "crosses": [
+        13,
+        13
+      ],
+      "crosses_completed": [
+        6,
+        1
+      ],
+      "corners": [
+        8,
+        1
+      ],
+      "free_kicks": [
+        11,
+        10
+      ],
+      "penalties_scored": [
+        1,
+        0
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        9,
+        11
+      ],
+      "offsides": [
+        0,
+        1
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        20,
+        25
+      ]
+    }
   },
   {
     "id": "m-gha-pan",

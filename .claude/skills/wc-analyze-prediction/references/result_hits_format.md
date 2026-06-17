@@ -46,11 +46,50 @@ Five sections, one per language, in this order: `zh`, `en`, `zh-cn`, `vi`, `th`.
 - Tactical pattern played out (e.g. "high press worked", "counter-attack threat materialised")
 - Defensive outcome (e.g. "clean sheet held")
 - Underdog couldn't score as predicted
+- Stats prediction in range (corners, red cards — see Stats Bullets below)
 
 **⚠️ misses** — pick 1–2:
 - Scoreline underestimated / overestimated (always include if score differs)
 - Clean sheet predicted but opponent scored
 - Margin was tighter or wider than expected
+- Stats prediction out of range (yellow cards, fouls — see Stats Bullets below)
+
+## Stats Bullets
+
+When `liveStats` is available, add extra bullets for each stat that was predicted in `event_preds`.
+Only include a stat bullet if the prediction was meaningful (i.e. it actually had a range defined).
+
+**✅ stat hit format:**
+```
+zh:    ✅ 角球數命中（預測 {min}–{max}，實際 {actual} 個）
+en:    ✅ Corner count on target (predicted {min}–{max}, actual {actual})
+zh-cn: ✅ 角球数命中（预测 {min}–{max}，实际 {actual} 个）
+vi:    ✅ Số phạt góc trong tầm dự đoán (dự đoán {min}–{max}, thực tế {actual} cái)
+th:    ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย {min}–{max}, จริง {actual} ลูก)
+
+zh:    ✅ 紅牌預測正確（預測 {min}–{max}，實際 {actual} 張）
+en:    ✅ Red card prediction correct (predicted {min}–{max}, actual {actual})
+zh-cn: ✅ 红牌预测正确（预测 {min}–{max}，实际 {actual} 张）
+vi:    ✅ Dự đoán thẻ đỏ chính xác (dự đoán {min}–{max}, thực tế {actual} thẻ)
+th:    ✅ ทำนายใบแดงถูกต้อง (ทำนาย {min}–{max}, จริง {actual} ใบ)
+```
+
+**⚠️ stat miss format:**
+```
+zh:    ⚠️ 黃牌數{大幅}低於/高於預測（預測 {min}–{max}，實際 {actual} 張）
+en:    ⚠️ Yellow cards {far} below/above prediction (predicted {min}–{max}, actual {actual})
+zh-cn: ⚠️ 黄牌数{大幅}低于/高于预测（预测 {min}–{max}，实际 {actual} 张）
+vi:    ⚠️ Thẻ vàng {thấp hơn nhiều/cao hơn} dự đoán (dự đoán {min}–{max}, thực tế {actual} thẻ)
+th:    ⚠️ ใบเหลือง{ต่ำกว่าที่ทำนายมาก/สูงกว่า} (ทำนาย {min}–{max}, จริง {actual} ใบ)
+
+zh:    ⚠️ 犯規數低於/高於預測（預測 {min}–{max}，實際 {actual} 次）
+en:    ⚠️ Foul count below/above prediction (predicted {min}–{max}, actual {actual})
+zh-cn: ⚠️ 犯规数低于/高于预测（预测 {min}–{max}，实际 {actual} 次）
+vi:    ⚠️ Số lần phạm lỗi thấp hơn/cao hơn dự đoán (dự đoán {min}–{max}, thực tế {actual} lần)
+th:    ⚠️ จำนวนฟาวล์ต่ำกว่า/สูงกว่าที่ทำนาย (ทำนาย {min}–{max}, จริง {actual} ครั้ง)
+```
+
+Add **大幅/far** when the actual value is outside the range by more than 2 (e.g. predicted 4–6, actual 0 → "far below").
 
 ## Score Comparison Wording
 

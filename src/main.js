@@ -151,6 +151,16 @@ function bindEvents() {
       setLang(btn.dataset.lang);
     });
   });
+
+  [
+    { id: 'banner-link',   location: 'banner' },
+    { id: 'promo-bar-btn', location: 'promo_bar' },
+    { id: 'floating-cta',  location: 'floating_button' },
+  ].forEach(({ id, location }) => {
+    document.getElementById(id)?.addEventListener('click', () => {
+      trackEvent('cta_click', { location, lang: getLang() });
+    });
+  });
 }
 
 function syncStickyHeights() {

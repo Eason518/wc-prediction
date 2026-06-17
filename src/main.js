@@ -68,8 +68,13 @@ function scrollActiveIntoView(containerSelector, activeSelector) {
   container.scrollLeft = Math.max(0, scrollTarget);
 }
 
+let _prevMatchId = null;
+
 function update() {
   const st = getState();
+  const matchChanged = st.matchId !== _prevMatchId;
+  _prevMatchId = st.matchId;
+
   $nav.innerHTML = renderNav();
   scrollActiveIntoView('.nav-stages', '.stage-btn.active');
   scrollActiveIntoView('.nav-dates', '.date-btn.active');
@@ -85,7 +90,7 @@ function update() {
   else if (st.tab === 'summary') html = renderSummary();
   $content.innerHTML = html;
 
-  window.scrollTo({ top: 0 });
+  if (matchChanged) window.scrollTo({ top: 0 });
   bindEvents();
 }
 

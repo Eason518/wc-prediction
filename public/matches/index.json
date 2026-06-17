@@ -1722,8 +1722,8 @@
       "opus/m-gha-pan-opus.md",
       "sonnet/m-gha-pan-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

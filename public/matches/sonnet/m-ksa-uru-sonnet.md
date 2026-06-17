@@ -6,7 +6,7 @@ group: H
 matchday: GROUP STAGE
 venue: Hard Rock Stadium, Miami
 venueShort: Miami, USA
-status: upcoming
+status: completed
 homeCode: KSA
 awayCode: URU
 referee: Maurizio Mariani (ITA)

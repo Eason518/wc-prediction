@@ -6,7 +6,7 @@ group: H
 matchday: GROUP STAGE
 venue: Mercedes-Benz Stadium, Atlanta
 venueShort: Atlanta, USA
-status: upcoming
+status: completed
 homeCode: ESP
 awayCode: CPV
 referee: Wilmar Roldán (COL)

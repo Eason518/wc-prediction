@@ -6,7 +6,7 @@ group: G
 matchday: GROUP STAGE
 venue: SoFi Stadium, Inglewood (Los Angeles)
 venueShort: Los Angeles, USA
-status: upcoming
+status: completed
 homeCode: IRN
 awayCode: NZL
 referee: César Arturo Ramos Palazuelos (MEX)

@@ -6,7 +6,7 @@ group: G
 matchday: GROUP STAGE
 venue: Lumen Field, Seattle
 venueShort: Seattle, USA
-status: upcoming
+status: completed
 homeCode: BEL
 awayCode: EGY
 referee: Ramon Abatti Abel (BRA)

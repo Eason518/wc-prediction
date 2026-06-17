@@ -9,7 +9,12 @@
     "actualScoreAway": 1,
     "stage": "group-stage",
     "predictionCorrect": false,
-    "predictionHits": ["加拿大進1球", "角球", "紅牌", "1-1平局"],
+    "predictionHits": [
+      "加拿大進1球",
+      "角球",
+      "紅牌",
+      "1-1平局"
+    ],
     "liveStats": {
       "possession": [
         52,
@@ -1712,7 +1717,7 @@
       "opus/m-eng-cro-opus.md",
       "sonnet/m-eng-cro-sonnet.md"
     ],
-    "actualScoreHome": 2,
+    "actualScoreHome": 3,
     "actualScoreAway": 2,
     "stage": "group-stage"
   },

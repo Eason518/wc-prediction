@@ -557,37 +557,48 @@ Dự đoán: Thụy Điển 1–0 Tunisia, Gyökeres ghi bàn trong hiệp một
 - ✅ Gyökeres/Isak 雙前鋒組合如預期發威
 - ✅ 瑞典邊翼衛持續製造進攻機會
 - ✅ 突尼西亞防線最終在持續壓力下崩潰
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分大幅低估（預測 1-0，實際 5-1）
 - ⚠️ 突尼西亞意外破門，封關預期落空
-
+- ⚠️ 角球數低於預測（預測 7–10，實際 6 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 1 張）
 ## result_hits:en
 - ✅ Winner predicted correctly (Sweden win)
 - ✅ Gyökeres/Isak strike partnership delivered as expected
 - ✅ Sweden's wing-backs created constant crossing opportunities
 - ✅ Tunisia's defense eventually cracked under sustained pressure
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline heavily underestimated (predicted 1-0, actual 5-1)
 - ⚠️ Tunisia scored — clean sheet prediction missed
-
+- ⚠️ Corner count below prediction (predicted 7–10, actual 6)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 1)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测瑞典胜，实际瑞典胜）
 - ✅ Gyökeres/Isak 双前锋组合如预期发威
 - ✅ 瑞典边翼卫持续制造进攻机会
 - ✅ 突尼斯防线最终在持续压力下崩溃
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分大幅低估（预测 1-0，实际 5-1）
 - ⚠️ 突尼斯意外破门，封关预期落空
-
+- ⚠️ 角球数低于预测（预测 7–10，实际 6 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 1 张）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Thụy Điển thắng)
 - ✅ Bộ đôi tiền đạo Gyökeres/Isak phát huy đúng như dự đoán
 - ✅ Các cánh hậu vệ của Thụy Điển liên tục tạo cơ hội tấn công
 - ✅ Hàng thủ Tunisia cuối cùng sụp đổ dưới áp lực
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số bị đánh giá thấp đáng kể (dự đoán 1-0, thực tế 5-1)
 - ⚠️ Tunisia ghi bàn — dự đoán giữ sạch lưới không thành
-
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 7–10, thực tế 6 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 1 thẻ)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สวีเดนชนะ)
 - ✅ คู่หน้า Gyökeres/Isak แสดงพลังตามที่คาดการณ์
 - ✅ วิงแบ็กของสวีเดนสร้างโอกาสโจมตีอย่างต่อเนื่อง
 - ✅ แนวรับตูนิเซียพังทลายภายใต้แรงกดดันต่อเนื่อง
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ประเมินผลการแข่งขันต่ำเกินไปอย่างมาก (ทำนาย 1-0, จริง 5-1)
 - ⚠️ ตูนิเซียยิงประตูได้ — การทำนายเก็บคลีนชีทไม่เป็นจริง
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 7–10, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 1 ใบ)

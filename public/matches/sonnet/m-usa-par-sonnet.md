@@ -567,37 +567,48 @@ Dự đoán: Mỹ thắng 2-0. Bầu không khí sân nhà, lợi thế đội h
 - ✅ 美國主場優勢確立，全場強勢壓制
 - ✅ Balogun / Pulisic 得分，進攻雙核發威
 - ✅ 巴拉圭防線被攻破，未能守住
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分大幅低估（預測 2-0，實際 4-1）
 - ⚠️ 巴拉圭意外得分，未達封關預期
-
+- ⚠️ 角球數大幅低於預測（預測 8–11，實際 4 個）
+- ⚠️ 黃牌數高於預測（預測 3–5，實際 6 張）
 ## result_hits:en
 - ✅ Winner predicted correctly (USA win)
 - ✅ Home advantage confirmed — USA dominated throughout
 - ✅ Balogun / Pulisic scored as expected
 - ✅ Paraguay's defense was breached
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline underestimated (predicted 2-0, actual 4-1)
 - ⚠️ Paraguay scored unexpectedly — clean sheet prediction missed
-
+- ⚠️ Corner count far below prediction (predicted 8–11, actual 4)
+- ⚠️ Yellow cards above prediction (predicted 3–5, actual 6)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测美国胜，实际美国胜）
 - ✅ 美国主场优势确立，全场强势压制
 - ✅ Balogun / Pulisic 得分，进攻双核发威
 - ✅ 巴拉圭防线被攻破，未能守住
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分大幅低估（预测 2-0，实际 4-1）
 - ⚠️ 巴拉圭意外得分，未达封关预期
-
+- ⚠️ 角球数大幅低于预测（预测 8–11，实际 4 个）
+- ⚠️ 黄牌数高于预测（预测 3–5，实际 6 张）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Mỹ thắng)
 - ✅ Lợi thế sân nhà được khẳng định — Mỹ thống trị toàn trận
 - ✅ Balogun / Pulisic ghi bàn đúng như dự đoán
 - ✅ Hàng thủ Paraguay bị công phá
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-0, thực tế 4-1)
 - ⚠️ Paraguay ghi bàn ngoài dự kiến — dự đoán giữ sạch lưới không thành
-
+- ⚠️ Số phạt góc thấp hơn dự đoán  nhiều (dự đoán 8–11, thực tế 4 cái)
+- ⚠️ Thẻ vàng cao hơn dự đoán (dự đoán 3–5, thực tế 6 thẻ)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สหรัฐอเมริกาชนะ)
 - ✅ ข้อได้เปรียบสนามเหย้าได้รับการยืนยัน — สหรัฐฯ ครองเกมตลอด
 - ✅ Balogun / Pulisic ยิงประตูตามที่คาดการณ์
 - ✅ แนวรับของปารากวัยถูกทะลุทะลวง
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-0, จริง 4-1)
 - ⚠️ ปารากวัยยิงประตูโดยไม่คาดคิด — การทำนายเก็บคลีนชีทไม่เป็นจริง
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 8–11, จริง 4 ลูก)
+- ⚠️ ใบเหลืองสูงกว่าที่ทำนาย (ทำนาย 3–5, จริง 6 ใบ)

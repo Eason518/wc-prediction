@@ -562,37 +562,48 @@ Dự đoán: 0-2 Na Uy thắng. Iraq có thể kháng cự ngoan cường trong 
 - ✅ 哈蘭德如預測在世界盃首秀破門
 - ✅ 挪威全場主宰如預期
 - ✅ 伊拉克進攻威脅有限，未能撼動挪威防線
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分低估（預測 0-2，實際 1-4）
 - ⚠️ 伊拉克意外破門，封關預測落空
-
+- ⚠️ 角球數低於預測（預測 8–12，實際 7 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 1 張）
 ## result_hits:en
 - ✅ Winner predicted correctly (Norway win)
 - ✅ Haaland scored on his World Cup debut as predicted
 - ✅ Norway dominated the match throughout
 - ✅ Iraq's limited attack barely threatened Norway's defense
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline underestimated (predicted 0-2, actual 1-4)
 - ⚠️ Iraq scored — clean sheet prediction missed
-
+- ⚠️ Corner count below prediction (predicted 8–12, actual 7)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 1)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测挪威胜，实际挪威胜）
 - ✅ 哈兰德如预测在世界杯首秀破门
 - ✅ 挪威全场主宰如预期
 - ✅ 伊拉克进攻威胁有限，未能撼动挪威防线
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分低估（预测 0-2，实际 1-4）
 - ⚠️ 伊拉克意外破门，封关预测落空
-
+- ⚠️ 角球数低于预测（预测 8–12，实际 7 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 1 张）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Na Uy thắng)
 - ✅ Haaland ghi bàn trong lần đầu dự World Cup đúng như dự đoán
 - ✅ Na Uy thống trị trận đấu xuyên suốt như kỳ vọng
 - ✅ Tấn công hạn chế của Iraq không đe dọa được hàng thủ Na Uy
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-2, thực tế 1-4)
 - ⚠️ Iraq ghi bàn — dự đoán giữ sạch lưới không thành
-
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 8–12, thực tế 7 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 1 thẻ)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (นอร์เวย์ชนะ)
 - ✅ ฮาลันด์ยิงประตูในการลงสนาม World Cup ครั้งแรกตามที่คาดการณ์
 - ✅ นอร์เวย์ครองเกมตลอดการแข่งขันตามที่คาด
 - ✅ การโจมตีที่จำกัดของอิรักไม่สามารถคุกคามแนวรับนอร์เวย์ได้
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-2, จริง 1-4)
 - ⚠️ อิรักยิงประตูได้ — การทำนายเก็บคลีนชีทไม่เป็นจริง
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 8–12, จริง 7 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 1 ใบ)

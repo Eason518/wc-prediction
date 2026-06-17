@@ -567,32 +567,43 @@ Dự đoán: Pháp thắng 2-1. Hỏa lực tấn công của Pháp đủ sức 
 - ✅ 塞內加爾如預期破門，非封關勝
 - ✅ 姆巴佩如期發揮
 - ✅ 法國陣容深度壓制塞內加爾
+- ✅ 角球數命中（預測 9–12，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分略為低估（預測 2-1，實際 3-1）
-
+- ⚠️ 黃牌數大幅低於預測（預測 3–5，實際 0 張）
 ## result_hits:en
 - ✅ Winner predicted correctly (France win)
 - ✅ Senegal scored as predicted — not a clean sheet
 - ✅ Mbappé delivered as expected
 - ✅ France's squad depth proved decisive over Senegal
+- ✅ Corner count on target (predicted 9–12, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline slightly underestimated (predicted 2-1, actual 3-1)
-
+- ⚠️ Yellow cards far below prediction (predicted 3–5, actual 0)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测法国胜，实际法国胜）
 - ✅ 塞内加尔如预期破门，非封关胜
 - ✅ 姆巴佩如期发挥
 - ✅ 法国阵容深度压制塞内加尔
+- ✅ 角球数命中（预测 9–12，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分略为低估（预测 2-1，实际 3-1）
-
+- ⚠️ 黄牌数大幅低于预测（预测 3–5，实际 0 张）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Pháp thắng)
 - ✅ Senegal ghi bàn đúng như dự đoán — không phải trận thắng trắng
 - ✅ Mbappé thể hiện đúng kỳ vọng
 - ✅ Chiều sâu đội hình Pháp chứng tỏ ưu thế trước Senegal
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số hơi thấp hơn thực tế (dự đoán 2-1, thực tế 3-1)
-
+- ⚠️ Thẻ vàng thấp hơn dự đoán  nhiều (dự đoán 3–5, thực tế 0 thẻ)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
 - ✅ เซเนกัลยิงประตูตามที่คาด — ไม่ใช่ชัยชนะแบบคลีนชีท
 - ✅ Mbappé แสดงฝีมือตามที่คาดการณ์
 - ✅ ความลึกของทีมฝรั่งเศสพิสูจน์ความเหนือกว่าเซเนกัล
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ทำนายสกอร์ต่ำกว่าความเป็นจริงเล็กน้อย (ทำนาย 2-1, จริง 3-1)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 3–5, จริง 0 ใบ)

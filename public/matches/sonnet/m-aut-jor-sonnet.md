@@ -567,37 +567,48 @@ Dự đoán: Áo thắng 2-0, Arnautović lập công. Áo chính thức khẳng
 - ✅ Arnautović 如預測得分
 - ✅ 奧地利高壓迫力系統壓制約旦
 - ✅ 缺少 Al-Naimat 的約旦進攻威脅明顯不足
+- ✅ 角球數命中（預測 5–9，實際 7 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分略有偏差（預測 2-0，實際 3-1）
 - ⚠️ 約旦意外破門，封關預期落空
-
+- ⚠️ 黃牌數低於預測（預測 2–4，實際 1 張）
 ## result_hits:en
 - ✅ Winner predicted correctly (Austria win)
 - ✅ Arnautović on the scoresheet as predicted
 - ✅ Austria's high-intensity pressing overwhelmed Jordan
 - ✅ Jordan's attack was limited without Al-Naimat
+- ✅ Corner count on target (predicted 5–9, actual 7)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline slightly off (predicted 2-0, actual 3-1)
 - ⚠️ Jordan scored — clean sheet prediction missed
-
+- ⚠️ Yellow cards below prediction (predicted 2–4, actual 1)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测奥地利胜，实际奥地利胜）
 - ✅ Arnautović 如预测得分
 - ✅ 奥地利高压迫力系统压制约旦
 - ✅ 缺少 Al-Naimat 的约旦进攻威胁明显不足
+- ✅ 角球数命中（预测 5–9，实际 7 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分略有偏差（预测 2-0，实际 3-1）
 - ⚠️ 约旦意外破门，封关预期落空
-
+- ⚠️ 黄牌数低于预测（预测 2–4，实际 1 张）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Áo thắng)
 - ✅ Arnautović ghi bàn đúng như dự đoán
 - ✅ Hệ thống pressing mạnh của Áo áp đảo Jordan
 - ✅ Tấn công Jordan yếu đi đáng kể khi thiếu Al-Naimat
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 5–9, thực tế 7 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số hơi lệch (dự đoán 2-0, thực tế 3-1)
 - ⚠️ Jordan ghi bàn — dự đoán giữ sạch lưới không thành
-
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 2–4, thực tế 1 thẻ)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ออสเตรียชนะ)
 - ✅ Arnautović ยิงประตูตามที่คาดการณ์
 - ✅ ระบบกดดันความเข้มข้นสูงของออสเตรียครอบงำจอร์แดน
 - ✅ การโจมตีของจอร์แดนอ่อนแอลงอย่างชัดเจนเมื่อขาด Al-Naimat
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 5–9, จริง 7 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ทำนายสกอร์คลาดเคลื่อนเล็กน้อย (ทำนาย 2-0, จริง 3-1)
 - ⚠️ จอร์แดนยิงประตูได้ — การทำนายเก็บคลีนชีทไม่เป็นจริง
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 2–4, จริง 1 ใบ)

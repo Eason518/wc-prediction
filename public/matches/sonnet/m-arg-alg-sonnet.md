@@ -567,32 +567,43 @@ Dự đoán: Argentina thắng 2-0, Messi có thể lập công để kỷ niệ
 - ✅ 阿根廷如預期封關取勝
 - ✅ 衛冕冠軍實力展現，無爆冷意外
 - ✅ 阿爾及利亞進攻全程被壓制
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分略為低估（預測 2-0，實際 3-0）
-
+- ⚠️ 角球數大幅低於預測（預測 9–13，實際 4 個）
+- ⚠️ 黃牌數大幅低於預測（預測 4–7，實際 0 張）
 ## result_hits:en
 - ✅ Winner predicted correctly (Argentina win)
 - ✅ Argentina kept a clean sheet as expected
 - ✅ No upset occurred — the defending champions' quality showed
 - ✅ Algeria's attack was neutralised throughout
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline slightly underestimated (predicted 2-0, actual 3-0)
-
+- ⚠️ Corner count far below prediction (predicted 9–13, actual 4)
+- ⚠️ Yellow cards far below prediction (predicted 4–7, actual 0)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷胜）
 - ✅ 阿根廷如预期封关取胜
 - ✅ 卫冕冠军实力展现，无爆冷意外
 - ✅ 阿尔及利亚进攻全程被压制
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分略为低估（预测 2-0，实际 3-0）
-
+- ⚠️ 角球数大幅低于预测（预测 9–13，实际 4 个）
+- ⚠️ 黄牌数大幅低于预测（预测 4–7，实际 0 张）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Argentina thắng)
 - ✅ Argentina giữ sạch lưới đúng như dự đoán
 - ✅ Không có cú sốc — đương kim vô địch thể hiện đẳng cấp
 - ✅ Tấn công của Algeria bị vô hiệu hoá xuyên suốt
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số hơi thấp hơn thực tế (dự đoán 2-0, thực tế 3-0)
-
+- ⚠️ Số phạt góc thấp hơn dự đoán  nhiều (dự đoán 9–13, thực tế 4 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán  nhiều (dự đoán 4–7, thực tế 0 thẻ)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
 - ✅ อาร์เจนตินาเก็บคลีนชีทตามที่คาดการณ์
 - ✅ ไม่มีเซอร์ไพรส์ — แชมป์เก่าแสดงความเหนือกว่า
 - ✅ การโจมตีของแอลจีเรียถูกยับยั้งตลอดการแข่งขัน
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ทำนายสกอร์ต่ำกว่าความเป็นจริงเล็กน้อย (ทำนาย 2-0, จริง 3-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–13, จริง 4 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 4–7, จริง 0 ใบ)

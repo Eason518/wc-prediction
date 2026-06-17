@@ -566,33 +566,44 @@ Dự đoán: Scotland 2-0 Haiti. Tuyến giữa và tấn công Scotland dưới
 - ✅ 勝負方向命中（預測蘇格蘭勝，實際蘇格蘭勝）
 - ✅ 蘇格蘭英超陣容質量優勢兌現
 - ✅ 海地進攻被壓制，未能破門
+- ✅ 黃牌數命中（預測 3–5，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
 - ⚠️ 比分估算偏高（預測 0-2，實際 0-1）
 - ⚠️ 蘇格蘭發揮未及預期，勝得較為辛苦
-
+- ⚠️ 角球數低於預測（預測 8–11，實際 7 個）
 ## result_hits:en
 - ✅ Winner predicted correctly (Scotland win)
 - ✅ Scotland's Premier League quality proved decisive
 - ✅ Haiti's attack contained — no goals conceded
+- ✅ Yellow card count on target (predicted 3–5, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
 - ⚠️ Scoreline overestimated (predicted 0-2, actual 0-1)
 - ⚠️ Scotland less dominant than expected — tighter than predicted
-
+- ⚠️ Corner count below prediction (predicted 8–11, actual 7)
 ## result_hits:zh-cn
 - ✅ 胜负方向命中（预测苏格兰胜，实际苏格兰胜）
 - ✅ 苏格兰英超阵容质量优势兑现
 - ✅ 海地进攻被压制，未能破门
+- ✅ 黄牌数命中（预测 3–5，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
 - ⚠️ 比分估算偏高（预测 0-2，实际 0-1）
 - ⚠️ 苏格兰发挥未及预期，胜得较为辛苦
-
+- ⚠️ 角球数低于预测（预测 8–11，实际 7 个）
 ## result_hits:vi
 - ✅ Dự đoán đúng kết quả (Scotland thắng)
 - ✅ Ưu thế chất lượng đội hình Premier League của Scotland được khẳng định
 - ✅ Haiti không ghi được bàn thắng như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
 - ⚠️ Tỷ số bị đánh giá cao hơn thực tế (dự đoán 0-2, thực tế 0-1)
 - ⚠️ Scotland không thống trị như kỳ vọng — trận đấu sít sao hơn
-
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 8–11, thực tế 7 cái)
 ## result_hits:th
 - ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สก็อตแลนด์ชนะ)
 - ✅ ความได้เปรียบด้านคุณภาพ Premier League ของสก็อตแลนด์พิสูจน์ตัวเอง
 - ✅ เฮติไม่สามารถทำประตูได้ตามที่คาดการณ์
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
 - ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-2, จริง 0-1)
 - ⚠️ สก็อตแลนด์ไม่ได้ครองเกมอย่างที่คาด — สูสีกว่าที่คิด
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 8–11, จริง 7 ลูก)

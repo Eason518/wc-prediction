@@ -4,11 +4,46 @@ import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSumm
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS } from './config.js';
 
+const PROMO_BAR_TEXT = {
+  zh: '🏆 AI 世界盃 2026 賽事預測 — 每日更新',
+  'zh-cn': '🏆 AI 世界杯 2026 赛事预测 — 每日更新',
+  en: '🏆 AI-Powered World Cup 2026 Predictions — Updated Daily',
+  th: '🏆 ทำนายฟุตบอล World Cup 2026 ด้วย AI — อัปเดตทุกวัน',
+  vi: '🏆 Dự đoán AI World Cup 2026 — Cập nhật hàng ngày',
+};
+
+const CLAIM_BONUS_TEXT = {
+  zh: '領取獎金 →',
+  'zh-cn': '领取奖金 →',
+  en: 'Claim Bonus →',
+  th: 'รับโบนัส →',
+  vi: 'Nhận Thưởng →',
+};
+
+const GET_BONUS_TEXT = {
+  zh: '領取獎金',
+  'zh-cn': '领取奖金',
+  en: 'Get Bonus',
+  th: 'รับโบนัส',
+  vi: 'Nhận Thưởng',
+};
+
 function syncBanner(lang) {
   const img = document.getElementById('banner-img');
   const link = document.getElementById('banner-link');
+  const promoBarBtn = document.getElementById('promo-bar-btn');
+  const promoBarLabel = document.getElementById('promo-bar-label');
+  const promoBarBtnText = document.getElementById('promo-bar-btn-text');
+  const getBonusBtn = document.getElementById('floating-cta');
+  const getBonusText = document.getElementById('get-bonus-text');
+  const href = BANNER_LINKS[lang] || BANNER_LINKS.en;
   if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
-  if (link) link.href = BANNER_LINKS[lang] || BANNER_LINKS.en;
+  if (link) link.href = href;
+  if (promoBarBtn) promoBarBtn.href = href;
+  if (getBonusBtn) getBonusBtn.href = href;
+  if (promoBarLabel) promoBarLabel.textContent = PROMO_BAR_TEXT[lang] || PROMO_BAR_TEXT.en;
+  if (promoBarBtnText) promoBarBtnText.textContent = CLAIM_BONUS_TEXT[lang] || CLAIM_BONUS_TEXT.en;
+  if (getBonusText) getBonusText.textContent = GET_BONUS_TEXT[lang] || GET_BONUS_TEXT.en;
 }
 
 // Sync: set banner src immediately based on stored lang, before any async operations
@@ -119,10 +154,14 @@ function bindEvents() {
 }
 
 function syncStickyHeights() {
+  const promoBar = document.getElementById('promo-bar');
   const banner = document.getElementById('banner-wrap');
   const nav = document.getElementById('nav-wrap');
   const tabs = document.getElementById('tabs-wrap');
-  if (banner) document.documentElement.style.setProperty('--banner-h', banner.getBoundingClientRect().height + 'px');
+  const promoH = promoBar ? promoBar.getBoundingClientRect().height : 0;
+  const bannerH = banner ? banner.getBoundingClientRect().height : 0;
+  document.documentElement.style.setProperty('--promo-h', promoH + 'px');
+  document.documentElement.style.setProperty('--banner-h', (promoH + bannerH) + 'px');
   if (nav) document.documentElement.style.setProperty('--nav-h', nav.getBoundingClientRect().height + 'px');
   if (tabs) document.documentElement.style.setProperty('--tabs-h', tabs.getBoundingClientRect().height + 'px');
 }
@@ -136,10 +175,12 @@ async function init() {
       reloadMatchData().then(update);
     });
     update();
+    const promoBar = document.getElementById('promo-bar');
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');
     const tabsWrap = document.getElementById('tabs-wrap');
     const observer = new ResizeObserver(syncStickyHeights);
+    if (promoBar) observer.observe(promoBar);
     if (banner) observer.observe(banner);
     if (navWrap) observer.observe(navWrap);
     if (tabsWrap) observer.observe(tabsWrap);

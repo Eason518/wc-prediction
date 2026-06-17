@@ -222,10 +222,108 @@ button { background: none; border: none; cursor: pointer; font-family: inherit; 
 .chip-tbd { opacity: 0.7; }
 .chip-tbd-label { font-size: 11px; font-weight: 600; color: var(--dim); letter-spacing: 0.5px; }
 
+/* ── Promo Bar ── */
+#promo-bar {
+  position: sticky;
+  top: 0;
+  z-index: 101;
+  background: linear-gradient(90deg, #140800 0%, #2a1200 50%, #140800 100%);
+  border-bottom: 1px solid rgba(245, 158, 11, 0.25);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 7px 16px;
+  flex-wrap: wrap;
+}
+
+#promo-bar-label {
+  color: #d4a44c;
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.promo-bar-claim {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 12px 4px 6px;
+  background: #0A0E1A;
+  border: 1.5px solid #F59E0B;
+  border-radius: 999px;
+  color: #F59E0B;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: background 0.18s, color 0.18s;
+}
+
+.promo-bar-claim:hover {
+  background: #F59E0B;
+  color: #0A0E1A;
+}
+
+.cta-logo {
+  height: 20px;
+  width: auto;
+  display: block;
+  border-radius: 3px;
+}
+
+/* ── Get Bonus Button ── */
+#floating-cta {
+  position: fixed;
+  bottom: 24px;
+  right: 20px;
+  z-index: 200;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 8px;
+  background: linear-gradient(135deg, #F59E0B 0%, #D97706 100%);
+  color: #0A0E1A;
+  font-weight: 700;
+  font-size: 12px;
+  padding: 6px 16px 6px 8px;
+  border-radius: 999px;
+  text-decoration: none;
+  box-shadow: 0 4px 20px rgba(245, 158, 11, 0.5);
+  animation: get-bonus-pulse 2.2s ease-in-out infinite;
+}
+
+#floating-cta .cta-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+
+#floating-cta:hover {
+  animation-play-state: paused;
+  transform: scale(1.07);
+  box-shadow: 0 4px 32px rgba(245, 158, 11, 0.9);
+}
+
+@keyframes get-bonus-pulse {
+  0%, 100% { box-shadow: 0 4px 16px rgba(245,158,11,0.45); transform: scale(1); }
+  50%       { box-shadow: 0 4px 28px rgba(245,158,11,0.85); transform: scale(1.04); }
+}
+
+@media (max-width: 480px) {
+  #promo-bar-label { font-size: 11px; }
+  .promo-bar-claim { font-size: 11px; }
+  #floating-cta { font-size: 10px; padding: 5px 12px 5px 6px; gap: 6px; bottom: 16px; right: 14px; }
+  #floating-cta .cta-logo { width: 26px; height: 26px; }
+}
+
 /* ── Banner ── */
 #banner-wrap {
   position: sticky;
-  top: 0;
+  top: var(--promo-h, 0px);
   z-index: 100;
   background: rgba(7,11,20,0.97);
   backdrop-filter: blur(8px);

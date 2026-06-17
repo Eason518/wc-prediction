@@ -171,8 +171,8 @@
       "opus/m-arg-alg-opus.md",
       "sonnet/m-arg-alg-sonnet.md"
     ],
-    "actualScoreHome": 0,
-    "actualScoreAway": 1,
+    "actualScoreHome": 1,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

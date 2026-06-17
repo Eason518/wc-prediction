@@ -9,7 +9,7 @@ venueShort: Houston, USA
 status: upcoming
 homeCode: POR
 awayCode: COD
-referee: 待 FIFA 公布
+referee: Abdulrahman Al-Jassim (QAT)
 homeFormation: 4-3-3
 awayFormation: 4-2-3-1
 homeCoach: Roberto Martínez
@@ -329,68 +329,78 @@ Tỷ lệ cược hiện tại: Bồ Đào Nha thắng 1.29, hòa 5.75, Congo th
 
 ## referee:zh
 - icon: ⚖️
-- name: 待 FIFA 公布
-- country: FIFA 國際
-- note: 本場小組賽裁判 FIFA 通常於賽前 1～2 天公布，目前尚未指派。FIFA 2026 共選出 52 名主裁判。實際出牌尺度待確認，以下數據為小組賽平均參考值。
+- name: Abdulrahman Al-Jassim
+- country: 🇶🇦 卡達 · AFC 精英 · FIFA 國際
+- note: 卡達籍裁判，FIFA 國際裁判資歷自 2013 年起，執法 2022 世界盃美國 vs 威爾斯（6 張黃牌）及季軍賽（克羅埃西亞 vs 摩洛哥）。同時執法 2019 年俱樂部世界盃決賽（利物浦 vs 弗拉門戈）。執法風格穩健，大賽場次通常控管良好，但對激烈對抗出牌較積極。
 
 | stat | value | color |
 |------|-------|-------|
-| 賽事主裁判總數 | 52 | #F1F5F9 |
-| 小組賽均黃牌/場 | ~3.5 | #EAB308 |
-| 小組賽均紅牌/場 | ~0.3 | #EF4444 |
-| 均犯規/場 | ~22 | #60a5fa |
+| 執法場次 | 200+ | #F1F5F9 |
+| 黃牌均/場 | 3.5~4.5 | #EAB308 |
+| 紅牌風險 | 中等 | orange |
+| 重要賽事 | 2022 WC 季軍賽 | #60a5fa |
+| 大賽風格 | 穩健偏嚴 | #F1F5F9 |
+| FIFA 資歷年份 | 2013– | #60a5fa |
 
 ## referee:en
 - icon: ⚖️
-- name: TBA (FIFA to Announce)
-- country: FIFA International
-- note: The referee for this group stage match is typically announced by FIFA 1–2 days before kick-off — no appointment has been made yet. FIFA 2026 has selected a total of 52 main referees for the tournament. The actual card threshold will be confirmed once the appointment is made; the figures below are based on group stage averages as a reference.
+- name: Abdulrahman Al-Jassim
+- country: 🇶🇦 Qatar · AFC Elite · FIFA International
+- note: A Qatari referee with FIFA International status since 2013, Al-Jassim officiated the 2022 World Cup match USA vs Wales (6 yellow cards) and the third-place play-off (Croatia vs Morocco). He also refereed the 2019 FIFA Club World Cup final (Liverpool vs Flamengo). His style is composed and controlled in big matches, though he is more proactive with cards when the play turns physical.
 
 | stat | value | color |
 |------|-------|-------|
-| Total Tournament Referees | 52 | #F1F5F9 |
-| Avg Yellow Cards/Match (Group Stage) | ~3.5 | #EAB308 |
-| Avg Red Cards/Match (Group Stage) | ~0.3 | #EF4444 |
-| Avg Fouls/Match | ~22 | #60a5fa |
+| Matches Officiated | 200+ | #F1F5F9 |
+| Avg Yellow Cards/Match | 3.5~4.5 | #EAB308 |
+| Red Card Risk | Medium | orange |
+| Notable Match | 2022 WC Third-Place Play-off | #60a5fa |
+| Big Match Style | Composed & Strict | #F1F5F9 |
+| FIFA Status Since | 2013– | #60a5fa |
 
 ## referee:zh-cn
 - icon: ⚖️
-- name: 待 FIFA 公布
-- country: FIFA 国际
-- note: 本场小组赛裁判 FIFA 通常于赛前 1～2 天公布，目前尚未指派。FIFA 2026 共选出 52 名主裁判。实际出牌尺度待确认，以下数据为小组赛平均参考值。
+- name: Abdulrahman Al-Jassim
+- country: 🇶🇦 卡达 · AFC 精英 · FIFA 国际
+- note: 卡达籍裁判，FIFA 国际裁判资历自 2013 年起，执法 2022 世界杯美国 vs 威尔士（6 张黄牌）及季军赛（克罗地亚 vs 摩洛哥）。同时执法 2019 年俱乐部世界杯决赛（利物浦 vs 弗拉门戈）。执法风格稳健，大赛场次通常控管良好，但对激烈对抗出牌较积极。
 
 | stat | value | color |
 |------|-------|-------|
-| 赛事主裁判总数 | 52 | #F1F5F9 |
-| 小组赛均黄牌/场 | ~3.5 | #EAB308 |
-| 小组赛均红牌/场 | ~0.3 | #EF4444 |
-| 均犯规/场 | ~22 | #60a5fa |
+| 执法场次 | 200+ | #F1F5F9 |
+| 黄牌均/场 | 3.5~4.5 | #EAB308 |
+| 红牌风险 | 中等 | orange |
+| 重要赛事 | 2022 WC 季军赛 | #60a5fa |
+| 大赛风格 | 稳健偏严 | #F1F5F9 |
+| FIFA 资历年份 | 2013– | #60a5fa |
 
 ## referee:vi
 - icon: ⚖️
-- name: Chưa FIFA công bố
-- country: FIFA Quốc tế
-- note: Trọng tài cho trận vòng bảng này thường do FIFA công bố 1–2 ngày trước khi bóng lăn — hiện chưa có chỉ định. FIFA 2026 đã chọn tổng cộng 52 trọng tài chính cho giải. Thang đo rút thẻ thực tế sẽ được xác nhận khi có thông báo; các con số dưới đây dựa trên giá trị trung bình vòng bảng để tham khảo.
+- name: Abdulrahman Al-Jassim
+- country: 🇶🇦 Qatar · AFC Elite · FIFA Quốc tế
+- note: Trọng tài người Qatar với tư cách FIFA Quốc tế từ năm 2013, Al-Jassim đã điều hành trận Mỹ vs Wales tại World Cup 2022 (6 thẻ vàng) và trận tranh hạng ba (Croatia vs Maroc). Ông cũng điều hành chung kết FIFA Club World Cup 2019 (Liverpool vs Flamengo). Phong cách điều hành ổn định và kiểm soát tốt trong các trận lớn, nhưng tích cực rút thẻ hơn khi trận đấu trở nên quyết liệt.
 
 | stat | value | color |
 |------|-------|-------|
-| Tổng số trọng tài giải đấu | 52 | #F1F5F9 |
-| TB thẻ vàng/trận (vòng bảng) | ~3.5 | #EAB308 |
-| TB thẻ đỏ/trận (vòng bảng) | ~0.3 | #EF4444 |
-| TB số lần phạm lỗi/trận | ~22 | #60a5fa |
+| Số trận điều hành | 200+ | #F1F5F9 |
+| Thẻ vàng TB/trận | 3.5~4.5 | #EAB308 |
+| Rủi ro thẻ đỏ | Trung bình | orange |
+| Trận đáng chú ý | Hạng 3 WC 2022 | #60a5fa |
+| Phong cách trận lớn | Ổn định & Nghiêm | #F1F5F9 |
+| Tư cách FIFA từ | 2013– | #60a5fa |
 
 ## referee:th
 - icon: ⚖️
-- name: รอ FIFA ประกาศ
-- country: FIFA นานาชาติ
-- note: กรรมการสำหรับแมตช์รอบแบ่งกลุ่มนี้มักถูก FIFA ประกาศ 1–2 วันก่อนเริ่มเตะ — ยังไม่มีการแต่งตั้งในขณะนี้ FIFA 2026 ได้คัดเลือกกรรมการหลักรวมทั้งสิ้น 52 คนสำหรับการแข่งขัน เกณฑ์การใช้ใบจะได้รับการยืนยันเมื่อมีการประกาศ ตัวเลขด้านล่างอ้างอิงจากค่าเฉลี่ยรอบแบ่งกลุ่ม
+- name: Abdulrahman Al-Jassim
+- country: 🇶🇦 กาตาร์ · AFC Elite · FIFA นานาชาติ
+- note: กรรมการชาวกาตาร์ที่มีสถานะ FIFA นานาชาติตั้งแต่ปี 2013 Al-Jassim ตัดสินในแมตช์ World Cup 2022 สหรัฐฯ vs เวลส์ (6 ใบเหลือง) และรอบชิงอันดับ 3 (โครเอเชีย vs โมร็อกโก) นอกจากนี้ยังตัดสินรอบชิงชนะเลิศ FIFA Club World Cup 2019 (ลิเวอร์พูล vs ฟลาเมงโก) สไตล์การตัดสินสงบนิ่งและควบคุมได้ดีในแมตช์ใหญ่ แต่จะรุกรุมรีบรุดใบมากขึ้นเมื่อเกมดุเดือด
 
 | stat | value | color |
 |------|-------|-------|
-| จำนวนกรรมการทั้งหมดในทัวร์นาเมนต์ | 52 | #F1F5F9 |
-| เฉลี่ยใบเหลือง/นัด (รอบแบ่งกลุ่ม) | ~3.5 | #EAB308 |
-| เฉลี่ยใบแดง/นัด (รอบแบ่งกลุ่ม) | ~0.3 | #EF4444 |
-| เฉลี่ยฟาวล์/นัด | ~22 | #60a5fa |
+| นัดที่ตัดสิน | 200+ | #F1F5F9 |
+| เฉลี่ยใบเหลือง/นัด | 3.5~4.5 | #EAB308 |
+| ความเสี่ยงใบแดง | ปานกลาง | orange |
+| แมตช์สำคัญ | อันดับ 3 WC 2022 | #60a5fa |
+| สไตล์แมตช์ใหญ่ | สงบนิ่งและเข้มงวด | #F1F5F9 |
+| FIFA ตั้งแต่ปี | 2013– | #60a5fa |
 
 ## h2h:zh
 - title: 歷史交鋒紀錄（首次正式比賽）

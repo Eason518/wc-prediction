@@ -9,7 +9,7 @@ venueShort: Boston, USA
 status: upcoming
 homeCode: IRQ
 awayCode: NOR
-referee: 待 FIFA 正式公布
+referee: Pierre Atcho (GAB)
 homeFormation: 4-2-3-1
 awayFormation: 4-3-3
 homeCoach: Graham Arnold
@@ -329,78 +329,73 @@ Tỷ lệ cược cho thấy: Iraq thắng 6.50, hòa 4.00, Na Uy thắng 1.50. 
 
 ## referee:zh
 - icon: ⚖️
-- name: 待 FIFA 正式公布
-- country: FIFA 國際裁判
-- note: 本場主裁尚待 FIFA 賽前正式公布。一般而言世界盃裁判出牌尺度中等偏嚴，面對實力懸殊的比賽（強隊壓制、弱隊退守），弱隊戰術犯規往往導致黃牌偏多，需注意伊拉克後防的累積犯規。
+- name: Pierre Atcho
+- country: 🇬🇦 加彭 · CAF · FIFA 國際
+- note: 年僅 33 歲的新生代裁判，加彭頂級裁判，曾主哨 2023 FIFA U-17 世界盃、多屆非洲盃及 CAF 冠軍盃決賽。場均 3.5 黃牌，紅牌率 0.11/場，出牌尺度偏寬鬆，是本屆世界盃首次亮相。
 
 | stat | value | color |
 |------|-------|-------|
-| 執法場次 | — | #F1F5F9 |
-| 黃牌總數 | — | #EAB308 |
-| 黃紅牌 | — | orange |
-| 紅牌總數 | — | #EF4444 |
-| 均牌/場 | ~4.0 | #60a5fa |
-| 均犯規/場 | ~24 | #60a5fa |
+| 執法場次 | 35+ | #F1F5F9 |
+| 均牌/場 | 3.5 | #EAB308 |
+| 紅牌率/場 | 0.11 | #EF4444 |
+| 均犯規/場 | ~22.3 | #60a5fa |
+| 世界盃經驗 | 第1次 | #a78bfa |
 
 ## referee:en
 - icon: ⚖️
-- name: 待 FIFA 正式公布
-- country: FIFA International Referee
-- note: The referee for this match is yet to be officially confirmed by FIFA. In general, World Cup referees apply a moderately strict standard. In lopsided matches — where a stronger side dominates and the weaker side sits deep — the defending team's tactical fouls tend to accumulate yellows, so Iraq's backline should be watched for foul count.
+- name: Pierre Atcho
+- country: 🇬🇦 Gabon · CAF · FIFA International
+- note: At just 33 years old, Atcho is a rising-generation referee and Gabon's top official, having officiated the 2023 FIFA U-17 World Cup, multiple Africa Cup of Nations tournaments, and CAF Champions League finals. He averages 3.5 yellow cards per game with a red card rate of 0.11 per game — a relatively lenient card threshold — and this is his first appearance at a senior FIFA World Cup.
 
 | stat | value | color |
 |------|-------|-------|
-| Matches Officiated | — | #F1F5F9 |
-| Total Yellow Cards | — | #EAB308 |
-| Yellow-Red Cards | — | orange |
-| Total Red Cards | — | #EF4444 |
-| Avg Cards/Match | ~4.0 | #60a5fa |
-| Avg Fouls/Match | ~24 | #60a5fa |
+| Matches Officiated | 35+ | #F1F5F9 |
+| Avg Cards/Game | 3.5 | #EAB308 |
+| Red Card Rate/Game | 0.11 | #EF4444 |
+| Avg Fouls/Game | ~22.3 | #60a5fa |
+| World Cup Experience | 1st Time | #a78bfa |
 
 ## referee:zh-cn
 - icon: ⚖️
-- name: 待 FIFA 正式公布
-- country: FIFA 国际裁判
-- note: 本场主裁尚待 FIFA 赛前正式公布。一般而言世界杯裁判出牌尺度中等偏严，面对实力悬殊的比赛（强队压制、弱队退守），弱队战术犯规往往导致黄牌偏多，需注意伊拉克后防的累积犯规。
+- name: Pierre Atcho
+- country: 🇬🇦 加彭 · CAF · FIFA 国际
+- note: 年仅 33 岁的新生代裁判，加彭顶级裁判，曾主哨 2023 FIFA U-17 世界杯、多届非洲杯及 CAF 冠军杯决赛。场均 3.5 黄牌，红牌率 0.11/场，出牌尺度偏宽松，是本届世界杯首次亮相。
 
 | stat | value | color |
 |------|-------|-------|
-| 执法场次 | — | #F1F5F9 |
-| 黄牌总数 | — | #EAB308 |
-| 黄红牌 | — | orange |
-| 红牌总数 | — | #EF4444 |
-| 均牌/场 | ~4.0 | #60a5fa |
-| 均犯规/场 | ~24 | #60a5fa |
+| 执法场次 | 35+ | #F1F5F9 |
+| 均牌/场 | 3.5 | #EAB308 |
+| 红牌率/场 | 0.11 | #EF4444 |
+| 均犯规/场 | ~22.3 | #60a5fa |
+| 世界杯经验 | 第1次 | #a78bfa |
 
 ## referee:vi
 - icon: ⚖️
-- name: 待 FIFA 正式公布
-- country: Trọng tài Quốc tế FIFA
-- note: Trọng tài chính trận đấu này vẫn chờ FIFA công bố chính thức trước trận. Nhìn chung trọng tài World Cup rút thẻ ở mức độ trung bình đến nghiêm khắc; trong các trận đấu có chênh lệch sức mạnh rõ rệt (đội mạnh kiểm soát, đội yếu phòng thủ), các pha phạm lỗi chiến thuật của đội yếu thường dẫn đến nhiều thẻ vàng hơn — cần chú ý đến các pha phạm lỗi tích lũy của hàng thủ Iraq.
+- name: Pierre Atcho
+- country: 🇬🇦 Gabon · CAF · FIFA Quốc tế
+- note: Trọng tài thế hệ mới chỉ 33 tuổi, trọng tài hàng đầu Gabon, từng điều hành FIFA U-17 World Cup 2023, nhiều kỳ AFCON và chung kết CAF Champions League. Trung bình 3.5 thẻ vàng mỗi trận, tỷ lệ thẻ đỏ 0.11/trận, xu hướng thổi phạt thoáng, lần đầu xuất hiện tại World Cup lần này.
 
 | stat | value | color |
 |------|-------|-------|
-| Số trận cầm còi | — | #F1F5F9 |
-| Tổng thẻ vàng | — | #EAB308 |
-| Thẻ vàng-đỏ | — | orange |
-| Tổng thẻ đỏ | — | #EF4444 |
-| Thẻ trung bình/trận | ~4.0 | #60a5fa |
-| Foul trung bình/trận | ~24 | #60a5fa |
+| Số trận điều hành | 35+ | #F1F5F9 |
+| Thẻ vàng TB/trận | 3.5 | #EAB308 |
+| Tỷ lệ thẻ đỏ/trận | 0.11 | #EF4444 |
+| Phạm lỗi TB/trận | ~22.3 | #60a5fa |
+| Kinh nghiệm World Cup | Lần 1 | #a78bfa |
 
 ## referee:th
 - icon: ⚖️
-- name: 待 FIFA 正式公布
-- country: กรรมการนานาชาติ FIFA
-- note: กรรมการสำหรับแมตช์นี้ยังรอการยืนยันอย่างเป็นทางการจาก FIFA โดยทั่วไปกรรมการฟุตบอลโลกใช้มาตรฐานที่เข้มงวดปานกลาง ในแมตช์ที่มีความแตกต่างด้านกำลัง ซึ่งทีมที่แข็งแกร่งกว่าครองเกมและทีมที่อ่อนแอกว่าตั้งรับลึก การฟาวล์เชิงยุทธวิธีของทีมที่ตั้งรับมักสะสมใบเหลือง ดังนั้นควรจับตาดูจำนวนการฟาวล์ของแนวหลังอิรัก
+- name: Pierre Atcho
+- country: 🇬🇦 กาบอง · CAF · FIFA นานาชาติ
+- note: ด้วยอายุเพียง 33 ปี Atcho เป็นกรรมการรุ่นใหม่ที่กำลังก้าวขึ้นมา และเป็นกรรมการชั้นนำของกาบอง เคยตัดสินในฟุตบอลโลก U-17 FIFA 2023, รายการ Africa Cup of Nations หลายครั้ง และรอบชิงชนะเลิศ CAF Champions League เขาเฉลี่ย 3.5 ใบเหลืองต่อนัด อัตราใบแดง 0.11 ต่อนัด ซึ่งค่อนข้างผ่อนปรน และนี่เป็นการปรากฏตัวครั้งแรกของเขาในฟุตบอลโลกอาวุโส FIFA
 
 | stat | value | color |
 |------|-------|-------|
-| นัดที่ตัดสิน | — | #F1F5F9 |
-| ใบเหลืองรวม | — | #EAB308 |
-| ใบเหลือง-แดง | — | orange |
-| ใบแดงรวม | — | #EF4444 |
-| เฉลี่ยใบ/นัด | ~4.0 | #60a5fa |
-| เฉลี่ยฟาวล์/นัด | ~24 | #60a5fa |
+| นัดที่ตัดสิน | 35+ | #F1F5F9 |
+| เฉลี่ยใบ/นัด | 3.5 | #EAB308 |
+| ใบแดง/นัด | 0.11 | #EF4444 |
+| เฉลี่ยฟาวล์/นัด | ~22.3 | #60a5fa |
+| ประสบการณ์ฟุตบอลโลก | ครั้งที่ 1 | #a78bfa |
 
 ## h2h:zh
 - title: 歷史交鋒紀錄

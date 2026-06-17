@@ -1,6 +1,6 @@
 import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants } from './store.js';
-import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats } from './render/index.js';
+import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats, renderResult } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS } from './config.js';
 
@@ -87,6 +87,7 @@ function update() {
   else if (st.tab === 'away') html = renderSquad('away');
   else if (st.tab === 'other') html = renderOther();
   else if (st.tab === 'stats') html = renderStats();
+  else if (st.tab === 'result') html = renderResult();
   else if (st.tab === 'summary') html = renderSummary();
   $content.innerHTML = html;
 

@@ -43,6 +43,7 @@
     "actualScoreHome": 4,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [59, 28],
       "possession_contested": 13,

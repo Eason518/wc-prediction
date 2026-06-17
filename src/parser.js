@@ -39,6 +39,7 @@ export function parseMatchMD(text, lang = 'zh') {
     battles: parseTable(s('battles')),
     summaryVerdict: s('summary_verdict'),
     observations: parseTable(s('observations')),
+    resultHits: parseList(s('result_hits')),
   };
 }
 
@@ -102,6 +103,14 @@ function parseReferee(text) {
   }
   ref.stats = parseTable(text);
   return ref;
+}
+
+function parseList(text) {
+  if (!text) return [];
+  return text.split('\n')
+    .filter(l => l.trim().startsWith('-'))
+    .map(l => l.replace(/^-\s*/, '').trim())
+    .filter(Boolean);
 }
 
 function parseH2H(text) {

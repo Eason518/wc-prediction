@@ -13,7 +13,8 @@ export function renderTabs() {
     { id: 'away', label: `${a.flag} ${teamName(a)} ${t('tabs.players')}`, color: a.color },
     { id: 'other', label: t('tabs.other'), color: '#F59E0B' },
   ];
-  if (m.liveStats) tabs.push({ id: 'stats', label: t('tabs.stats'), color: '#10B981' });
+  if (m.liveStats) tabs.unshift({ id: 'stats', label: t('tabs.stats'), color: '#10B981' });
+  if (m.resultHits?.length) tabs.unshift({ id: 'result', label: t('tabs.result'), color: '#A855F7' });
   return tabs.map(tab => {
     const active = tab.id === st.tab;
     return `<button class="tab-btn${active ? ' active' : ''}" data-tab="${tab.id}"

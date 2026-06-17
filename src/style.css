@@ -1444,6 +1444,116 @@ button {
   color: var(--text);
 }
 
+/* ── Prediction Result Tab ── */
+.result-card {
+  background: linear-gradient(135deg, var(--bg2), var(--bg3));
+  border: 1px solid #A855F7;
+  border-radius: 12px;
+  padding: 24px;
+  margin-bottom: 20px;
+}
+
+.result-teams-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.result-vs {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.result-badge {
+  display: inline-block;
+  font-family: 'Bebas Neue';
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding: 6px 18px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+
+.result-badge-hit {
+  background: rgba(34, 197, 94, 0.15);
+  color: #22C55E;
+  border: 1px solid #22C55E;
+}
+
+.result-badge-miss {
+  background: rgba(239, 68, 68, 0.15);
+  color: #EF4444;
+  border: 1px solid #EF4444;
+}
+
+.result-score-compare {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.result-score-card {
+  flex: 1;
+  background: rgba(255,255,255,0.04);
+  border-radius: 10px;
+  padding: 14px 16px;
+  text-align: center;
+}
+
+.result-score-card-actual {
+  border: 1px solid rgba(255,255,255,0.1);
+}
+
+.result-score-label {
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 8px;
+  letter-spacing: 0.5px;
+}
+
+.result-score-nums {
+  font-family: 'Bebas Neue';
+  font-size: 36px;
+  letter-spacing: 2px;
+  line-height: 1;
+  margin-bottom: 6px;
+}
+
+.result-score-dash {
+  color: var(--muted);
+  margin: 0 4px;
+}
+
+.result-score-teams {
+  font-size: 18px;
+  letter-spacing: 4px;
+}
+
+.result-score-arrow {
+  font-size: 24px;
+  flex-shrink: 0;
+}
+
+.result-hits {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.result-hit-item {
+  background: rgba(168, 85, 247, 0.06);
+  border-left: 3px solid #A855F7;
+  padding: 10px 14px;
+  border-radius: 0 8px 8px 0;
+  font-size: 13px;
+  color: var(--text);
+  line-height: 1.5;
+}
+
 /* ── Mobile responsive ── */
 @media (max-width: 600px) {
   .hero-en {

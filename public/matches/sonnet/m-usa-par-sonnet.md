@@ -561,3 +561,43 @@ Dự đoán: Mỹ thắng 2-0. Bầu không khí sân nhà, lợi thế đội h
 | 🎩 ทัวร์นาเมนต์ใหญ่ครั้งแรกของ Pochettino | อดีตโค้ชของ Spurs/PSG/Chelsea คุมทีมชาติในทัวร์นาเมนต์ระดับโลกเป็นครั้งแรก ระบบยุทธวิธีของเขาเป็นผู้ใหญ่แล้ว แต่แมตช์เปิดสนามนี้จะเป็นการทดสอบจริง |
 | 🛡️ ป้อมปราการแนวรับของปารากวัย | เสียประตูเพียง 10 ลูกใน 18 นัดคัดเลือก ระบบของ Alfaro ให้ความสำคัญกับความมั่นคงในการป้องกันอย่างสูงสุด สหรัฐอเมริกาต้องอดทนเพื่อทะลวงผ่านได้ |
 | 🏆 ผลกระทบต่อกลุ่ม D | ทีมที่ชนะจะเพิ่มโอกาสการผ่านเข้ารอบต่อไปอย่างมาก ทีมอื่นในกลุ่ม D คือออสเตรเลียและตุรกี ทำให้แนวโน้มการผ่านเข้ารอบค่อนข้างดี |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測美國勝，實際美國勝）
+- ✅ 美國主場優勢確立，全場強勢壓制
+- ✅ Balogun / Pulisic 得分，進攻雙核發威
+- ✅ 巴拉圭防線被攻破，未能守住
+- ⚠️ 比分大幅低估（預測 2-0，實際 4-1）
+- ⚠️ 巴拉圭意外得分，未達封關預期
+
+## result_hits:en
+- ✅ Winner predicted correctly (USA win)
+- ✅ Home advantage confirmed — USA dominated throughout
+- ✅ Balogun / Pulisic scored as expected
+- ✅ Paraguay's defense was breached
+- ⚠️ Scoreline underestimated (predicted 2-0, actual 4-1)
+- ⚠️ Paraguay scored unexpectedly — clean sheet prediction missed
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测美国胜，实际美国胜）
+- ✅ 美国主场优势确立，全场强势压制
+- ✅ Balogun / Pulisic 得分，进攻双核发威
+- ✅ 巴拉圭防线被攻破，未能守住
+- ⚠️ 比分大幅低估（预测 2-0，实际 4-1）
+- ⚠️ 巴拉圭意外得分，未达封关预期
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Mỹ thắng)
+- ✅ Lợi thế sân nhà được khẳng định — Mỹ thống trị toàn trận
+- ✅ Balogun / Pulisic ghi bàn đúng như dự đoán
+- ✅ Hàng thủ Paraguay bị công phá
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-0, thực tế 4-1)
+- ⚠️ Paraguay ghi bàn ngoài dự kiến — dự đoán giữ sạch lưới không thành
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สหรัฐอเมริกาชนะ)
+- ✅ ข้อได้เปรียบสนามเหย้าได้รับการยืนยัน — สหรัฐฯ ครองเกมตลอด
+- ✅ Balogun / Pulisic ยิงประตูตามที่คาดการณ์
+- ✅ แนวรับของปารากวัยถูกทะลุทะลวง
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-0, จริง 4-1)
+- ⚠️ ปารากวัยยิงประตูโดยไม่คาดคิด — การทำนายเก็บคลีนชีทไม่เป็นจริง

@@ -102,7 +102,7 @@ const locales = {
     'placeholder.tbd': '待定',
     'placeholder.desc': '對陣隊伍待小組賽結束後公布，分析資料即將上線。',
 
-    'cta.promo_bar': '🏆 AI 世界盃 2026 賽事預測 — 每日更新',
+    'cta.promo_bar': '🏆 AI 世界盃 2026 賽事預測',
     'cta.claim_bonus': '領取獎金 →',
     'cta.get_bonus': '領取獎金',
     'cta.hero_badge': '限時獨家優惠',
@@ -216,7 +216,7 @@ const locales = {
     'placeholder.tbd': 'TBD',
     'placeholder.desc': 'Teams will be confirmed after the group stage. Analysis coming soon.',
 
-    'cta.promo_bar': '🏆 AI-Powered World Cup 2026 Predictions — Updated Daily',
+    'cta.promo_bar': '🏆 World Cup 2026 Predictions',
     'cta.claim_bonus': 'Claim Bonus →',
     'cta.get_bonus': 'Get Bonus',
     'cta.hero_badge': 'EXCLUSIVE OFFER',
@@ -330,7 +330,7 @@ const locales = {
     'placeholder.tbd': '待定',
     'placeholder.desc': '对阵队伍将在小组赛结束后公布，分析资料即将上线。',
 
-    'cta.promo_bar': '🏆 AI 世界杯 2026 赛事预测 — 每日更新',
+    'cta.promo_bar': '🏆 AI 世界杯 2026 赛事预测',
     'cta.claim_bonus': '领取奖金 →',
     'cta.get_bonus': '领取奖金',
     'cta.hero_badge': '限时独家优惠',
@@ -444,7 +444,7 @@ const locales = {
     'placeholder.tbd': 'Chờ xác nhận',
     'placeholder.desc': 'Các đội thi đấu sẽ được xác nhận sau vòng bảng. Phân tích sắp có.',
 
-    'cta.promo_bar': '🏆 Dự đoán AI World Cup 2026 — Cập nhật hàng ngày',
+    'cta.promo_bar': '🏆 Dự đoán AI World Cup 2026',
     'cta.claim_bonus': 'Nhận Thưởng →',
     'cta.get_bonus': 'Nhận Thưởng',
     'cta.hero_badge': 'ƯU ĐÃI ĐỘC QUYỀN',
@@ -558,7 +558,7 @@ const locales = {
     'placeholder.tbd': 'รอประกาศ',
     'placeholder.desc': 'ทีมจะประกาศหลังรอบแบ่งกลุ่ม การวิเคราะห์จะเพิ่มเร็วๆ นี้',
 
-    'cta.promo_bar': '🏆 ทำนายฟุตบอล World Cup 2026 ด้วย AI — อัปเดตทุกวัน',
+    'cta.promo_bar': '🏆 ทำนายฟุตบอล World Cup 2026 ด้วย AI',
     'cta.claim_bonus': 'รับโบนัส →',
     'cta.get_bonus': 'รับโบนัส',
     'cta.hero_badge': 'ข้อเสนอพิเศษ',

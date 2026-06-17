@@ -249,15 +249,22 @@ button {
   opacity: 0.8;
 }
 
-.date-dom {
-  font-family: 'Bebas Neue';
-  font-size: 19px;
-  line-height: 1.05;
+.date-date {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 1px;
 }
 
 .date-mon {
   font-size: 9px;
   opacity: 0.7;
+}
+
+.date-dom {
+  font-family: 'Bebas Neue';
+  font-size: 19px;
+  line-height: 1.05;
 }
 
 /* Chips */
@@ -274,7 +281,7 @@ button {
   display: flex;
   align-items: center;
   gap: 6px;
-  padding: 8px 12px;
+  padding: 2px 12px;
   border-radius: 999px;
   border: 1px solid var(--border);
   background: var(--bg2);

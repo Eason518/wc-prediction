@@ -24,8 +24,7 @@ export function renderNav() {
     const active = d.key === st.dateKey;
     return `<button class="date-btn${active ? ' active' : ''}" data-date="${d.key}">
       <div class="date-dow">${d.dow}</div>
-      <div class="date-dom">${d.dom}</div>
-      <div class="date-mon">${d.mon} · ${d.count}${t('nav.matches') === 'matches' ? ' ' : ''}${t('nav.matches')}</div>
+      <div class="date-date"><span class="date-mon">${d.mon}</span><span class="date-dom">${d.dom}</span></div>
     </button>`;
   }).join('');
 

@@ -239,23 +239,71 @@
     "actualScoreAway": 4,
     "stage": "group-stage",
     "liveStats": {
-      "possession": [36, 51],
+      "possession": [
+        36,
+        51
+      ],
       "possession_contested": 13,
-      "goals": [1, 4],
-      "attempts_total": [11, 11],
-      "attempts_on": [1, 4],
-      "attempts_off": [9, 5],
-      "passes": [349, 554],
-      "passes_completed": [281, 494],
-      "crosses": [11, 18],
-      "crosses_completed": [3, 5],
-      "corners": [2, 5],
-      "free_kicks": [13, 13],
-      "yellow_cards": [1, 0],
-      "red_cards": [0, 0],
-      "fouls": [12, 13],
-      "offsides": [0, 0],
-      "forced_turnovers": [29, 20]
+      "goals": [
+        1,
+        4
+      ],
+      "attempts_total": [
+        11,
+        11
+      ],
+      "attempts_on": [
+        1,
+        4
+      ],
+      "attempts_off": [
+        9,
+        5
+      ],
+      "passes": [
+        349,
+        554
+      ],
+      "passes_completed": [
+        281,
+        494
+      ],
+      "crosses": [
+        11,
+        18
+      ],
+      "crosses_completed": [
+        3,
+        5
+      ],
+      "corners": [
+        2,
+        5
+      ],
+      "free_kicks": [
+        13,
+        13
+      ],
+      "yellow_cards": [
+        1,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        13
+      ],
+      "offsides": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        29,
+        20
+      ]
     }
   },
   {
@@ -269,23 +317,71 @@
     "actualScoreAway": 0,
     "stage": "group-stage",
     "liveStats": {
-      "possession": [45, 50],
+      "possession": [
+        45,
+        50
+      ],
       "possession_contested": 5,
-      "goals": [3, 0],
-      "attempts_total": [10, 7],
-      "attempts_on": [6, 0],
-      "attempts_off": [4, 4],
-      "passes": [571, 619],
-      "passes_completed": [513, 554],
-      "crosses": [5, 7],
-      "crosses_completed": [1, 0],
-      "corners": [2, 2],
-      "free_kicks": [8, 16],
-      "yellow_cards": [0, 0],
-      "red_cards": [0, 0],
-      "fouls": [13, 7],
-      "offsides": [3, 1],
-      "forced_turnovers": [22, 21]
+      "goals": [
+        3,
+        0
+      ],
+      "attempts_total": [
+        10,
+        7
+      ],
+      "attempts_on": [
+        6,
+        0
+      ],
+      "attempts_off": [
+        4,
+        4
+      ],
+      "passes": [
+        571,
+        619
+      ],
+      "passes_completed": [
+        513,
+        554
+      ],
+      "crosses": [
+        5,
+        7
+      ],
+      "crosses_completed": [
+        1,
+        0
+      ],
+      "corners": [
+        2,
+        2
+      ],
+      "free_kicks": [
+        8,
+        16
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        7
+      ],
+      "offsides": [
+        3,
+        1
+      ],
+      "forced_turnovers": [
+        22,
+        21
+      ]
     }
   },
   {
@@ -295,8 +391,8 @@
       "opus/m-aut-jor-opus.md",
       "sonnet/m-aut-jor-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

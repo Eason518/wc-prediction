@@ -561,3 +561,38 @@ Dự đoán: Scotland 2-0 Haiti. Tuyến giữa và tấn công Scotland dưới
 | 👑 ช่วงเวลากัปตันของ Robertson | ทหารผ่านศึก 92 นัด พบว่าฟุตบอลโลกอาจเป็นเวทีที่สำคัญที่สุดหลังจากออกจาก Liverpool การวิ่งรุกปีกซ้ายของเขาจะเป็นจุดปล่อยหลักของการโจมตีของสกอตแลนด์ |
 | ⚖️ รูปแบบการออกบัตรของกรรมการที่สม่ำเสมอ | Ghorbal เฉลี่ย 3.5 ใบเหลืองต่อเกม แนวโน้มของเฮติที่จะฟาวล์เชิงยุทธวิธีอาจทำให้บัตรสะสม ผู้เล่นฝ่ายรับต้องระวังเพื่อหลีกเลี่ยงการโดนแบนในนัดเปิดสนาม |
 | 🏆 พลวัตของกลุ่ม C | เมื่อเผชิญกับ Brazil และ Morocco ที่เป็นทีมแข็งแกร่งของกลุ่ม C ในภายหลัง นี่คือการแข่งขัน "ต้องชนะ" เพียงนัดเดียวของสกอตแลนด์ แรงกดดันในการคว้าสามแต้มนั้นมหาศาล |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測蘇格蘭勝，實際蘇格蘭勝）
+- ✅ 蘇格蘭英超陣容質量優勢兌現
+- ✅ 海地進攻被壓制，未能破門
+- ⚠️ 比分估算偏高（預測 0-2，實際 0-1）
+- ⚠️ 蘇格蘭發揮未及預期，勝得較為辛苦
+
+## result_hits:en
+- ✅ Winner predicted correctly (Scotland win)
+- ✅ Scotland's Premier League quality proved decisive
+- ✅ Haiti's attack contained — no goals conceded
+- ⚠️ Scoreline overestimated (predicted 0-2, actual 0-1)
+- ⚠️ Scotland less dominant than expected — tighter than predicted
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测苏格兰胜，实际苏格兰胜）
+- ✅ 苏格兰英超阵容质量优势兑现
+- ✅ 海地进攻被压制，未能破门
+- ⚠️ 比分估算偏高（预测 0-2，实际 0-1）
+- ⚠️ 苏格兰发挥未及预期，胜得较为辛苦
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Scotland thắng)
+- ✅ Ưu thế chất lượng đội hình Premier League của Scotland được khẳng định
+- ✅ Haiti không ghi được bàn thắng như dự đoán
+- ⚠️ Tỷ số bị đánh giá cao hơn thực tế (dự đoán 0-2, thực tế 0-1)
+- ⚠️ Scotland không thống trị như kỳ vọng — trận đấu sít sao hơn
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สก็อตแลนด์ชนะ)
+- ✅ ความได้เปรียบด้านคุณภาพ Premier League ของสก็อตแลนด์พิสูจน์ตัวเอง
+- ✅ เฮติไม่สามารถทำประตูได้ตามที่คาดการณ์
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-2, จริง 0-1)
+- ⚠️ สก็อตแลนด์ไม่ได้ครองเกมอย่างที่คาด — สูสีกว่าที่คิด

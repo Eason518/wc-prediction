@@ -561,3 +561,38 @@ Dự đoán: Argentina thắng 2-0, Messi có thể lập công để kỷ niệ
 | ⚽ เวทีอำลาของ Mahrez | กัปตันแอลจีเรียวัย 35 ปีและอดีตแชมป์ Premier League ทุ่มเทสุดตัวในสิ่งที่น่าจะเป็นฟุตบอลโลกครั้งสุดท้ายของเขา |
 | ⚠️ อย่าลืมบทเรียนซาอุดีอาระเบีย | ในปี 2022 อาร์เจนตินาก็เป็นตัวเต็งหนัก แต่แพ้เกมเปิดสนามกับซาอุดีอาระเบีย Scaloni จะไม่ยอมให้นักเตะประมาทเด็ดขาด |
 | 🦊 แอลจีเรียในฐานะม้ามืด | แนวรุกหนุ่ม Gouiri+Amoura+Maza สร้างตัวเลขรอบคัดเลือกที่น่าทึ่ง แม้การชนะเกมแรกเป็นเรื่องยาก แต่สองเกมที่เหลืออาจแข่งขันได้ดีกว่ามาก |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷勝）
+- ✅ 阿根廷如預期封關取勝
+- ✅ 衛冕冠軍實力展現，無爆冷意外
+- ✅ 阿爾及利亞進攻全程被壓制
+- ⚠️ 比分略為低估（預測 2-0，實際 3-0）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Argentina kept a clean sheet as expected
+- ✅ No upset occurred — the defending champions' quality showed
+- ✅ Algeria's attack was neutralised throughout
+- ⚠️ Scoreline slightly underestimated (predicted 2-0, actual 3-0)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷胜）
+- ✅ 阿根廷如预期封关取胜
+- ✅ 卫冕冠军实力展现，无爆冷意外
+- ✅ 阿尔及利亚进攻全程被压制
+- ⚠️ 比分略为低估（预测 2-0，实际 3-0）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Argentina giữ sạch lưới đúng như dự đoán
+- ✅ Không có cú sốc — đương kim vô địch thể hiện đẳng cấp
+- ✅ Tấn công của Algeria bị vô hiệu hoá xuyên suốt
+- ⚠️ Tỷ số hơi thấp hơn thực tế (dự đoán 2-0, thực tế 3-0)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ อาร์เจนตินาเก็บคลีนชีทตามที่คาดการณ์
+- ✅ ไม่มีเซอร์ไพรส์ — แชมป์เก่าแสดงความเหนือกว่า
+- ✅ การโจมตีของแอลจีเรียถูกยับยั้งตลอดการแข่งขัน
+- ⚠️ ทำนายสกอร์ต่ำกว่าความเป็นจริงเล็กน้อย (ทำนาย 2-0, จริง 3-0)

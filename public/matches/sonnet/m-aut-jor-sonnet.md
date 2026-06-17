@@ -561,3 +561,43 @@ Dự đoán: Áo thắng 2-0, Arnautović lập công. Áo chính thức khẳng
 | ⚡ หมุดหมาย 100 นัดของ Sabitzer | ใกล้ถึงหมุดหมาย 100 นัดทีมชาติ กองกลางของ Dortmund มีแรงจูงใจพิเศษในฟุตบอลโลกครั้งนี้ |
 | 🛡️ ปรัชญาการกดดันถูกทดสอบ | ฟุตบอลความเข้มข้นสูงของ Rangnick เป็นการทดสอบอย่างหนักต่อระบบตั้งรับแบบลึกของจอร์แดน การแปลงแรงกดดันอย่างมีประสิทธิภาพคือความท้าทายสำคัญของออสเตรีย |
 | 🏆 พลวัตกลุ่ม J | ชัยชนะครั้งใหญ่ของออสเตรียในเกมนี้จะสร้างความมั่นใจก่อนเผชิญหน้ากับอาร์เจนตินา หากเสมอกับจอร์แดนอย่างไม่คาดคิดจะเพิ่มแรงกดดันเป็นสองเท่า เป้าหมายของออสเตรียคืออันดับสองของกลุ่ม J |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測奧地利勝，實際奧地利勝）
+- ✅ Arnautović 如預測得分
+- ✅ 奧地利高壓迫力系統壓制約旦
+- ✅ 缺少 Al-Naimat 的約旦進攻威脅明顯不足
+- ⚠️ 比分略有偏差（預測 2-0，實際 3-1）
+- ⚠️ 約旦意外破門，封關預期落空
+
+## result_hits:en
+- ✅ Winner predicted correctly (Austria win)
+- ✅ Arnautović on the scoresheet as predicted
+- ✅ Austria's high-intensity pressing overwhelmed Jordan
+- ✅ Jordan's attack was limited without Al-Naimat
+- ⚠️ Scoreline slightly off (predicted 2-0, actual 3-1)
+- ⚠️ Jordan scored — clean sheet prediction missed
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测奥地利胜，实际奥地利胜）
+- ✅ Arnautović 如预测得分
+- ✅ 奥地利高压迫力系统压制约旦
+- ✅ 缺少 Al-Naimat 的约旦进攻威胁明显不足
+- ⚠️ 比分略有偏差（预测 2-0，实际 3-1）
+- ⚠️ 约旦意外破门，封关预期落空
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Áo thắng)
+- ✅ Arnautović ghi bàn đúng như dự đoán
+- ✅ Hệ thống pressing mạnh của Áo áp đảo Jordan
+- ✅ Tấn công Jordan yếu đi đáng kể khi thiếu Al-Naimat
+- ⚠️ Tỷ số hơi lệch (dự đoán 2-0, thực tế 3-1)
+- ⚠️ Jordan ghi bàn — dự đoán giữ sạch lưới không thành
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ออสเตรียชนะ)
+- ✅ Arnautović ยิงประตูตามที่คาดการณ์
+- ✅ ระบบกดดันความเข้มข้นสูงของออสเตรียครอบงำจอร์แดน
+- ✅ การโจมตีของจอร์แดนอ่อนแอลงอย่างชัดเจนเมื่อขาด Al-Naimat
+- ⚠️ ทำนายสกอร์คลาดเคลื่อนเล็กน้อย (ทำนาย 2-0, จริง 3-1)
+- ⚠️ จอร์แดนยิงประตูได้ — การทำนายเก็บคลีนชีทไม่เป็นจริง

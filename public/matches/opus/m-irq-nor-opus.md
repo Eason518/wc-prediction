@@ -556,3 +556,43 @@ Dự đoán: 0-2 Na Uy thắng. Iraq có thể kháng cự ngoan cường trong 
 | 🇮🇶 รอคอย 40 ปี | อิรักกลับสู่ฟุตบอลโลกเป็นครั้งแรกนับตั้งแต่ปี 1986 ทั่วประเทศคึกคัก ขวัญกำลังใจเป็นพลังที่มองไม่เห็น |
 | 🎯 Sørloth ปืนกระบอกที่สอง | กองหน้า Atlético Madrid ทำ 13 ประตูในลาลีกาฤดูกาลที่แล้ว ภัยคุกคามสองทางของนอร์เวย์ทำให้อิรักไม่สามารถมุ่งเน้นที่ Haaland เพียงคนเดียว |
 | 🏆 การต่อสู้เพื่อความอยู่รอดในกลุ่ม I | อิรักอยู่ในกลุ่มที่ยาก หากสามารถจำกัดส่วนต่างความพ่ายแพ้ได้ในแมตช์นี้ก็อาจเป็นสิ่งสำคัญต่อความหวังผ่านเข้ารอบต่อไป |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測挪威勝，實際挪威勝）
+- ✅ 哈蘭德如預測在世界盃首秀破門
+- ✅ 挪威全場主宰如預期
+- ✅ 伊拉克進攻威脅有限，未能撼動挪威防線
+- ⚠️ 比分低估（預測 0-2，實際 1-4）
+- ⚠️ 伊拉克意外破門，封關預測落空
+
+## result_hits:en
+- ✅ Winner predicted correctly (Norway win)
+- ✅ Haaland scored on his World Cup debut as predicted
+- ✅ Norway dominated the match throughout
+- ✅ Iraq's limited attack barely threatened Norway's defense
+- ⚠️ Scoreline underestimated (predicted 0-2, actual 1-4)
+- ⚠️ Iraq scored — clean sheet prediction missed
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测挪威胜，实际挪威胜）
+- ✅ 哈兰德如预测在世界杯首秀破门
+- ✅ 挪威全场主宰如预期
+- ✅ 伊拉克进攻威胁有限，未能撼动挪威防线
+- ⚠️ 比分低估（预测 0-2，实际 1-4）
+- ⚠️ 伊拉克意外破门，封关预测落空
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Na Uy thắng)
+- ✅ Haaland ghi bàn trong lần đầu dự World Cup đúng như dự đoán
+- ✅ Na Uy thống trị trận đấu xuyên suốt như kỳ vọng
+- ✅ Tấn công hạn chế của Iraq không đe dọa được hàng thủ Na Uy
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-2, thực tế 1-4)
+- ⚠️ Iraq ghi bàn — dự đoán giữ sạch lưới không thành
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (นอร์เวย์ชนะ)
+- ✅ ฮาลันด์ยิงประตูในการลงสนาม World Cup ครั้งแรกตามที่คาดการณ์
+- ✅ นอร์เวย์ครองเกมตลอดการแข่งขันตามที่คาด
+- ✅ การโจมตีที่จำกัดของอิรักไม่สามารถคุกคามแนวรับนอร์เวย์ได้
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-2, จริง 1-4)
+- ⚠️ อิรักยิงประตูได้ — การทำนายเก็บคลีนชีทไม่เป็นจริง

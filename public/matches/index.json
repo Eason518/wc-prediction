@@ -196,6 +196,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         28,
@@ -289,6 +290,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         46,
@@ -382,6 +384,7 @@
     "actualScoreHome": 0,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         51,
@@ -475,6 +478,7 @@
     "actualScoreHome": 2,
     "actualScoreAway": 0,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         27,
@@ -568,6 +572,7 @@
     "actualScoreHome": 7,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         57,
@@ -662,6 +667,7 @@
     "actualScoreHome": 2,
     "actualScoreAway": 2,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         54,
@@ -755,6 +761,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 0,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         41,
@@ -848,6 +855,7 @@
     "actualScoreHome": 5,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         47,
@@ -942,6 +950,7 @@
     "actualScoreHome": 0,
     "actualScoreAway": 0,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         65,
@@ -1036,6 +1045,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         52,
@@ -1121,6 +1131,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         27,
@@ -1214,6 +1225,7 @@
     "actualScoreHome": 2,
     "actualScoreAway": 2,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         43,
@@ -1308,6 +1320,7 @@
     "actualScoreHome": 3,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         49,
@@ -1394,6 +1407,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 4,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         36,
@@ -1472,6 +1486,7 @@
     "actualScoreHome": 3,
     "actualScoreAway": 0,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         45,
@@ -1550,6 +1565,7 @@
     "actualScoreHome": 3,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         53,
@@ -1636,6 +1652,7 @@
     "actualScoreHome": 1,
     "actualScoreAway": 1,
     "stage": "group-stage",
+    "predictionCorrect": false,
     "liveStats": {
       "possession": [
         60,
@@ -1713,7 +1730,8 @@
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 2,
-    "stage": "group-stage"
+    "stage": "group-stage",
+    "predictionCorrect": true
   },
   {
     "id": "m-gha-pan",

@@ -551,3 +551,43 @@ Dự đoán: Thụy Điển 1–0 Tunisia, Gyökeres ghi bàn trong hiệp một
 | ⚠️ ตัวแปรบาดเจ็บสองด้าน | ทั้ง Gudmundsson (สวีเดน) และ Hannibal (ตูนิเซีย) ยังไม่แน่ใจเรื่องความพร้อม กระทบคุณภาพการเล่นแนวปีกของทั้งสองฝ่าย และอาจเพิ่มโอกาสเสมอ |
 | ⚖️ กรรมการเข้มงวด | Falcón Pérez เฉลี่ย 6.64 ใบเหลืองต่อแมตช์ในช่วงฤดูกาลล่าสุด หากตูนิเซียใช้กลยุทธ์ฟาวล์เพื่อหยุด Gyökeres ความเสี่ยงใบแดงจะเพิ่มขึ้นอย่างมาก |
 | 🏟️ สนามมอนเตร์เรย์ | Estadio BBVA ตั้งอยู่ในระดับความสูงต่ำ (ประมาณ 500 ม.) เอื้อต่อฟุตบอลเทคนิค สนามโล่งกว้างเหมาะกับการรุกของสวีเดน |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測瑞典勝，實際瑞典勝）
+- ✅ Gyökeres/Isak 雙前鋒組合如預期發威
+- ✅ 瑞典邊翼衛持續製造進攻機會
+- ✅ 突尼西亞防線最終在持續壓力下崩潰
+- ⚠️ 比分大幅低估（預測 1-0，實際 5-1）
+- ⚠️ 突尼西亞意外破門，封關預期落空
+
+## result_hits:en
+- ✅ Winner predicted correctly (Sweden win)
+- ✅ Gyökeres/Isak strike partnership delivered as expected
+- ✅ Sweden's wing-backs created constant crossing opportunities
+- ✅ Tunisia's defense eventually cracked under sustained pressure
+- ⚠️ Scoreline heavily underestimated (predicted 1-0, actual 5-1)
+- ⚠️ Tunisia scored — clean sheet prediction missed
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测瑞典胜，实际瑞典胜）
+- ✅ Gyökeres/Isak 双前锋组合如预期发威
+- ✅ 瑞典边翼卫持续制造进攻机会
+- ✅ 突尼斯防线最终在持续压力下崩溃
+- ⚠️ 比分大幅低估（预测 1-0，实际 5-1）
+- ⚠️ 突尼斯意外破门，封关预期落空
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Thụy Điển thắng)
+- ✅ Bộ đôi tiền đạo Gyökeres/Isak phát huy đúng như dự đoán
+- ✅ Các cánh hậu vệ của Thụy Điển liên tục tạo cơ hội tấn công
+- ✅ Hàng thủ Tunisia cuối cùng sụp đổ dưới áp lực
+- ⚠️ Tỷ số bị đánh giá thấp đáng kể (dự đoán 1-0, thực tế 5-1)
+- ⚠️ Tunisia ghi bàn — dự đoán giữ sạch lưới không thành
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สวีเดนชนะ)
+- ✅ คู่หน้า Gyökeres/Isak แสดงพลังตามที่คาดการณ์
+- ✅ วิงแบ็กของสวีเดนสร้างโอกาสโจมตีอย่างต่อเนื่อง
+- ✅ แนวรับตูนิเซียพังทลายภายใต้แรงกดดันต่อเนื่อง
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปอย่างมาก (ทำนาย 1-0, จริง 5-1)
+- ⚠️ ตูนิเซียยิงประตูได้ — การทำนายเก็บคลีนชีทไม่เป็นจริง

@@ -1918,25 +1918,79 @@
     "stage": "group-stage",
     "predictionCorrect": true,
     "liveStats": {
-      "possession": [40, 51],
+      "possession": [
+        40,
+        51
+      ],
       "possession_contested": 9,
-      "goals": [1, 3],
-      "attempts_total": [7, 14],
-      "attempts_on": [3, 3],
-      "attempts_off": [4, 8],
-      "attempts_inside": [5, 8],
-      "attempts_outside": [2, 6],
-      "passes": [331, 516],
-      "passes_completed": [254, 445],
-      "crosses": [9, 14],
-      "crosses_completed": [3, 4],
-      "corners": [3, 4],
-      "free_kicks": [14, 14],
-      "yellow_cards": [1, 1],
-      "red_cards": [0, 0],
-      "fouls": [11, 14],
-      "offsides": [0, 3],
-      "forced_turnovers": [15, 18]
+      "goals": [
+        1,
+        3
+      ],
+      "attempts_total": [
+        7,
+        14
+      ],
+      "attempts_on": [
+        3,
+        3
+      ],
+      "attempts_off": [
+        4,
+        8
+      ],
+      "attempts_inside": [
+        5,
+        8
+      ],
+      "attempts_outside": [
+        2,
+        6
+      ],
+      "passes": [
+        331,
+        516
+      ],
+      "passes_completed": [
+        254,
+        445
+      ],
+      "crosses": [
+        9,
+        14
+      ],
+      "crosses_completed": [
+        3,
+        4
+      ],
+      "corners": [
+        3,
+        4
+      ],
+      "free_kicks": [
+        14,
+        14
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        11,
+        14
+      ],
+      "offsides": [
+        0,
+        3
+      ],
+      "forced_turnovers": [
+        15,
+        18
+      ]
     }
   },
   {
@@ -1951,25 +2005,79 @@
     "stage": "group-stage",
     "predictionCorrect": true,
     "liveStats": {
-      "possession": [38, 55],
+      "possession": [
+        38,
+        55
+      ],
       "possession_contested": 7,
-      "goals": [1, 1],
-      "attempts_total": [14, 17],
-      "attempts_on": [3, 4],
-      "attempts_off": [7, 6],
-      "attempts_inside": [11, 5],
-      "attempts_outside": [3, 9],
-      "passes": [336, 567],
-      "passes_completed": [272, 494],
-      "crosses": [11, 13],
-      "crosses_completed": [4, 1],
-      "corners": [5, 5],
-      "free_kicks": [13, 13],
-      "yellow_cards": [1, 2],
-      "red_cards": [0, 0],
-      "fouls": [12, 10],
-      "offsides": [2, 3],
-      "forced_turnovers": [15, 30]
+      "goals": [
+        1,
+        1
+      ],
+      "attempts_total": [
+        14,
+        17
+      ],
+      "attempts_on": [
+        3,
+        4
+      ],
+      "attempts_off": [
+        7,
+        6
+      ],
+      "attempts_inside": [
+        11,
+        5
+      ],
+      "attempts_outside": [
+        3,
+        9
+      ],
+      "passes": [
+        336,
+        567
+      ],
+      "passes_completed": [
+        272,
+        494
+      ],
+      "crosses": [
+        11,
+        13
+      ],
+      "crosses_completed": [
+        4,
+        1
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "free_kicks": [
+        13,
+        13
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        10
+      ],
+      "offsides": [
+        2,
+        3
+      ],
+      "forced_turnovers": [
+        15,
+        30
+      ]
     }
   },
   {

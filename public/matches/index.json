@@ -1826,9 +1826,31 @@
     "files": [
       "sonnet/m-gha-pan-sonnet.md"
     ],
-    "actualScoreHome": 0,
+    "actualScoreHome": 1,
     "actualScoreAway": 0,
-    "stage": "group-stage"
+    "stage": "group-stage",
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [37, 56],
+      "possession_contested": 7,
+      "goals": [1, 0],
+      "attempts_total": [7, 11],
+      "attempts_on": [2, 4],
+      "attempts_off": [4, 5],
+      "attempts_inside": [6, 6],
+      "attempts_outside": [1, 5],
+      "passes": [362, 593],
+      "passes_completed": [290, 503],
+      "crosses": [15, 22],
+      "crosses_completed": [6, 4],
+      "corners": [2, 2],
+      "free_kicks": [11, 11],
+      "yellow_cards": [1, 2],
+      "red_cards": [0, 0],
+      "fouls": [11, 8],
+      "offsides": [4, 1],
+      "forced_turnovers": [18, 20]
+    }
   },
   {
     "id": "m-uzb-col",

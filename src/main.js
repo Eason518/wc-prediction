@@ -39,7 +39,9 @@ function applyBannerSlide(index, lang, fade) {
     img.classList.add('banner-fading');
     setTimeout(() => { apply(); img.classList.remove('banner-fading'); }, 250);
   } else {
+    img.classList.add('banner-fading');
     apply();
+    img.onload = () => { img.classList.remove('banner-fading'); img.onload = null; };
   }
 }
 

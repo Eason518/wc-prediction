@@ -1946,9 +1946,31 @@
       "opus/m-cze-rsa-opus.md",
       "sonnet/m-cze-rsa-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "stage": "group-stage"
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
+    "stage": "group-stage",
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [38, 55],
+      "possession_contested": 7,
+      "goals": [1, 1],
+      "attempts_total": [14, 17],
+      "attempts_on": [3, 4],
+      "attempts_off": [7, 6],
+      "attempts_inside": [11, 5],
+      "attempts_outside": [3, 9],
+      "passes": [336, 567],
+      "passes_completed": [272, 494],
+      "crosses": [11, 13],
+      "crosses_completed": [4, 1],
+      "corners": [5, 5],
+      "free_kicks": [13, 13],
+      "yellow_cards": [1, 2],
+      "red_cards": [0, 0],
+      "fouls": [12, 10],
+      "offsides": [2, 3],
+      "forced_turnovers": [15, 30]
+    }
   },
   {
     "id": "m-sui-bih",

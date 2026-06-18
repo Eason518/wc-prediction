@@ -477,6 +477,46 @@ Tỷ lệ cược: Czechia thắng 2.40, hòa 3.10, Nam Phi thắng 3.20. Đây 
 | Tomáš Souček | 🇨🇿 MID | Teboho Mokoena | 🇿🇦 MID | เครื่องยนต์ West Ham ปะทะแกนกลางเส้นกลางแอฟริกาใต้ การต่อสู้เพื่อครองกลางสนาม |
 | Relebohile Mofokeng | 🇿🇦 LW | Vladimír Coufal | 🇨🇿 RWB | ดาวเด่นความเร็วแอฟริกาใต้ ปะทะวิงแบ็กทหารผ่านศึกของสาธารณรัฐเช็ก การดวลตามแนวข้างน่าจับตามอง |
 
+## result_hits:zh
+- ✅ 勝負方向命中（預測平局，實際平局）
+- ✅ 比分完全命中（預測 1-1，實際 1-1）
+- ✅ 角球數命中（預測 8–11，實際 10 個）
+- ✅ 黃牌數命中（預測 3–5，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 犯規數低於預測（預測 24–28，實際 22 次）
+
+## result_hits:en
+- ✅ Draw predicted correctly
+- ✅ Exact scoreline nailed (predicted 1-1, actual 1-1)
+- ✅ Corner count on target (predicted 8–11, actual 10)
+- ✅ Yellow card count on target (predicted 3–5, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Foul count below prediction (predicted 24–28, actual 22)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测平局，实际平局）
+- ✅ 比分完全命中（预测 1-1，实际 1-1）
+- ✅ 角球数命中（预测 8–11，实际 10 个）
+- ✅ 黄牌数命中（预测 3–5，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 犯规数低于预测（预测 24–28，实际 22 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hòa)
+- ✅ Tỷ số chính xác hoàn toàn (dự đoán 1-1, thực tế 1-1)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 8–11, thực tế 10 cái)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 24–28, thực tế 22 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เสมอ)
+- ✅ ทำนายสกอร์ถูกต้องแน่นอน (ทำนาย 1-1, จริง 1-1)
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 8–11, จริง 10 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 24–28, จริง 22 ครั้ง)
+
 ## summary_verdict:zh
 這是一場 A 組「六分之戰」。捷克時隔 20 年重返世界盃，靠 Schick、Souček、Krejčí 的歐洲頂級身體與定位球能力立足，但首戰不敵南韓暴露進攻效率不足。
 

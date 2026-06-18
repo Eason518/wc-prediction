@@ -96,7 +96,7 @@ export async function loadData() {
 
   const now = new Date();
   const nowMs = now.getTime();
-  const MATCH_WINDOW_MS = 105 * 60 * 1000;
+  const MATCH_WINDOW_MS = 120 * 60 * 1000;
   const startMs = m => new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
   const ongoingMatch = schedule.find(m => nowMs >= startMs(m) && nowMs < startMs(m) + MATCH_WINDOW_MS);
 
@@ -106,7 +106,8 @@ export async function loadData() {
   } else {
     const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
     const nextMatch = schedule.find(m => startMs(m) > nowMs);
-    defaultMatch = schedule.find(m => matchLocalDateKey(m) === todayKey) || nextMatch || schedule[0];
+    const todayMatch = schedule.find(m => matchLocalDateKey(m) === todayKey && nowMs < startMs(m) + MATCH_WINDOW_MS);
+    defaultMatch = todayMatch || nextMatch || schedule[0];
   }
 
   state = { stage: defaultMatch.stage || 'group-stage', dateKey: matchLocalDateKey(defaultMatch), matchId: defaultMatch.id, modelIndex: 0, tab: 'summary' };

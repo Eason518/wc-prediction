@@ -488,6 +488,7 @@ button {
   overflow: hidden;
   transition: box-shadow 0.2s, transform 0.2s;
   box-shadow: 0 0 0 0 rgba(245, 158, 11, 0);
+  aspect-ratio: 2081 / 512;
 }
 
 #banner-link:hover {
@@ -497,9 +498,47 @@ button {
 
 #banner-img {
   width: 100%;
-  height: auto;
+  height: 100%;
   display: block;
   border-radius: 10px;
+  object-fit: cover;
+  transition: opacity 0.25s ease;
+}
+
+@media (max-width: 767px) {
+  #banner-link {
+    aspect-ratio: 2172 / 724;
+  }
+}
+
+#banner-img.banner-fading {
+  opacity: 0;
+}
+
+.banner-dots {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  padding: 6px 0 2px;
+}
+
+.banner-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.25);
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.banner-dot:hover {
+  background: rgba(255, 255, 255, 0.55);
+  transform: scale(1.2);
+}
+
+.banner-dot.active {
+  background: rgba(245, 158, 11, 0.9);
+  transform: scale(1.15);
 }
 
 /* ── Hero ── */

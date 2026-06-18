@@ -2,20 +2,66 @@ import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants } from './store.js';
 import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats, renderResult } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
-import { BANNER_LINKS } from './config.js';
+import { BANNER_LINKS, JIOOLIVE_BANNER_LINKS } from './config.js';
 
-function syncBanner(lang) {
+let _carouselInterval = null;
+let _carouselIndex = 0;
+let _carouselLang = null;
+
+function getBannerSlides(lang) {
+  const variant = window.innerWidth >= 768 ? 'desktop-' : '';
+  return [
+    {
+      src: `${import.meta.env.BASE_URL}banners/banner-${variant}${lang}.png`,
+      href: BANNER_LINKS[lang] || BANNER_LINKS.en,
+    },
+    {
+      src: `${import.meta.env.BASE_URL}banners/jioolive-banner-${variant}${lang}.png`,
+      href: JIOOLIVE_BANNER_LINKS[lang] || JIOOLIVE_BANNER_LINKS.en,
+    },
+  ];
+}
+
+function applyBannerSlide(index, lang, fade) {
   const img = document.getElementById('banner-img');
   const link = document.getElementById('banner-link');
+  if (!img || !link) return;
+  const slides = getBannerSlides(lang);
+  const slide = slides[index];
+  const apply = () => {
+    img.src = slide.src;
+    link.href = slide.href;
+    document.querySelectorAll('.banner-dot').forEach((dot, i) => {
+      dot.classList.toggle('active', i === index);
+    });
+  };
+  if (fade) {
+    img.classList.add('banner-fading');
+    setTimeout(() => { apply(); img.classList.remove('banner-fading'); }, 250);
+  } else {
+    apply();
+  }
+}
+
+function startBannerCarousel(lang) {
+  if (_carouselInterval) { clearInterval(_carouselInterval); _carouselInterval = null; }
+  _carouselLang = lang;
+  _carouselIndex = 0;
+  applyBannerSlide(0, lang, false);
+  _carouselInterval = setInterval(() => {
+    _carouselIndex = (_carouselIndex + 1) % 2;
+    applyBannerSlide(_carouselIndex, _carouselLang, true);
+  }, 5000);
+}
+
+function syncBanner(lang) {
   const promoBarBtn = document.getElementById('promo-bar-btn');
   const promoBarLabel = document.getElementById('promo-bar-label');
   const promoBarBtnText = document.getElementById('promo-bar-btn-text');
   const getBonusBtn = document.getElementById('floating-cta');
   const getBonusText = document.getElementById('get-bonus-text');
   const href = BANNER_LINKS[lang] || BANNER_LINKS.en;
-  const variant = window.innerWidth >= 768 ? 'desktop-' : '';
-  if (img) img.src = `${import.meta.env.BASE_URL}banners/banner-${variant}${lang}.png`;
-  if (link) link.href = href;
+  startBannerCarousel(lang);
   if (promoBarBtn) promoBarBtn.href = href;
   if (getBonusBtn) getBonusBtn.href = href;
   if (promoBarLabel) promoBarLabel.textContent = t('cta.promo_bar');
@@ -175,7 +221,6 @@ function bindEvents() {
 
 function bindCtaEvents() {
   [
-    { id: 'banner-link',   location: 'banner' },
     { id: 'promo-bar-btn', location: 'promo_bar' },
     { id: 'floating-cta',  location: 'floating_button' },
     { id: 'footer-cta-btn', location: 'footer_cta' },
@@ -183,6 +228,25 @@ function bindCtaEvents() {
   ].forEach(({ id, location }) => {
     document.getElementById(id)?.addEventListener('click', () => {
       trackEvent('cta_click', { location });
+    });
+  });
+
+  const BRANDS = ['12bet', 'jioolive'];
+  document.getElementById('banner-link')?.addEventListener('click', () => {
+    trackEvent('cta_click', { location: 'banner', brand: BRANDS[_carouselIndex] });
+  });
+
+  document.querySelectorAll('.banner-dot').forEach(dot => {
+    dot.addEventListener('click', () => {
+      const index = parseInt(dot.dataset.index, 10);
+      if (index === _carouselIndex) return;
+      if (_carouselInterval) { clearInterval(_carouselInterval); _carouselInterval = null; }
+      _carouselIndex = index;
+      applyBannerSlide(index, _carouselLang, true);
+      _carouselInterval = setInterval(() => {
+        _carouselIndex = (_carouselIndex + 1) % 2;
+        applyBannerSlide(_carouselIndex, _carouselLang, true);
+      }, 5000);
     });
   });
 }

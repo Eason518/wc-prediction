@@ -1,8 +1,15 @@
 import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants } from './store.js';
-import { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats, renderResult } from './render/index.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS, JIOOLIVE_BANNER_LINKS } from './config.js';
+
+let renderModule = null;
+async function getRenderModule() {
+  if (!renderModule) {
+    renderModule = await import('./render/index.js');
+  }
+  return renderModule;
+}
 
 let _carouselInterval = null;
 let _carouselIndex = 0;
@@ -118,10 +125,12 @@ function scrollActiveIntoView(containerSelector, activeSelector) {
 
 let _prevMatchId = null;
 
-function update() {
+async function update() {
   const st = getState();
   const matchChanged = st.matchId !== _prevMatchId;
   _prevMatchId = st.matchId;
+
+  const { renderNav, renderHero, renderTabs, renderSquad, renderOther, renderSummary, renderStats, renderResult } = await getRenderModule();
 
   $nav.innerHTML = renderNav();
   scrollActiveIntoView('.nav-stages', '.stage-btn.active');

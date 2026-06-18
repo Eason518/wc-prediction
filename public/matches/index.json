@@ -2092,18 +2092,51 @@
     "stage": "group-stage",
     "predictionCorrect": true,
     "liveStats": {
-      "possession": [44, 48],
+      "possession": [
+        44,
+        48
+      ],
       "possession_contested": 8,
-      "goals": [4, 1],
-      "attempts_total": [13, 5],
-      "attempts_on": [7, 3],
-      "attempts_off": [6, 0],
-      "corners": [7, 3],
-      "free_kicks": [18, 10],
-      "yellow_cards": [1, 2],
-      "red_cards": [0, 1],
-      "fouls": [18, 7],
-      "offsides": [3, 1]
+      "goals": [
+        4,
+        1
+      ],
+      "attempts_total": [
+        13,
+        5
+      ],
+      "attempts_on": [
+        7,
+        3
+      ],
+      "attempts_off": [
+        6,
+        0
+      ],
+      "corners": [
+        7,
+        3
+      ],
+      "free_kicks": [
+        18,
+        10
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        0,
+        1
+      ],
+      "fouls": [
+        18,
+        7
+      ],
+      "offsides": [
+        3,
+        1
+      ]
     }
   },
   {
@@ -2113,8 +2146,8 @@
       "opus/m-can-qat-opus.md",
       "sonnet/m-can-qat-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

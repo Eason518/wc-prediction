@@ -2087,8 +2087,8 @@
       "opus/m-sui-bih-opus.md",
       "sonnet/m-sui-bih-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

@@ -561,3 +561,58 @@ Dự đoán: Thụy Sĩ thắng 2-1. Chất lượng cá nhân của Thụy Sĩ 
 | 👴 ฟุตบอลโลกครั้งสุดท้ายของ Džeko | ทัวร์นาเมนต์สุดท้ายของตำนานวัย 40 ปี เต็มไปด้วยความหลงใหล ภัยคุกคามการแย่งบอลทางอากาศในลูกเซตยังคงเป็นอันตรายตัวจริง |
 | 🛡️ กุญแจแนวรับของ Akanji | เซ็นเตอร์แบ็กระดับโลกของ Man City ต้องปิดการวิ่งของ Demirović ถ้าล้มเหลว ชัยชนะของสวิตเซอร์แลนด์ไม่อาจรับประกันได้ |
 | 📊 วิกฤตคะแนนสำหรับทั้งสองทีม | ทั้งสองทีมเสมอ 1-1 ในนัดเปิดตัว ทีมที่แพ้วันนี้จะเผชิญกับเส้นทางผ่านเข้ารอบกลุ่ม B ที่ยากลำบากขึ้นอย่างมาก ทำให้แรงกดดันมหาศาล |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測瑞士勝，實際瑞士勝）
+- ✅ 瑞士個人實力完全壓制波黑，如預期掌控比賽節奏
+- ✅ 波黑如預期打進一球（頑強破門）
+- ✅ 角球數命中（預測 9–12，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 1 張）
+- ✅ 黃牌數命中（預測 3–5，實際 3 張）
+- ✅ 犯規數命中（預測 20–26，實際 25 次）
+- ⚠️ 比分大幅低估（預測 2-1，實際 4-1）
+- ⚠️ Embolo 未能成為關鍵得分手，Manzambi 貢獻雙響取而代之
+
+## result_hits:en
+- ✅ Winner predicted correctly (Switzerland win)
+- ✅ Switzerland's individual quality controlled the game as expected
+- ✅ Bosnia scored once as predicted (resilient breakthrough)
+- ✅ Corner count on target (predicted 9–12, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 1)
+- ✅ Yellow card count on target (predicted 3–5, actual 3)
+- ✅ Foul count on target (predicted 20–26, actual 25)
+- ⚠️ Scoreline heavily underestimated (predicted 2-1, actual 4-1)
+- ⚠️ Embolo not the key scorer — Manzambi starred with a brace
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测瑞士胜，实际瑞士胜）
+- ✅ 瑞士个人实力完全压制波黑，如预期掌控比赛节奏
+- ✅ 波黑如预期打进一球（顽强破门）
+- ✅ 角球数命中（预测 9–12，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 1 张）
+- ✅ 黄牌数命中（预测 3–5，实际 3 张）
+- ✅ 犯规数命中（预测 20–26，实际 25 次）
+- ⚠️ 比分大幅低估（预测 2-1，实际 4-1）
+- ⚠️ Embolo 未能成为关键得分手，Manzambi 贡献双响取而代之
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Thụy Sĩ thắng)
+- ✅ Chất lượng cá nhân của Thụy Sĩ kiểm soát trận đấu như dự đoán
+- ✅ Bosnia ghi được 1 bàn như dự đoán (phá vỡ thế trắng tay)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 1 thẻ)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–26, thực tế 25 lần)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 2-1, thực tế 4-1)
+- ⚠️ Embolo không phải người ghi bàn chính — Manzambi lập cú đúp thay thế
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สวิตเซอร์แลนด์ชนะ)
+- ✅ คุณภาพส่วนบุคคลของสวิตเซอร์แลนด์ควบคุมเกมได้ตามที่ทำนาย
+- ✅ บอสเนียยิงได้ 1 ประตูตามที่ทำนาย
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 1 ใบ)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 3 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–26, จริง 25 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 2-1, จริง 4-1)
+- ⚠️ Embolo ไม่ใช่ผู้ทำประตูหลัก — Manzambi โดดเด่นด้วยสองประตูแทน

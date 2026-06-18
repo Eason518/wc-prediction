@@ -2087,9 +2087,24 @@
       "opus/m-sui-bih-opus.md",
       "sonnet/m-sui-bih-sonnet.md"
     ],
-    "actualScoreHome": 1,
-    "actualScoreAway": 0,
-    "stage": "group-stage"
+    "actualScoreHome": 4,
+    "actualScoreAway": 1,
+    "stage": "group-stage",
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [44, 48],
+      "possession_contested": 8,
+      "goals": [4, 1],
+      "attempts_total": [13, 5],
+      "attempts_on": [7, 3],
+      "attempts_off": [6, 0],
+      "corners": [7, 3],
+      "free_kicks": [18, 10],
+      "yellow_cards": [1, 2],
+      "red_cards": [0, 1],
+      "fouls": [18, 7],
+      "offsides": [3, 1]
+    }
   },
   {
     "id": "m-can-qat",

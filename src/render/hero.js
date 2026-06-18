@@ -11,9 +11,14 @@ export function renderHero() {
   let pH = 0, pD = 0, pA = 0;
   for (const s of sp) {
     const prob = Number(s.prob) || 0;
-    if (s.winner === 'home') pH += prob;
-    else if (s.winner === 'away') pA += prob;
-    else if (s.winner === 'draw') pD += prob;
+    let winner = s.winner;
+    if (!winner) {
+      const sm = s.score && s.score.match(/^(\d+)-(\d+)/);
+      if (sm) { const h = +sm[1], a = +sm[2]; winner = h > a ? 'home' : a > h ? 'away' : 'draw'; }
+    }
+    if (winner === 'home') pH += prob;
+    else if (winner === 'away') pA += prob;
+    else if (winner === 'draw') pD += prob;
   }
   const tot = (pH + pD + pA) || 1;
   const winH = Math.round(pH / tot * 100);

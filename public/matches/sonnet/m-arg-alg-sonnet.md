@@ -6,7 +6,7 @@ group: J
 matchday: GROUP STAGE
 venue: Arrowhead Stadium, Kansas City
 venueShort: Kansas City, USA
-status: upcoming
+status: completed
 homeCode: ARG
 awayCode: ALG
 referee: Szymon Marciniak (POL)

@@ -6,7 +6,7 @@ group: L
 matchday: GROUP STAGE
 venue: AT&T Stadium, Arlington, Texas
 venueShort: Dallas/Arlington, USA
-status: upcoming
+status: completed
 homeCode: ENG
 awayCode: CRO
 referee: Clément Turpin (FRA)

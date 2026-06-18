@@ -6,7 +6,7 @@ group: L
 matchday: GROUP STAGE
 venue: Toronto Stadium (BMO Field), Toronto
 venueShort: Toronto, Canada
-status: upcoming
+status: completed
 homeCode: GHA
 awayCode: PAN
 referee: 待確認 (TBC)

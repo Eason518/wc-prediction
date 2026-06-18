@@ -6,7 +6,7 @@ group: J
 matchday: GROUP STAGE
 venue: Levi's Stadium, Santa Clara
 venueShort: San Francisco Bay Area, USA
-status: upcoming
+status: completed
 homeCode: AUT
 awayCode: JOR
 referee: Dahane Beida (MTN)

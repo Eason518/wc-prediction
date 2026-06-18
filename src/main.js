@@ -203,6 +203,19 @@ function syncStickyHeights() {
 async function init() {
   try {
     await loadData();
+
+    // If URL is /match/m-xxx-yyy/, initialize to that match
+    const pathMatch = window.location.pathname.match(/\/match\/(m-[^/]+)/);
+    if (pathMatch) {
+      const urlMatchId = pathMatch[1];
+      const found = getSchedule().find(m => m.id === urlMatchId);
+      if (found) {
+        const variants = getMatchVariants(urlMatchId);
+        const tab = variants[0]?.resultHits?.length ? 'result' : variants[0]?.liveStats ? 'stats' : 'summary';
+        setState({ matchId: urlMatchId, stage: found.stage || 'group-stage', dateKey: matchLocalDateKey(found), modelIndex: 0, tab });
+      }
+    }
+
     subscribe(update);
     onLangChange(lang => {
       syncBanner(lang);

@@ -2322,7 +2322,8 @@
     "stage": "group-stage",
     "files": [
       "opus/m-usa-aus-opus.md",
-      "sonnet/m-usa-aus-sonnet.md"
+      "sonnet/m-usa-aus-sonnet.md",
+      "deepseek/m-usa-aus-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null

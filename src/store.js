@@ -52,7 +52,7 @@ async function loadVariants(entry, lang) {
       battles: [],
       summaryVerdict: '',
       observations: [],
-      liveStats: entry.liveStats || null,
+      liveStats: (entry.liveStats && Object.keys(entry.liveStats).length > 0) ? entry.liveStats : null,
       predictionCorrect: entry.predictionCorrect ?? null,
       placeholder: true,
       stage: entry.stage || 'group-stage',
@@ -69,7 +69,7 @@ async function loadVariants(entry, lang) {
   variants.forEach(v => {
     v.actualScore = actualScore;
     v.stage = entry.stage || 'group-stage';
-    v.liveStats = entry.liveStats || null;
+    v.liveStats = (entry.liveStats && Object.keys(entry.liveStats).length > 0) ? entry.liveStats : null;
     v.predictionCorrect = entry.predictionCorrect ?? null;
   });
   return variants;

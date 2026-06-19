@@ -562,3 +562,53 @@ Dự đoán: Mexico thắng 2-1. Sức mạnh sân nhà và năng lượng đám
 | 🎯 ซูเปอร์สับ Santiago Giménez | หากกองหน้าของ Milan ลงสนามกลางเกม ความเร็วและสัญชาตญาณในกรอบเขตโทษอาจเปลี่ยนสกอร์ได้ทันที — ตัวสำรองที่มีผลกระทบมากที่สุดในนัดนี้ |
 | 🔑 ความคิดสร้างสรรค์ของ Lee Kang-in ปะทะ Álvarez | ว่ามิดฟิลด์รุกของเกาหลีจะสามารถทะลุผ่านฉากกั้นแดนกลางรับของเม็กซิโกได้หรือไม่คือการต่อสู้แดนกลางที่ชี้ขาด |
 | 📊 นัดชี้ชะตากลุ่ม A | ทั้งสองทีมมี 3 คะแนน — ทีมชนะผ่านเข้ารอบโดยพื้นฐาน ทีมแพ้ต้องต่อสู้เพื่อความอยู่รอดกับสาธารณรัฐเช็กหรือแอฟริกาใต้ในรอบสุดท้าย เดิมพันสูงมาก |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測墨西哥勝，實際墨西哥勝）
+- ✅ 墨西哥主場優勢奏效，主場氣氛成為制勝關鍵
+- ✅ 韓國全場未能破門，球門線零失球如預期
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分略為高估（預測 2-1，實際 1-0）
+- ⚠️ 角球數大幅低於預測（預測 9–12，實際 2 個）
+- ⚠️ 黃牌數低於預測（預測 4–7，實際 2 張）
+- ⚠️ 犯規數大幅低於預測（預測 23–27，實際 16 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Mexico win)
+- ✅ Home advantage decisive — Estadio Akron atmosphere proved a key factor
+- ✅ Korea Republic failed to score — clean sheet held as expected
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline slightly overestimated (predicted 2-1, actual 1-0)
+- ⚠️ Corner count far below prediction (predicted 9–12, actual 2)
+- ⚠️ Yellow cards below prediction (predicted 4–7, actual 2)
+- ⚠️ Foul count far below prediction (predicted 23–27, actual 16)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测墨西哥胜，实际墨西哥胜）
+- ✅ 墨西哥主场优势奏效，主场气氛成为制胜关键
+- ✅ 韩国全场未能破门，球门线零失球如预期
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分略为高估（预测 2-1，实际 1-0）
+- ⚠️ 角球数大幅低于预测（预测 9–12，实际 2 个）
+- ⚠️ 黄牌数低于预测（预测 4–7，实际 2 张）
+- ⚠️ 犯规数大幅低于预测（预测 23–27，实际 16 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Mexico thắng)
+- ✅ Lợi thế sân nhà phát huy tác dụng — bầu không khí Estadio Akron là yếu tố quyết định
+- ✅ Hàn Quốc không ghi được bàn — giữ sạch lưới đúng như dự đoán
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao hơn một chút (dự đoán 2-1, thực tế 1-0)
+- ⚠️ Số phạt góc thấp hơn dự đoán rất nhiều (dự đoán 9–12, thực tế 2 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–7, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán rất nhiều (dự đoán 23–27, thực tế 16 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เม็กซิโกชนะ)
+- ✅ ข้อได้เปรียบสนามเหย้าพิสูจน์แล้ว — บรรยากาศ Estadio Akron เป็นปัจจัยชี้ขาด
+- ✅ เกาหลีใต้ไม่สามารถทำประตูได้ — รักษาคลีนชีตตามที่ทำนาย
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไปเล็กน้อย (ทำนาย 2-1, จริง 1-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–12, จริง 2 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–7, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 23–27, จริง 16 ครั้ง)

@@ -2151,26 +2151,83 @@
     "stage": "group-stage",
     "predictionCorrect": true,
     "liveStats": {
-      "possession": [55, 36],
+      "possession": [
+        55,
+        36
+      ],
       "possession_contested": 9,
-      "goals": [6, 0],
-      "attempts_total": [30, 2],
-      "attempts_on": [10, 0],
-      "attempts_off": [9, 2],
-      "attempts_inside": [18, 1],
-      "attempts_outside": [11, 1],
-      "passes": [517, 160],
-      "passes_completed": [468, 107],
-      "crosses": [16, 2],
-      "crosses_completed": [6, 1],
-      "corners": [18, 1],
-      "free_kicks": [10, 9],
-      "yellow_cards": [1, 1],
-      "red_cards": [0, 2],
-      "fouls": [10, 8],
-      "offsides": [1, 0],
-      "own_goals": [0, 1],
-      "forced_turnovers": [9, 17]
+      "goals": [
+        6,
+        0
+      ],
+      "attempts_total": [
+        30,
+        2
+      ],
+      "attempts_on": [
+        10,
+        0
+      ],
+      "attempts_off": [
+        9,
+        2
+      ],
+      "attempts_inside": [
+        18,
+        1
+      ],
+      "attempts_outside": [
+        11,
+        1
+      ],
+      "passes": [
+        517,
+        160
+      ],
+      "passes_completed": [
+        468,
+        107
+      ],
+      "crosses": [
+        16,
+        2
+      ],
+      "crosses_completed": [
+        6,
+        1
+      ],
+      "corners": [
+        18,
+        1
+      ],
+      "free_kicks": [
+        10,
+        9
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        2
+      ],
+      "fouls": [
+        10,
+        8
+      ],
+      "offsides": [
+        1,
+        0
+      ],
+      "own_goals": [
+        0,
+        1
+      ],
+      "forced_turnovers": [
+        9,
+        17
+      ]
     }
   },
   {
@@ -2180,8 +2237,8 @@
       "opus/m-mex-kor-opus.md",
       "sonnet/m-mex-kor-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

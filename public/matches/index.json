@@ -2560,6 +2560,96 @@
     "awayCode": "COD"
   },
   {
+    "id": "m-bih-qat",
+    "date": "2026-06-25",
+    "files": [
+      "sonnet/m-bih-qat-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "03:00",
+    "homeCode": "BIH",
+    "awayCode": "QAT"
+  },
+  {
+    "id": "m-sui-can",
+    "date": "2026-06-25",
+    "files": [
+      "sonnet/m-sui-can-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "03:00",
+    "homeCode": "SUI",
+    "awayCode": "CAN"
+  },
+  {
+    "id": "m-mar-hai",
+    "date": "2026-06-25",
+    "files": [
+      "sonnet/m-mar-hai-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "06:00",
+    "homeCode": "MAR",
+    "awayCode": "HAI"
+  },
+  {
+    "id": "m-sco-bra",
+    "date": "2026-06-25",
+    "files": [
+      "sonnet/m-sco-bra-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "06:00",
+    "homeCode": "SCO",
+    "awayCode": "BRA"
+  },
+  {
+    "id": "m-cze-mex",
+    "date": "2026-06-25",
+    "files": [
+      "sonnet/m-cze-mex-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "09:00",
+    "homeCode": "CZE",
+    "awayCode": "MEX"
+  },
+  {
+    "id": "m-rsa-kor",
+    "date": "2026-06-25",
+    "files": [
+      "sonnet/m-rsa-kor-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "09:00",
+    "homeCode": "RSA",
+    "awayCode": "KOR"
+  },
+  {
     "id": "r32-m01",
     "date": "2026-06-29",
     "time": "03:00",

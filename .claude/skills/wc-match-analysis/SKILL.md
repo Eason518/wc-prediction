@@ -166,23 +166,50 @@ Where:
 
 If the directory does not exist, create it.
 
-### File Structure
+### Writing Order — English First, Then Translate Sequentially
+
+Write the file in **five passes**. After each pass, save/append to the file before starting the next.
+
+**Pass 1 — English (`:en`)**
+Write all `:en` sections in one go:
+1. YAML frontmatter
+2. `home_note:en`, `away_note:en`, `odds_note:en`
+3. `home_squad:en`, `away_squad:en`
+4. `score_predictions:en`, `event_preds:en`
+5. `referee:en`, `h2h:en`, `battles:en`
+6. `summary_verdict:en`, `observations:en`
+
+Save the file with only `:en` sections present, then proceed.
+
+**Pass 2 — 繁體中文 (`:zh`)**
+Translate every `:en` section into Traditional Chinese and append all `:zh` sections.
+
+**Pass 3 — 简体中文 (`:zh-cn`)**
+Translate from the `:en` sections into Simplified Chinese and append all `:zh-cn` sections.
+
+**Pass 4 — ภาษาไทย (`:th`)**
+Translate from the `:en` sections into Thai and append all `:th` sections.
+
+**Pass 5 — Tiếng Việt (`:vi`)**
+Translate from the `:en` sections into Vietnamese and append all `:vi` sections.
+
+### Final Section Order in the Completed File
 
 Follow `public/matches/sample.md` **exactly**. Required sections in order:
 
 1. YAML frontmatter (between `---` delimiters)
-2. `home_note:en` / `home_note:zh` / `home_note:zh-cn` / `home_note:vi` / `home_note:th`
-3. `away_note:en` / `away_note:zh` / `away_note:zh-cn` / `away_note:vi` / `away_note:th`
-4. `odds_note:en` / `odds_note:zh` / `odds_note:zh-cn` / `odds_note:vi` / `odds_note:th`
-5. `home_squad:en` / `home_squad:zh` / `home_squad:zh-cn` / `home_squad:vi` / `home_squad:th`
-6. `away_squad:en` / `away_squad:zh` / `away_squad:zh-cn` / `away_squad:vi` / `away_squad:th`
-7. `score_predictions:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
-8. `event_preds:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
-9. `referee:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
-10. `h2h:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
-11. `battles:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
-12. `summary_verdict:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
-13. `observations:en` / `:zh` / `:zh-cn` / `:vi` / `:th`
+2. `home_note:en` / `home_note:zh` / `home_note:zh-cn` / `home_note:th` / `home_note:vi`
+3. `away_note:en` / `away_note:zh` / `away_note:zh-cn` / `away_note:th` / `away_note:vi`
+4. `odds_note:en` / `odds_note:zh` / `odds_note:zh-cn` / `odds_note:th` / `odds_note:vi`
+5. `home_squad:en` / `home_squad:zh` / `home_squad:zh-cn` / `home_squad:th` / `home_squad:vi`
+6. `away_squad:en` / `away_squad:zh` / `away_squad:zh-cn` / `away_squad:th` / `away_squad:vi`
+7. `score_predictions:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
+8. `event_preds:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
+9. `referee:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
+10. `h2h:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
+11. `battles:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
+12. `summary_verdict:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
+13. `observations:en` / `:zh` / `:zh-cn` / `:th` / `:vi`
 
 ---
 

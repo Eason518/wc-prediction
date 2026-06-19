@@ -2234,7 +2234,6 @@
     "id": "m-mex-kor",
     "date": "2026-06-19",
     "files": [
-      "opus/m-mex-kor-opus.md",
       "sonnet/m-mex-kor-sonnet.md"
     ],
     "actualScoreHome": 0,
@@ -2760,5 +2759,20 @@
     "time": "08:00",
     "homeCode": "NOR",
     "awayCode": "SEN"
+  },
+  {
+    "id": "m-jor-alg",
+    "date": "2026-06-23",
+    "files": [
+      "sonnet/m-jor-alg-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "11:00",
+    "homeCode": "JOR",
+    "awayCode": "ALG"
   }
 ]

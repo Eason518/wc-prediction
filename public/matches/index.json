@@ -2353,13 +2353,19 @@
   {
     "id": "m-sco-mar",
     "date": "2026-06-20",
+    "time": "06:00",
     "stage": "group-stage",
+    "homeCode": "SCO",
+    "awayCode": "MAR",
     "files": [
       "opus/m-sco-mar-opus.md",
-      "sonnet/m-sco-mar-sonnet.md"
+      "sonnet/m-sco-mar-sonnet.md",
+      "deepseek/m-sco-mor-deepseek.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-bra-hai",

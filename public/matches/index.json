@@ -1643,6 +1643,14 @@
     }
   },
   {
+    "id": "m-arg-aut",
+    "date": "2026-06-23",
+    "files": [
+      "sonnet/m-arg-aut-sonnet.md"
+    ],
+    "stage": "group-stage"
+  },
+  {
     "id": "m-por-cod",
     "date": "2026-06-18",
     "files": [

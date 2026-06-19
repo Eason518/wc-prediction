@@ -2329,25 +2329,79 @@
     "actualScoreAway": 0,
     "predictionCorrect": true,
     "liveStats": {
-      "possession": [56, 33],
+      "possession": [
+        56,
+        33
+      ],
       "possession_contested": 11,
-      "goals": [2, 0],
-      "attempts_total": [10, 5],
-      "attempts_on": [2, 2],
-      "attempts_off": [2, 3],
-      "attempts_inside": [8, 3],
-      "attempts_outside": [2, 2],
-      "passes": [541, 320],
-      "passes_completed": [453, 228],
-      "crosses": [14, 15],
-      "crosses_completed": [5, 1],
-      "corners": [7, 4],
-      "free_kicks": [16, 13],
-      "yellow_cards": [3, 4],
-      "red_cards": [0, 0],
-      "fouls": [16, 12],
-      "offsides": [1, 0],
-      "forced_turnovers": [41, 26]
+      "goals": [
+        2,
+        0
+      ],
+      "attempts_total": [
+        10,
+        5
+      ],
+      "attempts_on": [
+        2,
+        2
+      ],
+      "attempts_off": [
+        2,
+        3
+      ],
+      "attempts_inside": [
+        8,
+        3
+      ],
+      "attempts_outside": [
+        2,
+        2
+      ],
+      "passes": [
+        541,
+        320
+      ],
+      "passes_completed": [
+        453,
+        228
+      ],
+      "crosses": [
+        14,
+        15
+      ],
+      "crosses_completed": [
+        5,
+        1
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "free_kicks": [
+        16,
+        13
+      ],
+      "yellow_cards": [
+        3,
+        4
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        16,
+        12
+      ],
+      "offsides": [
+        1,
+        0
+      ],
+      "forced_turnovers": [
+        41,
+        26
+      ]
     }
   },
   {
@@ -2362,10 +2416,8 @@
       "sonnet/m-sco-mar-sonnet.md",
       "deepseek/m-sco-mor-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {}
+    "actualScoreHome": 0,
+    "actualScoreAway": 1
   },
   {
     "id": "m-bra-hai",

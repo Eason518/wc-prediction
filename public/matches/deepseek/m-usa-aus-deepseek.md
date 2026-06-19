@@ -586,3 +586,48 @@ Yếu tố then chốt là tình huống thẻ vàng của Tyler Adams — nếu
 | ใบเหลืองรวม | 848+ | #EAB308 |
 | ใบเหลือง-แดง | — | orange |
 | ใบแดง | 36+ | #EF4444 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測美國勝，實際美國勝）
+- ✅ 比分完全命中（預測 2-0，實際 2-0）
+- ✅ 美國封關，澳洲未能破門
+- ✅ 角球數命中（預測 8–11，實際 11 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 22–28，實際 28 次）
+- ⚠️ 黃牌數高於預測（預測 4–6，實際 7 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (USA win)
+- ✅ Exact scoreline hit (predicted 2-0, actual 2-0)
+- ✅ USA kept a clean sheet as predicted
+- ✅ Corner count on target (predicted 8–11, actual 11)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 22–28, actual 28)
+- ⚠️ Yellow cards above prediction (predicted 4–6, actual 7)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测美国胜，实际美国胜）
+- ✅ 比分完全命中（预测 2-0，实际 2-0）
+- ✅ 美国封关，澳大利亚未能破门
+- ✅ 角球数命中（预测 8–11，实际 11 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 22–28，实际 28 次）
+- ⚠️ 黄牌数高于预测（预测 4–6，实际 7 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (USA thắng)
+- ✅ Tỷ số chính xác tuyệt đối (dự đoán 2-0, thực tế 2-0)
+- ✅ USA giữ sạch lưới như dự đoán
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 8–11, thực tế 11 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 22–28, thực tế 28 lần)
+- ⚠️ Thẻ vàng cao hơn dự đoán (dự đoán 4–6, thực tế 7 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (USA ชนะ)
+- ✅ ทำนายสกอร์ถูกต้องแม่นยำ (ทำนาย 2-0, จริง 2-0)
+- ✅ USA ป้องกันประตูได้สำเร็จตามที่ทำนาย
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 8–11, จริง 11 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 22–28, จริง 28 ครั้ง)
+- ⚠️ ใบเหลืองสูงกว่าที่ทำนาย (ทำนาย 4–6, จริง 7 ใบ)

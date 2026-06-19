@@ -2324,8 +2324,8 @@
       "opus/m-usa-aus-opus.md",
       "sonnet/m-usa-aus-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreHome": 0,
+    "actualScoreAway": 0
   },
   {
     "id": "m-sco-mar",

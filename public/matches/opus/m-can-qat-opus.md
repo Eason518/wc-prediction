@@ -561,3 +561,58 @@ Dự đoán: Canada thắng 2-0. Khả năng kiểm soát sân nhà và tốc đ
 | 🌟 ความสร้างสรรค์ของ Afif | นักเตะยอดเยี่ยมแห่งเอเชียคือนักเตะเพียงคนเดียวของกาตาร์ที่สามารถสร้างโอกาสได้คนเดียว แหล่งแรงบันดาลใจในการตีโต้ |
 | 🧱 การตั้งรับลึกของกาตาร์ | บล็อกต่ำห้าหลังบวกการตีโต้คือทางเดียวของกาตาร์ ว่าพวกเขาจะทานแรงแคนาดาได้หรือไม่คือคำถามสำคัญ |
 | 📏 กรรมการรอประกาศ | กรรมการยังไม่ได้รับการยืนยันจาก FIFA เมื่อพิจารณาช่องว่างด้านคุณภาพ คาดว่าจำนวนใบจะน้อย |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測加拿大勝，實際加拿大勝）
+- ✅ Jonathan David 如預期成為得分核心，一人獨進3球
+- ✅ 加拿大主場火力全開，完全壓制卡達
+- ✅ 卡達防線被徹底摧毀，進攻幾乎毫無威脅
+- ✅ 黃牌數命中（預測 2–4，實際 2 張）
+- ✅ 犯規數命中（預測 18–22，實際 18 次）
+- ⚠️ 比分大幅低估（預測 2-0，實際 6-0）
+- ⚠️ 角球數大幅高於預測（預測 7–10，實際 19 個）
+- ⚠️ 紅牌數高於預測（預測 0–1，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Canada win)
+- ✅ Jonathan David delivered as the scoring centrepiece, netting 3 goals
+- ✅ Canada's attacking firepower completely overwhelmed Qatar
+- ✅ Qatar's defence was dismantled — virtually no attacking threat created
+- ✅ Yellow card count on target (predicted 2–4, actual 2)
+- ✅ Foul count on target (predicted 18–22, actual 18)
+- ⚠️ Scoreline heavily underestimated (predicted 2-0, actual 6-0)
+- ⚠️ Corner count far above prediction (predicted 7–10, actual 19)
+- ⚠️ Red cards above prediction (predicted 0–1, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测加拿大胜，实际加拿大胜）
+- ✅ Jonathan David 如预期成为得分核心，一人独进3球
+- ✅ 加拿大主场火力全开，完全压制卡塔尔
+- ✅ 卡塔尔防线被彻底摧毁，进攻几乎毫无威胁
+- ✅ 黄牌数命中（预测 2–4，实际 2 张）
+- ✅ 犯规数命中（预测 18–22，实际 18 次）
+- ⚠️ 比分大幅低估（预测 2-0，实际 6-0）
+- ⚠️ 角球数大幅高于预测（预测 7–10，实际 19 个）
+- ⚠️ 红牌数高于预测（预测 0–1，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Canada thắng)
+- ✅ Jonathan David toả sáng đúng như dự đoán, ghi 3 bàn thắng
+- ✅ Canada thống trị hoàn toàn, Qatar không có cơ hội phản công
+- ✅ Hàng thủ Qatar tan vỡ — gần như không tạo ra mối đe dọa nào
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 2–4, thực tế 2 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 18–22, thực tế 18 lần)
+- ⚠️ Tỷ số bị đánh giá thấp rất nhiều (dự đoán 2-0, thực tế 6-0)
+- ⚠️ Số phạt góc cao hơn nhiều dự đoán (dự đoán 7–10, thực tế 19 cái)
+- ⚠️ Thẻ đỏ cao hơn dự đoán (dự đoán 0–1, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (แคนาดาชนะ)
+- ✅ Jonathan David เป็นกองหน้าหลักตามที่ทำนาย ยิงได้ถึง 3 ประตู
+- ✅ แคนาดาบุกถล่มจนกาตาร์ไม่สามารถสู้ได้
+- ✅ แนวรับกาตาร์พังทลาย — แทบไม่มีโอกาสสร้างภัยคุกคาม
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–4, จริง 2 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 18–22, จริง 18 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 2-0, จริง 6-0)
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนายมาก (ทำนาย 7–10, จริง 19 ลูก)
+- ⚠️ ใบแดงสูงกว่าที่ทำนาย (ทำนาย 0–1, จริง 2 ใบ)

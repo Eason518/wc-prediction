@@ -2741,7 +2741,10 @@
     "actualScoreAway": null,
     "stage": "group-stage",
     "predictionCorrect": null,
-    "liveStats": {}
+    "liveStats": {},
+    "time": "05:00",
+    "homeCode": "FRA",
+    "awayCode": "IRQ"
   },
   {
     "id": "m-nor-sen",
@@ -2753,6 +2756,9 @@
     "actualScoreAway": null,
     "stage": "group-stage",
     "predictionCorrect": null,
-    "liveStats": {}
+    "liveStats": {},
+    "time": "08:00",
+    "homeCode": "NOR",
+    "awayCode": "SEN"
   }
 ]

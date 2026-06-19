@@ -1643,14 +1643,6 @@
     }
   },
   {
-    "id": "m-arg-aut",
-    "date": "2026-06-23",
-    "files": [
-      "sonnet/m-arg-aut-sonnet.md"
-    ],
-    "stage": "group-stage"
-  },
-  {
     "id": "m-por-cod",
     "date": "2026-06-18",
     "files": [
@@ -2292,6 +2284,16 @@
     "date": "2026-06-22",
     "files": [
       "sonnet/m-nzl-egy-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage"
+  },
+  {
+    "id": "m-arg-aut",
+    "date": "2026-06-23",
+    "files": [
+      "sonnet/m-arg-aut-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

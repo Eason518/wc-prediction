@@ -2241,25 +2241,79 @@
     "stage": "group-stage",
     "predictionCorrect": true,
     "liveStats": {
-      "possession": [39, 54],
+      "possession": [
+        39,
+        54
+      ],
       "possession_contested": 7,
-      "goals": [1, 0],
-      "attempts_total": [8, 8],
-      "attempts_on": [4, 2],
-      "attempts_off": [3, 4],
-      "attempts_inside": [5, 5],
-      "attempts_outside": [3, 3],
-      "passes": [445, 589],
-      "passes_completed": [355, 490],
-      "crosses": [5, 8],
-      "crosses_completed": [2, 3],
-      "corners": [0, 2],
-      "free_kicks": [13, 12],
-      "yellow_cards": [0, 2],
-      "red_cards": [0, 0],
-      "fouls": [7, 9],
-      "offsides": [3, 6],
-      "forced_turnovers": [29, 29]
+      "goals": [
+        1,
+        0
+      ],
+      "attempts_total": [
+        8,
+        8
+      ],
+      "attempts_on": [
+        4,
+        2
+      ],
+      "attempts_off": [
+        3,
+        4
+      ],
+      "attempts_inside": [
+        5,
+        5
+      ],
+      "attempts_outside": [
+        3,
+        3
+      ],
+      "passes": [
+        445,
+        589
+      ],
+      "passes_completed": [
+        355,
+        490
+      ],
+      "crosses": [
+        5,
+        8
+      ],
+      "crosses_completed": [
+        2,
+        3
+      ],
+      "corners": [
+        0,
+        2
+      ],
+      "free_kicks": [
+        13,
+        12
+      ],
+      "yellow_cards": [
+        0,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        7,
+        9
+      ],
+      "offsides": [
+        3,
+        6
+      ],
+      "forced_turnovers": [
+        29,
+        29
+      ]
     }
   },
   {
@@ -2399,6 +2453,111 @@
     "actualScoreHome": null,
     "actualScoreAway": null,
     "stage": "group-stage"
+  },
+  {
+    "id": "m-fra-irq",
+    "date": "2026-06-23",
+    "files": [
+      "sonnet/m-fra-irq-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "05:00",
+    "homeCode": "FRA",
+    "awayCode": "IRQ"
+  },
+  {
+    "id": "m-nor-sen",
+    "date": "2026-06-23",
+    "files": [
+      "sonnet/m-nor-sen-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "08:00",
+    "homeCode": "NOR",
+    "awayCode": "SEN"
+  },
+  {
+    "id": "m-jor-alg",
+    "date": "2026-06-23",
+    "files": [
+      "sonnet/m-jor-alg-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "11:00",
+    "homeCode": "JOR",
+    "awayCode": "ALG"
+  },
+  {
+    "id": "m-por-uzb",
+    "date": "2026-06-24",
+    "files": [
+      "sonnet/m-por-uzb-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "01:00",
+    "homeCode": "POR",
+    "awayCode": "UZB"
+  },
+  {
+    "id": "m-eng-gha",
+    "date": "2026-06-24",
+    "files": [
+      "sonnet/m-eng-gha-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "04:00",
+    "homeCode": "ENG",
+    "awayCode": "GHA"
+  },
+  {
+    "id": "m-pan-cro",
+    "date": "2026-06-24",
+    "files": [
+      "sonnet/m-pan-cro-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "07:00",
+    "homeCode": "PAN",
+    "awayCode": "CRO"
+  },
+  {
+    "id": "m-col-cod",
+    "date": "2026-06-24",
+    "files": [
+      "sonnet/m-col-cod-sonnet.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "stage": "group-stage",
+    "predictionCorrect": null,
+    "liveStats": {},
+    "time": "10:00",
+    "homeCode": "COL",
+    "awayCode": "COD"
   },
   {
     "id": "r32-m01",
@@ -2751,50 +2910,5 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null
-  },
-  {
-    "id": "m-fra-irq",
-    "date": "2026-06-23",
-    "files": [
-      "sonnet/m-fra-irq-sonnet.md"
-    ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "stage": "group-stage",
-    "predictionCorrect": null,
-    "liveStats": {},
-    "time": "05:00",
-    "homeCode": "FRA",
-    "awayCode": "IRQ"
-  },
-  {
-    "id": "m-nor-sen",
-    "date": "2026-06-23",
-    "files": [
-      "sonnet/m-nor-sen-sonnet.md"
-    ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "stage": "group-stage",
-    "predictionCorrect": null,
-    "liveStats": {},
-    "time": "08:00",
-    "homeCode": "NOR",
-    "awayCode": "SEN"
-  },
-  {
-    "id": "m-jor-alg",
-    "date": "2026-06-23",
-    "files": [
-      "sonnet/m-jor-alg-sonnet.md"
-    ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "stage": "group-stage",
-    "predictionCorrect": null,
-    "liveStats": {},
-    "time": "11:00",
-    "homeCode": "JOR",
-    "awayCode": "ALG"
   }
 ]

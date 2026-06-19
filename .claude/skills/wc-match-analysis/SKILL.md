@@ -355,4 +355,7 @@ All times referenced in text must be in GMT+8.
 1. Confirm the file path to the user.
 2. Tell the user the file is ready and can be downloaded or committed.
 3. Show the frontmatter summary (id, date, teams, predicted score, Top Pick probability).
-4. Optionally: offer to add it to `public/matches/index.json` if needed.
+4. **Always** add the match to `public/matches/index.json`:
+   - Add a new entry with the fields: `id`, `date`, `files`, `actualScoreHome: null`, `actualScoreAway: null`, `stage`, `predictionCorrect: null`, `liveStats: {}`, `time`, `homeCode`, `awayCode`
+   - After inserting, **re-sort the entire array by `date` ascending, then `time` ascending** (treat missing `time` as `"00:00"`). Use a script or direct edit to ensure the ordering is correct.
+   - The knockout-stage placeholders (r32-*, qf-*, sf-*, tp-*, fin-*) will naturally sort to the end because their dates are later.

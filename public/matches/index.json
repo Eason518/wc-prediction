@@ -2325,8 +2325,8 @@
       "sonnet/m-usa-aus-sonnet.md",
       "deepseek/m-usa-aus-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreHome": 2,
+    "actualScoreAway": 0
   },
   {
     "id": "m-sco-mar",

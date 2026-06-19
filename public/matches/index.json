@@ -2648,7 +2648,8 @@
     "homeCode": "BIH",
     "awayCode": "QAT",
     "files": [
-      "sonnet/m-bih-qat-sonnet.md"
+      "sonnet/m-bih-qat-sonnet.md",
+      "deepseek/m-bih-qat-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -2678,7 +2679,8 @@
     "homeCode": "MAR",
     "awayCode": "HAI",
     "files": [
-      "sonnet/m-mar-hai-sonnet.md"
+      "sonnet/m-mar-hai-sonnet.md",
+      "deepseek/m-mar-hai-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -2693,7 +2695,8 @@
     "homeCode": "SCO",
     "awayCode": "BRA",
     "files": [
-      "sonnet/m-sco-bra-sonnet.md"
+      "sonnet/m-sco-bra-sonnet.md",
+      "deepseek/m-sco-bra-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -2708,7 +2711,8 @@
     "homeCode": "CZE",
     "awayCode": "MEX",
     "files": [
-      "sonnet/m-cze-mex-sonnet.md"
+      "sonnet/m-cze-mex-sonnet.md",
+      "deepseek/m-cze-mex-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -2723,7 +2727,8 @@
     "homeCode": "RSA",
     "awayCode": "KOR",
     "files": [
-      "sonnet/m-rsa-kor-sonnet.md"
+      "sonnet/m-rsa-kor-sonnet.md",
+      "deepseek/m-rsa-kor-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

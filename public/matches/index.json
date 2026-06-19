@@ -2237,8 +2237,8 @@
       "opus/m-mex-kor-opus.md",
       "sonnet/m-mex-kor-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "stage": "group-stage"
   },
   {

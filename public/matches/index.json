@@ -2680,8 +2680,8 @@
       "sonnet/m-ned-swe-sonnet.md",
       "deepseek/m-ned-swe-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {}
   },

@@ -2813,7 +2813,7 @@
       "sonnet/m-ger-civ-sonnet.md",
       "deepseek/m-ger-civ-deepseek.md"
     ],
-    "actualScoreHome": 0,
+    "actualScoreHome": 1,
     "actualScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {}

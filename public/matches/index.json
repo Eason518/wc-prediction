@@ -2503,12 +2503,100 @@
     "id": "m-bra-hai",
     "date": "2026-06-20",
     "stage": "group-stage",
+    "predictionCorrect": true,
     "files": [
       "opus/m-bra-hai-opus.md",
       "sonnet/m-bra-hai-sonnet.md"
     ],
     "actualScoreHome": 3,
-    "actualScoreAway": 0
+    "actualScoreAway": 0,
+    "liveStats": {
+      "possession": [
+        51,
+        43
+      ],
+      "possession_contested": 6,
+      "goals": [
+        3,
+        0
+      ],
+      "attempts_total": [
+        7,
+        6
+      ],
+      "attempts_on": [
+        4,
+        2
+      ],
+      "attempts_off": [
+        3,
+        3
+      ],
+      "attempts_inside": [
+        7,
+        4
+      ],
+      "attempts_outside": [
+        0,
+        2
+      ],
+      "assists": [
+        2,
+        0
+      ],
+      "passes": [
+        540,
+        402
+      ],
+      "passes_completed": [
+        476,
+        331
+      ],
+      "crosses": [
+        9,
+        11
+      ],
+      "crosses_completed": [
+        3,
+        1
+      ],
+      "corners": [
+        4,
+        3
+      ],
+      "free_kicks": [
+        16,
+        20
+      ],
+      "yellow_cards": [
+        1,
+        3
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        14,
+        13
+      ],
+      "offsides": [
+        8,
+        3
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        19,
+        21
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ]
+    }
   },
   {
     "id": "m-tur-par",

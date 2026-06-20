@@ -561,3 +561,53 @@ Dự đoán: Brazil thắng 4-0. Brazil cần một kết quả gây ấn tượ
 | 📊 บราซิลต้องการชัยชนะครั้งใหญ่ | การเสมอ 1-1 ทำให้แรงกดดันในกลุ่มเพิ่มขึ้น การชนะครั้งใหญ่ที่นี่เป็นสิ่งสำคัญเพื่อฟื้นฟูสถิติประตูและโมเมนตัม |
 | 🌟 ช่วงเวลาของ Endrick | ถ้านักเตะหนุ่มคนนี้ลงสนามจริง เขามีแนวโน้มที่จะทำประตูและแนะนำตัวเองให้โลกรู้จัก |
 | 🧤 การทดสอบของประตูเฮติ | Josué Duverger ต้องเผชิญกับคลื่นกองหน้าระดับโลก — ผลงานส่วนตัวของเขาอาจสร้างช่วงเวลาที่ยอดเยี่ยม |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測巴西勝，實際巴西勝）
+- ✅ 巴西封關零失球如預期，海地守關神話破滅
+- ✅ Vinícius 如期破門
+- ✅ 黃牌數命中（預測 3–6，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 20–28，實際 27 次）
+- ⚠️ 比分略為高估（預測 4-0，實際 3-0）
+- ⚠️ 角球數大幅低於預測（預測 10–14，實際 7 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Brazil win)
+- ✅ Brazil kept a clean sheet as expected — Haiti could not score
+- ✅ Vinícius scored as predicted
+- ✅ Yellow card count on target (predicted 3–6, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 20–28, actual 27)
+- ⚠️ Scoreline slightly overestimated (predicted 4-0, actual 3-0)
+- ⚠️ Corner count far below prediction (predicted 10–14, actual 7)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测巴西胜，实际巴西胜）
+- ✅ 巴西封关零失球如预期，海地守关神话破灭
+- ✅ Vinícius 如期破门
+- ✅ 黄牌数命中（预测 3–6，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 20–28，实际 27 次）
+- ⚠️ 比分略为高估（预测 4-0，实际 3-0）
+- ⚠️ 角球数大幅低于预测（预测 10–14，实际 7 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Brazil thắng)
+- ✅ Brazil giữ sạch lưới như dự đoán — Haiti không thể ghi bàn
+- ✅ Vinícius ghi bàn như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–6, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–28, thực tế 27 lần)
+- ⚠️ Tỷ số bị đánh giá cao hơn một chút (dự đoán 4-0, thực tế 3-0)
+- ⚠️ Số phạt góc thấp hơn nhiều so với dự đoán (dự đoán 10–14, thực tế 7 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (บราซิลชนะ)
+- ✅ บราซิลรักษาประตูสะอาดได้ตามที่ทำนาย — เฮติไม่สามารถทำประตูได้
+- ✅ Vinícius ทำประตูได้ตามที่ทำนาย
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–6, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–28, จริง 27 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไปเล็กน้อย (ทำนาย 4-0, จริง 3-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 10–14, จริง 7 ลูก)

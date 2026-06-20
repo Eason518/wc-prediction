@@ -561,3 +561,53 @@ Dự đoán: Brazil thắng 3-0. Khả năng kiểm soát bóng và năng lực 
 | 🇭🇹 ช่วงเวลาประวัติศาสตร์ | เฮติกลับมาหลังจาก 52 ปี การเผชิญหน้ากับบราซิลเองก็เป็นเหตุการณ์สำคัญสำหรับวงการฟุตบอลของพวกเขา |
 | 🛡️ เฮติตั้งรับเต็มตัว | Placide ในกรงประตูและการตั้งรับแน่นเป็นวิธีเดียวของเฮติในการจำกัดความเสียหาย |
 | 📏 กรรมการรอประกาศ | ผู้ตัดสินยังไม่ได้รับการยืนยัน เมื่อพิจารณาถึงช่องว่างด้านคุณภาพ คาดว่าจำนวนใบจะต่ำ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測巴西勝，實際巴西勝）
+- ✅ 完美比分命中（預測 3-0，實際 3-0）
+- ✅ 巴西封關零失球如預期，海地無從進球
+- ✅ Vinícius 如期破門
+- ✅ 黃牌數命中（預測 2–4，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 角球數低於預測（預測 9–13，實際 7 個）
+- ⚠️ 犯規數大幅高於預測（預測 16–20，實際 27 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Brazil win)
+- ✅ Exact scoreline hit (predicted 3-0, actual 3-0)
+- ✅ Brazil kept a clean sheet as expected — Haiti offered nothing going forward
+- ✅ Vinícius scored as predicted
+- ✅ Yellow card count on target (predicted 2–4, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Corner count below prediction (predicted 9–13, actual 7)
+- ⚠️ Foul count far above prediction (predicted 16–20, actual 27)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测巴西胜，实际巴西胜）
+- ✅ 完美比分命中（预测 3-0，实际 3-0）
+- ✅ 巴西封关零失球如预期，海地无从进球
+- ✅ Vinícius 如期破门
+- ✅ 黄牌数命中（预测 2–4，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 角球数低于预测（预测 9–13，实际 7 个）
+- ⚠️ 犯规数大幅高于预测（预测 16–20，实际 27 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Brazil thắng)
+- ✅ Tỷ số chính xác tuyệt đối (dự đoán 3-0, thực tế 3-0)
+- ✅ Brazil giữ sạch lưới như dự đoán — Haiti không tạo ra mối nguy hiểm
+- ✅ Vinícius ghi bàn như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 2–4, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 9–13, thực tế 7 cái)
+- ⚠️ Số lần phạm lỗi cao hơn nhiều so với dự đoán (dự đoán 16–20, thực tế 27 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (บราซิลชนะ)
+- ✅ ทำนายสกอร์แม่นยำสมบูรณ์ (ทำนาย 3-0, จริง 3-0)
+- ✅ บราซิลรักษาประตูสะอาดได้ตามที่ทำนาย — เฮติไม่สามารถสร้างอันตรายได้
+- ✅ Vinícius ทำประตูได้ตามที่ทำนาย
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–4, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 9–13, จริง 7 ลูก)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 16–20, จริง 27 ครั้ง)

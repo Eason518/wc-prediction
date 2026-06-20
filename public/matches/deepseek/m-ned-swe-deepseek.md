@@ -536,3 +536,47 @@ Hà Lan cần phản ứng sau trận hòa 2‑2 với Nhật Bản, trong khi T
 | ใบเหลืองรวม | 519 | #EAB308 |
 | ใบเหลือง-แดง | 25 | orange |
 | ใบแดง | ~0.15/นัด | #EF4444 |
+## result_hits:zh
+- ✅ 勝負方向命中（預測荷蘭勝，實際荷蘭勝）
+- ✅ 荷蘭戰術優勢完全體現，主宰全場
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分大幅低估（預測 2-1，實際 5-1）
+- ⚠️ 角球數大幅低於預測（預測 10–13，實際 6 個）
+- ⚠️ 黃牌數低於預測（預測 4–6，實際 3 張）
+- ⚠️ 犯規數低於預測（預測 22–26，實際 21 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Netherlands win)
+- ✅ Netherlands' tactical superiority materialized fully
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline heavily underestimated (predicted 2-1, actual 5-1)
+- ⚠️ Corner count far below prediction (predicted 10–13, actual 6)
+- ⚠️ Yellow cards below prediction (predicted 4–6, actual 3)
+- ⚠️ Foul count below prediction (predicted 22–26, actual 21)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测荷兰胜，实际荷兰胜）
+- ✅ 荷兰战术优势完全体现，主宰全场
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分大幅低估（预测 2-1，实际 5-1）
+- ⚠️ 角球数大幅低于预测（预测 10–13，实际 6 个）
+- ⚠️ 黄牌数低于预测（预测 4–6，实际 3 张）
+- ⚠️ 犯规数低于预测（预测 22–26，实际 21 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hà Lan thắng)
+- ✅ Ưu thế chiến thuật của Hà Lan được thể hiện hoàn toàn
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 2-1, thực tế 5-1)
+- ⚠️ Số phạt góc thấp hơn nhiều dự đoán (dự đoán 10–13, thực tế 6 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–6, thực tế 3 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 22–26, thực tế 21 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เนเธอร์แลนด์ชนะ)
+- ✅ ความเหนือกว่าทางยุทธวิธีของเนเธอร์แลนด์แสดงให้เห็นอย่างชัดเจน
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 2-1, จริง 5-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 10–13, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–6, จริง 3 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 22–26, จริง 21 ครั้ง)

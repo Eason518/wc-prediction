@@ -561,3 +561,48 @@ Dự đoán: Hà Lan thắng 2-1. Hà Lan có ưu thế nhỏ về tổng thể,
 | 🏆 เกมชี้ชะตาของกลุ่ม | ทั้งสองทีมเสมอในนัดเปิดสนาม ดังนั้นผู้ชนะในที่นี้แทบจะการันตีการผ่านเข้ารอบ ส่วนผู้แพ้จะเผชิญกับแรงกดดันมหาศาลในรอบน็อคเอาท์ |
 | 🦁 Isak กลับมาปฏิบัติการ | กองหน้า Liverpool กลับมาจากการบาดเจ็บในแมตช์ที่สอง ฟอร์มของเขาจะต้องติดตามดู แต่ศักยภาพของเขายังคงมหาศาล |
 | 🇸🇪 หัวหอกคู่ของสวีเดน | Gyökeres และ Isak ลงเล่นด้วยกันเป็นหนึ่งในคู่สไตรเกอร์ที่ถูกคาดหวังมากที่สุดในฟุตบอลโลกครั้งนี้ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測荷蘭勝，實際荷蘭勝）
+- ✅ 荷蘭進攻火力完全壓制瑞典，與預期一致
+- ✅ 黃牌數命中（預測 3–5，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 20–25，實際 21 次）
+- ⚠️ 比分大幅低估（預測 2-1，實際 5-1）
+- ⚠️ 角球數大幅低於預測（預測 9–12，實際 6 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Netherlands win)
+- ✅ Dutch attacking firepower overwhelmed Sweden as expected
+- ✅ Yellow card count on target (predicted 3–5, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 20–25, actual 21)
+- ⚠️ Scoreline heavily underestimated (predicted 2-1, actual 5-1)
+- ⚠️ Corner count far below prediction (predicted 9–12, actual 6)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测荷兰胜，实际荷兰胜）
+- ✅ 荷兰进攻火力完全压制瑞典，与预期一致
+- ✅ 黄牌数命中（预测 3–5，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 20–25，实际 21 次）
+- ⚠️ 比分大幅低估（预测 2-1，实际 5-1）
+- ⚠️ 角球数大幅低于预测（预测 9–12，实际 6 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hà Lan thắng)
+- ✅ Sức mạnh tấn công của Hà Lan áp đảo Thụy Điển đúng như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–25, thực tế 21 lần)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 2-1, thực tế 5-1)
+- ⚠️ Số phạt góc thấp hơn nhiều dự đoán (dự đoán 9–12, thực tế 6 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เนเธอร์แลนด์ชนะ)
+- ✅ พลังโจมตีของเนเธอร์แลนด์ครอบงำสวีเดนดังที่คาดไว้
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–25, จริง 21 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 2-1, จริง 5-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–12, จริง 6 ลูก)

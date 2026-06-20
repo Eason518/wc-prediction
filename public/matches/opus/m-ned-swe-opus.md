@@ -561,3 +561,48 @@ Dự đoán: Hà Lan thắng 2-1. Kiểm soát bóng và chất lượng tổng 
 | ⚡ ความเร็วของ Elanga | ปีก Newcastle เป็นช่องทางโต้กลับของสวีเดน การใช้ประโยชน์จากพื้นที่ว่างด้านหลังดัตช์น่าจับตามอง |
 | 🆚 ศึกภายใน Liverpool | Van Dijk ปะทะ Isak เพื่อนร่วมสโมสร เป็นจุดสนใจที่ใหญ่ที่สุดของแมตช์นี้ |
 | 📏 กรรมการรอการยืนยัน | กรรมการยังไม่ได้รับการยืนยันจาก FIFA ต้องระวังใบและความเสี่ยงการพักการแข่งขันในเกมที่ไปมา |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測荷蘭勝，實際荷蘭勝）
+- ✅ 荷蘭如預期主宰全場，壓制瑞典
+- ✅ 黃牌數命中（預測 3–5，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分大幅低估（預測 2-1，實際 5-1）
+- ⚠️ 角球數大幅低於預測（預測 9–12，實際 6 個）
+- ⚠️ 犯規數低於預測（預測 22–26，實際 21 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Netherlands win)
+- ✅ Netherlands dominated throughout as expected
+- ✅ Yellow card count on target (predicted 3–5, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline heavily underestimated (predicted 2-1, actual 5-1)
+- ⚠️ Corner count far below prediction (predicted 9–12, actual 6)
+- ⚠️ Foul count below prediction (predicted 22–26, actual 21)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测荷兰胜，实际荷兰胜）
+- ✅ 荷兰如预期主宰全场，压制瑞典
+- ✅ 黄牌数命中（预测 3–5，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分大幅低估（预测 2-1，实际 5-1）
+- ⚠️ 角球数大幅低于预测（预测 9–12，实际 6 个）
+- ⚠️ 犯规数低于预测（预测 22–26，实际 21 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hà Lan thắng)
+- ✅ Hà Lan thống trị trận đấu đúng như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 2-1, thực tế 5-1)
+- ⚠️ Số phạt góc thấp hơn nhiều dự đoán (dự đoán 9–12, thực tế 6 cái)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 22–26, thực tế 21 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เนเธอร์แลนด์ชนะ)
+- ✅ เนเธอร์แลนด์ครองเกมตลอดตามที่ทำนาย
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 2-1, จริง 5-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–12, จริง 6 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 22–26, จริง 21 ครั้ง)

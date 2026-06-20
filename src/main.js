@@ -262,6 +262,16 @@ function bindCtaEvents() {
   });
 }
 
+function hasActiveMatch() {
+  const nowMs = Date.now();
+  const BEFORE = 15 * 60 * 1000;
+  const AFTER = 130 * 60 * 1000;
+  return getSchedule().some(m => {
+    const startMs = new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
+    return nowMs >= startMs - BEFORE && nowMs < startMs + AFTER;
+  });
+}
+
 function syncStickyHeights() {
   const promoBar = document.getElementById('promo-bar');
   const banner = document.getElementById('banner-wrap');
@@ -308,6 +318,14 @@ async function init() {
     if (navWrap) observer.observe(navWrap);
     if (tabsWrap) observer.observe(tabsWrap);
     syncStickyHeights();
+
+    setInterval(() => {
+      if (hasActiveMatch()) {
+        reloadMatchData().then(update);
+      } else {
+        update();
+      }
+    }, 60_000);
   } catch (e) {
     console.error(e);
     $content.innerHTML = `<div style="color:#f87171;padding:40px;text-align:center">${t('error.load')}${e.message}</div>`;

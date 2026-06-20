@@ -2602,6 +2602,7 @@
     "id": "m-tur-par",
     "date": "2026-06-20",
     "stage": "group-stage",
+    "predictionCorrect": false,
     "files": [
       "opus/m-tur-par-opus.md",
       "sonnet/m-tur-par-sonnet.md"

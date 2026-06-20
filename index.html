@@ -53,9 +53,75 @@
     gtag('js', new Date());
     gtag('config', 'G-M6C6FV1DSH', { transport_type: 'beacon' });
   </script>
+  <style>
+    /* Initial loading indicator */
+    .initial-loader {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: #1a1a1a;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      transition: opacity 0.3s ease;
+    }
+    .initial-loader.fade-out {
+      opacity: 0;
+      pointer-events: none;
+    }
+    .loader-content {
+      text-align: center;
+    }
+    .loader-icon {
+      font-size: 48px;
+      animation: bounce 1s infinite;
+    }
+    .loader-text {
+      color: #fff;
+      font-size: 18px;
+      margin-top: 16px;
+      font-family: system-ui, -apple-system, sans-serif;
+    }
+    .loader-progress {
+      width: 200px;
+      height: 4px;
+      background: rgba(255,255,255,0.1);
+      border-radius: 2px;
+      margin-top: 16px;
+      overflow: hidden;
+    }
+    .loader-progress-bar {
+      height: 100%;
+      background: #22c55e;
+      border-radius: 2px;
+      animation: progress 2s ease-in-out infinite;
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-20px); }
+    }
+    @keyframes progress {
+      0% { width: 0%; }
+      50% { width: 70%; }
+      100% { width: 100%; }
+    }
+  </style>
 </head>
 
 <body>
+  <div id="initial-loader" class="initial-loader">
+    <div class="loader-content">
+      <div class="loader-icon">⚽</div>
+      <div class="loader-text">載入中...</div>
+      <div class="loader-progress">
+        <div class="loader-progress-bar"></div>
+      </div>
+    </div>
+  </div>
   <div id="promo-bar">
     <span id="promo-bar-label">🏆 AI-Powered World Cup 2026 Predictions — Updated Daily</span>
     <a id="promo-bar-btn" href="#" target="_blank" rel="noopener noreferrer" class="promo-bar-claim">

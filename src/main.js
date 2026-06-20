@@ -307,9 +307,18 @@ function syncStickyHeights() {
   if (tabs) document.documentElement.style.setProperty('--tabs-h', tabs.getBoundingClientRect().height + 'px');
 }
 
+function hideLoader() {
+  const loader = document.getElementById('initial-loader');
+  if (loader) {
+    loader.classList.add('fade-out');
+    setTimeout(() => loader.style.display = 'none', 300);
+  }
+}
+
 async function init() {
   try {
     await loadData();
+    hideLoader();
 
     // If URL is /match/m-xxx-yyy/, initialize to that match
     const pathMatch = window.location.pathname.match(/\/match\/(m-[^/]+)/);
@@ -350,6 +359,7 @@ async function init() {
     }, 60_000);
   } catch (e) {
     console.error(e);
+    hideLoader();
     $content.innerHTML = `<div style="color:#f87171;padding:40px;text-align:center">${t('error.load')}${e.message}</div>`;
   }
 }

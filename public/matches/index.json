@@ -3,6 +3,8 @@
     "id": "m-can-bih",
     "date": "2026-06-13",
     "stage": "group-stage",
+    "homeCode": "CAN",
+    "awayCode": "BIH",
     "files": [
       "sonnet/m-can-bih-sonnet.md"
     ],
@@ -97,6 +99,8 @@
     "id": "m-usa-par",
     "date": "2026-06-13",
     "stage": "group-stage",
+    "homeCode": "USA",
+    "awayCode": "PAR",
     "files": [
       "sonnet/m-usa-par-sonnet.md"
     ],
@@ -191,6 +195,8 @@
     "id": "m-qat-sui",
     "date": "2026-06-14",
     "stage": "group-stage",
+    "homeCode": "QAT",
+    "awayCode": "SUI",
     "files": [
       "sonnet/m-qat-sui-sonnet.md"
     ],
@@ -285,6 +291,8 @@
     "id": "m-bra-mar",
     "date": "2026-06-14",
     "stage": "group-stage",
+    "homeCode": "BRA",
+    "awayCode": "MAR",
     "files": [
       "sonnet/m-bra-mar-sonnet.md"
     ],
@@ -379,6 +387,8 @@
     "id": "m-hai-sco",
     "date": "2026-06-14",
     "stage": "group-stage",
+    "homeCode": "HAI",
+    "awayCode": "SCO",
     "files": [
       "sonnet/m-hai-sco-sonnet.md"
     ],
@@ -473,6 +483,8 @@
     "id": "m-aus-tur",
     "date": "2026-06-14",
     "stage": "group-stage",
+    "homeCode": "AUS",
+    "awayCode": "TUR",
     "files": [
       "sonnet/m-aus-tur-sonnet.md"
     ],
@@ -567,6 +579,8 @@
     "id": "m-ger-cuw",
     "date": "2026-06-15",
     "stage": "group-stage",
+    "homeCode": "GER",
+    "awayCode": "CUW",
     "files": [
       "sonnet/m-ger-cuw-sonnet.md"
     ],
@@ -661,6 +675,8 @@
     "id": "m-ned-jpn",
     "date": "2026-06-15",
     "stage": "group-stage",
+    "homeCode": "NED",
+    "awayCode": "JPN",
     "files": [
       "opus/m-ned-jpn-opus.md",
       "sonnet/m-ned-jpn-sonnet.md"
@@ -756,6 +772,8 @@
     "id": "m-civ-ecu",
     "date": "2026-06-15",
     "stage": "group-stage",
+    "homeCode": "CIV",
+    "awayCode": "ECU",
     "files": [
       "sonnet/m-civ-ecu-sonnet.md"
     ],
@@ -850,6 +868,8 @@
     "id": "m-swe-tun",
     "date": "2026-06-15",
     "stage": "group-stage",
+    "homeCode": "SWE",
+    "awayCode": "TUN",
     "files": [
       "sonnet/m-swe-tun-sonnet.md"
     ],
@@ -944,6 +964,8 @@
     "id": "m-esp-cpv",
     "date": "2026-06-16",
     "stage": "group-stage",
+    "homeCode": "ESP",
+    "awayCode": "CPV",
     "files": [
       "sonnet/m-esp-cpv-sonnet.md",
       "gemini/m-esp-cpv-gemini.md"
@@ -1039,6 +1061,8 @@
     "id": "m-bel-egy",
     "date": "2026-06-16",
     "stage": "group-stage",
+    "homeCode": "BEL",
+    "awayCode": "EGY",
     "files": [
       "sonnet/m-bel-egy-sonnet.md",
       "gpt/m-bel-egy-gpt.md"
@@ -1126,6 +1150,8 @@
     "id": "m-ksa-uru",
     "date": "2026-06-16",
     "stage": "group-stage",
+    "homeCode": "KSA",
+    "awayCode": "URU",
     "files": [
       "sonnet/m-ksa-uru-sonnet.md"
     ],
@@ -1220,6 +1246,8 @@
     "id": "m-irn-nzl",
     "date": "2026-06-16",
     "stage": "group-stage",
+    "homeCode": "IRN",
+    "awayCode": "NZL",
     "files": [
       "sonnet/m-irn-nzl-sonnet.md"
     ],
@@ -1314,6 +1342,8 @@
     "id": "m-fra-sen",
     "date": "2026-06-17",
     "stage": "group-stage",
+    "homeCode": "FRA",
+    "awayCode": "SEN",
     "files": [
       "opus/m-fra-sen-opus.md",
       "sonnet/m-fra-sen-sonnet.md"
@@ -1401,6 +1431,8 @@
     "id": "m-irq-nor",
     "date": "2026-06-17",
     "stage": "group-stage",
+    "homeCode": "IRQ",
+    "awayCode": "NOR",
     "files": [
       "opus/m-irq-nor-opus.md",
       "sonnet/m-irq-nor-sonnet.md"
@@ -1480,6 +1512,8 @@
     "id": "m-arg-alg",
     "date": "2026-06-17",
     "stage": "group-stage",
+    "homeCode": "ARG",
+    "awayCode": "ALG",
     "files": [
       "opus/m-arg-alg-opus.md",
       "sonnet/m-arg-alg-sonnet.md"
@@ -1559,6 +1593,8 @@
     "id": "m-aut-jor",
     "date": "2026-06-17",
     "stage": "group-stage",
+    "homeCode": "AUT",
+    "awayCode": "JOR",
     "files": [
       "opus/m-aut-jor-opus.md",
       "sonnet/m-aut-jor-sonnet.md"
@@ -1646,6 +1682,8 @@
     "id": "m-por-cod",
     "date": "2026-06-18",
     "stage": "group-stage",
+    "homeCode": "POR",
+    "awayCode": "COD",
     "files": [
       "opus/m-por-cod-opus.md",
       "sonnet/m-por-cod-sonnet.md"
@@ -1725,6 +1763,8 @@
     "id": "m-eng-cro",
     "date": "2026-06-18",
     "stage": "group-stage",
+    "homeCode": "ENG",
+    "awayCode": "CRO",
     "files": [
       "opus/m-eng-cro-opus.md",
       "sonnet/m-eng-cro-sonnet.md"
@@ -1824,6 +1864,8 @@
     "id": "m-gha-pan",
     "date": "2026-06-18",
     "stage": "group-stage",
+    "homeCode": "GHA",
+    "awayCode": "PAN",
     "files": [
       "sonnet/m-gha-pan-sonnet.md"
     ],
@@ -1910,6 +1952,8 @@
     "id": "m-uzb-col",
     "date": "2026-06-18",
     "stage": "group-stage",
+    "homeCode": "UZB",
+    "awayCode": "COL",
     "files": [
       "opus/m-uzb-col-opus.md",
       "sonnet/m-uzb-col-sonnet.md"
@@ -1997,6 +2041,8 @@
     "id": "m-cze-rsa",
     "date": "2026-06-19",
     "stage": "group-stage",
+    "homeCode": "CZE",
+    "awayCode": "RSA",
     "files": [
       "opus/m-cze-rsa-opus.md",
       "sonnet/m-cze-rsa-sonnet.md"
@@ -2084,6 +2130,8 @@
     "id": "m-sui-bih",
     "date": "2026-06-19",
     "stage": "group-stage",
+    "homeCode": "SUI",
+    "awayCode": "BIH",
     "files": [
       "opus/m-sui-bih-opus.md",
       "sonnet/m-sui-bih-sonnet.md"
@@ -2143,6 +2191,8 @@
     "id": "m-can-qat",
     "date": "2026-06-19",
     "stage": "group-stage",
+    "homeCode": "CAN",
+    "awayCode": "QAT",
     "files": [
       "opus/m-can-qat-opus.md",
       "sonnet/m-can-qat-sonnet.md"
@@ -2234,6 +2284,8 @@
     "id": "m-mex-kor",
     "date": "2026-06-19",
     "stage": "group-stage",
+    "homeCode": "MEX",
+    "awayCode": "KOR",
     "files": [
       "sonnet/m-mex-kor-sonnet.md"
     ],
@@ -2320,6 +2372,8 @@
     "id": "m-usa-aus",
     "date": "2026-06-20",
     "stage": "group-stage",
+    "homeCode": "USA",
+    "awayCode": "AUS",
     "files": [
       "opus/m-usa-aus-opus.md",
       "sonnet/m-usa-aus-sonnet.md",
@@ -2503,13 +2557,15 @@
     "id": "m-bra-hai",
     "date": "2026-06-20",
     "stage": "group-stage",
-    "predictionCorrect": true,
+    "homeCode": "BRA",
+    "awayCode": "HAI",
     "files": [
       "opus/m-bra-hai-opus.md",
       "sonnet/m-bra-hai-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 0,
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         51,
@@ -2602,111 +2658,150 @@
     "id": "m-tur-par",
     "date": "2026-06-20",
     "stage": "group-stage",
-    "predictionCorrect": false,
+    "homeCode": "TUR",
+    "awayCode": "PAR",
     "files": [
       "opus/m-tur-par-opus.md",
       "sonnet/m-tur-par-sonnet.md"
     ],
     "actualScoreHome": 0,
-    "actualScoreAway": 1
+    "actualScoreAway": 1,
+    "predictionCorrect": false,
+    "liveStats": {}
   },
   {
     "id": "m-ned-swe",
     "date": "2026-06-21",
     "stage": "group-stage",
+    "homeCode": "NED",
+    "awayCode": "SWE",
     "files": [
       "opus/m-ned-swe-opus.md",
       "sonnet/m-ned-swe-sonnet.md",
       "deepseek/m-ned-swe-deepseek.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-ger-civ",
     "date": "2026-06-21",
     "stage": "group-stage",
+    "homeCode": "GER",
+    "awayCode": "CIV",
     "files": [
       "opus/m-ger-civ-opus.md",
       "sonnet/m-ger-civ-sonnet.md",
       "deepseek/m-ger-civ-deepseek.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-ecu-cuw",
     "date": "2026-06-21",
     "stage": "group-stage",
+    "homeCode": "ECU",
+    "awayCode": "CUW",
     "files": [
       "opus/m-ecu-cuw-opus.md",
       "sonnet/m-ecu-cuw-sonnet.md",
       "deepseek/m-ecu-cuw-deepseek.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-tun-jpn",
     "date": "2026-06-21",
     "stage": "group-stage",
+    "homeCode": "TUN",
+    "awayCode": "JPN",
     "files": [
       "opus/m-tun-jpn-opus.md",
       "sonnet/m-tun-jpn-sonnet.md",
       "deepseek/m-tun-jpn-deepseek.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-esp-ksa",
     "date": "2026-06-22",
     "stage": "group-stage",
+    "homeCode": "ESP",
+    "awayCode": "KSA",
     "files": [
       "sonnet/m-esp-ksa-sonnet.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-bel-iri",
     "date": "2026-06-22",
     "stage": "group-stage",
+    "homeCode": "BEL",
+    "awayCode": "IRI",
     "files": [
       "sonnet/m-bel-iri-sonnet.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-uru-cpv",
     "date": "2026-06-22",
     "stage": "group-stage",
+    "homeCode": "URU",
+    "awayCode": "CPV",
     "files": [
       "sonnet/m-uru-cpv-sonnet.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-nzl-egy",
     "date": "2026-06-22",
     "stage": "group-stage",
+    "homeCode": "NZL",
+    "awayCode": "EGY",
     "files": [
       "sonnet/m-nzl-egy-sonnet.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-arg-aut",
     "date": "2026-06-23",
     "stage": "group-stage",
+    "homeCode": "ARG",
+    "awayCode": "AUT",
     "files": [
       "sonnet/m-arg-aut-sonnet.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "m-fra-irq",

@@ -2809,8 +2809,8 @@
     "homeCode": "GER",
     "awayCode": "CIV",
     "files": [
-      "opus/m-ger-civ-opus.md",
       "sonnet/m-ger-civ-sonnet.md",
+      "opus/m-ger-civ-opus.md",
       "deepseek/m-ger-civ-deepseek.md"
     ],
     "actualScoreHome": 2,

@@ -2815,7 +2815,7 @@
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 1,
-    "predictionCorrect": null,
+    "predictionCorrect": true,
     "liveStats": {
       "possession": [
         50,

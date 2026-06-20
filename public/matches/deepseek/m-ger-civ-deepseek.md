@@ -531,3 +531,42 @@ Germany are in irresistible form after their 7‑1 demolition of Curaçao, and t
 | ใบเหลืองรวม | ~320 | #EAB308 |
 | ใบเหลือง-แดง | ~15 | orange |
 | ใบแดง | ~0.10/นัด | #EF4444 |
+## result_hits:zh
+- ✅ 勝負方向命中（預測德國勝，實際德國勝）
+- ✅ 角球數命中（預測 10–14，實際 11 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 象牙海岸意外進球，封關預期落空（預測 2-0，實際 2-1）
+- ⚠️ 黃牌數大幅低於預測（預測 4–6，實際 0 張）
+- ⚠️ 犯規數大幅低於預測（預測 20–24，實際 12 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Germany win)
+- ✅ Corner count on target (predicted 10–14, actual 11)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Côte d'Ivoire scored — clean sheet prediction missed (predicted 2-0, actual 2-1)
+- ⚠️ Yellow cards far below prediction (predicted 4–6, actual 0)
+- ⚠️ Foul count far below prediction (predicted 20–24, actual 12)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测德国胜，实际德国胜）
+- ✅ 角球数命中（预测 10–14，实际 11 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 科特迪瓦意外进球，封关预期落空（预测 2-0，实际 2-1）
+- ⚠️ 黄牌数大幅低于预测（预测 4–6，实际 0 张）
+- ⚠️ 犯规数大幅低于预测（预测 20–24，实际 12 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Đức thắng)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 10–14, thực tế 11 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Bờ Biển Ngà ghi bàn bất ngờ — dự đoán giữ sạch lưới trượt (dự đoán 2-0, thực tế 2-1)
+- ⚠️ Thẻ vàng thấp hơn nhiều dự đoán (dự đoán 4–6, thực tế 0 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 20–24, thực tế 12 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เยอรมนีชนะ)
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 10–14, จริง 11 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ไอวอรีโคสต์ทำประตูได้ — คาดการณ์คลีนชีตพลาด (ทำนาย 2-0, จริง 2-1)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 4–6, จริง 0 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 20–24, จริง 12 ครั้ง)

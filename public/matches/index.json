@@ -2616,7 +2616,8 @@
     "stage": "group-stage",
     "files": [
       "opus/m-ned-swe-opus.md",
-      "sonnet/m-ned-swe-sonnet.md"
+      "sonnet/m-ned-swe-sonnet.md",
+      "deepseek/m-ned-swe-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null
@@ -2627,7 +2628,8 @@
     "stage": "group-stage",
     "files": [
       "opus/m-ger-civ-opus.md",
-      "sonnet/m-ger-civ-sonnet.md"
+      "sonnet/m-ger-civ-sonnet.md",
+      "deepseek/m-ger-civ-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null
@@ -2638,7 +2640,8 @@
     "stage": "group-stage",
     "files": [
       "opus/m-ecu-cuw-opus.md",
-      "sonnet/m-ecu-cuw-sonnet.md"
+      "sonnet/m-ecu-cuw-sonnet.md",
+      "deepseek/m-ecu-cuw-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null
@@ -2649,7 +2652,8 @@
     "stage": "group-stage",
     "files": [
       "opus/m-tun-jpn-opus.md",
-      "sonnet/m-tun-jpn-sonnet.md"
+      "sonnet/m-tun-jpn-sonnet.md",
+      "deepseek/m-tun-jpn-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null

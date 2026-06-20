@@ -5,8 +5,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>FIFA World Cup 2026 Predictions | 世界盃 2026 賽事預測 · AI 比分分析</title>
-  <meta name="description" content="AI-powered match predictions, win rates, score forecasts, and starting XI for every FIFA World Cup 2026 game. Available in Traditional Chinese, Simplified Chinese, English, Vietnamese, and Thai." />
-  <meta name="keywords" content="FIFA World Cup 2026,WC2026 predictions,football predictions,score prediction,AI analysis,世界盃2026,賽事預測,比分預測,AI分析,足球預測,世界杯2026,赛事预测,比分预测,Dự đoán World Cup 2026,dự đoán tỷ số,phân tích AI,ทำนายฟุตบอล,วิเคราะห์บอล,ทำนายผลบอล2026" />
+  <meta name="description"
+    content="AI-powered match predictions, win rates, score forecasts, and starting XI for every FIFA World Cup 2026 game. Available in Traditional Chinese, Simplified Chinese, English, Vietnamese, and Thai." />
+  <meta name="keywords"
+    content="FIFA World Cup 2026,WC2026 predictions,football predictions,score prediction,AI analysis,世界盃2026,賽事預測,比分預測,AI分析,足球預測,世界杯2026,赛事预测,比分预测,Dự đoán World Cup 2026,dự đoán tỷ số,phân tích AI,ทำนายฟุตบอล,วิเคราะห์บอล,ทำนายผลบอล2026" />
 
   <!-- Canonical -->
   <link rel="canonical" href="https://wc2026-prediction.postqueue.net/" />
@@ -15,7 +17,8 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://wc2026-prediction.postqueue.net/" />
   <meta property="og:title" content="FIFA World Cup 2026 Predictions | 世界盃 2026 賽事預測" />
-  <meta property="og:description" content="AI-powered match predictions, win rates, score forecasts, and starting XI for every FIFA World Cup 2026 game." />
+  <meta property="og:description"
+    content="AI-powered match predictions, win rates, score forecasts, and starting XI for every FIFA World Cup 2026 game." />
   <meta property="og:image" content="https://wc2026-prediction.postqueue.net/banners/banner-zh.png" />
   <meta property="og:locale" content="zh_TW" />
   <meta property="og:locale:alternate" content="zh_CN" />
@@ -27,7 +30,8 @@
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="FIFA World Cup 2026 Predictions | 世界盃 2026 賽事預測" />
-  <meta name="twitter:description" content="AI-powered match predictions, win rates, score forecasts, and starting XI for every FIFA World Cup 2026 game." />
+  <meta name="twitter:description"
+    content="AI-powered match predictions, win rates, score forecasts, and starting XI for every FIFA World Cup 2026 game." />
   <meta name="twitter:image" content="https://wc2026-prediction.postqueue.net/banners/banner-zh.png" />
 
   <!-- Structured Data -->
@@ -49,7 +53,7 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-M6C6FV1DSH"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){ dataLayer.push(arguments); }
+    function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
     gtag('config', 'G-M6C6FV1DSH', { transport_type: 'beacon' });
   </script>
@@ -69,45 +73,68 @@
       z-index: 9999;
       transition: opacity 0.3s ease;
     }
+
     .initial-loader.fade-out {
       opacity: 0;
       pointer-events: none;
     }
+
     .loader-content {
       text-align: center;
     }
+
     .loader-icon {
       font-size: 48px;
       animation: bounce 1s infinite;
     }
+
     .loader-text {
       color: #fff;
       font-size: 18px;
       margin-top: 16px;
       font-family: system-ui, -apple-system, sans-serif;
     }
+
     .loader-progress {
       width: 200px;
       height: 4px;
-      background: rgba(255,255,255,0.1);
+      background: rgba(255, 255, 255, 0.1);
       border-radius: 2px;
       margin-top: 16px;
       overflow: hidden;
     }
+
     .loader-progress-bar {
       height: 100%;
       background: #22c55e;
       border-radius: 2px;
       animation: progress 2s ease-in-out infinite;
     }
+
     @keyframes bounce {
-      0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-20px); }
+
+      0%,
+      100% {
+        transform: translateY(0);
+      }
+
+      50% {
+        transform: translateY(-20px);
+      }
     }
+
     @keyframes progress {
-      0% { width: 0%; }
-      50% { width: 70%; }
-      100% { width: 100%; }
+      0% {
+        width: 0%;
+      }
+
+      50% {
+        width: 70%;
+      }
+
+      100% {
+        width: 100%;
+      }
     }
   </style>
 </head>
@@ -116,7 +143,7 @@
   <div id="initial-loader" class="initial-loader">
     <div class="loader-content">
       <div class="loader-icon">⚽</div>
-      <div class="loader-text">載入中...</div>
+      <div class="loader-text" id="loader-text">Loading...</div>
       <div class="loader-progress">
         <div class="loader-progress-bar"></div>
       </div>
@@ -151,7 +178,8 @@
         <div class="hero-cta-title">Beat the Odds with AI Predictions</div>
         <div class="hero-cta-sub">Get the best odds on every World Cup 2026 match</div>
       </div>
-      <a href="https://037go.nufrel.com/mqfzxmywyy6n" data-cta-link="" id="hero-cta-btn" class="hero-cta-btn" target="_blank" rel="noopener noreferrer">
+      <a href="https://037go.nufrel.com/mqfzxmywyy6n" data-cta-link="" id="hero-cta-btn" class="hero-cta-btn"
+        target="_blank" rel="noopener noreferrer">
         <img src="/12B.jpg" alt="12BET" class="cta-logo cta-logo-lg" loading="lazy"><span>Get Bonus Now →</span>
       </a>
     </div>
@@ -160,7 +188,8 @@
     <div id="tabs"></div>
   </div>
   <div id="content"></div>
-  <a href="https://037go.nufrel.com/mqfzxmywyy6n" data-cta-link="" id="floating-cta" target="_blank" rel="noopener noreferrer">
+  <a href="https://037go.nufrel.com/mqfzxmywyy6n" data-cta-link="" id="floating-cta" target="_blank"
+    rel="noopener noreferrer">
     <img src="/12B.jpg" alt="12BET" class="cta-logo" loading="lazy"><span id="get-bonus-text">Get Bonus</span>
   </a>
   <div id="footer-cta-wrap">
@@ -168,9 +197,12 @@
       <div class="footer-cta-inner">
         <span class="footer-cta-trophy">🏆</span>
         <div id="footer-cta-title" class="footer-cta-title">Ready to Win on World Cup 2026?</div>
-        <p id="footer-cta-sub" class="footer-cta-sub">Join thousands of fans using AI predictions to find value bets — exclusive welcome bonus for new members.</p>
-        <a href="https://037go.nufrel.com/mqfzxmywyy6n" data-cta-link="" id="footer-cta-btn" class="footer-cta-btn" target="_blank" rel="noopener noreferrer">
-          <img src="/12B.jpg" alt="12BET" class="cta-logo cta-logo-lg" loading="lazy"><span id="footer-cta-btn-text">Claim Welcome Bonus →</span>
+        <p id="footer-cta-sub" class="footer-cta-sub">Join thousands of fans using AI predictions to find value bets —
+          exclusive welcome bonus for new members.</p>
+        <a href="https://037go.nufrel.com/mqfzxmywyy6n" data-cta-link="" id="footer-cta-btn" class="footer-cta-btn"
+          target="_blank" rel="noopener noreferrer">
+          <img src="/12B.jpg" alt="12BET" class="cta-logo cta-logo-lg" loading="lazy"><span
+            id="footer-cta-btn-text">Claim Welcome Bonus →</span>
         </a>
         <p id="footer-cta-note" class="footer-cta-note">18+ · T&amp;Cs Apply · Please Gamble Responsibly</p>
       </div>
@@ -178,7 +210,8 @@
   </div>
   <footer id="sponsor-footer">
     <div class="sponsor-inner">
-      <span id="sponsor-text-pre" class="sponsor-text">All predictions and AI analysis on this site are sponsored by</span>
+      <span id="sponsor-text-pre" class="sponsor-text">All predictions and AI analysis on this site are sponsored
+        by</span>
       <img src="/12B.jpg" alt="12BET" class="sponsor-logo" loading="lazy">
       <span id="sponsor-text-post" class="sponsor-text">12BET · 18+ · Gamble Responsibly</span>
     </div>

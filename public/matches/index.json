@@ -2665,7 +2665,7 @@
       "sonnet/m-tur-par-sonnet.md"
     ],
     "actualScoreHome": 0,
-    "actualScoreAway": 2,
+    "actualScoreAway": 1,
     "predictionCorrect": false,
     "liveStats": {}
   },
@@ -2680,7 +2680,7 @@
       "sonnet/m-ned-swe-sonnet.md",
       "deepseek/m-ned-swe-deepseek.md"
     ],
-    "actualScoreHome": 1,
+    "actualScoreHome": 2,
     "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {}

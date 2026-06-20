@@ -2813,10 +2813,96 @@
       "sonnet/m-ger-civ-sonnet.md",
       "deepseek/m-ger-civ-deepseek.md"
     ],
-    "actualScoreHome": 1,
+    "actualScoreHome": 2,
     "actualScoreAway": 1,
     "predictionCorrect": null,
-    "liveStats": {}
+    "liveStats": {
+      "possession": [
+        50,
+        40
+      ],
+      "possession_contested": 10,
+      "goals": [
+        2,
+        1
+      ],
+      "assists": [
+        2,
+        0
+      ],
+      "attempts_total": [
+        16,
+        9
+      ],
+      "attempts_on": [
+        7,
+        2
+      ],
+      "attempts_off": [
+        6,
+        2
+      ],
+      "attempts_inside": [
+        9,
+        6
+      ],
+      "attempts_outside": [
+        7,
+        3
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        7,
+        5
+      ],
+      "offsides": [
+        0,
+        1
+      ],
+      "passes": [
+        627,
+        438
+      ],
+      "passes_completed": [
+        558,
+        365
+      ],
+      "crosses": [
+        18,
+        11
+      ],
+      "crosses_completed": [
+        6,
+        3
+      ],
+      "corners": [
+        8,
+        3
+      ],
+      "free_kicks": [
+        8,
+        5
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        24,
+        23
+      ]
+    }
   },
   {
     "id": "m-ecu-cuw",

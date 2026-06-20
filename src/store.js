@@ -178,8 +178,12 @@ export async function loadData() {
     defaultMatch = ongoingMatch;
   } else {
     const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+    // Find today's matches that haven't finished yet (either not started or within match window)
+    const todayMatch = schedule.find(m => 
+      matchLocalDateKey(m) === todayKey && 
+      (startMs(m) > nowMs || nowMs < startMs(m) + MATCH_WINDOW_MS)
+    );
     const nextMatch = schedule.find(m => startMs(m) > nowMs);
-    const todayMatch = schedule.find(m => matchLocalDateKey(m) === todayKey && nowMs < startMs(m) + MATCH_WINDOW_MS);
     defaultMatch = todayMatch || nextMatch || schedule[0];
   }
 

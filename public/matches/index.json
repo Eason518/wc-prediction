@@ -2606,8 +2606,8 @@
       "opus/m-tur-par-opus.md",
       "sonnet/m-tur-par-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null
+    "actualScoreHome": 0,
+    "actualScoreAway": 1
   },
   {
     "id": "m-ned-swe",

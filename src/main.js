@@ -1,14 +1,32 @@
 import './style.css';
-import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants } from './store.js';
+import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants, preloadNearbyMatches } from './store.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS, JIOOLIVE_BANNER_LINKS } from './config.js';
 
 let renderModule = null;
+let renderModulePromise = null;
+
 async function getRenderModule() {
-  if (!renderModule) {
-    renderModule = await import('./render/index.js');
+  if (renderModule) {
+    return renderModule;
   }
-  return renderModule;
+  
+  if (!renderModulePromise) {
+    // Start loading immediately but share the same promise
+    renderModulePromise = import('./render/index.js').then(module => {
+      renderModule = module;
+      return module;
+    });
+  }
+  
+  return renderModulePromise;
+}
+
+// Preload render module after initial page load
+if (typeof requestIdleCallback !== 'undefined') {
+  requestIdleCallback(() => getRenderModule(), { timeout: 1000 });
+} else {
+  setTimeout(() => getRenderModule(), 100);
 }
 
 let _carouselInterval = null;
@@ -148,7 +166,11 @@ async function update() {
   else if (st.tab === 'summary') html = renderSummary();
   $content.innerHTML = html;
 
-  if (matchChanged) window.scrollTo({ top: 0 });
+  if (matchChanged) {
+    window.scrollTo({ top: 0 });
+    // Preload nearby matches for faster navigation
+    preloadNearbyMatches(st.matchId);
+  }
   bindEvents();
 }
 

@@ -11,8 +11,27 @@ let listeners = [];
 let BASE_URL = '/';
 let INDEX = [];
 
+// Cache for match files to avoid redundant fetches
+const matchFileCache = new Map();
+
 async function fetchMatchFile(base, filename) {
-  return fetch(`${base}matches/${filename}`, { cache: 'default' }).then(r => r.text());
+  const cacheKey = `${base}matches/${filename}`;
+  
+  // Return cached promise if exists
+  if (matchFileCache.has(cacheKey)) {
+    return matchFileCache.get(cacheKey);
+  }
+  
+  // Create promise and cache it immediately
+  const promise = fetch(cacheKey, { 
+    cache: 'force-cache',
+    headers: {
+      'Cache-Control': 'max-age=3600' // Cache for 1 hour
+    }
+  }).then(r => r.text());
+  
+  matchFileCache.set(cacheKey, promise);
+  return promise;
 }
 
 async function loadVariants(entry, lang) {
@@ -85,7 +104,17 @@ export async function loadData() {
   INDEX = await indexRes.json();
 
   const lang = getLang();
-  const variantsList = await Promise.all(INDEX.map(entry => loadVariants(entry, lang)));
+  // Load variants in parallel batches to optimize network usage
+  const BATCH_SIZE = 10;
+  const variantsList = [];
+  
+  for (let i = 0; i < INDEX.length; i += BATCH_SIZE) {
+    const batch = INDEX.slice(i, i + BATCH_SIZE);
+    const batchResults = await Promise.all(
+      batch.map(entry => loadVariants(entry, lang))
+    );
+    variantsList.push(...batchResults);
+  }
 
   matchVariantsMap = {};
   schedule = [];
@@ -117,7 +146,17 @@ export async function reloadMatchData() {
   const lang = getLang();
   const indexRes = await fetch(`${BASE_URL}matches/index.json`, { cache: 'no-cache' });
   INDEX = await indexRes.json();
-  const variantsList = await Promise.all(INDEX.map(entry => loadVariants(entry, lang)));
+  // Load variants in parallel batches to optimize network usage
+  const BATCH_SIZE = 10;
+  const variantsList = [];
+  
+  for (let i = 0; i < INDEX.length; i += BATCH_SIZE) {
+    const batch = INDEX.slice(i, i + BATCH_SIZE);
+    const batchResults = await Promise.all(
+      batch.map(entry => loadVariants(entry, lang))
+    );
+    variantsList.push(...batchResults);
+  }
 
   matchVariantsMap = {};
   schedule = [];
@@ -155,6 +194,27 @@ export function setState(patch) {
 export function subscribe(fn) {
   listeners.push(fn);
   return () => { listeners = listeners.filter(l => l !== fn); };
+}
+
+// Preload nearby matches for faster navigation
+export async function preloadNearbyMatches(currentMatchId) {
+  const currentIndex = schedule.findIndex(m => m.id === currentMatchId);
+  if (currentIndex === -1) return;
+  
+  const preloadRange = 3; // Preload 3 matches before and after
+  const startIdx = Math.max(0, currentIndex - preloadRange);
+  const endIdx = Math.min(schedule.length - 1, currentIndex + preloadRange);
+  
+  // Preload in background without waiting
+  for (let i = startIdx; i <= endIdx; i++) {
+    const entry = INDEX[i];
+    if (entry && entry.files) {
+      // Trigger fetch but don't await - let it cache in background
+      entry.files.forEach(f => {
+        fetchMatchFile(BASE_URL, f).catch(() => {});
+      });
+    }
+  }
 }
 
 export function getDates() {

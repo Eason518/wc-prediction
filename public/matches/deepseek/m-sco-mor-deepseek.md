@@ -691,3 +691,53 @@ Scotland chưa bao giờ vượt qua vòng bảng World Cup — một chiến th
 | 🌊 Động lực của Morocco | Atlas Lions bắn nhiều hơn và tạo cơ hội tốt hơn Brazil trong trận hòa 1-1 — họ đến đầy tự tin. |
 | 🚫 Tổn thất chấn thương Morocco | Ezzalzouli (đầu gối) và Aguerd (bẹn) loại trước giải, nhưng Hakimi được triệu tập dù bị chấn thương. |
 | 🏟️ Lặp lại tại Boston | Scotland thắng Haiti 1-0 tại sân vận động này — họ hy vọng kết quả tương tự trước đối thủ mạnh hơn. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測摩洛哥勝，實際摩洛哥勝）
+- ✅ 摩洛哥如預期主控球權（54%），Saibari 第 2 分鐘即破門
+- ✅ 蘇格蘭未能破門，摩洛哥封關
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 1-2，實際 0-1）
+- ⚠️ 角球數低於預測（預測 8–11，實際 6 個）
+- ⚠️ 黃牌數低於預測（預測 4–6，實際 2 張）
+- ⚠️ 犯規數低於預測（預測 20–24，實際 18 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Morocco win)
+- ✅ Morocco controlled possession as expected (54%), Saibari struck in the 2nd minute
+- ✅ Scotland failed to score — Morocco kept a clean sheet
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 1-2, actual 0-1)
+- ⚠️ Corner count below prediction (predicted 8–11, actual 6)
+- ⚠️ Yellow cards below prediction (predicted 4–6, actual 2)
+- ⚠️ Foul count below prediction (predicted 20–24, actual 18)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测摩洛哥胜，实际摩洛哥胜）
+- ✅ 摩洛哥如预期主控球权（54%），Saibari 第 2 分钟即破门
+- ✅ 苏格兰未能破门，摩洛哥封关
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 1-2，实际 0-1）
+- ⚠️ 角球数低于预测（预测 8–11，实际 6 个）
+- ⚠️ 黄牌数低于预测（预测 4–6，实际 2 张）
+- ⚠️ 犯规数低于预测（预测 20–24，实际 18 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Morocco thắng)
+- ✅ Morocco kiểm soát bóng như dự đoán (54%), Saibari ghi bàn ngay phút thứ 2
+- ✅ Scotland không ghi được bàn — Morocco giữ sạch lưới
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 1-2, thực tế 0-1)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 8–11, thực tế 6 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–6, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 20–24, thực tế 18 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (Morocco ชนะ)
+- ✅ Morocco ครองบอลตามที่คาด (54%) Saibari ยิงประตูในนาทีที่ 2
+- ✅ สกอตแลนด์ทำประตูไม่ได้ Morocco รักษาคลีนชีต
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 1-2, จริง 0-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 8–11, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–6, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 20–24, จริง 18 ครั้ง)

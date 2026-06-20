@@ -556,3 +556,53 @@ Dự đoán: Morocco thắng 0-2. Ưu thế toàn diện của Morocco về kỹ
 | ⚽ ภัยคุกคามทางอากาศของ McTominay | กองหน้า Napoli คือภัยคุกคามการโต้กลับที่ยิ่งใหญ่ที่สุดของสกอตแลนด์ ลูกเซตพีซมอบโอกาสที่ดีที่สุดในการสร้างปัญหา |
 | 🛡️ ความควบคุมของ Bounou | ผู้รักษาประตูระดับโลกของโมร็อกโกคือแนวป้องกันสุดท้ายที่ขัดขวางสกอตแลนด์จากการทำประตู |
 | 📖 พบกันอีกครั้งหลัง 28 ปี | โมร็อกโกชนะ 3-0 เมื่อสองทีมพบกันในฟุตบอลโลก 1998 สกอตแลนด์ปรารถนาอย่างยิ่งที่จะเขียนประวัติศาสตร์ใหม่ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測摩洛哥勝，實際摩洛哥勝）
+- ✅ 摩洛哥如預期主控球權（54%），蘇格蘭被迫深度防守
+- ✅ 蘇格蘭未能破門，摩洛哥封關
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 0-2，實際 0-1）
+- ⚠️ 角球數低於預測（預測 7–10，實際 6 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+- ⚠️ 犯規數大幅低於預測（預測 22–26，實際 18 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Morocco win)
+- ✅ Morocco controlled possession as expected (54%), Scotland forced deep
+- ✅ Scotland failed to score — Morocco kept a clean sheet
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 0-2, actual 0-1)
+- ⚠️ Corner count below prediction (predicted 7–10, actual 6)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+- ⚠️ Foul count far below prediction (predicted 22–26, actual 18)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测摩洛哥胜，实际摩洛哥胜）
+- ✅ 摩洛哥如预期主控球权（54%），苏格兰被迫深度防守
+- ✅ 苏格兰未能破门，摩洛哥封关
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 0-2，实际 0-1）
+- ⚠️ 角球数低于预测（预测 7–10，实际 6 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+- ⚠️ 犯规数大幅低于预测（预测 22–26，实际 18 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Morocco thắng)
+- ✅ Morocco kiểm soát bóng như dự đoán (54%), Scotland bị dồn vào thế phòng thủ sâu
+- ✅ Scotland không ghi được bàn — Morocco giữ sạch lưới
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 0-2, thực tế 0-1)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 7–10, thực tế 6 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 22–26, thực tế 18 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (Morocco ชนะ)
+- ✅ Morocco ครองบอลตามที่คาด (54%) สกอตแลนด์ถูกบีบให้ถอยรับลึก
+- ✅ สกอตแลนด์ทำประตูไม่ได้ Morocco รักษาคลีนชีต
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-2, จริง 0-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 7–10, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 22–26, จริง 18 ครั้ง)

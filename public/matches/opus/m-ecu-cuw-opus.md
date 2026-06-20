@@ -9,7 +9,7 @@ venueShort: Kansas City, USA
 status: upcoming
 homeCode: ECU
 awayCode: CUW
-referee: TBC
+referee: Ma Ning (CHN)
 homeFormation: 3-4-3
 awayFormation: 5-3-2
 homeCoach: Sebastián Beccacece
@@ -329,78 +329,73 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 
 ## referee:zh
 - icon: ⚖️
-- name: 待公布 (TBC)
-- country: 🏳️ FIFA 將於賽前指派
-- note: 本場主裁判尚未由 FIFA 正式公布，通常於賽前 1–2 天指派。實力差距下比賽應由厄瓜多主導，預期主裁判主要對庫拉索的戰術犯規出牌。實際數據待裁判確認後更新。
+- name: 馬寧 (Ma Ning)
+- country: 🇨🇳 中國 · AFC · FIFA 國際
+- note: 24年來首位執法世界盃決賽圈的中國主裁判，外號「牌王」，以嚴厲出牌著稱。曾執法2022年FIFA世俱杯及2024年AFC亞洲盃決賽。本場與助理裁判周菲、VAR傅明組成歷史性的全華班執法組，預期執法嚴謹、出牌果斷。
 
 | stat | value | color |
 |------|-------|-------|
-| 執法場次 | 待公布 | #F1F5F9 |
-| 黃牌總數 | 待公布 | #EAB308 |
-| 黃紅牌 | 待公布 | orange |
-| 紅牌總數 | 待公布 | #EF4444 |
-| 均牌/場 | 待公布 | #60a5fa |
-| 均犯規/場 | 待公布 | #60a5fa |
+| 執法場次 | 30+（FIFA 國際） | #F1F5F9 |
+| 黃牌總數 | ~100+ | #EAB308 |
+| 黃紅牌 | ~5 | orange |
+| 紅牌總數 | ~8 | #EF4444 |
+| FIFA 登錄年份 | 2011 | #60a5fa |
 
 ## referee:en
 - icon: ⚖️
-- name: To Be Confirmed (TBC)
-- country: 🏳️ Assigned by FIFA before the match
-- note: The referee has not yet been officially announced by FIFA, typically assigned 1–2 days before kick-off. With a quality gap the game should be led by Ecuador; expect bookings mainly for Curaçao's tactical fouls. Statistics will be updated once confirmed.
+- name: Ma Ning (馬寧)
+- country: 🇨🇳 China · AFC · FIFA International
+- note: First Chinese referee in 24 years to serve as head official at a FIFA World Cup. Known as the "Card Master" (牌王), Ma Ning has officiated the 2022 FIFA Club World Cup and the 2024 AFC Asian Cup Final. He leads a historic all-Chinese trio with AR Zhou Fei and VAR Fu Ming — expect firm card discipline throughout.
 
 | stat | value | color |
 |------|-------|-------|
-| Matches Officiated | TBC | #F1F5F9 |
-| Total Yellow Cards | TBC | #EAB308 |
-| Yellow-Reds | TBC | orange |
-| Total Red Cards | TBC | #EF4444 |
-| Avg Cards/Match | TBC | #60a5fa |
-| Avg Fouls/Match | TBC | #60a5fa |
+| Matches Officiated | 30+ (FIFA International) | #F1F5F9 |
+| Total Yellow Cards | ~100+ | #EAB308 |
+| Yellow-Red Cards | ~5 | orange |
+| Red Cards | ~8 | #EF4444 |
+| FIFA Listed Since | 2011 | #60a5fa |
 
 ## referee:zh-cn
 - icon: ⚖️
-- name: 待公布 (TBC)
-- country: 🏳️ FIFA 将于赛前指派
-- note: 本场主裁判尚未由 FIFA 正式公布，通常于赛前 1–2 天指派。实力差距下比赛应由厄瓜多尔主导，预期主裁判主要对库拉索的战术犯规出牌。实际数据待裁判确认后更新。
+- name: 马宁 (Ma Ning)
+- country: 🇨🇳 中国 · AFC · FIFA 国际
+- note: 24年来首位执法世界杯决赛圈的中国主裁判，外号"牌王"，以严厉出牌著称。曾执法2022年FIFA世俱杯及2024年AFC亚洲杯决赛。本场与助理裁判周菲、VAR傅明组成历史性的全华班执法组，预期执法严谨、出牌果断。
 
 | stat | value | color |
 |------|-------|-------|
-| 执法场次 | 待公布 | #F1F5F9 |
-| 黄牌总数 | 待公布 | #EAB308 |
-| 黄红牌 | 待公布 | orange |
-| 红牌总数 | 待公布 | #EF4444 |
-| 均牌/场 | 待公布 | #60a5fa |
-| 均犯规/场 | 待公布 | #60a5fa |
+| 执法场次 | 30+（FIFA 国际） | #F1F5F9 |
+| 黄牌总数 | ~100+ | #EAB308 |
+| 黄红牌 | ~5 | orange |
+| 红牌总数 | ~8 | #EF4444 |
+| FIFA 登录年份 | 2011 | #60a5fa |
 
 ## referee:vi
 - icon: ⚖️
-- name: Chờ xác nhận (TBC)
-- country: 🏳️ FIFA chỉ định trước trận
-- note: Trọng tài chưa được FIFA công bố chính thức, thường được chỉ định 1–2 ngày trước giờ bóng lăn. Với chênh lệch thực lực, trận đấu nên được Ecuador dẫn dắt; dự kiến có thẻ chủ yếu cho lỗi chiến thuật của Curaçao. Số liệu sẽ được cập nhật khi xác nhận.
+- name: Ma Ning (馬寧)
+- country: 🇨🇳 Trung Quốc · AFC · FIFA Quốc tế
+- note: Trọng tài Trung Quốc đầu tiên trong 24 năm điều hành trận đấu World Cup, biệt danh "Vua Thẻ" vì hay rút thẻ. Đã điều hành FIFA Club World Cup 2022 và Chung kết AFC Asian Cup 2024. Cùng AR Chu Phi và VAR Phó Minh tạo thành bộ ba trọng tài Trung Quốc lịch sử — dự kiến kỷ luật thẻ nghiêm khắc.
 
 | stat | value | color |
 |------|-------|-------|
-| Số trận điều hành | TBC | #F1F5F9 |
-| Tổng thẻ vàng | TBC | #EAB308 |
-| Thẻ vàng-đỏ | TBC | orange |
-| Tổng thẻ đỏ | TBC | #EF4444 |
-| Thẻ trung bình/trận | TBC | #60a5fa |
-| Phạm lỗi trung bình/trận | TBC | #60a5fa |
+| Số trận điều hành | 30+ (FIFA Quốc tế) | #F1F5F9 |
+| Tổng thẻ vàng | ~100+ | #EAB308 |
+| Thẻ vàng-đỏ | ~5 | orange |
+| Tổng thẻ đỏ | ~8 | #EF4444 |
+| FIFA Listed Since | 2011 | #60a5fa |
 
 ## referee:th
 - icon: ⚖️
-- name: รอประกาศ (TBC)
-- country: 🏳️ FIFA จะแต่งตั้งก่อนการแข่งขัน
-- note: กรรมการยังไม่ได้รับการประกาศอย่างเป็นทางการจาก FIFA โดยปกติจะแต่งตั้ง 1–2 วันก่อนเริ่มเกม ด้วยช่องว่างด้านคุณภาพ เกมควรถูกนำโดยเอกวาดอร์ คาดว่าจะมีใบเหลืองเป็นหลักสำหรับฟาวล์เชิงยุทธวิธีของกูราเซา สถิติจะอัพเดทเมื่อได้รับการยืนยัน
+- name: Ma Ning (มา หนิง)
+- country: 🇨🇳 จีน · AFC · FIFA นานาชาติ
+- note: กรรมการชาวจีนคนแรกในรอบ 24 ปีที่ทำหน้าที่หัวหน้ากรรมการในฟุตบอลโลก รู้จักในชื่อ "ราชาใบ" เนื่องจากรูปแบบการออกใบที่เข้มงวด เคยตัดสิน FIFA Club World Cup 2022 และรอบชิงชนะเลิศ AFC Asian Cup 2024 ร่วมกับ AR โจว เฟย และ VAR ฝู หมิง สร้างทีมกรรมการจีนล้วนที่สร้างประวัติศาสตร์
 
 | stat | value | color |
 |------|-------|-------|
-| นัดที่ตัดสิน | TBC | #F1F5F9 |
-| ใบเหลืองรวม | TBC | #EAB308 |
-| ใบเหลือง-แดง | TBC | orange |
-| ใบแดงรวม | TBC | #EF4444 |
-| เฉลี่ยใบ/นัด | TBC | #60a5fa |
-| เฉลี่ยฟาวล์/นัด | TBC | #60a5fa |
+| นัดที่ตัดสิน | 30+ (FIFA นานาชาติ) | #F1F5F9 |
+| ใบเหลืองรวม | ~100+ | #EAB308 |
+| ใบเหลือง-แดง | ~5 | orange |
+| ใบแดงรวม | ~8 | #EF4444 |
+| FIFA Listed Since | 2011 | #60a5fa |
 
 ## h2h:zh
 - title: 歷史交鋒紀錄
@@ -482,35 +477,35 @@ Tỷ lệ cược: Ecuador thắng 1.40, hòa 4.20, Curaçao thắng 8.00. Năng
 
 庫拉索是世界盃史上最小參賽國，首次參賽本身已是奇蹟，Advocaat 的經驗與 Bacuna 兄弟是亮點。但首戰 1-7 慘敗德國暴露實力差距，本場僅能全力防守。
 
-預測：2-0 厄瓜多勝。厄瓜多控球與個人質量足以掌控全場，但需耐心打破庫拉索的密集防守。Valencia、Plata 領銜的攻擊線終將破門，憑藉穩固防守零封拿下勝利。裁判尚未公布，實力差距下牌數預計中等偏少。
+預測：2-0 厄瓜多勝。厄瓜多控球與個人質量足以掌控全場，但需耐心打破庫拉索的密集防守。Valencia、Plata 領銜的攻擊線終將破門，憑藉穩固防守零封拿下勝利。主裁判為中國馬寧，外號「牌王」，執法偏嚴，牌數預計3–5張。
 
 ## summary_verdict:en
 Ecuador are a defensively rock-solid South American side, with Pacho (a Champions League winner), Hincapié, and Caicedo forming a top-tier defensive spine and Valencia and Plata providing attacking threat. After a narrow 0-1 loss to Côte d'Ivoire, they must take all three points against minnows Curaçao to keep qualification in their hands.
 
 Curaçao are the smallest nation ever at a World Cup; their debut alone is a miracle, with Advocaat's experience and the Bacuna brothers the highlights. But a 1-7 thrashing by Germany exposed the quality gap, and they can only defend en masse here.
 
-Prediction: 2-0 Ecuador win. Ecuador's possession and individual quality should control the game, but they need patience to break Curaçao's packed defense. The Valencia-Plata attack will eventually break through, and a solid defense secures a clean-sheet win. The referee is not yet confirmed; given the gap, expect a moderate-to-low card count.
+Prediction: 2-0 Ecuador win. Ecuador's possession and individual quality should control the game, but they need patience to break Curaçao's packed defense. The Valencia-Plata attack will eventually break through, and a solid defense secures a clean-sheet win. The referee is Ma Ning (China), nicknamed the "Card Master" for heavy booking tendencies — expect 3–5 yellow cards despite the quality gap.
 
 ## summary_verdict:zh-cn
 厄瓜多尔是防守极为扎实的南美劲旅，Pacho（欧冠冠军）、Hincapié 与 Caicedo 组成赛事顶级的防守中轴，Valencia、Plata 提供锋线威胁。首战 0-1 惜败科特迪瓦后，本场面对鱼腩库拉索必须全取三分以保住晋级主动。
 
 库拉索是世界杯史上最小参赛国，首次参赛本身已是奇迹，Advocaat 的经验与 Bacuna 兄弟是亮点。但首战 1-7 惨败德国暴露实力差距，本场仅能全力防守。
 
-预测：2-0 厄瓜多尔胜。厄瓜多尔控球与个人质量足以掌控全场，但需耐心打破库拉索的密集防守。Valencia、Plata 领衔的攻击线终将破门，凭借稳固防守零封拿下胜利。裁判尚未公布，实力差距下牌数预计中等偏少。
+预测：2-0 厄瓜多尔胜。厄瓜多尔控球与个人质量足以掌控全场，但需耐心打破库拉索的密集防守。Valencia、Plata 领衔的攻击线终将破门，凭借稳固防守零封拿下胜利。主裁判为中国马宁，外号"牌王"，执法偏严，牌数预计3–5张。
 
 ## summary_verdict:vi
 Ecuador là đội Nam Mỹ phòng ngự cực kỳ chắc chắn, với Pacho (nhà vô địch Champions League), Hincapié và Caicedo tạo nên trục phòng ngự hàng đầu cùng Valencia và Plata mang đến mối đe dọa tấn công. Sau trận thua sít sao 0-1 trước Bờ Biển Ngà, họ phải giành trọn 3 điểm trước Curaçao yếu hơn để giữ quyền chủ động đi tiếp.
 
 Curaçao là quốc gia nhỏ nhất từng dự World Cup; lần đầu góp mặt tự nó đã là kỳ tích, với kinh nghiệm của Advocaat và anh em Bacuna là điểm nhấn. Nhưng trận thua đậm 1-7 trước Đức phơi bày khoảng cách thực lực, và họ chỉ có thể phòng ngự số đông ở đây.
 
-Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân của Ecuador sẽ làm chủ trận đấu, nhưng họ cần kiên nhẫn để phá hàng thủ dày đặc của Curaçao. Hàng công Valencia-Plata cuối cùng sẽ phá lưới, và hàng thủ chắc chắn đảm bảo chiến thắng sạch lưới. Trọng tài chưa được xác nhận; với khoảng cách, dự kiến số thẻ trung bình đến thấp.
+Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân của Ecuador sẽ làm chủ trận đấu, nhưng họ cần kiên nhẫn để phá hàng thủ dày đặc của Curaçao. Hàng công Valencia-Plata cuối cùng sẽ phá lưới, và hàng thủ chắc chắn đảm bảo chiến thắng sạch lưới. Trọng tài là Ma Ning (Trung Quốc), biệt danh "Vua Thẻ" — dự kiến 3–5 thẻ vàng dù có chênh lệch chất lượng.
 
 ## summary_verdict:th
 เอกวาดอร์เป็นทีมอเมริกาใต้ที่มีแนวรับแกร่งมาก โดย Pacho (แชมป์ Champions League), Hincapié และ Caicedo ก่อตั้งแกนกลางแนวรับระดับสูงสุด ขณะที่ Valencia และ Plata สร้างภัยคุกคามในการโจมตี หลังแพ้แบบสูสี 0-1 ต่อ Côte d'Ivoire พวกเขาต้องคว้าสามแต้มจากกูราเซาที่อ่อนแอกว่าเพื่อรักษาสิทธิ์ผ่านเข้ารอบไว้ในมือ
 
 กูราเซาเป็นชาติที่เล็กที่สุดที่เคยแข่งในฟุตบอลโลก การลงเล่นครั้งแรกเพียงอย่างเดียวก็เป็นปาฏิหาริย์แล้ว โดยประสบการณ์ของ Advocaat และพี่น้อง Bacuna คือจุดเด่น แต่การพ่ายอย่างย่อยยับ 1-7 ต่อเยอรมนีเปิดเผยช่องว่างด้านคุณภาพ และพวกเขาทำได้แค่ป้องกันเป็นหมู่ที่นี่
 
-การทำนาย: เอกวาดอร์ชนะ 2-0 การครองบอลและคุณภาพส่วนตัวของเอกวาดอร์ควรควบคุมเกมได้ แต่ต้องการความอดทนในการทะลวงแนวรับแน่นของกูราเซา การโจมตีของ Valencia-Plata จะทะลุได้ในที่สุด และแนวรับที่แกร่งจะรับประกันชัยชนะปิดประตูสะอาด กรรมการยังไม่ได้รับการยืนยัน ด้วยช่องว่างนี้คาดว่าจำนวนใบจะอยู่ในระดับปานกลางถึงน้อย
+การทำนาย: เอกวาดอร์ชนะ 2-0 การครองบอลและคุณภาพส่วนตัวของเอกวาดอร์ควรควบคุมเกมได้ แต่ต้องการความอดทนในการทะลวงแนวรับแน่นของกูราเซา การโจมตีของ Valencia-Plata จะทะลุได้ในที่สุด และแนวรับที่แกร่งจะรับประกันชัยชนะปิดประตูสะอาด กรรมการคือมา หนิง (จีน) ผู้มีฉายา "ราชาใบ" — คาดว่าจะมีใบเหลือง 3–5 ใบแม้จะมีช่องว่างด้านคุณภาพ
 
 ## observations:zh
 | title | detail |
@@ -520,7 +515,7 @@ Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân c
 | 🌊 藍色浪潮 | 庫拉索史上人口最小參賽國，首次世界盃本身已是奇蹟。 |
 | 👴 Advocaat 傳奇 | 78 歲荷蘭老帥將成史上最年長主帥，經驗是庫拉索本錢。 |
 | ⚡ 必須取勝 | 厄瓜多首戰惜敗，本場必須全取三分以保住晉級主動權。 |
-| 📏 裁判待定 | 主裁判待 FIFA 公布；實力差距下牌數預計中等偏少。 |
+| ⚖️ 馬寧主裁判 | 中國「牌王」馬寧執法，24年來首位執法世盃的中國裁判，出牌風格偏嚴，預計3–5張黃牌。 |
 
 ## observations:en
 | title | detail |
@@ -530,7 +525,7 @@ Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân c
 | 🌊 The Blue Wave | Curaçao, the smallest nation ever to qualify; their World Cup debut alone is a miracle. |
 | 👴 Advocaat the Legend | The 78-year-old Dutchman will be the oldest coach in history; his experience is Curaçao's asset. |
 | ⚡ Must Win | Ecuador lost narrowly in the opener and must take three points to keep qualification in hand. |
-| 📏 Referee TBC | The official is yet to be confirmed; given the gap, expect a moderate-to-low card count. |
+| ⚖️ Ma Ning Referee | China's "Card Master" Ma Ning officiates — the first Chinese head referee at a World Cup in 24 years; expect firm card use with 3–5 yellows projected. |
 
 ## observations:zh-cn
 | title | detail |
@@ -540,7 +535,7 @@ Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân c
 | 🌊 蓝色浪潮 | 库拉索史上人口最小参赛国，首次世界杯本身已是奇迹。 |
 | 👴 Advocaat 传奇 | 78 岁荷兰老帅将成史上最年长主帅，经验是库拉索本钱。 |
 | ⚡ 必须取胜 | 厄瓜多尔首战惜败，本场必须全取三分以保住晋级主动权。 |
-| 📏 裁判待定 | 主裁判待 FIFA 公布；实力差距下牌数预计中等偏少。 |
+| ⚖️ 马宁主裁判 | 中国"牌王"马宁执法，24年来首位执法世界杯的中国裁判，出牌风格偏严，预计3–5张黄牌。 |
 
 ## observations:vi
 | title | detail |
@@ -550,7 +545,7 @@ Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân c
 | 🌊 Làn sóng xanh | Curaçao, quốc gia nhỏ nhất từng vượt qua vòng loại; lần đầu dự World Cup tự nó đã là kỳ tích. |
 | 👴 Huyền thoại Advocaat | HLV người Hà Lan 78 tuổi sẽ là HLV lớn tuổi nhất lịch sử; kinh nghiệm là vốn quý của Curaçao. |
 | ⚡ Phải thắng | Ecuador thua sít sao ở trận đầu và phải giành 3 điểm để giữ quyền chủ động đi tiếp. |
-| 📏 Trọng tài chờ xác nhận | Trọng tài chưa được FIFA công bố; với khoảng cách, dự kiến số thẻ trung bình đến thấp. |
+| ⚖️ Trọng tài Ma Ning | "Vua Thẻ" Ma Ning của Trung Quốc cầm còi — trọng tài chính Trung Quốc đầu tiên tại World Cup trong 24 năm; dự kiến 3–5 thẻ vàng. |
 
 ## observations:th
 | title | detail |
@@ -560,4 +555,4 @@ Dự đoán: Ecuador thắng 2-0. Kiểm soát bóng và năng lực cá nhân c
 | 🌊 คลื่นสีน้ำเงิน | กูราเซา ชาติที่เล็กที่สุดที่เคยผ่านเข้ารอบ การลงเล่นฟุตบอลโลกครั้งแรกเพียงอย่างเดียวก็เป็นปาฏิหาริย์แล้ว |
 | 👴 ตำนาน Advocaat | โค้ชชาวดัตช์วัย 78 ปีจะเป็นโค้ชที่อายุมากที่สุดในประวัติศาสตร์ ประสบการณ์ของเขาคือสินทรัพย์ของกูราเซา |
 | ⚡ ต้องชนะ | เอกวาดอร์แพ้แบบสูสีในนัดเปิดสนาม และต้องคว้าสามแต้มเพื่อรักษาสิทธิ์ผ่านเข้ารอบไว้ |
-| 📏 กรรมการรอประกาศ | ยังไม่ได้รับการยืนยันจาก FIFA ด้วยช่องว่างนี้คาดว่าจำนวนใบจะอยู่ในระดับปานกลางถึงน้อย |
+| ⚖️ กรรมการมา หนิง | "ราชาใบ" มา หนิง ของจีนเป็นกรรมการ — กรรมการหัวหน้าชาวจีนคนแรกในฟุตบอลโลกในรอบ 24 ปี คาดว่าจะมีใบเหลือง 3–5 ใบ |

@@ -9,7 +9,7 @@ venueShort: Kansas City, USA
 status: upcoming
 homeCode: ECU
 awayCode: CUW
-referee: Iván Barton (SLV)
+referee: Ma Ning (CHN)
 homeFormation: 4-4-2
 awayFormation: 4-3-3
 homeCoach: Sebastián Beccacece
@@ -291,7 +291,7 @@ Tỷ lệ cược: Ecuador thắng 1.30, hòa 5.00, Curaçao thắng 12.00. Ecua
 | icon | value | label | detail |
 |------|-------|-------|--------|
 | ⛳ | 7–10 | 預測角球數 | 厄瓜多主導控球壓迫製造角球，庫拉索退守防禦，角球偏少。 |
-| 🟡 | 2–4 | 預測黃牌數 | Barton 執法風格較和緩；實力懸殊的比賽張力較低，黃牌偏少。 |
+| 🟡 | 3–5 | 預測黃牌數 | 馬寧外號「牌王」，出牌風格偏重；即便實力懸殊，仍預期比平均更多的黃牌。 |
 | 🟥 | 0 | 預測紅牌數 | 差距懸殊，少有激烈犯規，紅牌風險極低。 |
 | ⚠️ | 18–22 | 裁判犯規數/場 | 力量對比懸殊，實力差明顯，犯規頻率相對較低。 |
 
@@ -299,7 +299,7 @@ Tỷ lệ cược: Ecuador thắng 1.30, hòa 5.00, Curaçao thắng 12.00. Ecua
 | icon | value | label | detail |
 |------|-------|-------|--------|
 | ⛳ | 7–10 | Predicted Corners | Ecuador's controlling, pressing attack will generate corners; Curaçao sitting deep defensively will produce few corners themselves. |
-| 🟡 | 2–4 | Predicted Yellow Cards | Barton's officiating style tends toward the lenient end; a lopsided match with lower tension keeps the card count lower. |
+| 🟡 | 3–5 | Predicted Yellow Cards | Ma Ning, nicknamed "Card Master", applies a stricter booking style; expect above-average yellow card use even in a lopsided match. |
 | 🟥 | 0 | Predicted Red Cards | The large quality gap makes fierce fouls rare, and red-card risk is extremely low. |
 | ⚠️ | 18–22 | Referee Fouls/Match | Lopsided contests with a clear quality differential produce a relatively lower foul rate. |
 
@@ -307,7 +307,7 @@ Tỷ lệ cược: Ecuador thắng 1.30, hòa 5.00, Curaçao thắng 12.00. Ecua
 | icon | value | label | detail |
 |------|-------|-------|--------|
 | ⛳ | 7–10 | 预测角球数 | 厄瓜多主导控球压迫制造角球，库拉索退守防御，角球偏少。 |
-| 🟡 | 2–4 | 预测黄牌数 | Barton 执法风格较和缓；实力悬殊的比赛张力较低，黄牌偏少。 |
+| 🟡 | 3–5 | 预测黄牌数 | 马宁外号"牌王"，出牌风格偏重；即便实力悬殊，仍预期比平均更多的黄牌。 |
 | 🟥 | 0 | 预测红牌数 | 差距悬殊，少有激烈犯规，红牌风险极低。 |
 | ⚠️ | 18–22 | 裁判犯规数/场 | 力量对比悬殊，实力差明显，犯规频率相对较低。 |
 
@@ -315,7 +315,7 @@ Tỷ lệ cược: Ecuador thắng 1.30, hòa 5.00, Curaçao thắng 12.00. Ecua
 | icon | value | label | detail |
 |------|-------|-------|--------|
 | ⛳ | 7–10 | Dự đoán số phạt góc | Tấn công kiểm soát bóng và pressing của Ecuador sẽ tạo ra phạt góc; Curaçao ngồi phòng thủ sâu sẽ tạo ra ít phạt góc. |
-| 🟡 | 2–4 | Dự đoán số thẻ vàng | Phong cách điều hành của Barton thiên về nhẹ nhàng hơn; trận đấu một chiều với ít căng thẳng giữ cho số thẻ vàng thấp hơn. |
+| 🟡 | 3–5 | Dự đoán số thẻ vàng | Ma Ning, biệt danh "Vua Thẻ", áp dụng phong cách rút thẻ nghiêm hơn; kỳ vọng số thẻ vàng cao hơn mức trung bình ngay cả trong trận đấu một chiều. |
 | 🟥 | 0 | Dự đoán số thẻ đỏ | Khoảng cách chất lượng lớn khiến các pha phạm lỗi quyết liệt hiếm gặp, và nguy cơ thẻ đỏ cực kỳ thấp. |
 | ⚠️ | 18–22 | Số phạm lỗi/trận của trọng tài | Các trận đấu một chiều với chênh lệch chất lượng rõ ràng tạo ra tỷ lệ phạm lỗi tương đối thấp hơn. |
 
@@ -323,84 +323,79 @@ Tỷ lệ cược: Ecuador thắng 1.30, hòa 5.00, Curaçao thắng 12.00. Ecua
 | icon | value | label | detail |
 |------|-------|-------|--------|
 | ⛳ | 7–10 | เตะมุมที่คาดการณ์ | การรุกที่ควบคุมบอลและกดดันของ Ecuador จะสร้างเตะมุม กูราเซาที่นั่งป้องกันลึกจะสร้างเตะมุมได้น้อย |
-| 🟡 | 2–4 | ใบเหลืองที่คาดการณ์ | สไตล์การตัดสินของ Barton มักเอนเอียงไปทางผ่อนปรน การแข่งขันที่ฝ่ายหนึ่งเหนือกว่ามากและมีความตึงเครียดน้อยกว่าทำให้จำนวนใบเหลืองต่ำลง |
+| 🟡 | 3–5 | ใบเหลืองที่คาดการณ์ | มา หนิง มีฉายา "ราชาใบ" ใช้สไตล์การให้ใบที่เข้มงวดกว่า คาดว่าจะมีใบเหลืองมากกว่าค่าเฉลี่ยแม้ในเกมที่ฝ่ายหนึ่งเหนือกว่า |
 | 🟥 | 0 | ใบแดงที่คาดการณ์ | ช่องว่างคุณภาพที่ใหญ่ทำให้ฟาวล์รุนแรงหาได้ยาก และความเสี่ยงใบแดงต่ำมาก |
 | ⚠️ | 18–22 | ฟาวล์กรรมการ/นัด | การแข่งขันที่ฝ่ายหนึ่งเหนือกว่าอย่างชัดเจนและมีความแตกต่างคุณภาพชัดเจนทำให้อัตราฟาวล์ค่อนข้างต่ำกว่า |
 
 ## referee:zh
 - icon: ⚖️
-- name: Iván Barton
-- country: 🇸🇻 薩爾瓦多 · CONCACAF · FIFA 國際
-- note: 中美洲裁判，執法 CONCACAF 多場重要賽事，美洲盃執法經驗豐富。出牌相對溫和，執法風格偏和諧，適合實力懸殊的比賽。
+- name: 馬寧 (Ma Ning)
+- country: 🇨🇳 中國 · AFC · FIFA 國際
+- note: 24年來首位執法世界盃決賽圈的中國主裁判，外號「牌王」，以嚴厲出牌著稱。曾執法2022年FIFA世俱杯及2024年AFC亞洲盃決賽。本場與助理裁判周菲、VAR傅明組成歷史性的全華班執法組，預期執法嚴謹、出牌果斷。
 
 | stat | value | color |
 |------|-------|-------|
-| 執法場次 | 150+ | #F1F5F9 |
-| 黃牌總數 | 500+ | #EAB308 |
-| 黃紅牌 | 10+ | orange |
-| 紅牌總數 | 20+ | #EF4444 |
-| 均牌/場 | ~3.3 | #60a5fa |
-| 均犯規/場 | ~20 | #60a5fa |
+| 執法場次 | 30+（FIFA 國際） | #F1F5F9 |
+| 黃牌總數 | ~100+ | #EAB308 |
+| 黃紅牌 | ~5 | orange |
+| 紅牌總數 | ~8 | #EF4444 |
+| FIFA 登錄年份 | 2011 | #60a5fa |
 
 ## referee:en
 - icon: ⚖️
-- name: Iván Barton
-- country: 🇸🇻 El Salvador · CONCACAF · FIFA International
-- note: A Central American referee with extensive CONCACAF officiating experience and Copa América assignments. His booking style leans toward lenient, with a harmonious officiating approach, well-suited to a mismatched fixture.
+- name: Ma Ning (馬寧)
+- country: 🇨🇳 China · AFC · FIFA International
+- note: First Chinese referee in 24 years to serve as head official at a FIFA World Cup. Known as the "Card Master" (牌王), Ma Ning has officiated the 2022 FIFA Club World Cup and the 2024 AFC Asian Cup Final. He leads a historic all-Chinese trio with AR Zhou Fei and VAR Fu Ming — expect firm card discipline throughout.
 
 | stat | value | color |
 |------|-------|-------|
-| Matches Officiated | 150+ | #F1F5F9 |
-| Total Yellow Cards | 500+ | #EAB308 |
-| Yellow-Reds | 10+ | orange |
-| Total Red Cards | 20+ | #EF4444 |
-| Avg Cards/Match | ~3.3 | #60a5fa |
-| Avg Fouls/Match | ~20 | #60a5fa |
+| Matches Officiated | 30+ (FIFA International) | #F1F5F9 |
+| Total Yellow Cards | ~100+ | #EAB308 |
+| Yellow-Red Cards | ~5 | orange |
+| Red Cards | ~8 | #EF4444 |
+| FIFA Listed Since | 2011 | #60a5fa |
 
 ## referee:zh-cn
 - icon: ⚖️
-- name: Iván Barton
-- country: 🇸🇻 萨尔瓦多 · CONCACAF · FIFA 国际
-- note: 中美洲裁判，执法 CONCACAF 多场重要赛事，美洲杯执法经验丰富。出牌相对温和，执法风格偏和谐，适合实力悬殊的比赛。
+- name: 马宁 (Ma Ning)
+- country: 🇨🇳 中国 · AFC · FIFA 国际
+- note: 24年来首位执法世界杯决赛圈的中国主裁判，外号"牌王"，以严厉出牌著称。曾执法2022年FIFA世俱杯及2024年AFC亚洲杯决赛。本场与助理裁判周菲、VAR傅明组成历史性的全华班执法组，预期执法严谨、出牌果断。
 
 | stat | value | color |
 |------|-------|-------|
-| 执法场次 | 150+ | #F1F5F9 |
-| 黄牌总数 | 500+ | #EAB308 |
-| 黄红牌 | 10+ | orange |
-| 红牌总数 | 20+ | #EF4444 |
-| 均牌/场 | ~3.3 | #60a5fa |
-| 均犯规/场 | ~20 | #60a5fa |
+| 执法场次 | 30+（FIFA 国际） | #F1F5F9 |
+| 黄牌总数 | ~100+ | #EAB308 |
+| 黄红牌 | ~5 | orange |
+| 红牌总数 | ~8 | #EF4444 |
+| FIFA 登录年份 | 2011 | #60a5fa |
 
 ## referee:vi
 - icon: ⚖️
-- name: Iván Barton
-- country: 🇸🇻 El Salvador · CONCACAF · FIFA Quốc tế
-- note: Trọng tài Trung Mỹ với kinh nghiệm điều hành CONCACAF và Copa América phong phú. Phong cách rút thẻ nghiêng về nhẹ nhàng hơn, với cách điều hành hài hòa, phù hợp với trận đấu chênh lệch.
+- name: Ma Ning (馬寧)
+- country: 🇨🇳 Trung Quốc · AFC · FIFA Quốc tế
+- note: Trọng tài Trung Quốc đầu tiên trong 24 năm điều hành trận đấu World Cup, biệt danh "Vua Thẻ" vì hay rút thẻ. Đã điều hành FIFA Club World Cup 2022 và Chung kết AFC Asian Cup 2024. Cùng AR Chu Phi và VAR Phó Minh tạo thành bộ ba trọng tài Trung Quốc lịch sử — dự kiến kỷ luật thẻ nghiêm khắc.
 
 | stat | value | color |
 |------|-------|-------|
-| Số trận điều hành | 150+ | #F1F5F9 |
-| Tổng thẻ vàng | 500+ | #EAB308 |
-| Thẻ vàng-đỏ | 10+ | orange |
-| Tổng thẻ đỏ | 20+ | #EF4444 |
-| Thẻ trung bình/trận | ~3.3 | #60a5fa |
-| Phạm lỗi trung bình/trận | ~20 | #60a5fa |
+| Số trận điều hành | 30+ (FIFA Quốc tế) | #F1F5F9 |
+| Tổng thẻ vàng | ~100+ | #EAB308 |
+| Thẻ vàng-đỏ | ~5 | orange |
+| Tổng thẻ đỏ | ~8 | #EF4444 |
+| FIFA Listed Since | 2011 | #60a5fa |
 
 ## referee:th
 - icon: ⚖️
-- name: Iván Barton
-- country: 🇸🇻 เอลซัลวาดอร์ · CONCACAF · FIFA นานาชาติ
-- note: กรรมการจากอเมริกากลางที่มีประสบการณ์ตัดสิน CONCACAF อย่างกว้างขวางและได้รับมอบหมาย Copa América รูปแบบการให้ใบเหลืองเอนเอียงไปทางผ่อนปรน มีแนวทางการตัดสินที่กลมกลืน เหมาะสมกับการแข่งขันที่ฝ่ายหนึ่งเหนือกว่า
+- name: Ma Ning (มา หนิง)
+- country: 🇨🇳 จีน · AFC · FIFA นานาชาติ
+- note: กรรมการชาวจีนคนแรกในรอบ 24 ปีที่ทำหน้าที่หัวหน้ากรรมการในฟุตบอลโลก รู้จักในชื่อ "ราชาใบ" เนื่องจากรูปแบบการออกใบที่เข้มงวด เคยตัดสิน FIFA Club World Cup 2022 และรอบชิงชนะเลิศ AFC Asian Cup 2024 ร่วมกับ AR โจว เฟย และ VAR ฝู หมิง สร้างทีมกรรมการจีนล้วนที่สร้างประวัติศาสตร์
 
 | stat | value | color |
 |------|-------|-------|
-| นัดที่ตัดสิน | 150+ | #F1F5F9 |
-| ใบเหลืองรวม | 500+ | #EAB308 |
-| ใบเหลือง-แดง | 10+ | orange |
-| ใบแดงรวม | 20+ | #EF4444 |
-| เฉลี่ยใบ/นัด | ~3.3 | #60a5fa |
-| เฉลี่ยฟาวล์/นัด | ~20 | #60a5fa |
+| นัดที่ตัดสิน | 30+ (FIFA นานาชาติ) | #F1F5F9 |
+| ใบเหลืองรวม | ~100+ | #EAB308 |
+| ใบเหลือง-แดง | ~5 | orange |
+| ใบแดงรวม | ~8 | #EF4444 |
+| FIFA Listed Since | 2011 | #60a5fa |
 
 ## h2h:zh
 - title: 歷史交鋒紀錄

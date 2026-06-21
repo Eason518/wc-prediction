@@ -3045,6 +3045,7 @@
     "date": "2026-06-21",
     "time": "12:00",
     "stage": "group-stage",
+    "predictionCorrect": true,
     "homeCode": "TUN",
     "awayCode": "JPN",
     "files": [
@@ -3052,10 +3053,95 @@
       "sonnet/m-tun-jpn-sonnet.md",
       "deepseek/m-tun-jpn-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 0,
+    "actualScoreAway": 4,
+    "liveStats": {
+      "possession": [
+        41,
+        52
+      ],
+      "possession_contested": 7,
+      "goals": [
+        0,
+        4
+      ],
+      "assists": [
+        0,
+        4
+      ],
+      "attempts_total": [
+        2,
+        11
+      ],
+      "attempts_on": [
+        0,
+        5
+      ],
+      "attempts_off": [
+        2,
+        3
+      ],
+      "attempts_inside": [
+        1,
+        8
+      ],
+      "attempts_outside": [
+        1,
+        3
+      ],
+      "passes": [
+        386,
+        574
+      ],
+      "passes_completed": [
+        297,
+        511
+      ],
+      "crosses": [
+        8,
+        13
+      ],
+      "crosses_completed": [
+        0,
+        3
+      ],
+      "corners": [
+        3,
+        5
+      ],
+      "free_kicks": [
+        16,
+        8
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        16,
+        25
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        15,
+        7
+      ],
+      "offsides": [
+        1,
+        1
+      ]
+    },
     "v": 1
   },
   {

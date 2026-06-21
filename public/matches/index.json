@@ -2980,7 +2980,8 @@
     "homeCode": "ESP",
     "awayCode": "KSA",
     "files": [
-      "sonnet/m-esp-ksa-sonnet.md"
+      "sonnet/m-esp-ksa-sonnet.md",
+      "deepseek/m-esp-ksa-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -2996,7 +2997,8 @@
     "homeCode": "BEL",
     "awayCode": "IRI",
     "files": [
-      "sonnet/m-bel-iri-sonnet.md"
+      "sonnet/m-bel-iri-sonnet.md",
+      "deepseek/m-bel-irn-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -3012,7 +3014,8 @@
     "homeCode": "URU",
     "awayCode": "CPV",
     "files": [
-      "sonnet/m-uru-cpv-sonnet.md"
+      "sonnet/m-uru-cpv-sonnet.md",
+      "deepseek/m-uru-cpv-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -3028,7 +3031,8 @@
     "homeCode": "NZL",
     "awayCode": "EGY",
     "files": [
-      "sonnet/m-nzl-egy-sonnet.md"
+      "sonnet/m-nzl-egy-sonnet.md",
+      "deepseek/m-nzl-egy-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

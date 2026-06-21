@@ -3052,8 +3052,8 @@
       "sonnet/m-tun-jpn-sonnet.md",
       "deepseek/m-tun-jpn-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

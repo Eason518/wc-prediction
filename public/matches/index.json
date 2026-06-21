@@ -2948,8 +2948,8 @@
       "sonnet/m-ecu-cuw-sonnet.md",
       "deepseek/m-ecu-cuw-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

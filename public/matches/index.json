@@ -2950,8 +2950,94 @@
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        63,
+        25
+      ],
+      "possession_contested": 12,
+      "goals": [
+        0,
+        0
+      ],
+      "assists": [
+        0,
+        0
+      ],
+      "attempts_total": [
+        27,
+        10
+      ],
+      "attempts_on": [
+        15,
+        3
+      ],
+      "attempts_off": [
+        10,
+        5
+      ],
+      "attempts_inside": [
+        19,
+        4
+      ],
+      "attempts_outside": [
+        8,
+        6
+      ],
+      "passes": [
+        671,
+        236
+      ],
+      "passes_completed": [
+        600,
+        165
+      ],
+      "crosses": [
+        25,
+        3
+      ],
+      "crosses_completed": [
+        7,
+        1
+      ],
+      "corners": [
+        8,
+        0
+      ],
+      "free_kicks": [
+        12,
+        8
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        15,
+        24
+      ],
+      "yellow_cards": [
+        1,
+        5
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        10,
+        7
+      ],
+      "offsides": [
+        1,
+        2
+      ]
+    },
     "v": 1
   },
   {

@@ -551,3 +551,58 @@ Dự đoán: Tây Ban Nha thắng 3-0. Tây Ban Nha sẽ thống trị kiểm so
 | 🏃 ภัยคุกคาม Williams-Yamal | การผสมผสาน Athletic Club-Barcelona บนสองปีกของสเปนนั้นไม่มีใครเทียบได้ — คาดว่าพวกเขาจะทรมานแบ็คของซาอุดีตลอดทั้งเกม |
 | ⚖️ ผลกระทบของกรรมการ | TBD — ใครก็ตามที่ FIFA มอบหมายจะมีบทบาทสำคัญเนื่องจากกลยุทธ์การฟาวล์เชิงยุทธวิธีที่ซาอุดีน่าจะใช้เพื่อขัดจังหวะจังหวะของสเปน |
 | 🎯 Oyarzabal ถึงเวลาระเบิด | กองหน้าของสเปนเงียบเหงาต่อ Cape Verde เขาจะมีแรงจูงใจสูงที่จะทำประตูในวันนี้ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測西班牙勝，實際西班牙勝）
+- ✅ Oyarzabal 如預期爆發，獨進兩球
+- ✅ 西班牙全場壓制，封關零失球
+- ✅ 沙特低位防守未能破門
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分略為低估（預測 3-0，實際 4-0）
+- ⚠️ 角球數低於預測（預測 9–13，實際 7 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+- ⚠️ 犯規數大幅低於預測（預測 20–24，實際 12 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Spain win)
+- ✅ Oyarzabal delivered as predicted, scoring twice
+- ✅ Spain dominated throughout and kept a clean sheet
+- ✅ Saudi Arabia's low block failed to score as expected
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline slightly underestimated (predicted 3-0, actual 4-0)
+- ⚠️ Corner count below prediction (predicted 9–13, actual 7)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+- ⚠️ Foul count far below prediction (predicted 20–24, actual 12)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测西班牙胜，实际西班牙胜）
+- ✅ Oyarzabal 如预期爆发，独进两球
+- ✅ 西班牙全场压制，封关零失球
+- ✅ 沙特低位防守未能破门
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分略为低估（预测 3-0，实际 4-0）
+- ⚠️ 角球数低于预测（预测 9–13，实际 7 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+- ⚠️ 犯规数大幅低于预测（预测 20–24，实际 12 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Tây Ban Nha thắng)
+- ✅ Oyarzabal bùng nổ đúng như dự đoán, ghi cú đúp
+- ✅ Tây Ban Nha áp đảo toàn trận và giữ sạch lưới
+- ✅ Khối phòng ngự thấp của Saudi không thể ghi bàn như dự đoán
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 3-0, thực tế 4-0)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 9–13, thực tế 7 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều so với dự đoán (dự đoán 20–24, thực tế 12 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สเปนชนะ)
+- ✅ Oyarzabal ระเบิดฟอร์มตามที่ทำนาย ยิงสองประตู
+- ✅ สเปนครองเกมตลอดและรักษาคลีนชีตได้
+- ✅ แนวรับต่ำของซาอุดีไม่สามารถทำประตูได้ตามที่ทำนาย
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 3-0, จริง 4-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 9–13, จริง 7 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 20–24, จริง 12 ครั้ง)

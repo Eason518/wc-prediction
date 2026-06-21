@@ -3369,9 +3369,9 @@
       "sonnet/m-uru-cpv-sonnet.md",
       "deepseek/m-uru-cpv-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
+    "actualScoreHome": 2,
+    "actualScoreAway": 2,
+    "predictionCorrect": false,
     "liveStats": {},
     "v": 1
   },

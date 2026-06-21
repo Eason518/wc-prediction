@@ -3260,17 +3260,103 @@
     "date": "2026-06-22",
     "time": "03:00",
     "stage": "group-stage",
+    "predictionCorrect": false,
     "homeCode": "BEL",
     "awayCode": "IRI",
     "files": [
       "sonnet/m-bel-iri-sonnet.md",
       "deepseek/m-bel-iri-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
+    "liveStats": {
+      "possession": [
+        56,
+        32
+      ],
+      "possession_contested": 12,
+      "goals": [
+        0,
+        0
+      ],
+      "assists": [
+        0,
+        0
+      ],
+      "attempts_total": [
+        21,
+        7
+      ],
+      "attempts_on": [
+        7,
+        3
+      ],
+      "attempts_off": [
+        7,
+        3
+      ],
+      "attempts_inside": [
+        19,
+        6
+      ],
+      "attempts_outside": [
+        2,
+        1
+      ],
+      "passes": [
+        608,
+        269
+      ],
+      "passes_completed": [
+        521,
+        201
+      ],
+      "crosses": [
+        28,
+        6
+      ],
+      "crosses_completed": [
+        5,
+        1
+      ],
+      "corners": [
+        4,
+        2
+      ],
+      "free_kicks": [
+        13,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        23,
+        30
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        1,
+        0
+      ],
+      "fouls": [
+        9,
+        7
+      ],
+      "offsides": [
+        3,
+        4
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-uru-cpv",

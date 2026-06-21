@@ -15,23 +15,15 @@ let loadingProgress = { loaded: 0, total: 0, isLoading: false };
 // Cache for match files to avoid redundant fetches
 const matchFileCache = new Map();
 
-async function fetchMatchFile(base, filename) {
-  const cacheKey = `${base}matches/${filename}`;
-  
-  // Return cached promise if exists
-  if (matchFileCache.has(cacheKey)) {
-    return matchFileCache.get(cacheKey);
+async function fetchMatchFile(base, filename, version) {
+  const versionedUrl = `${base}matches/${filename}${version != null ? `?v=${version}` : ''}`;
+
+  if (matchFileCache.has(versionedUrl)) {
+    return matchFileCache.get(versionedUrl);
   }
-  
-  // Create promise and cache it immediately
-  const promise = fetch(cacheKey, { 
-    cache: 'force-cache',
-    headers: {
-      'Cache-Control': 'max-age=3600' // Cache for 1 hour
-    }
-  }).then(r => r.text());
-  
-  matchFileCache.set(cacheKey, promise);
+
+  const promise = fetch(versionedUrl, { cache: 'force-cache' }).then(r => r.text());
+  matchFileCache.set(versionedUrl, promise);
   return promise;
 }
 
@@ -80,7 +72,7 @@ async function loadVariants(entry, lang) {
   }
 
   const variants = await Promise.all(
-    entry.files.map(f => fetchMatchFile(BASE_URL, f).then(text => parseMatchMD(text, lang)))
+    entry.files.map(f => fetchMatchFile(BASE_URL, f, entry.v).then(text => parseMatchMD(text, lang)))
   );
   const actualScore = {
     home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,

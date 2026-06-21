@@ -1,5 +1,5 @@
 ---
-id: m-bel-irn
+id: m-bel-iri
 date: 2026-06-22
 time: "03:00"
 group: G

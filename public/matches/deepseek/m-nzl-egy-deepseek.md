@@ -516,3 +516,58 @@ Dự đoán: Egypt 2-0 New Zealand. Salah ghi bàn từ phạt đền hoặc bà
 | ใบเหลืองทั้งหมด | ~700 | #EAB308 |
 | ใบแดงทั้งหมด | ~15 | #EF4444 |
 | เฉลี่ยใบเหลือง/นัด | 3.5 | #F1F5F9 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測埃及勝，實際埃及勝）
+- ✅ Mohamed Salah 進球，埃及憑借球星品質取得決定性勝利
+- ✅ 埃及以壓倒性射門主宰比賽（19 vs 9 次）
+- ✅ 角球數命中（預測 4–7，實際 7 個）
+- ✅ 黃牌數命中（預測 2–4，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 0-2，實際 1-3）
+- ⚠️ 紐西蘭意外破門，封關預期落空
+- ⚠️ 犯規數高於預測（預測 16–20，實際 22 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Egypt win)
+- ✅ Mohamed Salah scored, Egypt's star quality proved decisive
+- ✅ Egypt dominated with far more attempts (19 vs 9)
+- ✅ Corner count on target (predicted 4–7, actual 7)
+- ✅ Yellow card count on target (predicted 2–4, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 0-2, actual 1-3)
+- ⚠️ New Zealand scored — clean sheet prediction missed
+- ⚠️ Foul count above prediction (predicted 16–20, actual 22)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测埃及胜，实际埃及胜）
+- ✅ Mohamed Salah 进球，埃及凭借球星品质取得决定性胜利
+- ✅ 埃及以压倒性射门主宰比赛（19 vs 9 次）
+- ✅ 角球数命中（预测 4–7，实际 7 个）
+- ✅ 黄牌数命中（预测 2–4，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 0-2，实际 1-3）
+- ⚠️ 新西兰意外破门，封关预期落空
+- ⚠️ 犯规数高于预测（预测 16–20，实际 22 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Ai Cập thắng)
+- ✅ Mohamed Salah ghi bàn, chất lượng ngôi sao của Ai Cập chứng tỏ sức mạnh
+- ✅ Ai Cập thống trị trận đấu với nhiều cú sút hơn (19 vs 9)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 4–7, thực tế 7 cái)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 2–4, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-2, thực tế 1-3)
+- ⚠️ New Zealand ghi bàn — dự đoán giữ sạch lưới không thành
+- ⚠️ Số lần phạm lỗi cao hơn dự đoán (dự đoán 16–20, thực tế 22 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อียิปต์ชนะ)
+- ✅ Mohamed Salah ทำประตู ความสามารถของดาวเตะอียิปต์พิสูจน์ตัวเอง
+- ✅ อียิปต์ครองเกมด้วยการยิงที่มากกว่ามาก (19 vs 9)
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 4–7, จริง 7 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–4, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-2, จริง 1-3)
+- ⚠️ นิวซีแลนด์ยิงประตูได้ — การทำนายคลีนชีตพลาด
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนาย (ทำนาย 16–20, จริง 22 ครั้ง)

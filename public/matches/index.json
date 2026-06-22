@@ -3386,8 +3386,8 @@
       "sonnet/m-nzl-egy-sonnet.md",
       "deepseek/m-nzl-egy-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 2,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

@@ -3629,6 +3629,7 @@
     "homeCode": "CUW",
     "awayCode": "CIV",
     "files": [
+      "opus/m-cuw-civ-opus.md",
       "sonnet/m-cuw-civ-sonnet.md"
     ],
     "actualScoreHome": null,
@@ -3645,6 +3646,7 @@
     "homeCode": "ECU",
     "awayCode": "GER",
     "files": [
+      "opus/m-ecu-ger-opus.md",
       "sonnet/m-ecu-ger-sonnet.md"
     ],
     "actualScoreHome": null,
@@ -3661,6 +3663,7 @@
     "homeCode": "JPN",
     "awayCode": "SWE",
     "files": [
+      "opus/m-jpn-swe-opus.md",
       "sonnet/m-jpn-swe-sonnet.md"
     ],
     "actualScoreHome": null,
@@ -3677,6 +3680,7 @@
     "homeCode": "TUN",
     "awayCode": "NED",
     "files": [
+      "opus/m-tun-ned-opus.md",
       "sonnet/m-tun-ned-sonnet.md"
     ],
     "actualScoreHome": null,
@@ -3693,6 +3697,7 @@
     "homeCode": "PAR",
     "awayCode": "AUS",
     "files": [
+      "opus/m-par-aus-opus.md",
       "sonnet/m-par-aus-sonnet.md"
     ],
     "actualScoreHome": null,
@@ -3709,7 +3714,8 @@
     "homeCode": "TUR",
     "awayCode": "USA",
     "files": [
-      "sonnet/m-tur-usa-sonnet.md"
+      "sonnet/m-tur-usa-sonnet.md",
+      "opus/m-tur-usa-opus.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

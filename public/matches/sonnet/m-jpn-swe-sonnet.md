@@ -4,620 +4,576 @@ date: 2026-06-26
 time: "07:00"
 group: F
 matchday: GROUP STAGE
-venue: AT&T Stadium, Arlington
+venue: AT&T Stadium, Arlington, Texas
 venueShort: Arlington, USA
 status: upcoming
 homeCode: JPN
 awayCode: SWE
-referee: TBC
-homeFormation: 4-2-3-1
-awayFormation: 3-4-2-1
+referee: TBD (FIFA Assignment Pending)
+homeFormation: 3-4-3
+awayFormation: 3-4-3
 homeCoach: Hajime Moriyasu
 awayCoach: Graham Potter
-oddsHome: "2.75"
-oddsDraw: "3.20"
-oddsAway: "2.55"
-predScoreHome: 1
-predScoreAway: 2
+oddsHome: "2.00"
+oddsDraw: "3.40"
+oddsAway: "3.50"
+predScoreHome: 2
+predScoreAway: 1
 aiModel: Claude Sonnet 4.6
 ---
 
-## home_note:zh
-
-日本在主帥森保一的帶領下，迎來連續第八次世界盃參賽。「武士藍」在第一輪與荷蘭踢成2-2平局——兩度落後後奮力追平——展現出強韌的戰鬥意志。主力翼鋒三笘薰（布萊頓）因傷缺席，出征前遠藤航（利物浦）也提前退隊，由板倉滂出任隊長。在三笘薰缺陣的情況下，久保建英（皇家社會）、堂安律（弗萊堡）和上田綺世成為進攻核心。進入第三輪的日本必須取勝，否則將面臨小組出局的危機。比賽於6月26日台北時間07:00在阿靈頓揭幕。
-
 ## home_note:en
+Japan enter this Group F decider with 4 points after a dramatic 2-2 comeback draw against Netherlands and a commanding 4-0 win over Tunisia, sitting level at the top of the group with Netherlands. Under Hajime Moriyasu's meticulous tactical preparation, the Samurai Blue have overcome significant absences: captain Wataru Endo (Liverpool) withdrew pre-tournament with a ruptured ankle ligament and announced international retirement; Kaoru Mitoma (Brighton) missed the tournament with a hamstring injury; and creative star Takefusa Kubo (Real Sociedad) suffered a knee sprain against Netherlands and is doubtful. Ko Itakura took the armband. Japan only need a draw to guarantee qualification — giving Moriyasu a crucial psychological edge. Ayase Ueda leads with 16 international goals, backed by the relentless energy of Doan, Junya Ito and Maeda across three forward lines.
 
-Japan are making their eighth consecutive World Cup appearance under Hajime Moriyasu. The Samurai Blue drew 2-2 with Netherlands on Matchday 1 — twice coming from behind — showing their fighting spirit. Kaoru Mitoma (Brighton) is a major absentee through injury; Wataru Endo (Liverpool) also withdrew before the tournament with his replacement Itakura Ko captaining the side. Key attackers Takefusa Kubo (Real Sociedad), Ritsu Doan (Freiburg), and Ayase Ueda lead the charge in Mitoma's absence. Entering Matchday 3 needing a result, Japan must beat Sweden or risk crashing out. Kick-off 07:00 GMT+8 on June 26 in Arlington.
+## home_note:zh
+日本以 4 分進入 F 組決戰——先以戲劇性的 2-2 與荷蘭追平，再以 4-0 大勝突尼西亞——與荷蘭並列積分榜頂端。在森保一精準的戰術部署下，武士藍即便面臨重大傷缺仍表現出色：隊長遠藤航（利物浦）賽前因腳踝韌帶斷裂退出並宣佈國家隊退役，三笘薰（布萊頓）亦因腿筋傷患缺席整屆賽事，創意核心久保建英（皇家社會）在對荷蘭一戰中膝關節受傷，能否出場尚存疑問；板倉滂接過隊長臂章。日本只需一個平局便可確保晉級，為森保一提供關鍵的心理優勢。上田綺世以 16 個國際進球領銜進攻，配合堂安律、伊東純也和前田大然三路出擊，持續製造威脅。
 
 ## home_note:zh-cn
-
-日本在主帅森保一的带领下，迎来连续第八次世界杯参赛。"武士蓝"在第一轮与荷兰踢成2-2平局——两度落后后奋力追平——展现出强韧的战斗意志。主力翼锋三笘薰（布莱顿）因伤缺席，出征前远藤航（利物浦）也提前退队，由板仓滂出任队长。在三笘薰缺阵的情况下，久保建英（皇家社会）、堂安律（弗莱堡）和上田绮世成为进攻核心。进入第三轮的日本必须取胜，否则将面临小组出局的危机。比赛于6月26日北京时间07:00在阿灵顿揭幕。
-
-## home_note:vi
-
-Nhật Bản tham dự World Cup lần thứ tám liên tiếp dưới sự dẫn dắt của HLV Hajime Moriyasu. Đội "Samurai Xanh" hòa 2-2 với Hà Lan ở lượt trận đầu tiên — hai lần bị dẫn trước và đều gỡ hòa — thể hiện tinh thần chiến đấu mạnh mẽ. Kaoru Mitoma (Brighton) vắng mặt vì chấn thương; Wataru Endo (Liverpool) cũng rút lui trước giải, Itakura Ko được bổ nhiệm làm đội trưởng thay thế. Các tiền đạo chủ lực Takefusa Kubo (Real Sociedad), Ritsu Doan (Freiburg) và Ayase Ueda gánh vác trọng trách tấn công khi thiếu Mitoma. Bước vào lượt trận 3 cần có kết quả, Nhật Bản buộc phải đánh bại Thụy Điển để tránh nguy cơ bị loại. Trận đấu bắt đầu lúc 07:00 GMT+8 ngày 26/6 tại Arlington.
+日本以4分进入F组决战——先以戏剧性的2-2与荷兰追平，再以4-0大胜突尼斯——与荷兰并列积分榜顶端。在森保一精准的战术部署下，武士蓝即便面临重大伤缺仍表现出色：队长远藤航（利物浦）赛前因脚踝韧带断裂退出并宣布国家队退役，三笘薰（布莱顿）因大腿受伤缺席整届赛事，创意核心久保建英（皇家社会）在对荷兰一战膝部受伤，能否出场存疑；板仓滂接任队长。日本只需平局便可确保晋级，为森保一提供关键心理优势。上田绮世以16个国际进球领衔进攻，配合堂安律、伊东纯也和前田大然三路出击。
 
 ## home_note:th
+ญี่ปุ่นเข้าสู่เกมชิงชัยบัญชี F ด้วย 4 คะแนน — หลังเสมอดราม่า 2-2 กับเนเธอร์แลนด์และชนะตูนิเซีย 4-0 — นั่งอยู่ที่ยอดตารางร่วมกับเนเธอร์แลนด์ ภายใต้การเตรียมทางยุทธวิธีของฮาจิเมะ โมริยาสุ ทีมซามูไรบลูผ่านพ้นการขาดหายของนักเตะสำคัญ: กัปตันทีมวาตารุ เอ็นโด (ลิเวอร์พูล) ถอนตัวก่อนแข่งเพราะเอ็นข้อเท้าขาดและประกาศเกษียณจากทีมชาติ; คาโอรุ มิโตมะ (ไบรตัน) ขาดทั้งทัวร์นาเมนต์เพราะเอ็นร้อยหวาย; และทาเคฟุสะ คูโบะ (เรอัล โซเซียดาด) ได้รับบาดเจ็บที่เข่าและยังน่าเป็นห่วง อิตาคุระ โคะ รับตำแหน่งกัปตันทีม ญี่ปุ่นต้องการแค่เสมอเพื่อผ่านรอบ อายาเสะ อุเอดะ นำทีมด้วย 16 ประตูนานาชาติ พร้อมโดอัน อิโตะ และมาเอดะ
 
-ญี่ปุ่นเข้าร่วมฟุตบอลโลกเป็นครั้งที่แปดติดต่อกันภายใต้การนำของฮาจิเมะ โมริยาสุ ทีม "ซามูไรบลู" เสมอ 2-2 กับเนเธอร์แลนด์ในแมตช์แรก — ตามหลังสองครั้งแล้วตีเสมอกลับได้ — แสดงให้เห็นจิตวิญญาณการต่อสู้ที่เข้มแข็ง คาโอรุ มิโตมะ (ไบรตัน) ขาดแมตช์เพราะบาดเจ็บ ส่วนวาตารุ เอ็นโด (ลิเวอร์พูล) ก็ถอนตัวก่อนทัวร์นาเมนต์ โดยอิตาคุระ โคะ รับหน้าที่กัปตันทีมแทน กองหน้าหลักอย่างทาเคฟุสะ คูโบะ (เรอัล โซเซียดาด), ริตสุ โดอัน (ไฟรบวร์ก) และอายาเสะ อุเอดะ รับภาระในการจู่โจมเมื่อไม่มีมิโตมะ ในแมตช์ที่สาม ญี่ปุ่นต้องเอาชนะสวีเดนหรือเสี่ยงตกรอบ เตะออกตัวเวลา 07:00 GMT+8 วันที่ 26 มิถุนายน ที่อาร์ลิงตัน
-
-## away_note:zh
-
-瑞典以最戲劇化的方式完成附加賽晉級——先以小組末名收場，再靠Gyökeres在附加賽決賽第88分鐘的進球，於新主帥Graham Potter執教下擊敗波蘭。首輪5-1大勝突尼西亞令一切質疑聲消於無形：Alexander Isak（利物浦）與Viktor Gyökeres（阿森納）組成無堅不摧的鋒線搭檔，Yasin Ayari打入兩球。第二輪面對荷蘭，瑞典勝算不小。Gyökeres與Isak的雙前鋒組合是本屆賽事最令對手膽寒的進攻配置之一。比賽於6月26日台北時間07:00在阿靈頓揭幕。
+## home_note:vi
+Nhật Bản bước vào trận quyết định bảng F với 4 điểm — hòa kịch tính 2-2 với Hà Lan và thắng đậm Tunisia 4-0 — đứng ngang với Hà Lan trên đầu bảng. Dưới sự chỉ đạo tỉ mỉ của HLV Hajime Moriyasu, đội Samurai Xanh đã vượt qua những mất mát lớn: đội trưởng Wataru Endo (Liverpool) rút lui trước giải vì đứt dây chằng mắt cá và tuyên bố giải nghệ; Kaoru Mitoma (Brighton) vắng mặt cả giải vì chấn thương; Takefusa Kubo (Real Sociedad) chấn thương đầu gối và còn nghi ngờ. Itakura Ko đeo băng đội trưởng. Nhật Bản chỉ cần hòa để đảm bảo vé đi tiếp. Ayase Ueda dẫn đầu với 16 bàn thắng quốc tế, cùng Doan, Junya Ito và Maeda trên ba tuyến tấn công.
 
 ## away_note:en
+Sweden arrive at this decisive Group F clash in a must-win situation, sitting third on 3 points after a 5-1 thrashing of Tunisia and a chastening 5-1 defeat to Netherlands. Graham Potter's side boasted one of the tournament's most feared strike forces — Viktor Gyökeres (Arsenal, 27 international goals) and Alexander Isak (Liverpool, 17 goals) — and showed their attacking brilliance against Tunisia. However, their defensive fragility was brutally exposed by the Dutch. Critically, three midfielders — Gabriel Gudmundsson, Yasin Ayari and Lucas Bergvall — each enter this match already on a yellow card, creating suspension-management headaches for Potter. Sweden must win: a draw or defeat eliminates them regardless of the other result, as Netherlands have already clinched qualification.
 
-Sweden qualified through the most dramatic of back-door routes — finishing bottom of their qualifying group before winning a Nations League play-off final with Gyökeres' 88th-minute goal against Poland under new manager Graham Potter. Their opening 5-1 rout of Tunisia silenced all doubters: Alexander Isak (Liverpool) and Viktor Gyökeres (Arsenal) formed an unstoppable partnership, with Yasin Ayari scoring twice. Facing Netherlands in Matchday 2, the Swedes are well-placed. The Gyökeres-Isak double act is one of the most feared forward pairings in the tournament. Kick-off 07:00 GMT+8 on June 26 in Arlington.
+## away_note:zh
+瑞典以 3 分、F 組第三的身份進入這場決定性對決，處於必須取勝的處境——首輪 5-1 大勝突尼西亞展現了可怕的前場火力，但緊接著 5-1 慘敗荷蘭暴露了嚴重的防守漏洞。Graham Potter 的球隊擁有全場最令人生畏的鋒線之一：Viktor Gyökeres（阿森納，27 個國際進球）與 Alexander Isak（利物浦，17 球）。然而，三名中場——Gabriel Gudmundsson、Yasin Ayari 和 Lucas Bergvall——各持一張黃牌進入本場，令 Potter 的首發排兵面臨停賽風險的艱難決定。瑞典必須取勝：平局或失敗都直接出局（荷蘭已確保晉級）。
 
 ## away_note:zh-cn
-
-瑞典以最戏剧化的方式完成附加赛晋级——先以小组末名收场，再靠Gyökeres在附加赛决赛第88分钟的进球，于新主帅Graham Potter执教下击败波兰。首轮5-1大胜突尼斯令一切质疑声消于无形：Alexander Isak（利物浦）与Viktor Gyökeres（阿森纳）组成无坚不摧的锋线搭档，Yasin Ayari打入两球。第二轮面对荷兰，瑞典胜算不小。Gyökeres与Isak的双前锋组合是本届赛事最令对手胆寒的进攻配置之一。比赛于6月26日北京时间07:00在阿灵顿揭幕。
-
-## away_note:vi
-
-Thụy Điển giành vé dự World Cup theo con đường kịch tính nhất — đứng bét bảng vòng loại rồi vượt qua play-off Nations League bằng bàn thắng phút 88 của Gyökeres vào lưới Ba Lan dưới sự dẫn dắt của tân HLV Graham Potter. Chiến thắng 5-1 trước Tunisia ở trận ra quân đã dập tắt mọi nghi ngờ: Alexander Isak (Liverpool) và Viktor Gyökeres (Arsenal) tạo thành cặp đôi tấn công không thể ngăn cản, Yasin Ayari ghi hai bàn. Bước vào lượt trận 2 gặp Hà Lan, Thụy Điển ở vị thế thuận lợi. Cặp đôi Gyökeres-Isak là một trong những bộ đôi tiền đạo đáng sợ nhất giải đấu. Trận đấu bắt đầu lúc 07:00 GMT+8 ngày 26/6 tại Arlington.
+瑞典以3分、F组第三的身份进入这场决定性对决，处于必须取胜的处境——首轮5-1大胜突尼斯展现了可怕的前场火力，但紧接着5-1惨败荷兰暴露了严重的防守漏洞。Graham Potter的球队拥有本届最令人生畏的锋线之一：Viktor Gyökeres（阿森纳，27个国际进球）与Alexander Isak（利物浦，17球）。然而，三名中场——Gabriel Gudmundsson、Yasin Ayari和Lucas Bergvall——各持一张黄牌进入本场，令Potter的首发排兵面临停赛风险的艰难决定。瑞典必须取胜：平局或失败都直接出局（荷兰已确保晋级）。
 
 ## away_note:th
+สวีเดนเข้าสู่เกมชี้ขาดบัญชี F ในอันดับสามด้วย 3 คะแนน ต้องชนะเท่านั้นถึงจะผ่านรอบ — การชนะตูนิเซีย 5-1 แสดงแนวรุกที่น่ากลัว แต่การแพ้เนเธอร์แลนด์ 5-1 เปิดเผยจุดอ่อนแนวรับอย่างรุนแรง ทีมของ Graham Potter มีคู่หน้าที่น่ากลัวที่สุด: Viktor Gyökeres (อาร์เซนอล, 27 ประตูนานาชาติ) และ Alexander Isak (ลิเวอร์พูล, 17 ประตู) อย่างไรก็ตาม มิดฟิลด์สามคน — Gabriel Gudmundsson, Yasin Ayari และ Lucas Bergvall — แต่ละคนถือใบเหลืองใบแรก สวีเดนต้องชนะ: เสมอหรือแพ้ต่างก็หมายถึงถูกคัดออก
 
-สวีเดนผ่านเข้ารอบด้วยเส้นทางที่น่าตื่นเต้นที่สุด — จบกลุ่มคัดเลือกในอันดับสุดท้ายแล้วคว้าชัยในนัดชิงเพลย์ออฟ Nations League ด้วยประตูนาทีที่ 88 ของ Gyökeres พิชิตโปแลนด์ภายใต้การนำของโค้ชคนใหม่ Graham Potter การ บุกถล่มตูนิเซีย 5-1 ในนัดเปิดสนามปิดปากนักวิจารณ์ทั้งหมด: Alexander Isak (ลิเวอร์พูล) และ Viktor Gyökeres (อาร์เซนอล) จับคู่กันอย่างโดดเด่น โดย Yasin Ayari ทำได้สองประตู เข้าสู่แมตช์ที่สองพบเนเธอร์แลนด์ สวีเดนอยู่ในสถานะที่ดี คู่หน้า Gyökeres-Isak เป็นหนึ่งในคู่กองหน้าที่น่ากลัวที่สุดในทัวร์นาเมนต์ เตะออกตัวเวลา 07:00 GMT+8 วันที่ 26 มิถุนายน ที่อาร์ลิงตัน
-
-## odds_note:zh
-
-賠率：日本勝2.75、平局3.20、瑞典勝2.55。這是一場勢均力敵、引人入勝的對決。Gyökeres和Isak的強大火力使瑞典略佔優勢，但日本的戰術智慧及擊敗強隊的能力（2022年卡塔爾世界盃曾擊敗德國和西班牙）令本場比賽充滿變數。雙方皆急需積分，預計這將是一場全力拼殺的激烈較量。
+## away_note:vi
+Thụy Điển bước vào trận quyết định này ở vị trí thứ ba bảng F với 3 điểm, bắt buộc phải thắng — chiến thắng 5-1 trước Tunisia cho thấy hỏa lực tấn công kinh hoàng, nhưng thất bại 5-1 trước Hà Lan phơi bày điểm yếu phòng thủ nghiêm trọng. Đội của Graham Potter sở hữu cặp đôi tấn công đáng sợ nhất: Viktor Gyökeres (Arsenal, 27 bàn quốc tế) và Alexander Isak (Liverpool, 17 bàn). Tuy nhiên, ba tiền vệ — Gabriel Gudmundsson, Yasin Ayari và Lucas Bergvall — đều đang mang thẻ vàng. Thụy Điển bắt buộc phải thắng: hòa hay thua đều bị loại (Hà Lan đã đảm bảo vé đi tiếp).
 
 ## odds_note:en
+Current odds favor Japan slightly: Japan win 2.00, draw 3.40, Sweden win 3.50. Japan's edge reflects their group-stage consistency and the tactical advantage of needing only a draw. Sweden's Gyökeres-Isak partnership and multiple Premier League attackers ensure they are no pushovers. The over 2.5 goals market is priced at 1.85-2.00, reflecting both teams' attacking quality and Sweden's defensive vulnerabilities. A draw serves Japan perfectly; Sweden's all-out attacking approach creates open spaces for Japanese counter-attacks.
 
-Odds: Japan win 2.75, draw 3.20, Sweden win 2.55. An evenly matched and fascinating contest. Sweden hold a slight advantage given Gyökeres and Isak's firepower, but Japan's tactical nous and ability to upset bigger nations (they beat Germany and Spain at Qatar 2022) makes this genuinely unpredictable. Both teams likely need points, making this a full-blooded encounter.
+## odds_note:zh
+目前賠率略偏向日本：日本勝 2.00、平局 3.40、瑞典勝 3.50。日本的優勢反映其小組賽的穩定性，以及只需平局便可晉級的戰略優勢。瑞典的 Gyökeres-Isak 搭檔及多名英超球星令他們絕非軟柿子。超 2.5 球賠率在 1.85–2.00，反映雙方進攻質量和瑞典防守的脆弱性。平局對日本完全有利；瑞典傾力進攻的策略反而可能為日本反擊製造更多空間。
 
 ## odds_note:zh-cn
-
-赔率：日本胜2.75、平局3.20、瑞典胜2.55。这是一场势均力敌、引人入胜的对决。Gyökeres和Isak的强大火力使瑞典略占优势，但日本的战术智慧及击败强队的能力（2022年卡塔尔世界杯曾击败德国和西班牙）令本场比赛充满变数。双方皆急需积分，预计这将是一场全力拼杀的激烈较量。
-
-## odds_note:vi
-
-Tỷ lệ cược: Nhật Bản thắng 2.75, hòa 3.20, Thụy Điển thắng 2.55. Đây là trận đấu cân sức và hấp dẫn. Thụy Điển có lợi thế nhỏ nhờ hỏa lực của Gyökeres và Isak, nhưng sự tinh tế chiến thuật và khả năng gây bất ngờ cho các đội mạnh của Nhật Bản (từng hạ Đức và Tây Ban Nha tại Qatar 2022) khiến trận đấu thực sự khó đoán. Cả hai đội đều cần điểm, hứa hẹn một cuộc đối đầu quyết liệt.
+目前赔率略偏向日本：日本胜2.00、平局3.40、瑞典胜3.50。日本的优势体现了其在小组赛的稳定性以及只需平局便可晋级的战略优势。瑞典的Gyökeres-Isak搭档及多名英超球星令他们绝非软柿子。超2.5球赔率在1.85–2.00，体现了双方的进攻质量和瑞典防守的脆弱性。平局对日本完全有利；瑞典倾力进攻的策略反而可能为日本反击制造更多空隙。
 
 ## odds_note:th
+อัตราต่อรองปัจจุบันเอนเอียงเล็กน้อยให้ญี่ปุ่น: ญี่ปุ่นชนะ 2.00, เสมอ 3.40, สวีเดนชนะ 3.50 ข้อได้เปรียบของญี่ปุ่นสะท้อนถึงความสม่ำเสมอของพวกเขาในรอบแบ่งกลุ่มและข้อได้เปรียบทางยุทธวิธีเมื่อต้องการแค่เสมอ คู่หน้า Gyökeres-Isak และนักเตะพรีเมียร์ลีกหลายคนของสวีเดนทำให้พวกเขาไม่ใช่คู่ต่อสู้ที่ง่าย ตลาดเกิน 2.5 ประตูมีราคา 1.85-2.00 สวีเดนต้องโจมตีเต็มกำลัง ซึ่งอาจเปิดพื้นที่ให้ญี่ปุ่นตีโต้
 
-อัตราต่อรอง: ญี่ปุ่นชนะ 2.75, เสมอ 3.20, สวีเดนชนะ 2.55 เป็นการแข่งขันที่สูสีและน่าตื่นเต้น สวีเดนมีข้อได้เปรียบเล็กน้อยจากพลังของ Gyökeres และ Isak แต่ความชาญฉลาดทางยุทธวิธีและความสามารถในการเอาชนะทีมใหญ่ของญี่ปุ่น (เคยเอาชนะเยอรมนีและสเปนที่กาตาร์ 2022) ทำให้แมตช์นี้คาดเดาได้ยากอย่างแท้จริง ทั้งสองทีมต้องการแต้ม นำไปสู่การปะทะอย่างเต็มกำลัง
-
-## home_squad:zh
-
-| pos | num | name | club | flag | prob | tags | bench | desc |
-|-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Shuichi Gonda | Shimizu | 🇯🇵 | 1 | starter | false | 經驗豐富的第一門將。 |
-| DEF | #5 | Takehiro Tomiyasu | Arsenal | 🏴 | 4 | starter,league | false | 右後衛，阿森納主力，沉穩可靠。 |
-| DEF | #22 | Ko Itakura | Borussia M'gladbach | 🇩🇪 | 5 | starter,team,league | false | 隊長，中後衛，制空能力出色，是防線的組織者。 |
-| DEF | #6 | Yoshida Maya | — | 🇯🇵 | 3 | starter | false | 老將中後衛，在緊張局面中展現沉穩與經驗。 |
-| DEF | #3 | Yuto Nagatomo | — | 🇯🇵 | 3 | starter | false | 第五次出征世界盃的左後衛，勤奮且經驗老道。 |
-| MID | #17 | Wataru Endo | Liverpool | 🏴 | 4 | starter,team,league | false | 防守型中場，利物浦中場定海神針；原為隊長但因傷退賽，現以主力身份出場。 |
-| MID | #15 | Junya Ito | Reims | 🇫🇷 | 4 | starter,league | false | 右翼鋒，突破能力強且速度快，法甲常規主力。 |
-| AM | #7 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 8 | starter,team,league | false | 三笘薰傷缺後的核心組織者與明星球員，本屆賽事日本最佳；西甲主力，關鍵創造力來源。 |
-| MID | #8 | Ritsu Doan | Freiburg | 🇩🇪 | 6 | starter,team,league | false | 左翼鋒，德甲常規主力，預選賽期間屢有入球和助攻。 |
-| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 7 | starter,team,league | false | 前鋒，荷甲頂級射手之一，日本正印9號。 |
-| CM | #9 | Daichi Kamada | Crystal Palace | 🏴 | 6 | starter,league | false | 首輪對荷蘭入球；多能型攻擊中場，水晶宮主力。 |
-| FWD | 備援 | Shuto Machino | — | 🇯🇵 | 4 | squad | true | 前鋒，遠藤航傷缺後的臨時增補，速度型跑者。 |
+## odds_note:vi
+Tỷ lệ cược hiện tại nghiêng nhẹ về Nhật Bản: Nhật Bản thắng 2.00, hòa 3.40, Thụy Điển thắng 3.50. Lợi thế của Nhật Bản phản ánh sự ổn định trong giai đoạn bảng và ưu thế chiến thuật khi chỉ cần hòa. Cặp đôi Gyökeres-Isak và nhiều cầu thủ Ngoại hạng Anh của Thụy Điển đảm bảo họ không phải đối thủ dễ nhằn. Thị trường trên 2.5 bàn có giá 1.85-2.00, phản ánh chất lượng tấn công của cả hai đội và điểm yếu phòng thủ của Thụy Điển.
 
 ## home_squad:en
-
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Shuichi Gonda | Shimizu | 🇯🇵 | 1 | starter | false | Experienced first choice goalkeeper. |
-| DEF | #5 | Takehiro Tomiyasu | Arsenal | 🏴 | 4 | starter,league | false | Right back, Arsenal regular, composed and reliable. |
-| DEF | #22 | Ko Itakura | Borussia M'gladbach | 🇩🇪 | 5 | starter,team,league | false | Captain, center back, commanding in the air and an organizer at the back. |
-| DEF | #6 | Yoshida Maya | — | 🇯🇵 | 3 | starter | false | Veteran center back, composure and experience in tight situations. |
-| DEF | #3 | Yuto Nagatomo | — | 🇯🇵 | 3 | starter | false | Left back at his fifth World Cup; tireless and experienced. |
-| MID | #17 | Wataru Endo | Liverpool | 🏴 | 4 | starter,team,league | false | Defensive midfielder, Liverpool's midfield anchor; originally squad captain before injury; now a pivotal starting role. |
-| MID | #15 | Junya Ito | Reims | 🇫🇷 | 4 | starter,league | false | Right winger, direct and pacy; Ligue 1 regular. |
-| AM | #7 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 8 | starter,team,league | false | Playmaker and star man, Japan's best player at this tournament after Mitoma's injury; La Liga starter, key creative force. |
-| MID | #8 | Ritsu Doan | Freiburg | 🇩🇪 | 6 | starter,team,league | false | Left winger, Bundesliga regular, goals and assists throughout qualifying. |
-| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 7 | starter,team,league | false | Striker, among Dutch Eredivisie's top scorers; Japan's No.9. |
-| CM | #9 | Daichi Kamada | Crystal Palace | 🏴 | 6 | starter,league | false | Scored vs Netherlands MD1; versatile attacking midfielder, Palace regular. |
-| FWD | Sub | Shuto Machino | — | 🇯🇵 | 4 | squad | true | Forward, late squad addition after Endo injury; pacy runner. |
+| GK | #1 | Zion Suzuki | Parma Calcio | 🇮🇹 | 1 | starter,league | false | Japan's No.1 at 23; commanding in goal with sharp reflexes and Serie A composure under pressure. |
+| DEF | #6 | Hiroki Ito | Bayern Munich | 🇩🇪 | 3 | starter,league | false | Left center-back in Japan's three-man defense; brings Bundesliga athleticism and positional precision. |
+| DEF | #3 | Ko Itakura (C) | Ajax | 🇳🇱 | 4 | starter,team | false | Japan's captain and commanding center-back; authoritative in the air and intelligent in positioning, organizes the backline with authority. |
+| DEF | #5 | Takehiro Tomiyasu | Ajax | 🇳🇱 | 3 | starter | false | Versatile right center-back, disciplined and intelligent; Ajax partner of Itakura providing solidity. |
+| MID | #2 | Yukinari Sugawara | Werder Bremen | 🇩🇪 | 8 | starter,league | false | Attacking right wing-back with 6 international goals; drives forward with pace and provides key crosses. |
+| CM | #14 | Daichi Kamada | Crystal Palace | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | starter,league,team | false | Premier League midfielder and Japan's creative engine with 12 international goals; links midfield to attack with technical quality. |
+| CM | #17 | Ao Tanaka | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 6 | starter,league | false | Disciplined central midfielder who partners Kamada; 8 international goals and solid defensive work rate in England's top flight. |
+| MID | #9 | Ritsu Doan | Eintracht Frankfurt | 🇩🇪 | 9 | starter,league,team | false | Attacking left wing-back and set-piece specialist; Bundesliga regular with 11 international goals, constant threat from the left. |
+| FWD | #16 | Junya Ito | KRC Genk | 🇧🇪 | 10 | starter,team | false | Veteran right forward with 15 international goals in 68 caps; dangerous direct dribbler and set-piece threat. |
+| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 17 | starter,team | false | Japan's top scorer with 16 international goals; clinical center forward who thrives in transition and box play. |
+| FWD | #11 | Daizen Maeda | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter,team | false | High-pressing left forward whose relentless work rate wins the ball high; Japan's pressing trigger and selfless link. |
+| MID | Sub | Keito Nakamura | Stade de Reims | 🇫🇷 | 9 | league,squad | true | Ligue 1 midfielder with 10 international goals; key second-half option to inject creativity and goal threat. |
+| FWD | Sub | Takefusa Kubo | Real Sociedad | 🇪🇸 | 11 | league,squad | true | La Liga playmaker and Japan's most gifted dribbler; doubtful with knee sprain but a potential game-changer if fit. |
+
+## home_squad:zh
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Zion Suzuki | Parma Calcio | 🇮🇹 | 1 | starter,league | false | 23 歲的日本第一門將，義甲從容化解高壓情況，反應敏銳且能穩定軍心。 |
+| DEF | #6 | Hiroki Ito | Bayern Munich | 🇩🇪 | 3 | starter,league | false | 三後衛體系的左中衛，帶來德甲的靈敏身體素質與精準站位紀律。 |
+| DEF | #3 | Ko Itakura (C) | Ajax | 🇳🇱 | 4 | starter,team | false | 日本隊長與指揮型中後衛；制空能力強、站位智慧高，統籌後防組織。 |
+| DEF | #5 | Takehiro Tomiyasu | Ajax | 🇳🇱 | 3 | starter | false | 多用途右中衛，紀律嚴明且思路清晰；阿積士搭檔板倉滂，固守右路。 |
+| MID | #2 | Yukinari Sugawara | Werder Bremen | 🇩🇪 | 8 | starter,league | false | 進攻型右翼後衛，擁有 6 個國際進球；速度快且為球隊提供側路傳中威脅。 |
+| CM | #14 | Daichi Kamada | Crystal Palace | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | starter,league,team | false | 英超中場，日本進攻引擎，12 個國際進球；以出色的技術質量串聯中前場。 |
+| CM | #17 | Ao Tanaka | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 6 | starter,league | false | 與鎌田搭檔的後腰型中場，8 個國際進球，英甲賽場的跑動量與防守貢獻突出。 |
+| MID | #9 | Ritsu Doan | Eintracht Frankfurt | 🇩🇪 | 9 | starter,league,team | false | 進攻型左翼後衛兼定位球專家；德甲常規主力，11 個國際進球，左路持續製造威脅。 |
+| FWD | #16 | Junya Ito | KRC Genk | 🇧🇪 | 10 | starter,team | false | 68 場代表賽事 15 球的老將右路前鋒；突破力強且定位球威脅大。 |
+| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 17 | starter,team | false | 日本頂級射手，16 個國際進球；在反擊與禁區得分中如魚得水的臨門大師。 |
+| FWD | #11 | Daizen Maeda | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter,team | false | 高位逼搶的左路前鋒，無私的跑動效率極高；日本逼搶啟動的引火線。 |
+| MID | 備援 | Keito Nakamura | Stade de Reims | 🇫🇷 | 9 | league,squad | true | 法甲中場，10 個國際進球；下半場注入創造力與直接進球威脅的關鍵替補選擇。 |
+| FWD | 備援 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 11 | league,squad | true | 西甲創意大師，日本技術最全面的球員；膝傷存疑，但一旦出場可能改變局勢。 |
 
 ## home_squad:zh-cn
-
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Shuichi Gonda | Shimizu | 🇯🇵 | 1 | starter | false | 经验丰富的第一门将。 |
-| DEF | #5 | Takehiro Tomiyasu | Arsenal | 🏴 | 4 | starter,league | false | 右后卫，阿森纳主力，沉稳可靠。 |
-| DEF | #22 | Ko Itakura | Borussia M'gladbach | 🇩🇪 | 5 | starter,team,league | false | 队长，中后卫，制空能力出色，是防线的组织者。 |
-| DEF | #6 | Yoshida Maya | — | 🇯🇵 | 3 | starter | false | 老将中后卫，在紧张局面中展现沉稳与经验。 |
-| DEF | #3 | Yuto Nagatomo | — | 🇯🇵 | 3 | starter | false | 第五次出征世界杯的左后卫，勤奋且经验老道。 |
-| MID | #17 | Wataru Endo | Liverpool | 🏴 | 4 | starter,team,league | false | 防守型中场，利物浦中场定海神针；原为队长但因伤退赛，现以主力身份出场。 |
-| MID | #15 | Junya Ito | Reims | 🇫🇷 | 4 | starter,league | false | 右翼锋，突破能力强且速度快，法甲常规主力。 |
-| AM | #7 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 8 | starter,team,league | false | 三笘薰伤缺后的核心组织者与明星球员，本届赛事日本最佳；西甲主力，关键创造力来源。 |
-| MID | #8 | Ritsu Doan | Freiburg | 🇩🇪 | 6 | starter,team,league | false | 左翼锋，德甲常规主力，预选赛期间屡有入球和助攻。 |
-| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 7 | starter,team,league | false | 前锋，荷甲顶级射手之一，日本正印9号。 |
-| CM | #9 | Daichi Kamada | Crystal Palace | 🏴 | 6 | starter,league | false | 首轮对荷兰入球；多能型攻击中场，水晶宫主力。 |
-| FWD | 备援 | Shuto Machino | — | 🇯🇵 | 4 | squad | true | 前锋，远藤航伤缺后的临时增补，速度型跑者。 |
-
-## home_squad:vi
-
-| pos | num | name | club | flag | prob | tags | bench | desc |
-|-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Shuichi Gonda | Shimizu | 🇯🇵 | 1 | starter | false | Thủ môn số một dày dạn kinh nghiệm. |
-| DEF | #5 | Takehiro Tomiyasu | Arsenal | 🏴 | 4 | starter,league | false | Hậu vệ phải, trụ cột Arsenal, bình tĩnh và đáng tin cậy. |
-| DEF | #22 | Ko Itakura | Borussia M'gladbach | 🇩🇪 | 5 | starter,team,league | false | Đội trưởng, trung vệ, mạnh trong không chiến và là người tổ chức hàng thủ. |
-| DEF | #6 | Yoshida Maya | — | 🇯🇵 | 3 | starter | false | Trung vệ lão luyện, bình tĩnh và giàu kinh nghiệm trong các tình huống căng thẳng. |
-| DEF | #3 | Yuto Nagatomo | — | 🇯🇵 | 3 | starter | false | Hậu vệ trái tại World Cup lần thứ năm; bền bỉ và giàu kinh nghiệm. |
-| MID | #17 | Wataru Endo | Liverpool | 🏴 | 4 | starter,team,league | false | Tiền vệ phòng ngự, trụ cột tuyến giữa Liverpool; nguyên đội trưởng trước khi chấn thương, nay đá chính với vai trò quan trọng. |
-| MID | #15 | Junya Ito | Reims | 🇫🇷 | 4 | starter,league | false | Tiền vệ phải, trực tiếp và nhanh; trụ cột Ligue 1. |
-| AM | #7 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 8 | starter,team,league | false | Người tạo lối chơi và ngôi sao số một, cầu thủ hay nhất Nhật Bản sau chấn thương của Mitoma; trụ cột La Liga, nguồn sáng tạo then chốt. |
-| MID | #8 | Ritsu Doan | Freiburg | 🇩🇪 | 6 | starter,team,league | false | Tiền vệ trái, trụ cột Bundesliga, liên tục ghi bàn và kiến tạo trong vòng loại. |
-| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 7 | starter,team,league | false | Tiền đạo, một trong những chân sút hàng đầu Eredivisie; số 9 của Nhật Bản. |
-| CM | #9 | Daichi Kamada | Crystal Palace | 🏴 | 6 | starter,league | false | Ghi bàn vào lưới Hà Lan lượt 1; tiền vệ tấn công đa năng, trụ cột Crystal Palace. |
-| FWD | 備援 | Shuto Machino | — | 🇯🇵 | 4 | squad | true | Tiền đạo, bổ sung muộn sau chấn thương của Endo; chân chạy nhanh. |
+| GK | #1 | Zion Suzuki | Parma Calcio | 🇮🇹 | 1 | starter,league | false | 23岁的日本第一门将，义甲从容化解高压情况，反应敏锐且能稳定军心。 |
+| DEF | #6 | Hiroki Ito | Bayern Munich | 🇩🇪 | 3 | starter,league | false | 三后卫体系的左中卫，带来德甲的灵敏身体素质与精准站位纪律。 |
+| DEF | #3 | Ko Itakura (C) | Ajax | 🇳🇱 | 4 | starter,team | false | 日本队长与指挥型中后卫；制空能力强、站位智慧高，统筹后防组织。 |
+| DEF | #5 | Takehiro Tomiyasu | Ajax | 🇳🇱 | 3 | starter | false | 多用途右中卫，纪律严明且思路清晰；阿贾克斯搭档板仓滂，固守右路。 |
+| MID | #2 | Yukinari Sugawara | Werder Bremen | 🇩🇪 | 8 | starter,league | false | 进攻型右翼后卫，拥有6个国际进球；速度快且为球队提供侧路传中威胁。 |
+| CM | #14 | Daichi Kamada | Crystal Palace | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | starter,league,team | false | 英超中场，日本进攻引擎，12个国际进球；以出色的技术质量串联中前场。 |
+| CM | #17 | Ao Tanaka | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 6 | starter,league | false | 与镰田搭档的后腰型中场，8个国际进球，英超赛场的跑动量与防守贡献突出。 |
+| MID | #9 | Ritsu Doan | Eintracht Frankfurt | 🇩🇪 | 9 | starter,league,team | false | 进攻型左翼后卫兼定位球专家；德甲常规主力，11个国际进球，左路持续威胁。 |
+| FWD | #16 | Junya Ito | KRC Genk | 🇧🇪 | 10 | starter,team | false | 68场代表赛事15球的老将右路前锋；突破力强且定位球威胁大。 |
+| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 17 | starter,team | false | 日本顶级射手，16个国际进球；在反击与禁区得分中如鱼得水。 |
+| FWD | #11 | Daizen Maeda | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter,team | false | 高位逼抢的左路前锋，无私的跑动效率极高；日本逼抢启动的引火线。 |
+| MID | 备援 | Keito Nakamura | Stade de Reims | 🇫🇷 | 9 | league,squad | true | 法甲中场，10个国际进球；下半场注入创造力与直接进球威胁的关键替补选择。 |
+| FWD | 备援 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 11 | league,squad | true | 西甲创意大师，日本技术最全面的球员；膝伤存疑，但一旦出场可能改变局势。 |
 
 ## home_squad:th
-
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Shuichi Gonda | Shimizu | 🇯🇵 | 1 | starter | false | ผู้รักษาประตูตัวเลือกแรกที่มีประสบการณ์สูง |
-| DEF | #5 | Takehiro Tomiyasu | Arsenal | 🏴 | 4 | starter,league | false | แบ็คขวา ตัวหลักของอาร์เซนอล มีสติและไว้วางใจได้ |
-| DEF | #22 | Ko Itakura | Borussia M'gladbach | 🇩🇪 | 5 | starter,team,league | false | กัปตันทีม เซ็นเตอร์แบ็ค โดดเด่นในการแย่งบอลทางอากาศและเป็นผู้จัดระเบียบแนวรับ |
-| DEF | #6 | Yoshida Maya | — | 🇯🇵 | 3 | starter | false | เซ็นเตอร์แบ็คผู้ช่ำชอง มีสติและประสบการณ์ในสถานการณ์ตึงเครียด |
-| DEF | #3 | Yuto Nagatomo | — | 🇯🇵 | 3 | starter | false | แบ็คซ้ายในฟุตบอลโลกครั้งที่ห้า ไม่รู้จักเหนื่อยและเปี่ยมประสบการณ์ |
-| MID | #17 | Wataru Endo | Liverpool | 🏴 | 4 | starter,team,league | false | มิดฟิลด์รับ เสาหลักกลางสนามของลิเวอร์พูล เดิมเป็นกัปตันทีมก่อนบาดเจ็บ ปัจจุบันเล่นเป็นตัวจริงในบทบาทสำคัญ |
-| MID | #15 | Junya Ito | Reims | 🇫🇷 | 4 | starter,league | false | ปีกขวา เล่นตรงและเร็ว เป็นตัวหลักในลีก 1 |
-| AM | #7 | Takefusa Kubo | Real Sociedad | 🇪🇸 | 8 | starter,team,league | false | ผู้สร้างเกมและดาวเด่น นักเตะยอดเยี่ยมที่สุดของญี่ปุ่นในทัวร์นาเมนต์นี้หลังมิโตมะบาดเจ็บ ตัวหลักในลา ลีกา แหล่งสร้างสรรค์เกม |
-| MID | #8 | Ritsu Doan | Freiburg | 🇩🇪 | 6 | starter,team,league | false | ปีกซ้าย ตัวหลักบุนเดสลีกา ทำประตูและแอสซิสต์ตลอดรอบคัดเลือก |
-| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 7 | starter,team,league | false | กองหน้า หนึ่งในนักทำประตูสูงสุดของเอเรดิวิซี หมายเลข 9 ของญี่ปุ่น |
-| CM | #9 | Daichi Kamada | Crystal Palace | 🏴 | 6 | starter,league | false | ทำประตูพบเนเธอร์แลนด์นัดแรก มิดฟิลด์รุกหลายบทบาท ตัวหลักของคริสตัล พาเลซ |
-| FWD | สำรอง | Shuto Machino | — | 🇯🇵 | 4 | squad | true | กองหน้า เพิ่มเข้าทีมช้าหลังเอ็นโดบาดเจ็บ นักวิ่งที่มีความเร็ว |
+| GK | #1 | Zion Suzuki | Parma Calcio | 🇮🇹 | 1 | starter,league | false | ผู้รักษาประตูอันดับหนึ่งของญี่ปุ่นวัย 23 ปี มีประสิทธิภาพและสงบในสถานการณ์กดดันจากประสบการณ์ Serie A |
+| DEF | #6 | Hiroki Ito | Bayern Munich | 🇩🇪 | 3 | starter,league | false | เซ็นเตอร์แบ็คซ้ายในระบบสามหลังของญี่ปุ่น นำความแข็งแกร่งและวินัยตำแหน่งของบุนเดสลีกามาใช้ |
+| DEF | #3 | Ko Itakura (C) | Ajax | 🇳🇱 | 4 | starter,team | false | กัปตันทีมและเซ็นเตอร์แบ็คที่มีอำนาจของญี่ปุ่น โดดเด่นในการแย่งบอลทางอากาศและฉลาดในการจัดวางตำแหน่ง |
+| DEF | #5 | Takehiro Tomiyasu | Ajax | 🇳🇱 | 3 | starter | false | เซ็นเตอร์แบ็คขวาที่หลากหลาย มีวินัยและฉลาด; เพื่อนร่วมทีม Ajax ของ Itakura ให้ความมั่นคงทางขวา |
+| MID | #2 | Yukinari Sugawara | Werder Bremen | 🇩🇪 | 8 | starter,league | false | ปีกขวาโจมตีที่มี 6 ประตูนานาชาติ รุกเร็วและสร้างจังหวะครอสสำคัญ |
+| CM | #14 | Daichi Kamada | Crystal Palace | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | starter,league,team | false | กองกลางพรีเมียร์ลีกและเครื่องยนต์สร้างสรรค์ของญี่ปุ่น มี 12 ประตูนานาชาติ เชื่อมกลางสนามกับแนวรุกด้วยคุณภาพเทคนิค |
+| CM | #17 | Ao Tanaka | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 6 | starter,league | false | กองกลางรับที่ร่วมกับ Kamada มี 8 ประตูนานาชาติและอัตราการวิ่งป้องกันที่มั่นคงในพรีเมียร์ลีก |
+| MID | #9 | Ritsu Doan | Eintracht Frankfurt | 🇩🇪 | 9 | starter,league,team | false | ปีกซ้ายโจมตีและผู้เชี่ยวชาญเซตพีซ ตัวหลักบุนเดสลีกา มี 11 ประตูนานาชาติ ภัยคุกคามต่อเนื่องทางซ้าย |
+| FWD | #16 | Junya Ito | KRC Genk | 🇧🇪 | 10 | starter,team | false | กองหน้าขวาผู้ช่ำชองที่มี 15 ประตูใน 68 นัดตัวแทน เล่นตรงและอันตราย |
+| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 17 | starter,team | false | นักยิงประตูหัวแถวของญี่ปุ่น 16 ประตูนานาชาติ ยอดเยี่ยมในการตีโต้และการจบสกอร์ในเขตโทษ |
+| FWD | #11 | Daizen Maeda | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter,team | false | กองหน้าซ้ายที่กดดันสูง อัตราการทำงานไม่รู้จักเหนื่อยทำให้คว้าบอลได้สูง; ตัวจุดชนวน pressing ของญี่ปุ่น |
+| MID | สำรอง | Keito Nakamura | Stade de Reims | 🇫🇷 | 9 | league,squad | true | กองกลาง Ligue 1 มี 10 ประตูนานาชาติ; ตัวเลือกสำรองสำคัญเพื่อเพิ่มความคิดสร้างสรรค์และภัยคุกคามทำประตูในครึ่งหลัง |
+| FWD | สำรอง | Takefusa Kubo | Real Sociedad | 🇪🇸 | 11 | league,squad | true | ผู้สร้างเกม La Liga และนักเตะที่มีทักษะสูงสุดของญี่ปุ่น; น่าเป็นห่วงจากอาการบาดเจ็บที่เข่าแต่อาจเปลี่ยนเกมได้ |
 
-## away_squad:zh
-
+## home_squad:vi
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Oliver Dovin | — | 🇸🇪 | 1 | starter | false | 年輕門將，Potter執教期間的本屆賽事第一選擇。 |
-| DEF | #3 | Victor Lindelöf | Man United | 🏴 | 4 | starter,team,league | false | 隊長，中後衛，經驗老到沉穩冷靜，曼聯防線核心。 |
-| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | 中後衛，身體對抗性強且統治力十足，亞特蘭大義式體系為其打下堅實基礎。 |
-| DEF | #2 | Daniel Svensson | — | 🇸🇪 | 3 | starter | false | 在Potter的3-4-2-1中擔任右翼後衛，踏實且紀律嚴明。 |
-| DEF | #14 | Johann Berg Gudmundsson | — | 🇸🇪 | 3 | starter | false | 左翼後衛，在邊路富有經驗且具創造力。 |
-| MID | #6 | Karl Karlstrom | — | 🇸🇪 | 4 | starter | false | 後腰，為後防線提供保護並進行簡單的分球。 |
-| MID | #8 | Mattias Svanberg | — | 🇸🇪 | 5 | starter,team | false | 箱型中場，對突尼西亞入球；積極奔跑，推進能力強。 |
-| MID | #10 | Lucas Bergvall | Tottenham | 🏴 | 7 | starter,team,league | false | 19歲中場天才，熱刺新簽；在狹小空間中優雅且持球從容。 |
-| AM | #11 | Yasin Ayari | Brighton | 🏴 | 7 | starter,team,league | false | 對突尼西亞兩度入球，包括一記精彩遠射；其父為突尼西亞人——他拒絕慶祝進球。布萊頓明星。 |
-| ST | #9 | Viktor Gyökeres | Arsenal | 🏴 | 12 | starter,team,league | false | 阿森納的破壞性前鋒，2025/26賽季俱樂部43球；瑞典無可爭議的決勝先生，本屆賽事最令人生畏的前鋒之一。 |
-| ST | #17 | Alexander Isak | Liverpool | 🏴 | 10 | starter,team,league | false | 利物浦的精準完射手，對突尼西亞兩次助攻一次進球；在瑞典雙前鋒體系中與Gyökeres完美互補。 |
-| FWD | 備援 | Anthony Elanga | Newcastle | 🏴 | 6 | league,squad | true | 紐卡素翼鋒，速度快且突破直接，替補登場效果顯著。 |
+| GK | #1 | Zion Suzuki | Parma Calcio | 🇮🇹 | 1 | starter,league | false | Thủ môn số một Nhật Bản ở tuổi 23; bình tĩnh và phản xạ nhạy bén với kinh nghiệm Serie A. |
+| DEF | #6 | Hiroki Ito | Bayern Munich | 🇩🇪 | 3 | starter,league | false | Trung vệ trái trong hàng thủ ba người; mang tính linh hoạt và kỷ luật vị trí của Bundesliga. |
+| DEF | #3 | Ko Itakura (C) | Ajax | 🇳🇱 | 4 | starter,team | false | Đội trưởng và trung vệ chỉ huy của Nhật Bản; mạnh trên không và thông minh về vị trí, tổ chức hàng thủ. |
+| DEF | #5 | Takehiro Tomiyasu | Ajax | 🇳🇱 | 3 | starter | false | Trung vệ phải đa năng, kỷ luật và thông minh; người cùng clb Ajax của Itakura mang lại sự chắc chắn. |
+| MID | #2 | Yukinari Sugawara | Werder Bremen | 🇩🇪 | 8 | starter,league | false | Hậu vệ cánh phải tấn công với 6 bàn quốc tế; nhạy bén và cung cấp các đường tạt bóng quan trọng. |
+| CM | #14 | Daichi Kamada | Crystal Palace | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 10 | starter,league,team | false | Tiền vệ Premier League và động cơ sáng tạo của Nhật Bản với 12 bàn quốc tế; liên kết giữa sân với tuyến tấn công. |
+| CM | #17 | Ao Tanaka | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 6 | starter,league | false | Tiền vệ phòng thủ phối hợp cùng Kamada; 8 bàn quốc tế và tần suất làm việc phòng thủ vững chắc. |
+| MID | #9 | Ritsu Doan | Eintracht Frankfurt | 🇩🇪 | 9 | starter,league,team | false | Hậu vệ cánh trái tấn công và chuyên gia đá phạt; trụ cột Bundesliga với 11 bàn quốc tế. |
+| FWD | #16 | Junya Ito | KRC Genk | 🇧🇪 | 10 | starter,team | false | Tiền đạo cánh phải kỳ cựu 15 bàn trong 68 trận; dribble trực tiếp nguy hiểm và đe dọa từ đá phạt. |
+| ST | #20 | Ayase Ueda | Feyenoord | 🇳🇱 | 17 | starter,team | false | Chân sút hàng đầu Nhật Bản với 16 bàn quốc tế; tiền đạo lạnh lùng trong phản công và vòng cấm. |
+| FWD | #11 | Daizen Maeda | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter,team | false | Tiền đạo cánh trái pressing cao, tần suất làm việc không biết mệt; là vũ khí kích hoạt pressing của Nhật Bản. |
+| MID | Sub | Keito Nakamura | Stade de Reims | 🇫🇷 | 9 | league,squad | true | Tiền vệ Ligue 1 với 10 bàn quốc tế; lựa chọn dự bị quan trọng bơm sáng tạo và mối đe dọa bàn thắng. |
+| FWD | Sub | Takefusa Kubo | Real Sociedad | 🇪🇸 | 11 | league,squad | true | Người tạo lối chơi La Liga và cầu thủ kỹ thuật nhất Nhật Bản; nghi ngờ do chấn thương đầu gối nhưng là con bài tẩy tiềm năng. |
 
 ## away_squad:en
-
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Oliver Dovin | — | 🇸🇪 | 1 | starter | false | Young keeper, first choice for the tournament under Potter. |
-| DEF | #3 | Victor Lindelöf | Man United | 🏴 | 4 | starter,team,league | false | Captain, center back, experienced and composed; Man United defender. |
-| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | Center back, physical and commanding; Atalanta's Italian system gives him strong foundations. |
-| DEF | #2 | Daniel Svensson | — | 🇸🇪 | 3 | starter | false | Right wing-back in Potter's 3-4-2-1; workmanlike and disciplined. |
-| DEF | #14 | Johann Berg Gudmundsson | — | 🇸🇪 | 3 | starter | false | Left wing-back, experienced and creative on the flank. |
-| MID | #6 | Karl Karlstrom | — | 🇸🇪 | 4 | starter | false | Holding midfielder, screens the backline and distributes simply. |
-| MID | #8 | Mattias Svanberg | — | 🇸🇪 | 5 | starter,team | false | Box-to-box midfielder, scored vs Tunisia; energetic and progressive. |
-| MID | #10 | Lucas Bergvall | Tottenham | 🏴 | 7 | starter,team,league | false | Teenage midfield talent (19), Spurs signing; elegant and comfortable on the ball in tight spaces. |
-| AM | #11 | Yasin Ayari | Brighton | 🏴 | 7 | starter,team,league | false | Two goals vs Tunisia, spectacular long-range strike; father is Tunisian — refused to celebrate. Brighton star. |
-| ST | #9 | Viktor Gyökeres | Arsenal | 🏴 | 12 | starter,team,league | false | Arsenal's devastating striker, 43 club goals in 2025/26; Sweden's undisputed match-winner and one of the tournament's most feared forwards. |
-| ST | #17 | Alexander Isak | Liverpool | 🏴 | 10 | starter,team,league | false | Liverpool's clinical finisher, two assists and a goal vs Tunisia; the perfect complement to Gyökeres in Sweden's twin-striker system. |
-| FWD | Sub | Anthony Elanga | Newcastle | 🏴 | 6 | league,squad | true | Newcastle winger, pacy and direct; dangerous off the bench. |
+| GK | #1 | Kristoffer Nordfeldt | AIK Solna | 🇸🇪 | 1 | starter | false | Sweden's experienced 36-year-old first-choice goalkeeper; commanding presence with veteran composure in high-stakes matches. |
+| DEF | #4 | Gustaf Lagerbielke | SC Braga | 🇵🇹 | 3 | starter | false | Right center-back in Sweden's three-man defense; organized and composed in build-up, steady presence for Potter's system. |
+| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | Commanding center-back from Atalanta; physically imposing and strong in aerial duels, Serie A experience adds tactical sophistication. |
+| DEF | #3 | Victor Lindelöf (C) | Aston Villa | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league,team | false | Sweden's captain and Premier League center-back at Aston Villa; experienced in big matches with composure and intelligence. |
+| MID | #15 | Gabriel Gudmundsson | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league | false | Attacking left wing-back creating width; already on a yellow card — any booking earns a Round of 16 suspension. |
+| CM | #8 | Jesper Karlström | Udinese | 🇮🇹 | 5 | starter,league | false | Defensive pivot who screens Sweden's back three; the disciplined ball-winning base that allows Gyökeres and Isak to roam. |
+| CM | #14 | Yasin Ayari | Brighton | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | starter,league,team | false | Brighton midfielder who scored twice vs Tunisia including a spectacular long-range strike; on a yellow — suspension risk. |
+| MID | #2 | Alexander Bernhardsson | Holstein Kiel | 🇩🇪 | 6 | starter | false | Right wing-back providing width and delivery; workmanlike and disciplined, supports Gyökeres' runs down the right. |
+| FWD | #11 | Benjamin Nygren | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter | false | Creative forward operating between the lines; links Ayari's creativity to the Gyökeres-Isak partnership with Celtic sharpness. |
+| ST | #9 | Viktor Gyökeres | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 21 | starter,league,team | false | Arsenal's lethal striker with 27 international goals; one of the most feared forwards in the world and Sweden's undisputed match-winner. |
+| ST | #10 | Alexander Isak | Liverpool | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 17 | starter,league,team | false | Liverpool's clinical finisher with 17 international goals; the ideal partner for Gyökeres combining pace with brilliant technique. |
+| MID | Sub | Lucas Bergvall | Tottenham Hotspur | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 7 | league,squad | true | Spurs' 20-year-old midfield talent; elegant with the ball, already on a yellow making his sub role complex for Potter. |
+| FWD | Sub | Anthony Elanga | Newcastle United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | league,squad | true | Newcastle's pacy and direct winger; dangerous impact sub providing fresh energy and direct running down the flanks. |
+
+## away_squad:zh
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Kristoffer Nordfeldt | AIK Solna | 🇸🇪 | 1 | starter | false | 36 歲的瑞典第一門將，老道沉穩，在高危情況下能穩定後防。 |
+| DEF | #4 | Gustaf Lagerbielke | SC Braga | 🇵🇹 | 3 | starter | false | 三後衛體系的右中衛，組織有序且持球從容，Potter 體系中的可靠後衛。 |
+| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | 亞特蘭大的指揮型中後衛，身體強悍且制空能力突出，義甲磨礪下戰術素養高。 |
+| DEF | #3 | Victor Lindelöf (C) | Aston Villa | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league,team | false | 瑞典隊長兼阿斯頓維拉中後衛；大場面經驗豐富，閱讀比賽與冷靜出腳是其強項。 |
+| MID | #15 | Gabriel Gudmundsson | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league | false | 進攻型左翼後衛，製造寬度並推進；已持一張黃牌——若再受警告將在十六強停賽。 |
+| CM | #8 | Jesper Karlström | Udinese | 🇮🇹 | 5 | starter,league | false | 後腰型中場，為三後衛提供掩護；提供紀律性搶球基礎，讓 Gyökeres 和 Isak 得以自由遊走。 |
+| CM | #14 | Yasin Ayari | Brighton | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | starter,league,team | false | 布萊頓中場，對突尼西亞打進兩球包括一記遠射；已持黃牌，面臨停賽風險。 |
+| MID | #2 | Alexander Bernhardsson | Holstein Kiel | 🇩🇪 | 6 | starter | false | 右翼後衛，提供側路寬度並傳入危險球；勤奮紮實，支援 Gyökeres 的右路跑動。 |
+| FWD | #11 | Benjamin Nygren | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter | false | 在防線縫隙間穿插的創意前鋒；以凱爾特人的敏銳串聯 Ayari 的創造力與 Gyökeres-Isak 組合。 |
+| ST | #9 | Viktor Gyökeres | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 21 | starter,league,team | false | 阿森納的毀滅性前鋒，27 個國際進球；全場最令人膽寒的射手之一，瑞典當仁不讓的決勝先生。 |
+| ST | #10 | Alexander Isak | Liverpool | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 17 | starter,league,team | false | 利物浦的精準完射手，17 個國際進球；速度與精湛技術的結合令其成為 Gyökeres 的完美搭檔。 |
+| MID | 備援 | Lucas Bergvall | Tottenham Hotspur | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 7 | league,squad | true | 熱刺 20 歲中場天才，持球優雅；已持一張黃牌令替補出場的角色安排複雜化。 |
+| FWD | 備援 | Anthony Elanga | Newcastle United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | league,squad | true | 紐卡素邊鋒，速度快且突破直接；危險的替補奇兵，提供新鮮衝勁和直線衝刺威脅。 |
 
 ## away_squad:zh-cn
-
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Oliver Dovin | — | 🇸🇪 | 1 | starter | false | 年轻门将，Potter执教期间的本届赛事第一选择。 |
-| DEF | #3 | Victor Lindelöf | Man United | 🏴 | 4 | starter,team,league | false | 队长，中后卫，经验老到沉稳冷静，曼联防线核心。 |
-| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | 中后卫，身体对抗性强且统治力十足，亚特兰大义式体系为其打下坚实基础。 |
-| DEF | #2 | Daniel Svensson | — | 🇸🇪 | 3 | starter | false | 在Potter的3-4-2-1中担任右翼后卫，踏实且纪律严明。 |
-| DEF | #14 | Johann Berg Gudmundsson | — | 🇸🇪 | 3 | starter | false | 左翼后卫，在边路富有经验且具创造力。 |
-| MID | #6 | Karl Karlstrom | — | 🇸🇪 | 4 | starter | false | 后腰，为后防线提供保护并进行简单的分球。 |
-| MID | #8 | Mattias Svanberg | — | 🇸🇪 | 5 | starter,team | false | 箱型中场，对突尼斯入球；积极奔跑，推进能力强。 |
-| MID | #10 | Lucas Bergvall | Tottenham | 🏴 | 7 | starter,team,league | false | 19岁中场天才，热刺新签；在狭小空间中优雅且持球从容。 |
-| AM | #11 | Yasin Ayari | Brighton | 🏴 | 7 | starter,team,league | false | 对突尼斯两度入球，包括一记精彩远射；其父为突尼西亚人——他拒绝庆祝进球。布莱顿明星。 |
-| ST | #9 | Viktor Gyökeres | Arsenal | 🏴 | 12 | starter,team,league | false | 阿森纳的破坏性前锋，2025/26赛季俱乐部43球；瑞典无可争议的决胜先生，本届赛事最令人生畏的前锋之一。 |
-| ST | #17 | Alexander Isak | Liverpool | 🏴 | 10 | starter,team,league | false | 利物浦的精准完射手，对突尼斯两次助攻一次进球；在瑞典双前锋体系中与Gyökeres完美互补。 |
-| FWD | 备援 | Anthony Elanga | Newcastle | 🏴 | 6 | league,squad | true | 纽卡素翼锋，速度快且突破直接，替补登场效果显著。 |
-
-## away_squad:vi
-
-| pos | num | name | club | flag | prob | tags | bench | desc |
-|-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Oliver Dovin | — | 🇸🇪 | 1 | starter | false | Thủ môn trẻ, lựa chọn số một của giải đấu dưới thời Potter. |
-| DEF | #3 | Victor Lindelöf | Man United | 🏴 | 4 | starter,team,league | false | Đội trưởng, trung vệ, giàu kinh nghiệm và bình tĩnh; trụ cột hàng thủ Man United. |
-| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | Trung vệ, thể hình vượt trội và chắc chắn; hệ thống Italy của Atalanta tôi luyện nền tảng vững chắc cho anh. |
-| DEF | #2 | Daniel Svensson | — | 🇸🇪 | 3 | starter | false | Hậu vệ cánh phải trong sơ đồ 3-4-2-1 của Potter; chăm chỉ và kỷ luật. |
-| DEF | #14 | Johann Berg Gudmundsson | — | 🇸🇪 | 3 | starter | false | Hậu vệ cánh trái, giàu kinh nghiệm và sáng tạo trên biên. |
-| MID | #6 | Karl Karlstrom | — | 🇸🇪 | 4 | starter | false | Tiền vệ trụ, bảo vệ hàng thủ và phân phối bóng đơn giản. |
-| MID | #8 | Mattias Svanberg | — | 🇸🇪 | 5 | starter,team | false | Tiền vệ box-to-box, ghi bàn vào lưới Tunisia; năng động và tiến lên mạnh. |
-| MID | #10 | Lucas Bergvall | Tottenham | 🏴 | 7 | starter,team,league | false | Tài năng tiền vệ tuổi teen (19), tân binh Spurs; thanh lịch và thoải mái với bóng trong không gian chật hẹp. |
-| AM | #11 | Yasin Ayari | Brighton | 🏴 | 7 | starter,team,league | false | Hai bàn vào lưới Tunisia, cú sút xa ngoạn mục; cha là người Tunisia — từ chối ăn mừng. Ngôi sao Brighton. |
-| ST | #9 | Viktor Gyökeres | Arsenal | 🏴 | 12 | starter,team,league | false | Tiền đạo sát thủ của Arsenal, 43 bàn cho câu lạc bộ trong 2025/26; người quyết định trận đấu không thể tranh cãi của Thụy Điển và một trong những tiền đạo đáng sợ nhất giải đấu. |
-| ST | #17 | Alexander Isak | Liverpool | 🏴 | 10 | starter,team,league | false | Chân sút lạnh lùng của Liverpool, hai kiến tạo và một bàn thắng vào lưới Tunisia; người bổ sung hoàn hảo cho Gyökeres trong hệ thống hai tiền đạo của Thụy Điển. |
-| FWD | 備援 | Anthony Elanga | Newcastle | 🏴 | 6 | league,squad | true | Tiền vệ cánh Newcastle, nhanh và trực tiếp; nguy hiểm khi vào sân từ ghế dự bị. |
+| GK | #1 | Kristoffer Nordfeldt | AIK Solna | 🇸🇪 | 1 | starter | false | 36岁的瑞典第一门将，老道沉稳，在高危情况下能稳定后防。 |
+| DEF | #4 | Gustaf Lagerbielke | SC Braga | 🇵🇹 | 3 | starter | false | 三后卫体系的右中卫，组织有序且持球从容，Potter体系中的可靠后卫。 |
+| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | 亚特兰大的指挥型中后卫，身体强悍且制空能力突出，义甲磨砺下战术素养高。 |
+| DEF | #3 | Victor Lindelöf (C) | Aston Villa | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league,team | false | 瑞典队长兼阿斯顿维拉中后卫；大场面经验丰富，阅读比赛与冷静出脚是其强项。 |
+| MID | #15 | Gabriel Gudmundsson | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league | false | 进攻型左翼后卫，制造宽度并推进；已持一张黄牌——若再受警告将在十六强停赛。 |
+| CM | #8 | Jesper Karlström | Udinese | 🇮🇹 | 5 | starter,league | false | 后腰型中场，为三后卫提供掩护；纪律性搶球基础让Gyökeres和Isak得以自由游走。 |
+| CM | #14 | Yasin Ayari | Brighton | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | starter,league,team | false | 布莱顿中场，对突尼斯打进两球包括一记远射；已持黄牌，面临停赛风险。 |
+| MID | #2 | Alexander Bernhardsson | Holstein Kiel | 🇩🇪 | 6 | starter | false | 右翼后卫，提供侧路宽度并传入危险球；勤奋扎实，支援Gyökeres的右路跑动。 |
+| FWD | #11 | Benjamin Nygren | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter | false | 在防线缝隙间穿插的创意前锋；以凯尔特人的敏锐串联Ayari的创造力与Gyökeres-Isak组合。 |
+| ST | #9 | Viktor Gyökeres | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 21 | starter,league,team | false | 阿森纳的毁灭性前锋，27个国际进球；全场最令人胆寒的射手之一，瑞典当仁不让的决胜先生。 |
+| ST | #10 | Alexander Isak | Liverpool | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 17 | starter,league,team | false | 利物浦的精准完射手，17个国际进球；速度与精湛技术的结合令其成为Gyökeres的完美搭档。 |
+| MID | 备援 | Lucas Bergvall | Tottenham Hotspur | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 7 | league,squad | true | 热刺20岁中场天才，持球优雅；已持一张黄牌令替补出场的角色安排复杂化。 |
+| FWD | 备援 | Anthony Elanga | Newcastle United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | league,squad | true | 纽卡素边锋，速度快且突破直接；危险的替补奇兵，提供新鲜冲劲和直线冲刺威胁。 |
 
 ## away_squad:th
-
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Oliver Dovin | — | 🇸🇪 | 1 | starter | false | ผู้รักษาประตูหนุ่ม ตัวเลือกแรกในทัวร์นาเมนต์ภายใต้ Potter |
-| DEF | #3 | Victor Lindelöf | Man United | 🏴 | 4 | starter,team,league | false | กัปตันทีม เซ็นเตอร์แบ็ค มีประสบการณ์และสงบนิ่ง แบ็คหลักของแมนยูไนเต็ด |
-| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | เซ็นเตอร์แบ็ค ร่างกายแข็งแกร่งและครอบงำพื้นที่ ระบบอิตาลีของอาตาลันตามอบรากฐานที่มั่นคงให้เขา |
-| DEF | #2 | Daniel Svensson | — | 🇸🇪 | 3 | starter | false | ปีกขวาในสูตร 3-4-2-1 ของ Potter ทำงานหนักและมีวินัย |
-| DEF | #14 | Johann Berg Gudmundsson | — | 🇸🇪 | 3 | starter | false | ปีกซ้าย มีประสบการณ์และสร้างสรรค์เกมบนแฟลงก์ |
-| MID | #6 | Karl Karlstrom | — | 🇸🇪 | 4 | starter | false | มิดฟิลด์ตัวรับ คุ้มกันแนวรับและกระจายบอลอย่างเรียบง่าย |
-| MID | #8 | Mattias Svanberg | — | 🇸🇪 | 5 | starter,team | false | มิดฟิลด์บ็อกซ์ทูบ็อกซ์ ทำประตูพบตูนิเซีย กระตือรือร้นและรุกหน้าเสมอ |
-| MID | #10 | Lucas Bergvall | Tottenham | 🏴 | 7 | starter,team,league | false | พรสวรรค์มิดฟิลด์วัยรุ่น (19 ปี) นักเตะใหม่ของสเปอร์ส สง่างามและสบายใจกับบอลในพื้นที่แคบ |
-| AM | #11 | Yasin Ayari | Brighton | 🏴 | 7 | starter,team,league | false | สองประตูพบตูนิเซีย รวมถึงการยิงระยะไกลสุดตระการตา พ่อเป็นชาวตูนิเซีย — ปฏิเสธการเฉลิมฉลอง ดาวเด่นไบรตัน |
-| ST | #9 | Viktor Gyökeres | Arsenal | 🏴 | 12 | starter,team,league | false | กองหน้าสุดอันตรายของอาร์เซนอล 43 ประตูให้สโมสรในฤดูกาล 2025/26 ผู้ชี้ขาดแมตช์ที่ไม่มีใครโต้แย้งของสวีเดน และหนึ่งในกองหน้าที่น่ากลัวที่สุดในทัวร์นาเมนต์ |
-| ST | #17 | Alexander Isak | Liverpool | 🏴 | 10 | starter,team,league | false | นักยิงประตูเย็นชาของลิเวอร์พูล สองแอสซิสต์และหนึ่งประตูพบตูนิเซีย เสริมกัน Gyökeres ได้อย่างสมบูรณ์แบบในระบบกองหน้าคู่ของสวีเดน |
-| FWD | สำรอง | Anthony Elanga | Newcastle | 🏴 | 6 | league,squad | true | ปีกของนิวคาสเซิล เร็วและตรงไปตรงมา อันตรายเมื่อออกมาจากม้านั่งสำรอง |
+| GK | #1 | Kristoffer Nordfeldt | AIK Solna | 🇸🇪 | 1 | starter | false | ผู้รักษาประตูอันดับหนึ่งของสวีเดนวัย 36 ปี ผู้มากประสบการณ์และสงบในแมตช์เดิมพันสูง |
+| DEF | #4 | Gustaf Lagerbielke | SC Braga | 🇵🇹 | 3 | starter | false | เซ็นเตอร์แบ็คขวาในระบบสามหลังของสวีเดน จัดระเบียบดีและสงบในการครองบอล |
+| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | เซ็นเตอร์แบ็คที่มีอำนาจจาก Atalanta แข็งแกร่งทางกายภาพและโดดเด่นในการแย่งบอลทางอากาศ |
+| DEF | #3 | Victor Lindelöf (C) | Aston Villa | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league,team | false | กัปตันทีมสวีเดนและเซ็นเตอร์แบ็คพรีเมียร์ลีกของ Aston Villa ประสบการณ์ในแมตช์ใหญ่และความสงบนิ่ง |
+| MID | #15 | Gabriel Gudmundsson | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league | false | ปีกซ้ายโจมตีที่สร้างความกว้าง ถือใบเหลืองใบแรกแล้ว — การ์ดอีกใบหมายถึงพักรอบ 16 |
+| CM | #8 | Jesper Karlström | Udinese | 🇮🇹 | 5 | starter,league | false | กองกลางตัวรับที่คุ้มกันแนวรับสามคน ฐานการแย่งบอลที่มีวินัยให้ Gyökeres และ Isak เที่ยวได้อิสระ |
+| CM | #14 | Yasin Ayari | Brighton | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | starter,league,team | false | กองกลาง Brighton ที่ทำสองประตูพบตูนิเซียรวมถึงยิงระยะไกลสวยงาม ถือใบเหลืองแล้ว มีความเสี่ยงพักเกม |
+| MID | #2 | Alexander Bernhardsson | Holstein Kiel | 🇩🇪 | 6 | starter | false | ปีกขวาที่ให้ความกว้างและครอส ทำงานหนักและมีวินัย สนับสนุนการวิ่งทางขวาของ Gyökeres |
+| FWD | #11 | Benjamin Nygren | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter | false | กองหน้าสร้างสรรค์ที่ปฏิบัติการในพื้นที่ระหว่างแนว เชื่อมความคิดสร้างสรรค์ของ Ayari กับคู่หน้า |
+| ST | #9 | Viktor Gyökeres | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 21 | starter,league,team | false | กองหน้าสังหารของอาร์เซนอล 27 ประตูนานาชาติ หนึ่งในกองหน้าที่น่ากลัวที่สุดในโลก |
+| ST | #10 | Alexander Isak | Liverpool | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 17 | starter,league,team | false | นักยิงประตูที่เฉียบคมของลิเวอร์พูล 17 ประตูนานาชาติ คู่ที่เหมาะสมที่สุดสำหรับ Gyökeres |
+| MID | สำรอง | Lucas Bergvall | Tottenham Hotspur | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 7 | league,squad | true | พรสวรรค์มิดฟิลด์อายุ 20 ปีของ Spurs สง่างามกับบอล ถือใบเหลืองทำให้บทบาทสำรองซับซ้อนขึ้น |
+| FWD | สำรอง | Anthony Elanga | Newcastle United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | league,squad | true | ปีกของ Newcastle เร็วและตรงไปตรงมา อันตรายเมื่อออกมาจากม้านั่งสำรอง |
 
-## score_predictions:zh
-
-| score | result | prob | color | badge | winner |
-|-------|--------|------|-------|-------| ------- |
-| 1-2 🇸🇪 | 瑞典勝 | 19 | #006AA7 | 最高機率 | away |
-| 0-2 🇸🇪 | 瑞典勝 | 14 | #006AA7 | 次高 | away |
-| 1-1 | 平局 | 13 | #6b7280 | | draw |
-| 2-1 🇯🇵 | 日本勝 | 12 | #BC002D | | home |
-| 1-0 🇯🇵 | 日本勝 | 10 | #BC002D | | home |
-| 0-1 🇸🇪 | 瑞典勝 | 9 | #006AA7 | | away |
-| 2-2 | 平局 | 7 | #6b7280 | | draw |
-| 其他 | — | 16 | #94a3b8 | | - |
+## away_squad:vi
+| pos | num | name | club | flag | prob | tags | bench | desc |
+|-----|-----|------|------|------|------|------|-------|------|
+| GK | #1 | Kristoffer Nordfeldt | AIK Solna | 🇸🇪 | 1 | starter | false | Thủ môn số một Thụy Điển 36 tuổi; bình tĩnh và tự tin trong những trận đấu có cổ phần cao. |
+| DEF | #4 | Gustaf Lagerbielke | SC Braga | 🇵🇹 | 3 | starter | false | Trung vệ phải trong hàng thủ ba người; có tổ chức và bình tĩnh trong xây dựng lối chơi. |
+| DEF | #5 | Isak Hien | Atalanta | 🇮🇹 | 4 | starter,league | false | Trung vệ chỉ huy từ Atalanta; thể hình vượt trội và mạnh trên không, kinh nghiệm Serie A. |
+| DEF | #3 | Victor Lindelöf (C) | Aston Villa | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league,team | false | Đội trưởng Thụy Điển và trung vệ Premier League của Aston Villa; giàu kinh nghiệm trận lớn. |
+| MID | #15 | Gabriel Gudmundsson | Leeds United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 5 | starter,league | false | Hậu vệ cánh trái tấn công tạo chiều rộng; đang mang thẻ vàng — thêm thẻ nữa là treo giò vòng 16. |
+| CM | #8 | Jesper Karlström | Udinese | 🇮🇹 | 5 | starter,league | false | Tiền vệ trụ che chắn cho hàng thủ ba người; nền tảng tranh bóng kỷ luật để Gyökeres và Isak tự do di chuyển. |
+| CM | #14 | Yasin Ayari | Brighton | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | starter,league,team | false | Tiền vệ Brighton ghi hai bàn vào lưới Tunisia bao gồm một cú sút xa; đang mang thẻ vàng, nguy cơ treo giò. |
+| MID | #2 | Alexander Bernhardsson | Holstein Kiel | 🇩🇪 | 6 | starter | false | Hậu vệ cánh phải cung cấp chiều rộng và các đường chuyền vào vòng cấm; chăm chỉ và kỷ luật. |
+| FWD | #11 | Benjamin Nygren | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 8 | starter | false | Tiền đạo sáng tạo hoạt động giữa các tuyến; liên kết khả năng sáng tạo của Ayari với cặp đôi Gyökeres-Isak. |
+| ST | #9 | Viktor Gyökeres | Arsenal | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 21 | starter,league,team | false | Tiền đạo sát thủ của Arsenal với 27 bàn quốc tế; một trong những tiền đạo đáng sợ nhất thế giới. |
+| ST | #10 | Alexander Isak | Liverpool | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 17 | starter,league,team | false | Chân sút lạnh lùng của Liverpool với 17 bàn quốc tế; người bổ sung hoàn hảo cho Gyökeres. |
+| MID | Sub | Lucas Bergvall | Tottenham Hotspur | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 7 | league,squad | true | Tài năng tiền vệ 20 tuổi của Spurs; thanh lịch với bóng, đang mang thẻ vàng làm phức tạp vai trò dự bị. |
+| FWD | Sub | Anthony Elanga | Newcastle United | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 9 | league,squad | true | Tiền vệ cánh Newcastle nhanh và trực tiếp; nguy hiểm khi vào sân từ ghế dự bị. |
 
 ## score_predictions:en
-
 | score | result | prob | color | badge | winner |
-|-------|--------|------|-------|-------| ------- |
-| 1-2 🇸🇪 | Sweden Win | 19 | #006AA7 | Top Pick | away |
-| 0-2 🇸🇪 | Sweden Win | 14 | #006AA7 | 2nd Pick | away |
-| 1-1 | Draw | 13 | #6b7280 | | draw |
-| 2-1 🇯🇵 | Japan Win | 12 | #BC002D | | home |
-| 1-0 🇯🇵 | Japan Win | 10 | #BC002D | | home |
-| 0-1 🇸🇪 | Sweden Win | 9 | #006AA7 | | away |
+|-------|--------|------|-------|-------|--------|
+| 2-1 🇯🇵 | Japan Win | 18 | #BC002D | Top Pick | home |
+| 1-1 | Draw | 16 | #6b7280 | 2nd Pick | draw |
+| 1-0 🇯🇵 | Japan Win | 12 | #BC002D | | home |
+| 2-0 🇯🇵 | Japan Win | 10 | #BC002D | | home |
+| 1-2 🇸🇪 | Sweden Win | 12 | #006AA7 | | away |
+| 0-1 🇸🇪 | Sweden Win | 8 | #006AA7 | | away |
 | 2-2 | Draw | 7 | #6b7280 | | draw |
-| Others | — | 16 | #94a3b8 | | - |
+| Others | — | 17 | #94a3b8 | | - |
+
+## score_predictions:zh
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------|--------|
+| 2-1 🇯🇵 | 日本勝 | 18 | #BC002D | 最高機率 | home |
+| 1-1 | 平局 | 16 | #6b7280 | 次高 | draw |
+| 1-0 🇯🇵 | 日本勝 | 12 | #BC002D | | home |
+| 2-0 🇯🇵 | 日本勝 | 10 | #BC002D | | home |
+| 1-2 🇸🇪 | 瑞典勝 | 12 | #006AA7 | | away |
+| 0-1 🇸🇪 | 瑞典勝 | 8 | #006AA7 | | away |
+| 2-2 | 平局 | 7 | #6b7280 | | draw |
+| 其他 | — | 17 | #94a3b8 | | - |
 
 ## score_predictions:zh-cn
-
 | score | result | prob | color | badge | winner |
-|-------|--------|------|-------|-------| ------- |
-| 1-2 🇸🇪 | 瑞典胜 | 19 | #006AA7 | 最高机率 | away |
-| 0-2 🇸🇪 | 瑞典胜 | 14 | #006AA7 | 次高 | away |
-| 1-1 | 平局 | 13 | #6b7280 | | draw |
-| 2-1 🇯🇵 | 日本胜 | 12 | #BC002D | | home |
-| 1-0 🇯🇵 | 日本胜 | 10 | #BC002D | | home |
-| 0-1 🇸🇪 | 瑞典胜 | 9 | #006AA7 | | away |
+|-------|--------|------|-------|-------|--------|
+| 2-1 🇯🇵 | 日本胜 | 18 | #BC002D | 最高机率 | home |
+| 1-1 | 平局 | 16 | #6b7280 | 次高 | draw |
+| 1-0 🇯🇵 | 日本胜 | 12 | #BC002D | | home |
+| 2-0 🇯🇵 | 日本胜 | 10 | #BC002D | | home |
+| 1-2 🇸🇪 | 瑞典胜 | 12 | #006AA7 | | away |
+| 0-1 🇸🇪 | 瑞典胜 | 8 | #006AA7 | | away |
 | 2-2 | 平局 | 7 | #6b7280 | | draw |
-| 其他 | — | 16 | #94a3b8 | | - |
-
-## score_predictions:vi
-
-| score | result | prob | color | badge | winner |
-|-------|--------|------|-------|-------| ------- |
-| 1-2 🇸🇪 | Thụy Điển Thắng | 19 | #006AA7 | Cao Nhất | away |
-| 0-2 🇸🇪 | Thụy Điển Thắng | 14 | #006AA7 | Thứ 2 | away |
-| 1-1 | Hòa | 13 | #6b7280 | | draw |
-| 2-1 🇯🇵 | Nhật Bản Thắng | 12 | #BC002D | | home |
-| 1-0 🇯🇵 | Nhật Bản Thắng | 10 | #BC002D | | home |
-| 0-1 🇸🇪 | Thụy Điển Thắng | 9 | #006AA7 | | away |
-| 2-2 | Hòa | 7 | #6b7280 | | draw |
-| Khác | — | 16 | #94a3b8 | | - |
+| 其他 | — | 17 | #94a3b8 | | - |
 
 ## score_predictions:th
-
 | score | result | prob | color | badge | winner |
-|-------|--------|------|-------|-------| ------- |
-| 1-2 🇸🇪 | สวีเดนชนะ | 19 | #006AA7 | โอกาสสูงสุด | away |
-| 0-2 🇸🇪 | สวีเดนชนะ | 14 | #006AA7 | อันดับสอง | away |
-| 1-1 | เสมอ | 13 | #6b7280 | | draw |
-| 2-1 🇯🇵 | ญี่ปุ่นชนะ | 12 | #BC002D | | home |
-| 1-0 🇯🇵 | ญี่ปุ่นชนะ | 10 | #BC002D | | home |
-| 0-1 🇸🇪 | สวีเดนชนะ | 9 | #006AA7 | | away |
+|-------|--------|------|-------|-------|--------|
+| 2-1 🇯🇵 | ญี่ปุ่นชนะ | 18 | #BC002D | โอกาสสูงสุด | home |
+| 1-1 | เสมอ | 16 | #6b7280 | อันดับสอง | draw |
+| 1-0 🇯🇵 | ญี่ปุ่นชนะ | 12 | #BC002D | | home |
+| 2-0 🇯🇵 | ญี่ปุ่นชนะ | 10 | #BC002D | | home |
+| 1-2 🇸🇪 | สวีเดนชนะ | 12 | #006AA7 | | away |
+| 0-1 🇸🇪 | สวีเดนชนะ | 8 | #006AA7 | | away |
 | 2-2 | เสมอ | 7 | #6b7280 | | draw |
-| อื่นๆ | — | 16 | #94a3b8 | | - |
+| อื่นๆ | — | 17 | #94a3b8 | | - |
 
-## event_preds:zh
-
-| icon | value | label | detail |
-|------|-------|-------|--------|
-| ⛳ | 9–12 | 預測角球數 | 高強度比賽，瑞典的寬度進攻和日本的反擊均會在兩端製造角球機會。 |
-| 🟡 | 3–5 | 預測黃牌數 | 雙方均採用高位逼搶和強硬鏟球；中場爭奪激烈，預計黃牌頻出。 |
-| 🟥 | 0–1 | 預測紅牌數 | 競爭激烈但整體可控；在淘汰賽氛圍的緊張比賽中，後段出現紅牌的機率較小。 |
-| ⚠️ | 24–28 | 裁判犯規數/場 | 雙方爭奪晉級名額激烈，預計犯規次數偏高。 |
+## score_predictions:vi
+| score | result | prob | color | badge | winner |
+|-------|--------|------|-------|-------|--------|
+| 2-1 🇯🇵 | Nhật Bản Thắng | 18 | #BC002D | Cao Nhất | home |
+| 1-1 | Hòa | 16 | #6b7280 | Thứ 2 | draw |
+| 1-0 🇯🇵 | Nhật Bản Thắng | 12 | #BC002D | | home |
+| 2-0 🇯🇵 | Nhật Bản Thắng | 10 | #BC002D | | home |
+| 1-2 🇸🇪 | Thụy Điển Thắng | 12 | #006AA7 | | away |
+| 0-1 🇸🇪 | Thụy Điển Thắng | 8 | #006AA7 | | away |
+| 2-2 | Hòa | 7 | #6b7280 | | draw |
+| Khác | — | 17 | #94a3b8 | | - |
 
 ## event_preds:en
-
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | Predicted Corners | High-intensity match with Sweden's width and Japan's counters generating corners at both ends. |
-| 🟡 | 3–5 | Predicted Yellow Cards | Both teams press high and tackle firmly; midfield battle will produce bookings. |
-| 🟥 | 0–1 | Predicted Red Cards | Competitive but controlled; small chance of a late red in a tense knockout-atmosphere game. |
-| ⚠️ | 24–28 | Referee Fouls/Match | High foul count expected as both teams battle intensely for a knockout-round place. |
+| ⛳ | 9–12 | Predicted Corners | Japan's active wing-backs Sugawara and Doan plus Sweden's wide system generate corners at both ends in this high-intensity clash. |
+| 🟡 | 3–5 | Predicted Yellow Cards | Sweden's Gudmundsson, Ayari and Bergvall are each one booking from suspension — Japan's coordinated pressing invites tactical fouls throughout. |
+| 🟥 | 0–1 | Predicted Red Cards | Low probability but Sweden's growing desperation if trailing in the final 20 minutes creates a risk of reckless challenges. |
+| ⚠️ | 22–28 | Referee Fouls/Match | Japan's pressing triggers and Sweden's physical urgency create frequent midfield collisions; high-stakes pressure amplifies foul count. |
+
+## event_preds:zh
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | 預測角球數 | 日本積極的翼後衛菅原和堂安，加上瑞典的寬度進攻體系，在雙方球門前均製造大量角球機會。 |
+| 🟡 | 3–5 | 預測黃牌數 | 瑞典的 Gudmundsson、Ayari 和 Bergvall 各持一張黃牌——日本的協調逼搶全場持續引發戰術性犯規。 |
+| 🟥 | 0–1 | 預測紅牌數 | 概率較低，但若瑞典在終場前 20 分鐘仍落後，絕望的搶攻可能引發莽撞犯規。 |
+| ⚠️ | 22–28 | 裁判犯規數/場 | 日本的逼搶觸發動作與瑞典的身體緊迫性製造頻繁中場衝撞；高風險壓力令犯規次數上升。 |
 
 ## event_preds:zh-cn
-
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | 预测角球数 | 高强度比赛，瑞典的宽度进攻和日本的反击均会在两端制造角球机会。 |
-| 🟡 | 3–5 | 预测黄牌数 | 双方均采用高位逼抢和强硬铲球；中场争夺激烈，预计黄牌频出。 |
-| 🟥 | 0–1 | 预测红牌数 | 竞争激烈但整体可控；在淘汰赛氛围的紧张比赛中，后段出现红牌的概率较小。 |
-| ⚠️ | 24–28 | 裁判犯规数/场 | 双方争夺晋级名额激烈，预计犯规次数偏高。 |
-
-## event_preds:vi
-
-| icon | value | label | detail |
-|------|-------|-------|--------|
-| ⛳ | 9–12 | Dự đoán số phạt góc | Trận đấu cường độ cao, chiều rộng tấn công của Thụy Điển và phản công của Nhật Bản tạo ra nhiều phạt góc ở cả hai đầu. |
-| 🟡 | 3–5 | Dự đoán số thẻ vàng | Cả hai đội pressing cao và vào bóng quyết liệt; cuộc chiến tuyến giữa sẽ sinh ra nhiều thẻ phạt. |
-| 🟥 | 0–1 | Dự đoán số thẻ đỏ | Cạnh tranh nhưng kiểm soát được; nguy cơ thẻ đỏ cuối trận nhỏ trong bầu không khí căng thẳng như vòng knock-out. |
-| ⚠️ | 24–28 | Số lần phạm lỗi/trận của trọng tài | Số lần phạm lỗi cao dự kiến khi cả hai đội chiến đấu quyết liệt để giành suất vào vòng tiếp theo. |
+| ⛳ | 9–12 | 预测角球数 | 日本积极的翼后卫菅原和堂安，加上瑞典的宽度进攻体系，在双方球门前均制造大量角球机会。 |
+| 🟡 | 3–5 | 预测黄牌数 | 瑞典的Gudmundsson、Ayari和Bergvall各持一张黄牌——日本的协调逼抢全场持续引发战术性犯规。 |
+| 🟥 | 0–1 | 预测红牌数 | 概率较低，但若瑞典在终场前20分钟仍落后，绝望的抢攻可能引发莽撞犯规。 |
+| ⚠️ | 22–28 | 裁判犯规数/场 | 日本的逼抢触发动作与瑞典的身体紧迫性制造频繁中场冲撞；高风险压力令犯规次数上升。 |
 
 ## event_preds:th
-
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | แมตช์ความเข้มข้นสูง ความกว้างของสวีเดนและการตีโต้ของญี่ปุ่นสร้างเตะมุมทั้งสองด้าน |
-| 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | ทั้งสองทีมกดดันสูงและเข้าปะทะอย่างดุเดือด การต่อสู้กลางสนามจะสร้างใบเหลือง |
-| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | แข่งขันดุเดือดแต่ยังอยู่ในการควบคุม มีโอกาสเล็กน้อยที่จะเกิดใบแดงช่วงท้ายในบรรยากาศตึงเครียดแบบน็อคเอาต์ |
-| ⚠️ | 24–28 | ฟาวล์ต่อแมตช์ของกรรมการ | คาดว่าจะมีฟาวล์สูงเมื่อทั้งสองทีมต่อสู้อย่างเข้มแข็งเพื่อสิทธิ์เข้ารอบ |
+| ⛳ | 9–12 | คาดการณ์เตะมุม | ปีกของญี่ปุ่น Sugawara และ Doan บวกกับระบบกว้างของสวีเดนสร้างเตะมุมทั้งสองด้านในการปะทะความเข้มข้นสูง |
+| 🟡 | 3–5 | คาดการณ์ใบเหลือง | Gudmundsson, Ayari และ Bergvall ของสวีเดนแต่ละคนอยู่ห่างจากการพักเพียงหนึ่งใบ — การ pressing ของญี่ปุ่นทำให้เกิดฟาวล์ยุทธวิธีตลอดเกม |
+| 🟥 | 0–1 | คาดการณ์ใบแดง | ความน่าจะเป็นต่ำ แต่ความสิ้นหวังที่เพิ่มขึ้นของสวีเดนหากตามหลังใน 20 นาทีสุดท้ายสร้างความเสี่ยงของการเล่นหุนหันพลันแล่น |
+| ⚠️ | 22–28 | ฟาวล์ของผู้ตัดสิน/นัด | ตัวกระตุ้น pressing ของญี่ปุ่นและความเร่งด่วนทางกายภาพของสวีเดนสร้างการปะทะกันกลางสนามบ่อยครั้ง |
 
-## referee:zh
-
-- icon: ⚖️
-- name: 待確認（TBC）
-- country: 🏳️ 由 FIFA 在賽前指派
-- note: 裁判尚未公布。本場比賽雙方均急需積分，賽況高度緊張；預計裁判將以強硬態度管控比賽節奏。預計黃牌數高於平均水準。
-
-| stat | value | color |
-|------|-------|-------|
-| 執法場次 | TBC | #F1F5F9 |
-| 黃牌總數 | TBC | #EAB308 |
-| 黃紅牌 | TBC | orange |
-| 紅牌總數 | TBC | #EF4444 |
-| 均牌/場 | TBC | #60a5fa |
-| 均犯規/場 | TBC | #60a5fa |
+## event_preds:vi
+| icon | value | label | detail |
+|------|-------|-------|--------|
+| ⛳ | 9–12 | Dự đoán Phạt Góc | Các hậu vệ cánh năng động Sugawara và Doan của Nhật Bản cùng hệ thống chiều rộng của Thụy Điển tạo ra nhiều phạt góc ở cả hai đầu. |
+| 🟡 | 3–5 | Dự đoán Thẻ Vàng | Gudmundsson, Ayari và Bergvall của Thụy Điển mỗi người chỉ cách án treo giò một thẻ — pressing phối hợp của Nhật Bản liên tục tạo ra các lỗi chiến thuật. |
+| 🟥 | 0–1 | Dự đoán Thẻ Đỏ | Xác suất thấp nhưng sự tuyệt vọng của Thụy Điển nếu đang thua trong 20 phút cuối tạo ra rủi ro về những pha vào bóng liều lĩnh. |
+| ⚠️ | 22–28 | Số Lỗi/Trận của Trọng tài | Các kích hoạt pressing của Nhật Bản và sự khẩn cấp thể lực của Thụy Điển tạo ra các va chạm tuyến giữa thường xuyên. |
 
 ## referee:en
-
 - icon: ⚖️
-- name: To Be Confirmed (TBC)
-- country: 🏳️ Assigned by FIFA before the match
-- note: Referee not yet announced. This is a high-stakes game with both teams needing points; expect a firm approach to manage intensity. Card count expected to be above average.
+- name: TBD
+- country: TBD · FIFA Assignment Pending
+- note: The referee for this match has not yet been assigned by FIFA. In this high-stakes finale with both teams battling for advancement, expect a firm approach to manage match intensity.
 
 | stat | value | color |
 |------|-------|-------|
-| Matches Officiated | TBC | #F1F5F9 |
-| Total Yellow Cards | TBC | #EAB308 |
-| Yellow-Reds | TBC | orange |
-| Total Red Cards | TBC | #EF4444 |
-| Avg Cards/Match | TBC | #60a5fa |
-| Avg Fouls/Match | TBC | #60a5fa |
+| Matches Officiated | — | #F1F5F9 |
+| Total Yellow Cards | — | #EAB308 |
+| Yellow-Red Cards | — | orange |
+| Red Cards | — | #EF4444 |
+
+## referee:zh
+- icon: ⚖️
+- name: TBD
+- country: 待定 · FIFA 指派中
+- note: 本場裁判由 FIFA 賽前指派，尚未公布。在這場雙方爭奪晉級資格的高風險決戰中，預計裁判將以強硬態度管控比賽節奏。
+
+| stat | value | color |
+|------|-------|-------|
+| 執法場次 | — | #F1F5F9 |
+| 黃牌總數 | — | #EAB308 |
+| 黃紅牌 | — | orange |
+| 紅牌 | — | #EF4444 |
 
 ## referee:zh-cn
-
 - icon: ⚖️
-- name: 待确认（TBC）
-- country: 🏳️ 由 FIFA 在赛前指派
-- note: 裁判尚未公布。本场比赛双方均急需积分，赛况高度紧张；预计裁判将以强硬态度管控比赛节奏。预计黄牌数高于平均水准。
+- name: TBD
+- country: 待定 · FIFA 指派中
+- note: 本场裁判由FIFA赛前指派，尚未公布。在这场双方争夺晋级资格的高风险决战中，预计裁判将以强硬态度管控比赛节奏。
 
 | stat | value | color |
 |------|-------|-------|
-| 执法场次 | TBC | #F1F5F9 |
-| 黄牌总数 | TBC | #EAB308 |
-| 黄红牌 | TBC | orange |
-| 红牌总数 | TBC | #EF4444 |
-| 均牌/场 | TBC | #60a5fa |
-| 均犯规/场 | TBC | #60a5fa |
-
-## referee:vi
-
-- icon: ⚖️
-- name: Sẽ được xác nhận (TBC)
-- country: 🏳️ Được FIFA chỉ định trước trận
-- note: Trọng tài chưa được công bố. Đây là trận đấu quan trọng khi cả hai đội đều cần điểm; kỳ vọng trọng tài sẽ có cách tiếp cận cứng rắn để quản lý cường độ. Số thẻ phạt dự kiến ​​cao hơn mức trung bình.
-
-| stat | value | color |
-|------|-------|-------|
-| Số trận điều hành | TBC | #F1F5F9 |
-| Tổng thẻ vàng | TBC | #EAB308 |
-| Thẻ vàng-đỏ | TBC | orange |
-| Tổng thẻ đỏ | TBC | #EF4444 |
-| Trung bình thẻ/trận | TBC | #60a5fa |
-| TB lỗi/trận | TBC | #60a5fa |
+| 执法场次 | — | #F1F5F9 |
+| 黄牌总数 | — | #EAB308 |
+| 黄红牌 | — | orange |
+| 红牌 | — | #EF4444 |
 
 ## referee:th
-
 - icon: ⚖️
-- name: รอการยืนยัน (TBC)
-- country: 🏳️ ได้รับมอบหมายจาก FIFA ก่อนการแข่งขัน
-- note: ยังไม่ประกาศผู้ตัดสิน นี่คือเกมเดิมพันสูงที่ทั้งสองทีมต้องการแต้ม คาดว่าผู้ตัดสินจะใช้แนวทางเด็ดขาดในการจัดการความเข้มข้น จำนวนใบเหลืองคาดว่าจะสูงกว่าค่าเฉลี่ย
+- name: TBD
+- country: TBD · FIFA ยังไม่ได้มอบหมาย
+- note: กรรมการสำหรับนัดนี้ยังไม่ได้รับการแต่งตั้งจาก FIFA ในเกมเดิมพันสูงนี้ที่ทั้งสองทีมต่อสู้เพื่อผ่านรอบ คาดว่ากรรมการจะใช้แนวทางที่เด็ดขาดในการจัดการความเข้มข้น
 
 | stat | value | color |
 |------|-------|-------|
-| จำนวนแมตช์ที่ตัดสิน | TBC | #F1F5F9 |
-| ใบเหลืองรวม | TBC | #EAB308 |
-| ใบเหลืองแดง | TBC | orange |
-| ใบแดงรวม | TBC | #EF4444 |
-| เฉลี่ยใบ/แมตช์ | TBC | #60a5fa |
-| เฉลี่ยฟาวล์/แมตช์ | TBC | #60a5fa |
+| นัดที่ตัดสิน | — | #F1F5F9 |
+| ใบเหลืองรวม | — | #EAB308 |
+| ใบเหลือง-แดง | — | orange |
+| ใบแดง | — | #EF4444 |
 
-## h2h:zh
+## referee:vi
+- icon: ⚖️
+- name: TBD
+- country: TBD · FIFA chưa phân công
+- note: Trọng tài trận đấu này chưa được FIFA phân công. Trong trận chung kết bảng đấu có cổ phần cao này, dự kiến trọng tài sẽ có cách tiếp cận cứng rắn.
 
-- title: 歷史交鋒紀錄
-- homeWins: 1
-- draws: 0
-- awayWins: 2
-- note: 瑞典在歷史對戰中佔有優勢，但現役這批球員已證明能夠擊敗任何對手。日本在2022年卡塔爾世界盃擊敗了西班牙和德國。瑞典通過歐國聯附加賽的晉級之路，以及換帥之後的蛻變，更像是一支「逆襲者」的形象。第二輪後F組的積分排名，將是雙方制定戰術的關鍵背景。
+| stat | value | color |
+|------|-------|-------|
+| Số trận điều khiển | — | #F1F5F9 |
+| Tổng thẻ vàng | — | #EAB308 |
+| Thẻ vàng-đỏ | — | orange |
+| Thẻ đỏ | — | #EF4444 |
 
 ## h2h:en
-
 - title: Head-to-Head Record
 - homeWins: 1
-- draws: 0
-- awayWins: 2
-- note: Sweden hold the historical edge over Japan but the current generation has shown it can topple anyone. Japan beat Spain and Germany in Qatar 2022. Sweden's qualification route — through Nations League play-offs with a new manager — gives them an underdog narrative. Group F standings after Matchday 2 will be critical context for how both teams approach this must-watch finale.
+- draws: 3
+- awayWins: 0
+- note: Japan's all-time record vs Sweden stands at 1W-3D-0L across 4 meetings — never beaten by Sweden. Japan's only win came in the 1936 Olympic tournament in Berlin (3-2). Three subsequent friendlies (1995, 1996, 2002) all ended level. This is their first ever World Cup encounter. Japan enter with 4 pts (1W-1D), Sweden with 3 pts (1W-1L); the winner of this Group F finale likely advances as runners-up alongside Netherlands.
+
+## h2h:zh
+- title: 歷史交鋒紀錄
+- homeWins: 1
+- draws: 3
+- awayWins: 0
+- note: 日本對瑞典的全部歷史交鋒紀錄為 1 勝 3 平 0 負——從未輸給瑞典。唯一一場勝利來自 1936 年柏林奧運（3-2）。此後三次友誼賽（1995、1996、2002 年）均以平局收場。兩隊首次在世界盃賽場相遇。日本積 4 分（1 勝 1 平），瑞典積 3 分（1 勝 1 負），本場 F 組壓軸決戰的勝者很可能以次名晉級，搭檔荷蘭出線。
 
 ## h2h:zh-cn
-
 - title: 历史交锋纪录
 - homeWins: 1
-- draws: 0
-- awayWins: 2
-- note: 瑞典在历史对战中占有优势，但现役这批球员已证明能够击败任何对手。日本在2022年卡塔尔世界杯击败了西班牙和德国。瑞典通过欧国联附加赛的晋级之路，以及换帅之后的蜕变，更像是一支"逆袭者"的形象。第二轮后F组的积分排名，将是双方制定战术的关键背景。
-
-## h2h:vi
-
-- title: Lịch sử đối đầu
-- homeWins: 1
-- draws: 0
-- awayWins: 2
-- note: Thụy Điển có lợi thế lịch sử trước Nhật Bản, nhưng thế hệ hiện tại đã chứng minh họ có thể hạ gục bất kỳ ai. Nhật Bản từng đánh bại Tây Ban Nha và Đức tại Qatar 2022. Con đường vòng loại của Thụy Điển — qua play-off Nations League với tân HLV — tạo nên câu chuyện của kẻ yếu thế vươn lên. Bảng xếp hạng bảng F sau lượt trận 2 sẽ là bối cảnh quan trọng quyết định cách cả hai đội tiếp cận trận chung kết bảng đấu này.
+- draws: 3
+- awayWins: 0
+- note: 日本对瑞典的历史交锋纪录为1胜3平0负——从未输给瑞典。唯一的胜利来自1936年柏林奥运（3-2）。此后三次友谊赛（1995、1996、2002年）均以平局收场。两队首次在世界杯赛场相遇。日本积4分（1胜1平），瑞典积3分（1胜1负），本场F组压轴决战的胜者很可能以次名晋级。
 
 ## h2h:th
-
 - title: สถิติการพบกัน
 - homeWins: 1
-- draws: 0
-- awayWins: 2
-- note: สวีเดนมีความได้เปรียบทางประวัติศาสตร์เหนือญี่ปุ่น แต่รุ่นปัจจุบันได้แสดงให้เห็นว่าสามารถล้มทีมใดก็ได้ ญี่ปุ่นเอาชนะสเปนและเยอรมนีในกาตาร์ 2022 เส้นทางผ่านเข้ารอบของสวีเดน — ผ่านเพลย์ออฟ Nations League กับโค้ชใหม่ — สร้างเรื่องราวของผู้ท้าชิงรายเต็ง อันดับตาราง F หลังแมตช์ที่ 2 จะเป็นบริบทสำคัญที่กำหนดวิธีการที่ทั้งสองทีมเข้าหาเกมปิดท้ายกลุ่มที่น่าจับตานี้
+- draws: 3
+- awayWins: 0
+- note: สถิติตลอดกาลของญี่ปุ่นพบสวีเดนคือ 1 ชนะ 3 เสมอ 0 แพ้ ใน 4 นัด — ไม่เคยพ่ายสวีเดน ชัยชนะครั้งเดียวมาจากโอลิมปิก 1936 ที่เบอร์ลิน (3-2) เกมกระชับมิตรสามครั้งต่อมาจบเสมอ นี่คือครั้งแรกที่ทั้งสองพบกันในฟุตบอลโลก ญี่ปุ่นมี 4 แต้ม สวีเดน 3 แต้ม ผู้ชนะในนัดชิงบัญชี F น่าจะผ่านรอบเป็นอันดับสองร่วมกับเนเธอร์แลนด์
 
-## battles:zh
-
-| playerA | posA | playerB | posB | desc |
-|---------|------|---------|------|------|
-| Takefusa Kubo | 🇯🇵 AM | Karl Karlstrom | 🇸🇪 MID | 日本的創造核心對決瑞典的後腰——久保的移動和盤帶能力對抗Karlstrom的位置紀律。 |
-| Ayase Ueda | 🇯🇵 ST | Victor Lindelöf | 🇸🇪 CB | 日本前鋒對決瑞典經驗豐富的隊長——爭頂和位置感至關重要。 |
-| Daichi Kamada | 🇯🇵 AM | Lucas Bergvall | 🇸🇪 MID | 當今世界最令人期待的兩位年輕中場正面交鋒——組織者的對決。 |
-| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura | 🇯🇵 CB | 阿森納的可怕前鋒對陣日本的隊長中後衛——本場最受矚目的個人對決。 |
+## h2h:vi
+- title: Lịch Sử Đối Đầu
+- homeWins: 1
+- draws: 3
+- awayWins: 0
+- note: Thành tích lịch sử của Nhật Bản trước Thụy Điển là 1 thắng 3 hòa 0 thua qua 4 lần gặp nhau — chưa bao giờ thua Thụy Điển. Chiến thắng duy nhất đến từ Olympic 1936 tại Berlin (3-2). Ba trận giao hữu sau đó đều hòa (1995, 1996, 2002). Đây là lần đầu tiên họ gặp nhau tại World Cup. Nhật Bản có 4 điểm, Thụy Điển 3 điểm; người chiến thắng trong trận chung kết bảng F này có thể giành vé thứ hai cùng Hà Lan.
 
 ## battles:en
-
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Takefusa Kubo | 🇯🇵 AM | Karl Karlstrom | 🇸🇪 MID | Japan's creative hub vs Sweden's holding midfielder — Kubo's movement and dribbling against Karlstrom's positional discipline. |
-| Ayase Ueda | 🇯🇵 ST | Victor Lindelöf | 🇸🇪 CB | Japan's striker vs Sweden's experienced captain — aerial duels and positioning decisive. |
-| Daichi Kamada | 🇯🇵 AM | Lucas Bergvall | 🇸🇪 MID | Two of the world's most exciting young midfielders going head to head — the battle of the playmakers. |
-| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura | 🇯🇵 CB | Arsenal's fearsome striker vs Japan's captain-defender — the most anticipated individual duel in this match. |
+| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura (C) | 🇯🇵 CB | Arsenal's lethal striker vs Japan's captain-defender — Gyökeres' explosive power and movement against Itakura's organizing composure, the match's defining duel. |
+| Alexander Isak | 🇸🇪 ST | Hiroki Ito | 🇯🇵 CB | Liverpool's technical finisher vs Bayern Munich's center-back — Isak's pace and brilliant touch against Ito's Bundesliga-hardened physicality. |
+| Ayase Ueda | 🇯🇵 ST | Isak Hien | 🇸🇪 CB | Japan's top scorer vs Atalanta's commanding center-back — clinical box finishing against Italian-school defensive organization. |
+| Yasin Ayari | 🇸🇪 CM | Ao Tanaka | 🇯🇵 CM | Brighton's two-goal scorer vs Leeds United's disciplined midfielder — Ayari's creative drive against Tanaka's positional discipline shapes Japan's counter-attack rhythm. |
+
+## battles:zh
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura (C) | 🇯🇵 CB | 阿森納的毀滅性射手對決日本隊長中後衛——Gyökeres 的爆炸力與動態跑位對抗 Itakura 的沉穩指揮，是本場最核心的個人對決。 |
+| Alexander Isak | 🇸🇪 ST | Hiroki Ito | 🇯🇵 CB | 利物浦的技術精準完射手對決拜仁慕尼黑中後衛——Isak 的速度與出色腳法，挑戰 Ito 的德甲身體對抗。 |
+| Ayase Ueda | 🇯🇵 ST | Isak Hien | 🇸🇪 CB | 日本頂級射手對決亞特蘭大指揮型中後衛——禁區精準完成對抗義式防守功底，攸關日本率先破門的機會。 |
+| Yasin Ayari | 🇸🇪 CM | Ao Tanaka | 🇯🇵 CM | 布萊頓的雙響炮對決利茲中場——Ayari 的創造力衝勁對抗田中碧的站位防守，決定日本反擊節奏。 |
 
 ## battles:zh-cn
-
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Takefusa Kubo | 🇯🇵 AM | Karl Karlstrom | 🇸🇪 MID | 日本的创造核心对决瑞典的后腰——久保的移动和盘带能力对抗Karlstrom的位置纪律。 |
-| Ayase Ueda | 🇯🇵 ST | Victor Lindelöf | 🇸🇪 CB | 日本前锋对决瑞典经验丰富的队长——争顶和位置感至关重要。 |
-| Daichi Kamada | 🇯🇵 AM | Lucas Bergvall | 🇸🇪 MID | 当今世界最令人期待的两位年轻中场正面交锋——组织者的对决。 |
-| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura | 🇯🇵 CB | 阿森纳的可怕前锋对阵日本的队长中后卫——本场最受瞩目的个人对决。 |
-
-## battles:vi
-
-| playerA | posA | playerB | posB | desc |
-|---------|------|---------|------|------|
-| Takefusa Kubo | 🇯🇵 AM | Karl Karlstrom | 🇸🇪 MID | Trung tâm sáng tạo của Nhật Bản đối đầu tiền vệ trụ của Thụy Điển — khả năng di chuyển và dribble của Kubo chống lại kỷ luật vị trí của Karlstrom. |
-| Ayase Ueda | 🇯🇵 ST | Victor Lindelöf | 🇸🇪 CB | Tiền đạo Nhật Bản đối đầu đội trưởng giàu kinh nghiệm của Thụy Điển — không chiến và cảm giác vị trí là yếu tố quyết định. |
-| Daichi Kamada | 🇯🇵 AM | Lucas Bergvall | 🇸🇪 MID | Hai tiền vệ trẻ hấp dẫn nhất thế giới hiện tại đối đầu trực tiếp — cuộc chiến của những người kiến tạo. |
-| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura | 🇯🇵 CB | Tiền đạo đáng sợ của Arsenal đối đầu hậu vệ trung tâm kiêm đội trưởng của Nhật Bản — cuộc đấu cá nhân được mong đợi nhất trận này. |
+| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura (C) | 🇯🇵 CB | 阿森纳的毁灭性射手对决日本队长中后卫——Gyökeres的爆炸力与动态跑位对抗Itakura的沉稳指挥，是本场最核心的个人对决。 |
+| Alexander Isak | 🇸🇪 ST | Hiroki Ito | 🇯🇵 CB | 利物浦的技术精准完射手对决拜仁慕尼黑中后卫——Isak的速度与出色脚法，挑战Ito的德甲身体对抗。 |
+| Ayase Ueda | 🇯🇵 ST | Isak Hien | 🇸🇪 CB | 日本顶级射手对决亚特兰大指挥型中后卫——禁区精准完成对抗义式防守功底，攸关日本率先破门。 |
+| Yasin Ayari | 🇸🇪 CM | Ao Tanaka | 🇯🇵 CM | 布莱顿的双响炮对决利兹中场——Ayari的创造力冲劲对抗田中碧的站位防守，决定日本反击节奏。 |
 
 ## battles:th
-
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Takefusa Kubo | 🇯🇵 AM | Karl Karlstrom | 🇸🇪 MID | ศูนย์กลางสร้างสรรค์ของญี่ปุ่นพบมิดฟิลด์ตัวรับของสวีเดน — การเคลื่อนไหวและการเลี้ยงบอลของ Kubo ต่อต้านวินัยตำแหน่งของ Karlstrom |
-| Ayase Ueda | 🇯🇵 ST | Victor Lindelöf | 🇸🇪 CB | กองหน้าญี่ปุ่นพบกัปตันทีมที่มีประสบการณ์ของสวีเดน — การแข่งขันทางอากาศและการจัดวางตำแหน่งเป็นสิ่งชี้ขาด |
-| Daichi Kamada | 🇯🇵 AM | Lucas Bergvall | 🇸🇪 MID | สองมิดฟิลด์หนุ่มที่น่าตื่นเต้นที่สุดในโลกปะทะกันโดยตรง — ศึกผู้สร้างเกม |
-| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura | 🇯🇵 CB | กองหน้าน่ากลัวของอาร์เซนอลพบเซ็นเตอร์แบ็คกัปตันทีมของญี่ปุ่น — การดวลส่วนตัวที่ถูกคาดหวังมากที่สุดในแมตช์นี้ |
+| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura (C) | 🇯🇵 CB | กองหน้าสังหารของอาร์เซนอลปะทะเซ็นเตอร์แบ็คกัปตันทีมของญี่ปุ่น — พลังระเบิดและการวิ่งของ Gyökeres เผชิญความสงบและการจัดระเบียบของ Itakura |
+| Alexander Isak | 🇸🇪 ST | Hiroki Ito | 🇯🇵 CB | นักยิงประตูเทคนิคของลิเวอร์พูลปะทะเซ็นเตอร์แบ็คของบาเยิร์น — ความเร็วและความสวยงามของ Isak ท้าทายความแข็งแกร่งของ Ito |
+| Ayase Ueda | 🇯🇵 ST | Isak Hien | 🇸🇪 CB | นักยิงประตูหัวแถวของญี่ปุ่นปะทะเซ็นเตอร์แบ็คจาก Atalanta — การจบสกอร์ที่แม่นยำในเขตโทษเผชิญการป้องกันสไตล์อิตาลี |
+| Yasin Ayari | 🇸🇪 CM | Ao Tanaka | 🇯🇵 CM | ผู้ทำสองประตูของ Brighton ปะทะมิดฟิลด์ของ Leeds — ความคิดสร้างสรรค์ของ Ayari ต่อต้านวินัยตำแหน่งของ Tanaka กำหนดจังหวะการตีโต้ของญี่ปุ่น |
 
-## summary_verdict:zh
-
-日本在多屆世界盃中已多次證明，他們能夠憑藉嚴密的戰術組織、高位逼搶的智慧，以及個人精彩表現來擊敗更受青睞的對手。久保、鎌田和堂安在反擊中均有能力傷害瑞典；森保一將排出緊湊陣型，伺機利用瑞典高防線身後的空間。
-
-瑞典的Gyökeres與Isak搭檔是F組最危險的進攻組合。Potter的3-4-2-1通過翼後衛製造寬度，並借助Bergvall和Ayari創造機會。若瑞典的逼搶奏效，他們能夠壓制日本的中場，為旗下前鋒創造空間。
-
-預測：1-2瑞典勝。瑞典的前鋒質量在緊湊對決中略勝一籌。Gyökeres在大場面中一如既往地破門，Isak補上第二球。日本雖能扳平但難以承受持續壓力。若小組形勢允許，雙方均可出線——預計是一場戲劇性的收官之戰。
+## battles:vi
+| playerA | posA | playerB | posB | desc |
+|---------|------|---------|------|------|
+| Viktor Gyökeres | 🇸🇪 ST | Ko Itakura (C) | 🇯🇵 CB | Tiền đạo sát thủ của Arsenal đối đầu hậu vệ trung tâm kiêm đội trưởng Nhật Bản — sức bùng nổ và di chuyển của Gyökeres chống lại sự bình tĩnh tổ chức của Itakura, cuộc đấu trung tâm của trận đấu. |
+| Alexander Isak | 🇸🇪 ST | Hiroki Ito | 🇯🇵 CB | Chân sút kỹ thuật của Liverpool đối đầu trung vệ Bayern Munich — tốc độ và kỹ thuật tuyệt vời của Isak thách thức thể lực Bundesliga của Ito. |
+| Ayase Ueda | 🇯🇵 ST | Isak Hien | 🇸🇪 CB | Chân sút hàng đầu Nhật Bản đối đầu trung vệ chỉ huy Atalanta — dứt điểm lạnh lùng trong vòng cấm đối lại phòng thủ phong cách Ý. |
+| Yasin Ayari | 🇸🇪 CM | Ao Tanaka | 🇯🇵 CM | Người ghi hai bàn của Brighton đối đầu tiền vệ kỷ luật Leeds — khả năng sáng tạo của Ayari đối lập vị trí phòng thủ của Tanaka, quyết định nhịp phản công của Nhật Bản. |
 
 ## summary_verdict:en
+This is a classic group-stage scenario: Japan need only a draw while Sweden must win. Moriyasu's meticulous tactical preparation will likely see Japan set up with a compact mid-block, absorbing Sweden's pressure and exploiting the spaces Gyökeres and Isak's attacking movements create behind Sweden's own wing-backs. Moriyasu famously used a hand-held whiteboard to instruct his players in the 88th minute equalizer against Netherlands — expect similar precision under pressure.
 
-Japan have shown at multiple World Cups that they can overcome more fancied opposition through tactical organization, pressing intelligence, and moments of individual brilliance. Kubo, Kamada, and Doan are capable of hurting Sweden on the transition; Moriyasu will set up compactly and look to exploit space in behind Sweden's high line.
+Sweden's Gyökeres-Isak partnership is one of the most dangerous in the entire tournament. But their defense conceded 5 goals against Netherlands, and three midfielders entering on yellow cards represent a significant tactical headache for Potter. Any caution for Gudmundsson, Ayari, or Bergvall triggers a suspension for the Round of 16.
 
-Sweden's Gyökeres-Isak partnership is the most dangerous forward combination in Group F. Potter's 3-4-2-1 gives width through the wing-backs and creativity through Bergvall and Ayari. If Sweden get their press right, they can overpower Japan's midfield and create the openings their forwards thrive on.
+Japan's key absences hurt — Wataru Endo's midfield authority and Kaoru Mitoma's electrifying pace are both missing. But Ueda (16 international goals), Kamada, and Doan have stepped up brilliantly. Japan only need to be level at 90 minutes.
 
-Prediction: 1-2 Sweden win. Sweden's forward quality edges it in a closely contested match. Gyökeres scores, as he so often does in big moments, and Isak adds a second. Japan equalize but cannot sustain the pressure. Both teams advance if the group dynamics align — expect a dramatic finale.
+Prediction: Japan 2-1 Sweden. Japan's disciplined counter-pressing and clinical finishing through Ueda and Kamada provide the winning margin. Gyökeres will score — he always does — but Japan's defensive organization and the psychological weight of Sweden's must-win pressure edge the game in Japan's favor.
+
+*Probabilities are AI estimates for analytical purposes only — not betting advice.*
+
+## summary_verdict:zh
+這是一場典型的小組賽終局戰——日本只需平局，瑞典必須取勝。森保一的精密戰術籌備很可能令日本擺出緊湊的中位防守陣型，吸收瑞典的攻勢壓力，再利用 Gyökeres 與 Isak 的前插動作在瑞典翼後衛身後所留下的空間。森保一曾在對荷蘭的比賽中於 88 分鐘時以手持白板指揮球員追平進球，同樣精準的壓力應對預計在本場重現。
+
+瑞典的 Gyökeres-Isak 鋒線是本屆世界盃最危險的組合之一。然而後防在荷蘭面前漏了 5 球，加上三名帶黃牌出場的中場球員為 Potter 帶來棘手的戰術困境。Gudmundsson、Ayari 或 Bergvall 若再受一次警告，將在十六強缺席。
+
+日本主力的缺陣傷人心——遠藤航的中場掌控力與三笘薰的閃電速度均已缺席。但上田綺世（16 球）、鎌田大地和堂安律發揮出色地填補空缺。日本只需在 90 分鐘結束時不落後即可晉級。
+
+預測：日本 2-1 勝。日本紀律嚴明的反壓迫與上田、鎌田的臨門一腳提供決定性優勢。Gyökeres 必定入球——他在大場面從不缺席——但日本的防守組織與瑞典必勝壓力的心理重量，將令天秤向日本傾斜。
+
+*機率均為 AI 分析估算，僅供參考，不構成投注建議。*
 
 ## summary_verdict:zh-cn
+这是一场典型的小组赛终局战——日本只需平局，瑞典必须取胜。森保一的精密战术筹备很可能令日本摆出紧凑的中位防守阵型，吸收瑞典的攻势压力，再利用Gyökeres与Isak的前插动作在瑞典翼后卫身后所留下的空间。森保一曾在对荷兰的比赛中于88分钟时以手持白板指挥球员追平进球，同样精准的压力应对预计在本场重现。
 
-日本在多届世界杯中已多次证明，他们能够凭借严密的战术组织、高位逼抢的智慧，以及个人精彩表现来击败更受青睐的对手。久保、镰田和堂安在反击中均有能力伤害瑞典；森保一将排出紧凑阵型，伺机利用瑞典高防线身后的空间。
+瑞典的Gyökeres-Isak锋线是本届世界杯最危险的组合之一。然而后防在荷兰面前漏了5球，加上三名带黄牌出场的中场球员为Potter带来棘手的战术困境。Gudmundsson、Ayari或Bergvall若再受警告，将在十六强缺席。
 
-瑞典的Gyökeres与Isak搭档是F组最危险的进攻组合。Potter的3-4-2-1通过翼后卫制造宽度，并借助Bergvall和Ayari创造机会。若瑞典的逼抢奏效，他们能够压制日本的中场，为旗下前锋创造空间。
+日本主力的缺阵令人扼腕——远藤航的中场掌控力与三笘薰的闪电速度均已缺席。但上田绮世（16球）、镰田大地和堂安律发挥出色地填补空缺。日本只需在90分钟结束时不落后即可晋级。
 
-预测：1-2瑞典胜。瑞典的前锋质量在紧凑对决中略胜一筹。Gyökeres在大场面中一如既往地破门，Isak补上第二球。日本虽能扳平但难以承受持续压力。若小组形势允许，双方均可出线——预计是一场戏剧性的收官之战。
+预测：日本2-1胜。日本纪律严明的反压迫与上田、镰田的临门一脚提供决定性优势。Gyökeres必定入球——他在大场面从不缺席——但日本的防守组织与瑞典必胜压力的心理重量，将令天秤向日本倾斜。
 
-## summary_verdict:vi
-
-Nhật Bản đã nhiều lần chứng minh tại các kỳ World Cup rằng họ có thể vượt qua những đối thủ được đánh giá cao hơn nhờ tổ chức chiến thuật, pressing thông minh và những khoảnh khắc sáng tạo cá nhân. Kubo, Kamada và Doan đều có khả năng gây hại cho Thụy Điển trong các pha phản công; Moriyasu sẽ bố trí đội hình chắc chắn và tìm cách khai thác không gian phía sau hàng thủ dâng cao của Thụy Điển.
-
-Bộ đôi Gyökeres-Isak của Thụy Điển là sự kết hợp tấn công nguy hiểm nhất bảng F. Sơ đồ 3-4-2-1 của Potter tạo chiều rộng qua các hậu vệ cánh và sức sáng tạo qua Bergvall và Ayari. Nếu Thụy Điển pressing đúng cách, họ có thể áp đảo tuyến giữa Nhật Bản và tạo ra những cơ hội cho các tiền đạo của mình.
-
-Dự đoán: Thụy Điển thắng 1-2. Chất lượng hàng công của Thụy Điển nhỉnh hơn trong trận đấu căng thẳng. Gyökeres ghi bàn như thường lệ trong những thời khắc quan trọng, Isak bổ sung bàn thứ hai. Nhật Bản gỡ hòa nhưng không thể chịu đựng áp lực liên tục. Cả hai đội có thể cùng đi tiếp nếu diễn biến bảng đấu cho phép — hứa hẹn một màn chung kết bảng kịch tính.
+*概率均为AI分析估算，仅供参考，不构成投注建议。*
 
 ## summary_verdict:th
+นี่คือสถานการณ์รอบแบ่งกลุ่มแบบคลาสสิก: ญี่ปุ่นต้องการแค่เสมอในขณะที่สวีเดนต้องชนะ การเตรียมทางยุทธวิธีที่พิถีพิถันของโมริยาสุน่าจะทำให้ญี่ปุ่นจัดรูปแบบกลางสนามที่แน่นหนา ดูดซับแรงกดดันของสวีเดนและหาประโยชน์จากพื้นที่ที่การเคลื่อนไหวรุกของ Gyökeres และ Isak สร้างขึ้นด้านหลังปีกของสวีเดน โมริยาสุเคยใช้กระดานขาวในนาทีที่ 88 สั่งการผู้เล่นในเกมพบเนเธอร์แลนด์ คาดว่าจะเห็นความแม่นยำแบบเดียวกันภายใต้แรงกดดัน
 
-ญี่ปุ่นได้แสดงให้เห็นในหลาย World Cup ว่าพวกเขาสามารถเอาชนะคู่แข่งที่ได้รับการยกย่องมากกว่าผ่านการจัดองค์กรทางยุทธวิธี สติปัญญาในการกดดัน และช่วงเวลาแห่งความเจิดจรัสส่วนบุคคล คูโบะ คามาดะ และโดอัน สามารถทำร้ายสวีเดนในการตีโต้ โมริยาสุจะวางทีมอย่างกระชับและมองหาพื้นที่เบื้องหลังแนวรับที่ดันสูงของสวีเดน
+คู่ Gyökeres-Isak ของสวีเดนเป็นหนึ่งในคู่ที่อันตรายที่สุดในทัวร์นาเมนต์ทั้งหมด แต่แนวรับของพวกเขาเสียไป 5 ประตูให้เนเธอร์แลนด์ และมิดฟิลด์สามคนที่ถือใบเหลืองเข้าสู่เกมนี้เป็นปัญหาสำคัญสำหรับ Potter
 
-คู่หน้า Gyökeres-Isak ของสวีเดนคือการรวมตัวกองหน้าที่อันตรายที่สุดในกลุ่ม F สูตร 3-4-2-1 ของ Potter สร้างความกว้างผ่านปีกและความคิดสร้างสรรค์ผ่าน Bergvall และ Ayari หากสวีเดนกดดันได้ถูกต้อง พวกเขาสามารถครอบงำกลางสนามของญี่ปุ่นและสร้างโอกาสให้กองหน้าของตน
+คาดการณ์: ญี่ปุ่นชนะ 2-1 การ pressing ตอบโต้ที่มีวินัยของญี่ปุ่นและการจบสกอร์ที่เฉียบขาดของ Ueda และ Kamada สร้างความแตกต่าง Gyökeres จะทำประตูได้ แต่การจัดระเบียบแนวรับของญี่ปุ่นและน้ำหนักทางจิตวิทยาจากแรงกดดันที่สวีเดนต้องชนะจะเอียงตาชั่งไปยังญี่ปุ่น
 
-ทำนาย: สวีเดนชนะ 1-2 คุณภาพกองหน้าของสวีเดนเหนือกว่าเล็กน้อยในเกมที่สูสี Gyökeres ทำประตูตามที่เขามักทำในช่วงเวลาสำคัญ และ Isak เพิ่มประตูที่สอง ญี่ปุ่นตีเสมอแต่ไม่สามารถรับมือกับแรงกดดันที่ต่อเนื่อง ทั้งสองทีมอาจผ่านเข้ารอบหากพลวัตของกลุ่มเอื้ออำนวย คาดว่าจะเป็นฉากสุดท้ายที่น่าตื่นเต้น
+*ความน่าจะเป็นเป็นการประมาณของ AI เพื่อวัตถุประสงค์ในการวิเคราะห์เท่านั้น — ไม่ใช่คำแนะนำในการพนัน*
 
-## observations:zh
+## summary_verdict:vi
+Đây là kịch bản bảng đấu điển hình: Nhật Bản chỉ cần hòa trong khi Thụy Điển bắt buộc phải thắng. Sự chuẩn bị chiến thuật tỉ mỉ của Moriyasu có thể sẽ thấy Nhật Bản thiết lập khối phòng thủ trung tầng, hấp thụ áp lực của Thụy Điển và khai thác khoảng trống mà các chuyển động tấn công của Gyökeres và Isak tạo ra phía sau hậu vệ cánh của chính Thụy Điển. Moriyasu đã nổi tiếng sử dụng bảng trắng cầm tay để hướng dẫn cầu thủ trong bàn gỡ hòa phút 88 trước Hà Lan.
 
-| title | detail |
-|-------|--------|
-| ⭐ Gyökeres 對陣所有人 | 這位阿森納前鋒是目前世界上最頂尖的前鋒之一——2025/26賽季俱樂部43球已說明一切。 |
-| 🎯 久保是日本的希望 | 沒有三笘薰，久保承擔了所有創造力的責任；他在狹小空間中的能力對於對抗瑞典的結構至關重要。 |
-| 🌸 日本的「巨人殺手」歷史 | 2022年卡塔爾：擊敗德國和西班牙。預計日本將以充分的動力和嚴密的組織登場，相信自己可以再度創造奇蹟。 |
-| 🇸🇪 Potter的藍圖 | Graham Potter的3-4-2-1最大化發揮了Gyökeres和Isak的威力——他的戰術靈活性為他贏得了這個難能可貴的機會。 |
-| 📊 小組賽背景 | 雙方皆需積分；日本不能輸球；瑞典可以接受平局但以三分為目標。 |
-| 📏 裁判待定 | 高風險衝突；主裁必須管控這場身體對抗激烈、情緒高漲的比賽。 |
+Cặp đôi Gyökeres-Isak của Thụy Điển là một trong những bộ đôi nguy hiểm nhất toàn giải. Nhưng hàng thủ thủng lưới 5 bàn trước Hà Lan, và ba tiền vệ mang thẻ vàng tạo khó khăn chiến thuật đáng kể cho Potter.
+
+Dự đoán: Nhật Bản thắng 2-1. Pressing phản công có kỷ luật và cú dứt điểm lạnh lùng của Ueda và Kamada tạo ra cách biệt quyết định. Gyökeres sẽ ghi bàn — anh luôn làm vậy — nhưng tổ chức phòng thủ của Nhật Bản và sức nặng tâm lý từ áp lực bắt buộc thắng của Thụy Điển sẽ nghiêng cán cân về phía Nhật Bản.
+
+*Xác suất là ước tính của AI chỉ cho mục đích phân tích — không phải lời khuyên cá cược.*
 
 ## observations:en
-
 | title | detail |
 |-------|--------|
-| ⭐ Gyökeres vs Everyone | The Arsenal striker is among the best forwards in the world right now — 43 club goals in 2025/26 speak for themselves. |
-| 🎯 Kubo is Japan's Hope | Without Mitoma, Kubo carries the creative burden; his ability in tight spaces is critical against Sweden's structure. |
-| 🌸 Japan's Giant-Killing History | Qatar 2022: beat Germany and Spain. Expect a fully motivated and organized Japan side that believes it can do it again. |
-| 🇸🇪 Potter's Blueprint | Graham Potter's 3-4-2-1 maximizes Gyökeres and Isak — his tactical flexibility earned him this incredible opportunity. |
-| 📊 Group Context | Both teams need points; Japan must avoid defeat; Sweden can afford a draw but will target three points. |
-| 📏 Referee TBC | High-stakes clash; the official must manage a physically intense and emotionally charged encounter. |
+| 🎯 Gyökeres Factor | Arsenal's lethal striker carries 27 international goals and Champions League pedigree; if given space behind Japan's wing-backs, he will decide this match single-handedly. |
+| 🟡 Yellow Card Time Bomb | Gudmundsson, Ayari and Bergvall each need one more booking to miss the Round of 16 — Potter must choose between starting them cautiously or risking a reckless second caution. |
+| 🇯🇵 Draw Psychology | Japan need only a draw to advance — Moriyasu's tactical genius (whiteboard instruction in the 88th-minute Netherlands equalizer) thrives when opponents must attack first. |
+| ⚡ Ueda's Clinical Edge | 16 international goals in 38 caps; with Endo and Mitoma absent, the Feyenoord striker carries the full weight of Japan's attacking ambitions against Sweden. |
+| 🔄 Kubo Wildcard | Takefusa Kubo's late appearance from the bench (knee sprain permitting) could be decisive; his Real Sociedad creativity is Sweden's worst nightmare in tight spaces. |
+| 🛡️ Sweden's Defensive Fragility | The 5-1 loss to Netherlands revealed structural weaknesses when Potter's system is pressed high — Japan's coordinated pressing may open the same gaps. |
+
+## observations:zh
+| title | detail |
+|-------|--------|
+| 🎯 Gyökeres 因素 | 阿森納的致命前鋒攜帶 27 個國際進球與歐冠級別底蘊；一旦在日本翼後衛身後獲得空間，他將憑一己之力左右本場比賽。 |
+| 🟡 黃牌計時炸彈 | Gudmundsson、Ayari 和 Bergvall 各缺一次警告便停賽——Potter 須選擇謹慎首發，還是冒著再獲黃牌的風險。 |
+| 🇯🇵 平局心理優勢 | 日本只需平局即可晉級——森保一的戰術天賦（以白板指揮追平荷蘭的第 88 分鐘進球）在對手必須先進攻的情況下更能大放異彩。 |
+| ⚡ 上田的臨門一腳 | 38 場 16 球；遠藤航和三笘薰缺席的背景下，費耶諾德前鋒獨攬日本對瑞典的全部進攻希望。 |
+| 🔄 久保的變數 | 久保建英的替補登場（視膝傷恢復情況而定）可能成為決定性因素；他的皇家社會創意和盤帶是瑞典在狹小空間中最不想面對的。 |
+| 🛡️ 瑞典防守的脆弱性 | 5-1 慘敗荷蘭暴露了 Potter 陣型被高位逼搶時的結構性漏洞——日本有序的協調式逼搶或能打開同樣的缺口。 |
 
 ## observations:zh-cn
-
 | title | detail |
 |-------|--------|
-| ⭐ Gyökeres 对阵所有人 | 这位阿森纳前锋是目前世界上最顶尖的前锋之一——2025/26赛季俱乐部43球已说明一切。 |
-| 🎯 久保是日本的希望 | 没有三笘薰，久保承担了所有创造力的责任；他在狭小空间中的能力对于对抗瑞典的结构至关重要。 |
-| 🌸 日本的「巨人杀手」历史 | 2022年卡塔尔：击败德国和西班牙。预计日本将以充分的动力和严密的组织登场，相信自己可以再度创造奇迹。 |
-| 🇸🇪 Potter的蓝图 | Graham Potter的3-4-2-1最大化发挥了Gyökeres和Isak的威力——他的战术灵活性为他赢得了这个难能可贵的机会。 |
-| 📊 小组赛背景 | 双方皆需积分；日本不能输球；瑞典可以接受平局但以三分为目标。 |
-| 📏 裁判待定 | 高风险冲突；主裁必须管控这场身体对抗激烈、情绪高涨的比赛。 |
-
-## observations:vi
-
-| title | detail |
-|-------|--------|
-| ⭐ Gyökeres đối đầu tất cả | Tiền đạo Arsenal hiện là một trong những chân sút hàng đầu thế giới — 43 bàn cho câu lạc bộ trong 2025/26 đã nói lên tất cả. |
-| 🎯 Kubo là hy vọng của Nhật Bản | Không có Mitoma, Kubo gánh vác gánh nặng sáng tạo; khả năng trong không gian hẹp của anh là yếu tố then chốt trước cấu trúc của Thụy Điển. |
-| 🌸 Lịch sử hạ gục người khổng lồ của Nhật Bản | Qatar 2022: đánh bại Đức và Tây Ban Nha. Kỳ vọng một Nhật Bản đầy động lực và tổ chức tốt, tin tưởng họ có thể làm lại điều đó. |
-| 🇸🇪 Bản thiết kế của Potter | Sơ đồ 3-4-2-1 của Graham Potter tối ưu hóa Gyökeres và Isak — sự linh hoạt chiến thuật của ông giúp ông có cơ hội phi thường này. |
-| 📊 Bối cảnh bảng đấu | Cả hai đội cần điểm; Nhật Bản không thể thua; Thụy Điển có thể chấp nhận hòa nhưng nhắm đến ba điểm. |
-| 📏 Trọng tài TBC | Trận đấu giá cao; trọng tài phải quản lý cuộc đối đầu căng thẳng về thể chất lẫn cảm xúc này. |
+| 🎯 Gyökeres因素 | 阿森纳的致命前锋携带27个国际进球与欧冠级别底蕴；一旦在日本翼后卫身后获得空间，他将凭一己之力左右本场比赛。 |
+| 🟡 黄牌计时炸弹 | Gudmundsson、Ayari和Bergvall各缺一次警告便停赛——Potter须选择谨慎首发，还是冒着再获黄牌的风险。 |
+| 🇯🇵 平局心理优势 | 日本只需平局即可晋级——森保一的战术天赋（以白板指挥追平荷兰的第88分钟进球）在对手必须先进攻的情况下更能大放异彩。 |
+| ⚡ 上田的临门一脚 | 38场16球；远藤航和三笘薰缺席的背景下，费耶诺德前锋独揽日本对瑞典的全部进攻希望。 |
+| 🔄 久保的变数 | 久保建英的替补登场（视膝伤恢复情况而定）可能成为决定性因素；他的皇家社会创意和盘带是瑞典在狭小空间中最不想面对的。 |
+| 🛡️ 瑞典防守的脆弱性 | 5-1惨败荷兰暴露了Potter阵型被高位逼抢时的结构性漏洞——日本有序的协调式逼抢或能打开同样的缺口。 |
 
 ## observations:th
-
 | title | detail |
 |-------|--------|
-| ⭐ Gyökeres ปะทะทุกคน | กองหน้าอาร์เซนอลเป็นหนึ่งในกองหน้าที่ดีที่สุดในโลกตอนนี้ — 43 ประตูให้สโมสรในฤดูกาล 2025/26 พูดแทนตัวเอง |
-| 🎯 คูโบะคือความหวังของญี่ปุ่น | ไม่มีมิโตมะ คูโบะแบกรับภาระสร้างสรรค์ทั้งหมด ความสามารถของเขาในพื้นที่แคบเป็นสิ่งสำคัญยิ่งต่อโครงสร้างของสวีเดน |
-| 🌸 ประวัติการล้มยักษ์ของญี่ปุ่น | กาตาร์ 2022: เอาชนะเยอรมนีและสเปน คาดว่าญี่ปุ่นจะมาพร้อมแรงจูงใจเต็มเปี่ยมและการจัดทีมที่ดี เชื่อว่าพวกเขาทำได้อีกครั้ง |
-| 🇸🇪 แผนงานของ Potter | สูตร 3-4-2-1 ของ Graham Potter ใช้ศักยภาพของ Gyökeres และ Isak ได้สูงสุด — ความยืดหยุ่นทางยุทธวิธีของเขาทำให้เขาได้รับโอกาสอันน่าทึ่งนี้ |
-| 📊 บริบทของกลุ่ม | ทั้งสองทีมต้องการแต้ม ญี่ปุ่นต้องหลีกเลี่ยงการแพ้ สวีเดนรับได้กับการเสมอแต่มุ่งหวังสามแต้ม |
-| 📏 ผู้ตัดสิน TBC | การปะทะเดิมพันสูง ผู้ตัดสินต้องจัดการการเผชิญหน้าที่เข้มข้นทางร่างกายและอารมณ์นี้ |
+| 🎯 ปัจจัย Gyökeres | กองหน้าสังหารของอาร์เซนอลมาพร้อม 27 ประตูนานาชาติและพื้นฐาน Champions League; หากได้รับพื้นที่ด้านหลังปีกของญี่ปุ่น เขาจะตัดสินแมตช์นี้คนเดียว |
+| 🟡 ระเบิดเวลาใบเหลือง | Gudmundsson, Ayari และ Bergvall แต่ละคนห่างจากการพักเพียงหนึ่งใบ — Potter ต้องเลือกระหว่างการให้พวกเขาลงสนามอย่างระมัดระวังหรือรับความเสี่ยงใบเหลืองใบสอง |
+| 🇯🇵 จิตวิทยาการเสมอ | ญี่ปุ่นต้องการแค่เสมอเพื่อผ่านรอบ — อัจฉริยภาพทางยุทธวิธีของโมริยาสุ (คำสั่งด้วยกระดานขาวในประตูเสมอนาทีที่ 88 กับเนเธอร์แลนด์) เฟื่องฟูเมื่อคู่ต่อสู้ต้องรุกก่อน |
+| ⚡ การจบสกอร์ที่คมของ Ueda | 16 ประตูใน 38 นัด; เมื่อ Endo และ Mitoma ขาดหาย กองหน้า Feyenoord รายนี้แบกรับความหวังการโจมตีทั้งหมดของญี่ปุ่น |
+| 🔄 ตัวแปร Kubo | การปรากฏตัวในช่วงท้ายของ Takefusa Kubo (หากเข่าอนุญาต) อาจเป็นตัวชี้ขาด ความคิดสร้างสรรค์ Real Sociedad ของเขาคือฝันร้ายที่เลวร้ายที่สุดของสวีเดน |
+| 🛡️ จุดอ่อนแนวรับสวีเดน | การแพ้ 5-1 กับเนเธอร์แลนด์เปิดเผยจุดอ่อนเชิงโครงสร้างเมื่อระบบ Potter ถูก high-press — การ pressing ที่ประสานงานของญี่ปุ่นอาจเปิดช่องว่างเดียวกัน |
+
+## observations:vi
+| title | detail |
+|-------|--------|
+| 🎯 Nhân Tố Gyökeres | Tiền đạo sát thủ của Arsenal mang 27 bàn thắng quốc tế và kinh nghiệm Champions League; nếu được trao không gian sau hậu vệ cánh của Nhật Bản, anh sẽ quyết định trận đấu một mình. |
+| 🟡 Bom Hẹn Giờ Thẻ Vàng | Gudmundsson, Ayari và Bergvall mỗi người chỉ cách án treo giò một thẻ — Potter phải chọn giữa việc để họ đá chính thận trọng hay chấp nhận rủi ro nhận thẻ thứ hai. |
+| 🇯🇵 Tâm Lý Trận Hòa | Nhật Bản chỉ cần hòa để đi tiếp — tài năng chiến thuật của Moriyasu (bảng trắng cầm tay trong bàn gỡ hòa phút 88 trước Hà Lan) phát sáng khi đối thủ phải tấn công trước. |
+| ⚡ Cú Dứt Điểm Của Ueda | 16 bàn trong 38 trận; với Endo và Mitoma vắng mặt, tiền đạo Feyenoord này gánh toàn bộ tham vọng tấn công của Nhật Bản trước Thụy Điển. |
+| 🔄 Ẩn Số Kubo | Xuất hiện muộn từ ghế dự bị của Takefusa Kubo (nếu đầu gối cho phép) có thể mang tính quyết định; sự sáng tạo Real Sociedad của anh là ác mộng tồi tệ nhất của Thụy Điển trong không gian chật hẹp. |
+| 🛡️ Điểm Yếu Phòng Thủ Thụy Điển | Thất bại 5-1 trước Hà Lan để lộ điểm yếu cấu trúc khi hệ thống Potter bị pressing cao — pressing phối hợp có tổ chức của Nhật Bản có thể mở ra những khoảng trống tương tự. |

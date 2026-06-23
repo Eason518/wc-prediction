@@ -575,3 +575,53 @@ Dự đoán: Pháp thắng 2–0. Mbappe và Olise là người ghi bàn khả n
 | 🏟️ ทัวร์อำลาของ Deschamps | นี่คือ World Cup สุดท้ายที่ Deschamps คุมทีม ทีมจะมีแรงจูงใจสูงเพื่อมอบผลงานที่ยอดเยี่ยมให้กับผู้จัดการทีมที่กำลังจะจากไป |
 | 🛡️ ภาระของ Zidane Iqbal | อดีต Man United Iqbal คือความหวังที่ดีที่สุดของอิรักในการควบคุมแดนกลางต่อคู่ต่อสู้ชั้นนำ — ความสามารถในการจำกัดการเปลี่ยนเกมของฝรั่งเศสเป็นหัวใจของแผนอิรัก |
 | 📊 คำเตือนเรื่องต่อประตู | ฝรั่งเศสให้ต่อ -3.5 ประตู คำถามที่แท้จริงไม่ใช่ว่าพวกเขาจะชนะหรือเปล่า แต่คือพวกเขาจะชนะ 4+ ประตูหรือไม่ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測法國勝，實際法國勝）
+- ✅ Mbappé 如預期主導進攻，貢獻 2 球
+- ✅ 伊拉克無法突破法國防線，法國零封取勝
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 2-0，實際 3-0）
+- ⚠️ 角球數大幅低於預測（預測 9–13，實際 6 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 1 張）
+- ⚠️ 犯規數大幅低於預測（預測 24–30，實際 12 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (France win)
+- ✅ Mbappé led the attack as expected, scoring 2 goals
+- ✅ Iraq could not breach France's defence — clean sheet held
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 2-0, actual 3-0)
+- ⚠️ Corner count far below prediction (predicted 9–13, actual 6)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 1)
+- ⚠️ Foul count far below prediction (predicted 24–30, actual 12)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测法国胜，实际法国胜）
+- ✅ Mbappé 如预期主导进攻，贡献 2 球
+- ✅ 伊拉克无法突破法国防线，法国零封取胜
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 2-0，实际 3-0）
+- ⚠️ 角球数大幅低于预测（预测 9–13，实际 6 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 1 张）
+- ⚠️ 犯规数大幅低于预测（预测 24–30，实际 12 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Pháp thắng)
+- ✅ Mbappé dẫn dắt cuộc tấn công như dự đoán, ghi 2 bàn
+- ✅ Iraq không thể phá vỡ hàng thủ Pháp — Pháp giữ sạch lưới
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-0, thực tế 3-0)
+- ⚠️ Số phạt góc thấp hơn nhiều dự đoán (dự đoán 9–13, thực tế 6 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 1 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 24–30, thực tế 12 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
+- ✅ Mbappé นำทัพโจมตีตามที่ทำนาย ทำประตูได้ 2 ลูก
+- ✅ อิรักไม่สามารถเจาะแนวรับฝรั่งเศส — ฝรั่งเศสรักษาประตูสะอาด
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-0, จริง 3-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–13, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 1 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 24–30, จริง 12 ครั้ง)

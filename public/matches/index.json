@@ -3804,9 +3804,95 @@
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 2,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        30,
+        55
+      ],
+      "possession_contested": 15,
+      "goals": [
+        1,
+        2
+      ],
+      "assists": [
+        1,
+        1
+      ],
+      "attempts_total": [
+        8,
+        18
+      ],
+      "attempts_on": [
+        4,
+        8
+      ],
+      "attempts_off": [
+        4,
+        6
+      ],
+      "attempts_inside": [
+        4,
+        12
+      ],
+      "attempts_outside": [
+        4,
+        6
+      ],
+      "passes": [
+        269,
+        646
+      ],
+      "passes_completed": [
+        187,
+        560
+      ],
+      "crosses": [
+        5,
+        19
+      ],
+      "crosses_completed": [
+        2,
+        4
+      ],
+      "corners": [
+        1,
+        10
+      ],
+      "free_kicks": [
+        6,
+        11
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        23,
+        25
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        6,
+        10
+      ],
+      "offsides": [
+        1,
+        0
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-por-uzb",

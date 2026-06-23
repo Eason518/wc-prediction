@@ -569,3 +569,48 @@ Dự đoán: Algeria thắng 2-0. Algeria có quá nhiều chất lượng cá n
 | 🏥 Khủng hoảng chấn thương Algeria | Bensebaini vắng mặt (mắt cá), Amoura và Gouiri còn nghi ngờ — Algeria bước vào trận phải thắng này thiếu đội hình lý tưởng. |
 | 🧱 Điểm yếu đá phạt cố định của Jordan | Cả hai bàn thua trước Áo đều đến từ phạt góc; Mandi của Algeria và bất kỳ mối đe dọa trên không nào đều có thể khai thác điều này một lần nữa. |
 | 📏 Trọng tài TBC | FIFA chưa xác nhận trọng tài chính thức; với cả hai đội thi đấu thể lực và vé vớt đang bị đe dọa, số thẻ có thể tăng mạnh. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿爾及利亞勝，實際阿爾及利亞勝）
+- ✅ 阿爾及利亞攻擊威力如預期發揮——馬赫雷斯助攻、古伊里破門
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分略為低估（預測 0-2，實際 1-2）——約旦比預期多進一球
+- ⚠️ 角球數高於預測（預測 7–10，實際 11 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+- ⚠️ 犯規數大幅低於預測（預測 20–25，實際 16 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Algeria win)
+- ✅ Algeria's attacking quality delivered — Mahrez assisted, Gouiri and Benbouali scored
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline slightly underestimated (predicted 0-2, actual 1-2) — Jordan scored when predicted to be shut out
+- ⚠️ Corner count above prediction (predicted 7–10, actual 11)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+- ⚠️ Foul count far below prediction (predicted 20–25, actual 16)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿尔及利亚胜，实际阿尔及利亚胜）
+- ✅ 阿尔及利亚攻击威力如预期发挥——马赫雷斯助攻、古伊里破门
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分略为低估（预测 0-2，实际 1-2）——约旦比预期多进一球
+- ⚠️ 角球数高于预测（预测 7–10，实际 11 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+- ⚠️ 犯规数大幅低于预测（预测 20–25，实际 16 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Algeria thắng)
+- ✅ Sức mạnh tấn công của Algeria phát huy đúng như dự đoán — Mahrez kiến tạo, Gouiri và Benbouali ghi bàn
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhẹ (dự đoán 0-2, thực tế 1-2) — Jordan ghi bàn khi bị dự đoán giữ sạch lưới
+- ⚠️ Số phạt góc cao hơn dự đoán (dự đoán 7–10, thực tế 11 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 20–25, thực tế 16 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (แอลจีเรียชนะ)
+- ✅ พลังรุกของแอลจีเรียเป็นไปตามที่คาดหมาย — มาห์เรซช่วยทำประตู กุวีรีและเบ็นบูอาลีทำประตู
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปเล็กน้อย (ทำนาย 0-2, จริง 1-2) — จอร์แดนยิงประตูได้ขณะถูกทำนายว่าไม่ทำประตู
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนาย (ทำนาย 7–10, จริง 11 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 20–25, จริง 16 ครั้ง)

@@ -3598,8 +3598,8 @@
     "files": [
       "sonnet/m-fra-irq-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -3614,8 +3614,8 @@
     "files": [
       "sonnet/m-nor-sen-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

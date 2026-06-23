@@ -4076,6 +4076,22 @@
     "v": 1
   },
   {
+    "id": "m-nor-fra",
+    "date": "2026-06-27",
+    "time": "03:00",
+    "stage": "group-stage",
+    "homeCode": "NOR",
+    "awayCode": "FRA",
+    "files": [
+      "deepseek/m-nor-fra-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
     "id": "r32-m01",
     "date": "2026-06-29",
     "time": "03:00",

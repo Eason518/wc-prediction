@@ -4178,6 +4178,22 @@
     "v": 1
   },
   {
+    "id": "m-cpv-ksa",
+    "date": "2026-06-27",
+    "time": "08:00",
+    "stage": "group-stage",
+    "homeCode": "CPV",
+    "awayCode": "KSA",
+    "files": [
+      "deepseek/m-cpv-ksa-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
     "id": "r32-m01",
     "date": "2026-06-29",
     "time": "03:00",

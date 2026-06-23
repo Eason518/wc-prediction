@@ -3701,10 +3701,96 @@
       "sonnet/m-nor-sen-sonnet.md"
     ],
     "actualScoreHome": 3,
-    "actualScoreAway": 1,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreAway": 2,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        35,
+        56
+      ],
+      "possession_contested": 9,
+      "goals": [
+        3,
+        2
+      ],
+      "assists": [
+        2,
+        2
+      ],
+      "attempts_total": [
+        13,
+        15
+      ],
+      "attempts_on": [
+        7,
+        5
+      ],
+      "attempts_off": [
+        3,
+        6
+      ],
+      "attempts_inside": [
+        11,
+        9
+      ],
+      "attempts_outside": [
+        2,
+        6
+      ],
+      "passes": [
+        350,
+        498
+      ],
+      "passes_completed": [
+        281,
+        438
+      ],
+      "crosses": [
+        12,
+        24
+      ],
+      "crosses_completed": [
+        6,
+        8
+      ],
+      "corners": [
+        5,
+        3
+      ],
+      "free_kicks": [
+        9,
+        13
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        19,
+        13
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        5,
+        13
+      ],
+      "offsides": [
+        0,
+        3
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-jor-alg",

@@ -579,3 +579,43 @@ Dự đoán: Na Uy thắng 2-1. Haaland ghi ít nhất một bàn. Mané hoặc 
 | 🛡️ Koulibaly đấu Haaland | Cuộc đối đầu quyết định của trận. Koulibaly là một trong những trung vệ hay nhất thế giới nhưng tốc độ và sức mạnh thể chất của Haaland sẽ thử thách anh không ngừng nghỉ. |
 | ⚡ Mối đe dọa phản công của Sarr | Ismaïla Sarr của Crystal Palace cực kỳ nhanh và sẽ tìm cách khai thác khoảng trống phía sau các hậu vệ biên tấn công của Na Uy. Anh đã gây hại cho Pháp và có thể gây hại cho Na Uy. |
 | 📏 Trọng tài TBC | Chưa có xác nhận chính thức; với Haaland thu hút phạm lỗi và các tranh chấp tuyến giữa Gueye/Berge, số thẻ sẽ cao bất kể ai điều hành. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測挪威勝，實際挪威勝）
+- ✅ 哈蘭德如預期破門，攻入兩球主宰比賽
+- ✅ 薩爾利用反擊威脅如預期得分（兩球），挪威背後空間被打穿
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分略為低估（預測 2-1，實際 3-2）
+- ⚠️ 黃牌數大幅低於預測（預測 3–5，實際 0 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Norway win)
+- ✅ Haaland delivered as predicted — two goals to decide the match
+- ✅ Sarr exploited Norway's defensive space on the counter as predicted (2 goals)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline slightly underestimated (predicted 2-1, actual 3-2)
+- ⚠️ Yellow cards far below prediction (predicted 3–5, actual 0)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测挪威胜，实际挪威胜）
+- ✅ 哈兰德如预期破门，攻入两球主宰比赛
+- ✅ 萨尔利用反击威胁如预期得分（两球），挪威背后空间被打穿
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分略为低估（预测 2-1，实际 3-2）
+- ⚠️ 黄牌数大幅低于预测（预测 3–5，实际 0 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Na Uy thắng)
+- ✅ Haaland ghi bàn đúng như dự đoán — hai bàn quyết định trận đấu
+- ✅ Sarr khai thác phản công như dự đoán (2 bàn), khoảng trống sau hàng thủ Na Uy bị tận dụng
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhẹ (dự đoán 2-1, thực tế 3-2)
+- ⚠️ Thẻ vàng thấp hơn nhiều so với dự đoán (dự đoán 3–5, thực tế 0 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (นอร์เวย์ชนะ)
+- ✅ ฮาลันด์ยิงประตูตามที่ทำนาย — สองประตูชี้ขาดแมตช์
+- ✅ ซาร์ใช้ประโยชน์จากการโต้กลับตามที่คาดไว้ (2 ประตู) พื้นที่เบื้องหลังแนวรับนอร์เวย์ถูกเจาะ
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปเล็กน้อย (ทำนาย 2-1, จริง 3-2)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 3–5, จริง 0 ใบ)

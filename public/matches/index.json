@@ -3904,8 +3904,8 @@
     "files": [
       "sonnet/m-por-uzb-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

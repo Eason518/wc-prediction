@@ -3488,11 +3488,105 @@
     "files": [
       "sonnet/m-arg-aut-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        48,
+        43
+      ],
+      "possession_contested": 9,
+      "goals": [
+        2,
+        0
+      ],
+      "assists": [
+        1,
+        0
+      ],
+      "attempts_total": [
+        12,
+        6
+      ],
+      "attempts_on": [
+        5,
+        1
+      ],
+      "attempts_off": [
+        4,
+        4
+      ],
+      "attempts_inside": [
+        10,
+        4
+      ],
+      "attempts_outside": [
+        2,
+        2
+      ],
+      "passes": [
+        564,
+        475
+      ],
+      "passes_completed": [
+        509,
+        416
+      ],
+      "crosses": [
+        6,
+        18
+      ],
+      "crosses_completed": [
+        2,
+        3
+      ],
+      "corners": [
+        1,
+        3
+      ],
+      "free_kicks": [
+        12,
+        15
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        41,
+        31
+      ],
+      "yellow_cards": [
+        2,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        13
+      ],
+      "offsides": [
+        2,
+        0
+      ],
+      "pressing": [
+        229,
+        299
+      ],
+      "line_breaks_completed": [
+        99,
+        105
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-fra-irq",

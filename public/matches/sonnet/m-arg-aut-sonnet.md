@@ -563,3 +563,53 @@ Dự đoán: Argentina thắng 2-1. Messi ghi bàn, Álvarez ghi bàn, và Áo c
 | 🏃 Pressing ของ Rangnick vs เทคนิคของ Scaloni | การต่อสู้ทางยุทธวิธีที่เป็นหัวใจของเกมนี้ การ pressing สูงไม่หยุดหย่อนของออสเตรียเทียบกับความสามารถของอาร์เจนตินาในการเล่นผ่านแรงกดดันด้วย Mac Allister และ Messi |
 | 🎯 ภารกิจ Messi ของ Laimer | Konrad Laimer คือกองกลาง pressing ที่ดีที่สุดของ Bayern ในปี 2025-26 หาก Rangnick มอบหมายให้เขาติดตาม Messi นี่อาจเป็นการดวลส่วนตัวที่น่าดึงดูดที่สุดของทัวร์นาเมนต์ |
 | 🏆 ผู้ชนะผ่านเข้ารอบ | เมื่อจอร์แดนไม่สามารถเทียบได้กับทีมใดทั้งคู่ ไม่ว่าจะเป็นอาร์เจนตินาหรือออสเตรียที่ชนะแมตช์นี้แทบจะแน่นอนว่าจะผ่านเข้ารอบ 16 ทีมสุดท้ายก่อนหนึ่งแมตช์ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷勝）
+- ✅ Messi 如預期得分（實際攻入 2 球，包含傷停補時絕殺）
+- ✅ 阿根廷零封對手，後防表現如預測般穩固
+- ✅ 黃牌數命中（預測 4–6，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 22–28，實際 26 次）
+- ⚠️ 比分高估（預測 2-1，實際 2-0）——奧地利未能破門，Arnautović 威脅未兌現
+- ⚠️ 角球數大幅低於預測（預測 8–12，實際 4 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Messi scored as predicted (2 goals, including a 90'+5 winner)
+- ✅ Argentina kept a clean sheet — defence held firm as expected
+- ✅ Yellow card count on target (predicted 4–6, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 22–28, actual 26)
+- ⚠️ Scoreline overestimated (predicted 2-1, actual 2-0) — Austria failed to score, Arnautović threat didn't materialise
+- ⚠️ Corner count far below prediction (predicted 8–12, actual 4)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷胜）
+- ✅ Messi 如预期得分（实际攻入 2 球，包含伤停补时绝杀）
+- ✅ 阿根廷零封对手，后防表现如预测般稳固
+- ✅ 黄牌数命中（预测 4–6，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 22–28，实际 26 次）
+- ⚠️ 比分高估（预测 2-1，实际 2-0）——奥地利未能破门，Arnautović 威胁未兑现
+- ⚠️ 角球数大幅低于预测（预测 8–12，实际 4 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Messi ghi bàn như dự đoán (thực tế 2 bàn, bao gồm bàn thắng phút bù giờ 90'+5)
+- ✅ Argentina giữ sạch lưới — hàng thủ vững chắc đúng như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 4–6, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 22–28, thực tế 26 lần)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 2-1, thực tế 2-0) — Áo không ghi được bàn, Arnautović không tạo ra mối đe dọa
+- ⚠️ Số phạt góc thấp hơn nhiều dự đoán (dự đoán 8–12, thực tế 4 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ Messi ทำประตูตามที่ทำนาย (จริง 2 ประตู รวมถึงประตูชัยช่วงต่อเวลา 90'+5)
+- ✅ อาร์เจนตินาเก็บคลีนชีต — แนวรับมั่นคงดังที่คาดการณ์ไว้
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 4–6, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 22–28, จริง 26 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 2-1, จริง 2-0) — ออสเตรียไม่สามารถทำประตูได้ ภัยคุกคามของ Arnautović ไม่เป็นจริง
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 8–12, จริง 4 ลูก)

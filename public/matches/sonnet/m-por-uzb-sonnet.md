@@ -589,3 +589,48 @@ Dự đoán: Bồ Đào Nha thắng 3-0. Đội của Martinez cần bàn thắn
 | 🛡️ Khusanov là Lá Chắn | Abdukodir Khusanov của Man City thực sự đẳng cấp — cầu thủ duy nhất có khả năng vô hiệu hóa Ronaldo/Ramos trên không. Màn trình diễn của anh là trung tâm của việc Uzbekistan sẽ thủng lưới bao nhiêu bàn. |
 | 🎯 Cú Phản Công của Shomurodov | Mối đe dọa duy nhất của Uzbekistan là tốc độ trong phản công. Nếu Bồ Đào Nha dâng lên và để lại khoảng trống phía sau, Shomurodov và Fayzullaev có thể trừng phạt. |
 | 📋 Trọng tài Nghiêm khắc | Yael Falcón Pérez là một trong những trọng tài nghiêm khắc nhất tại World Cup này (5.18–5.65 thẻ vàng/trận). Uzbekistan có nguy cơ nhận nhiều thẻ từ các lỗi chuyên nghiệp — tích lũy treo giò trước trận cuối bảng là mối lo ngại thực sự. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測葡萄牙勝，實際葡萄牙勝）
+- ✅ 烏茲別克斯坦未能突破葡萄牙防線，零封如預期
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 26–32，實際 29 次）
+- ⚠️ 比分低估（預測 3-0，實際 5-0）
+- ⚠️ 角球數大幅低於預測（預測 9–13，實際 5 個）
+- ⚠️ 黃牌數大幅低於預測（預測 5–8，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Portugal win)
+- ✅ Uzbekistan couldn't breach Portugal's defence — clean sheet as expected
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 26–32, actual 29)
+- ⚠️ Scoreline underestimated (predicted 3-0, actual 5-0)
+- ⚠️ Corner count far below prediction (predicted 9–13, actual 5)
+- ⚠️ Yellow cards far below prediction (predicted 5–8, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测葡萄牙胜，实际葡萄牙胜）
+- ✅ 乌兹别克斯坦未能突破葡萄牙防线，零封如预期
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 26–32，实际 29 次）
+- ⚠️ 比分低估（预测 3-0，实际 5-0）
+- ⚠️ 角球数大幅低于预测（预测 9–13，实际 5 个）
+- ⚠️ 黄牌数大幅低于预测（预测 5–8，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Bồ Đào Nha thắng)
+- ✅ Uzbekistan không thể chọc thủng hàng thủ Bồ Đào Nha — giữ sạch lưới như kỳ vọng
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 26–32, thực tế 29 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 3-0, thực tế 5-0)
+- ⚠️ Số phạt góc thấp hơn nhiều dự đoán (dự đoán 9–13, thực tế 5 cái)
+- ⚠️ Thẻ vàng thấp hơn nhiều dự đoán (dự đoán 5–8, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โปรตุเกสชนะ)
+- ✅ อุซเบกิสถานไม่สามารถทะลุแนวรับโปรตุเกสได้ — คลีนชีทตามที่คาดไว้
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 26–32, จริง 29 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 3-0, จริง 5-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–13, จริง 5 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 5–8, จริง 2 ใบ)

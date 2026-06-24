@@ -3906,9 +3906,103 @@
     ],
     "actualScoreHome": 5,
     "actualScoreAway": 0,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        56,
+        34
+      ],
+      "possession_contested": 10,
+      "goals": [
+        5,
+        0
+      ],
+      "assists": [
+        2,
+        0
+      ],
+      "attempts_total": [
+        17,
+        7
+      ],
+      "attempts_on": [
+        9,
+        2
+      ],
+      "attempts_off": [
+        5,
+        3
+      ],
+      "attempts_inside": [
+        12,
+        4
+      ],
+      "attempts_outside": [
+        5,
+        3
+      ],
+      "passes": [
+        639,
+        347
+      ],
+      "passes_completed": [
+        577,
+        278
+      ],
+      "crosses": [
+        24,
+        8
+      ],
+      "crosses_completed": [
+        7,
+        0
+      ],
+      "corners": [
+        3,
+        2
+      ],
+      "free_kicks": [
+        17,
+        16
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        1
+      ],
+      "forced_turnovers": [
+        37,
+        49
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        15,
+        14
+      ],
+      "offsides": [
+        2,
+        2
+      ],
+      "pressing": [
+        197,
+        338
+      ],
+      "line_breaks_completed": [
+        158,
+        70
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-eng-gha",
@@ -3922,8 +4016,102 @@
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        72,
+        20
+      ],
+      "possession_contested": 8,
+      "goals": [
+        0,
+        0
+      ],
+      "assists": [
+        0,
+        0
+      ],
+      "attempts_total": [
+        19,
+        2
+      ],
+      "attempts_on": [
+        3,
+        0
+      ],
+      "attempts_off": [
+        12,
+        0
+      ],
+      "attempts_inside": [
+        14,
+        2
+      ],
+      "attempts_outside": [
+        5,
+        0
+      ],
+      "passes": [
+        652,
+        179
+      ],
+      "passes_completed": [
+        605,
+        128
+      ],
+      "crosses": [
+        32,
+        5
+      ],
+      "crosses_completed": [
+        8,
+        0
+      ],
+      "corners": [
+        9,
+        2
+      ],
+      "free_kicks": [
+        26,
+        16
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        25,
+        31
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        24,
+        14
+      ],
+      "offsides": [
+        2,
+        2
+      ],
+      "pressing": [
+        105,
+        298
+      ],
+      "line_breaks_completed": [
+        127,
+        52
+      ]
+    },
     "v": 1
   },
   {
@@ -3938,9 +4126,99 @@
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        37,
+        52
+      ],
+      "possession_contested": 11,
+      "goals": [
+        0,
+        1
+      ],
+      "assists": [
+        0,
+        1
+      ],
+      "attempts_total": [
+        8,
+        6
+      ],
+      "attempts_on": [
+        1,
+        2
+      ],
+      "attempts_off": [
+        4,
+        4
+      ],
+      "attempts_inside": [
+        6,
+        4
+      ],
+      "attempts_outside": [
+        2,
+        2
+      ],
+      "passes": [
+        356,
+        518
+      ],
+      "passes_completed": [
+        282,
+        445
+      ],
+      "crosses": [
+        27,
+        18
+      ],
+      "crosses_completed": [
+        6,
+        4
+      ],
+      "corners": [
+        7,
+        2
+      ],
+      "free_kicks": [
+        14,
+        20
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        44,
+        47
+      ],
+      "pressing": [
+        269,
+        236
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        19
+      ],
+      "offsides": [
+        1,
+        2
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-col-cod",
@@ -3954,9 +4232,95 @@
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        50,
+        38
+      ],
+      "possession_contested": 12,
+      "goals": [
+        1,
+        0
+      ],
+      "assists": [
+        1,
+        0
+      ],
+      "attempts_total": [
+        20,
+        7
+      ],
+      "attempts_on": [
+        9,
+        1
+      ],
+      "attempts_off": [
+        6,
+        3
+      ],
+      "attempts_inside": [
+        11,
+        3
+      ],
+      "attempts_outside": [
+        9,
+        4
+      ],
+      "yellow_cards": [
+        2,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        16,
+        11
+      ],
+      "offsides": [
+        7,
+        0
+      ],
+      "passes": [
+        544,
+        322
+      ],
+      "passes_completed": [
+        474,
+        245
+      ],
+      "crosses": [
+        12,
+        13
+      ],
+      "crosses_completed": [
+        3,
+        3
+      ],
+      "corners": [
+        5,
+        4
+      ],
+      "free_kicks": [
+        16,
+        19
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        19,
+        17
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-bih-qat",

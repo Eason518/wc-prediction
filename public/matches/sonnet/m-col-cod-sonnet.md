@@ -579,3 +579,53 @@ Dự đoán: Colombia thắng 2-0. Đội của Lorenzo có chất lượng tấ
 | 🛡️ Bức tường Mbemba | Đội trưởng Congo DCCH (107 lần ra sân) tổ chức một trong những khối phòng thủ có cấu trúc nhất tại World Cup này. Colombia phải kiên nhẫn — cố gắng ép tạo ra khoảng trống quá nhanh sẽ trao cơ hội phản công cho Congo DCCH. |
 | 📜 Lần đầu lịch sử | Đây là cuộc gặp đầu tiên từ trước đến nay giữa Colombia và Congo DCCH ở cấp cao nhất. Cả hai quốc gia đến với động lực thực sự — Colombia săn tấm vé vượt qua vòng bảng sớm, Congo DCCH đuổi theo điểm số lịch sử thứ hai liên tiếp. |
 | 📋 Trọng tài TBC | Việc bổ nhiệm trọng tài chưa được FIFA xác nhận. Tính trung lập sẽ là chìa khóa cho một trận CONMEBOL–CAF với những hệ quả quan trọng ở giai đoạn bảng. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測哥倫比亞勝，實際哥倫比亞勝）
+- ✅ 丹尼爾·穆尼奧斯攻入致勝球，進攻後衛的威脅如預期發揮
+- ✅ 哥倫比亞封鎖對手門前零失球，乾淨獲勝
+- ✅ 維薩全場被壓制，剛果民主共和國進攻路線遭封堵
+- ✅ 角球數命中（預測 8–12，實際 9 個）
+- ✅ 黃牌數命中（預測 3–5，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 2-0，實際 1-0）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Colombia win)
+- ✅ Daniel Muñoz scored the winner — the attacking right-back threat materialised as expected
+- ✅ Colombia kept a clean sheet as predicted
+- ✅ Wissa neutralised — DR Congo's attack was contained throughout
+- ✅ Corner count on target (predicted 8–12, actual 9)
+- ✅ Yellow card count on target (predicted 3–5, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 2-0, actual 1-0)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测哥伦比亚胜，实际哥伦比亚胜）
+- ✅ 丹尼尔·穆尼奥斯攻入制胜球，进攻后卫的威胁如预期发挥
+- ✅ 哥伦比亚封锁对手门前零失球，干净获胜
+- ✅ 维萨全场被压制，刚果民主共和国进攻路线遭封堵
+- ✅ 角球数命中（预测 8–12，实际 9 个）
+- ✅ 黄牌数命中（预测 3–5，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 2-0，实际 1-0）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Colombia thắng)
+- ✅ Daniel Muñoz ghi bàn thắng quyết định — mối đe dọa từ hậu vệ phải tấn công đã thành hiện thực như dự đoán
+- ✅ Colombia giữ sạch lưới như dự đoán
+- ✅ Wissa bị vô hiệu hóa — hàng công Congo DCCH bị kiểm soát hoàn toàn
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 8–12, thực tế 9 cái)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 2-0, thực tế 1-0)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โคลอมเบียชนะ)
+- ✅ ดานิเอล มูนิโอซ ยิงประตูชัย — ภัยคุกคามจากแบ็กขวาที่รุกได้เกิดขึ้นจริงตามที่ทำนาย
+- ✅ โคลอมเบียรักษาคลีนชีตได้ตามที่ทำนาย
+- ✅ วิสซาถูกสกัดกั้น — แนวรุกของสาธารณรัฐประชาธิปไตยคองโกถูกควบคุมตลอดเกม
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 8–12, จริง 9 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 2-0, จริง 1-0)

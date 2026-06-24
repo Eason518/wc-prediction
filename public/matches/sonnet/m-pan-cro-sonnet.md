@@ -574,3 +574,53 @@ Dự đoán: Croatia thắng 0-2. Đội của Dalić có quá nhiều kỹ năn
 | 🧠 Vai trò của Carrasquilla | Nếu Cầu thủ xuất sắc nhất CONCACAF của Panama được phép kiểm soát nhịp độ từ sâu, Panama có cơ hội. Nếu pressing cao của Croatia phá vỡ anh ta, Panama mất trung tâm sáng tạo. |
 | 📋 Dự kiến số foul cao | Abatti trung bình 28.6 foul/trận — cao nhất trong số tất cả trọng tài World Cup. Lối chơi pressing thể lực của Panama đối đầu lối chơi xây dựng tinh tế của Croatia sẽ tạo ra các pha dừng bóng và thẻ liên tục. |
 | 🎯 Đá phạt cố định là yếu tố quyết định | Khả năng phân phối đá phạt cố định của Croatia (Modrić, Perišić) và sức mạnh trên không của Gvardiol rất nguy hiểm; Murillo và Córdoba của Panama là những hậu vệ trên không tốt nhất — đá phạt cố định sẽ là chiến trường then chốt. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測克羅埃西亞勝，實際克羅埃西亞勝）
+- ✅ 巴拿馬全場零進球，如預測未能突破克羅埃西亞防線
+- ✅ Budimir 作為克羅埃西亞主力前鋒攻入致勝一球，符合賽前分析
+- ✅ 角球數命中（預測 7–11，實際 9 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 26–32，實際 31 次）
+- ⚠️ 比分略為高估（預測 0-2，實際 0-1）
+- ⚠️ 黃牌數低於預測（預測 4–6，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Croatia win)
+- ✅ Panama failed to score — could not break through Croatia's defensive line as predicted
+- ✅ Budimir scored as Croatia's main striker, consistent with pre-match analysis
+- ✅ Corner count on target (predicted 7–11, actual 9)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 26–32, actual 31)
+- ⚠️ Scoreline slightly overestimated (predicted 0-2, actual 0-1)
+- ⚠️ Yellow cards below prediction (predicted 4–6, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测克罗地亚胜，实际克罗地亚胜）
+- ✅ 巴拿马全场零进球，如预测未能突破克罗地亚防线
+- ✅ Budimir 作为克罗地亚主力前锋攻入致胜一球，符合赛前分析
+- ✅ 角球数命中（预测 7–11，实际 9 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 26–32，实际 31 次）
+- ⚠️ 比分略为高估（预测 0-2，实际 0-1）
+- ⚠️ 黄牌数低于预测（预测 4–6，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Croatia thắng)
+- ✅ Panama không ghi được bàn thắng — không thể phá vỡ hàng thủ Croatia như dự đoán
+- ✅ Budimir ghi bàn thắng quyết định với vai trò tiền đạo chính, phù hợp với phân tích trước trận
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 7–11, thực tế 9 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 26–32, thực tế 31 lần)
+- ⚠️ Tỷ số bị đánh giá cao hơn một chút (dự đoán 0-2, thực tế 0-1)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–6, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โครเอเชียชนะ)
+- ✅ ปานามาไม่สามารถทำประตูได้ตลอดเกม — ทะลวงแนวรับโครเอเชียไม่ได้ตามที่ทำนาย
+- ✅ บูดิมิรยิงประตูชัยในฐานะกองหน้าหลักของโครเอเชีย สอดคล้องกับการวิเคราะห์ก่อนเกม
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 7–11, จริง 9 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 26–32, จริง 31 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไปเล็กน้อย (ทำนาย 0-2, จริง 0-1)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–6, จริง 2 ใบ)

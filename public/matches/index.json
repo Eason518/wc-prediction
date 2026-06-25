@@ -5192,6 +5192,108 @@
     "v": 1
   },
   {
+    "id": "m-cro-gha",
+    "date": "2026-06-28",
+    "time": "05:00",
+    "stage": "group-stage",
+    "homeCode": "CRO",
+    "awayCode": "GHA",
+    "files": [
+      "sonnet/m-cro-gha-sonnet.md",
+      "deepseek/m-cro-gha-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-pan-eng",
+    "date": "2026-06-28",
+    "time": "05:00",
+    "stage": "group-stage",
+    "homeCode": "PAN",
+    "awayCode": "ENG",
+    "files": [
+      "sonnet/m-pan-eng-sonnet.md",
+      "deepseek/m-pan-eng-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-cod-uzb",
+    "date": "2026-06-28",
+    "time": "07:30",
+    "stage": "group-stage",
+    "homeCode": "COD",
+    "awayCode": "UZB",
+    "files": [
+      "sonnet/m-cod-uzb-sonnet.md",
+      "deepseek/m-cod-uzb-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-col-por",
+    "date": "2026-06-28",
+    "time": "07:30",
+    "stage": "group-stage",
+    "homeCode": "COL",
+    "awayCode": "POR",
+    "files": [
+      "sonnet/m-col-por-sonnet.md",
+      "deepseek/m-col-por-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-alg-aut",
+    "date": "2026-06-28",
+    "time": "10:00",
+    "stage": "group-stage",
+    "homeCode": "ALG",
+    "awayCode": "AUT",
+    "files": [
+      "sonnet/m-alg-aut-sonnet.md",
+      "deepseek/m-alg-aut-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-jor-arg",
+    "date": "2026-06-28",
+    "time": "10:00",
+    "stage": "group-stage",
+    "homeCode": "JOR",
+    "awayCode": "ARG",
+    "files": [
+      "sonnet/m-jor-arg-sonnet.md",
+      "deepseek/m-jor-arg-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
     "id": "r32-m01",
     "date": "2026-06-29",
     "time": "03:00",

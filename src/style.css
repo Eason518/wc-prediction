@@ -2053,3 +2053,139 @@ button {
   border-radius: 5px;
   vertical-align: middle;
 }
+
+/* ── Popup CTA ── */
+.wc-popup-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.65);
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.wc-popup-backdrop.wc-popup-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.wc-popup-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  max-width: 420px;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  z-index: 10001;
+  transform: scale(0.9);
+  transition: transform 0.3s ease;
+}
+
+.wc-popup-backdrop.wc-popup-visible .wc-popup-card {
+  transform: scale(1);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .wc-popup-backdrop,
+  .wc-popup-card {
+    transition: none;
+  }
+}
+
+.wc-popup-close {
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.wc-popup-close:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+
+.wc-popup-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.wc-popup-body {
+  padding: 20px 20px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.wc-popup-badge {
+  display: inline-block;
+  background: var(--gold);
+  color: #000;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  align-self: flex-start;
+}
+
+.wc-popup-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--text);
+  line-height: 1.3;
+}
+
+.wc-popup-sub {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.wc-popup-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  background: #16a34a;
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  padding: 13px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-top: 4px;
+  transition: background 0.2s;
+}
+
+.wc-popup-btn:hover {
+  background: #15803d;
+}
+
+.wc-popup-btn img {
+  height: 22px;
+  width: auto;
+  border-radius: 3px;
+}
+
+.wc-popup-note {
+  font-size: 11px;
+  color: var(--dim);
+  text-align: center;
+}

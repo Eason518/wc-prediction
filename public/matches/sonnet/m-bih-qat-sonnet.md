@@ -561,3 +561,48 @@ Dự đoán: Bosnia thắng 2-1. Sức mạnh thể chất, mối đe dọa từ
 | ⚡ อันตรายจาก Afif | Akram Afif คือผู้เล่นเพียงคนเดียวของกาตาร์ที่มีระดับชั้นนำที่แท้จริง — บอสเนียต้องไม่ให้เขามีพื้นที่ |
 | 🔴 โทษแบน | Muharemović ของบอสเนียถูกแบนหลังจากใบแดงกับสวิตเซอร์แลนด์ การป้องกันบางมาก |
 | 📏 ผู้ตัดสิน TBC | เกมที่เดือดพล่านด้วยความสิ้นหวัง การจัดการใบของผู้ตัดสินจะมีความสำคัญอย่างยิ่ง |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測波士尼亞勝，實際波士尼亞勝）
+- ✅ 波士尼亞如預期主宰攻勢，強力施壓斬獲 3 球
+- ✅ 角球數命中（預測 7–10，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 2-1，實際 3-1）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+- ⚠️ 犯規數低於預測（預測 24–28，實際 23 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Bosnia win)
+- ✅ Bosnia dominated as expected, strong pressure yielded 3 goals
+- ✅ Corner count on target (predicted 7–10, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 2-1, actual 3-1)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+- ⚠️ Foul count below prediction (predicted 24–28, actual 23)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测波斯尼亚胜，实际波斯尼亚胜）
+- ✅ 波斯尼亚如预期主宰攻势，强力施压斩获 3 球
+- ✅ 角球数命中（预测 7–10，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 2-1，实际 3-1）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+- ⚠️ 犯规数低于预测（预测 24–28，实际 23 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Bosnia thắng)
+- ✅ Bosnia thống trị như dự đoán, áp lực mạnh mẽ mang về 3 bàn thắng
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 7–10, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-1, thực tế 3-1)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 24–28, thực tế 23 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (บอสเนียชนะ)
+- ✅ บอสเนียครอบงำเกมอย่างที่ทำนาย กดดันยิงได้ 3 ประตู
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 7–10, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-1, จริง 3-1)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 24–28, จริง 23 ครั้ง)

@@ -4333,11 +4333,105 @@
       "sonnet/m-bih-qat-sonnet.md",
       "deepseek/m-bih-qat-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 3,
+    "actualScoreAway": 1,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        48,
+        42
+      ],
+      "possession_contested": 10,
+      "goals": [
+        3,
+        1
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        14,
+        9
+      ],
+      "attempts_on": [
+        5,
+        3
+      ],
+      "attempts_off": [
+        6,
+        6
+      ],
+      "attempts_inside": [
+        4,
+        5
+      ],
+      "attempts_outside": [
+        10,
+        4
+      ],
+      "passes": [
+        521,
+        457
+      ],
+      "passes_completed": [
+        461,
+        388
+      ],
+      "crosses": [
+        25,
+        18
+      ],
+      "crosses_completed": [
+        3,
+        8
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "free_kicks": [
+        17,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        1
+      ],
+      "forced_turnovers": [
+        43,
+        42
+      ],
+      "pressing": [
+        248,
+        264
+      ],
+      "line_breaks_completed": [
+        109,
+        113
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        14,
+        9
+      ],
+      "offsides": [
+        1,
+        3
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-sui-can",
@@ -4400,11 +4494,105 @@
       "sonnet/m-cze-mex-sonnet.md",
       "deepseek/m-cze-mex-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 0,
+    "actualScoreAway": 3,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        44,
+        46
+      ],
+      "possession_contested": 10,
+      "goals": [
+        0,
+        3
+      ],
+      "assists": [
+        0,
+        3
+      ],
+      "attempts_total": [
+        13,
+        11
+      ],
+      "attempts_on": [
+        1,
+        5
+      ],
+      "attempts_off": [
+        8,
+        4
+      ],
+      "attempts_inside": [
+        6,
+        9
+      ],
+      "attempts_outside": [
+        7,
+        2
+      ],
+      "passes": [
+        423,
+        394
+      ],
+      "passes_completed": [
+        352,
+        340
+      ],
+      "crosses": [
+        20,
+        14
+      ],
+      "crosses_completed": [
+        4,
+        2
+      ],
+      "corners": [
+        5,
+        1
+      ],
+      "free_kicks": [
+        13,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        38,
+        35
+      ],
+      "pressing": [
+        213,
+        233
+      ],
+      "yellow_cards": [
+        0,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        9
+      ],
+      "offsides": [
+        1,
+        0
+      ],
+      "line_breaks_completed": [
+        100,
+        85
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-rsa-kor",

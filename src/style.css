@@ -2078,6 +2078,7 @@ button {
   background: var(--bg2);
   border: 1px solid var(--border);
   border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.4);
   max-width: 420px;
   width: 100%;
   overflow: hidden;
@@ -2119,6 +2120,11 @@ button {
 
 .wc-popup-close:hover {
   background: rgba(0, 0, 0, 0.8);
+}
+
+.wc-popup-close:focus-visible {
+  outline: 2px solid var(--text);
+  outline-offset: 2px;
 }
 
 .wc-popup-banner {

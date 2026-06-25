@@ -19,7 +19,7 @@ oddsDraw: "5.40"
 oddsAway: "1.30"
 predScoreHome: 0
 predScoreAway: 2
-aiModel: DeepSeek
+aiModel: DeepSeek V3
 ---
 
 ## home_note:en

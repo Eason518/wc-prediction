@@ -395,3 +395,47 @@ Scotland trở lại World Cup sau 28 năm, nhưng họ phải đối mặt vớ
 
 ## summary_verdict:th
 สกอตแลนด์กลับมาสู่ฟุตบอลโลกหลังจาก 28 ปี แต่พวกเขาต้องเผชิญการทดสอบที่ยากที่สุดกับบราซิลทีมเต็มไปด้วยดาวเด่น แม้กองกลางของสกอตแลนด์—นำโดย McTominay, McGinn และ Robertson—จะสามารถสู้ได้ แต่การขาดความลึกในแนวรุกและความกังวลในตำแหน่งผู้รักษาประตูทำให้พวกเขาเสี่ยง บราซิลภายใต้ Ancelotti คาดว่าจะครองบอลและสร้างโอกาสผ่าน Neymar, Vinícius และ Raphinha ความหวังดีที่สุดของสกอตแลนด์คือการเล่นรัดกุมและมองหาลูกเซ็ตพีซ แต่คุณภาพของบราซิลควรทำให้พวกเขาชนะ คำทำนายสุดท้าย: บราซิลชนะ 2-0
+## result_hits:zh
+- ✅ 勝負方向命中（預測巴西勝，實際巴西勝）
+- ✅ Vinicius Jr. 如預期破門，成為全場最具威脅的球員
+- ✅ 蘇格蘭無力破門，進攻完全被巴西壓制
+- ✅ 角球數命中（預測 9–13，實際 13 個）
+- ✅ 黃牌預測正確（預測 2–4，實際 3 張）
+- ✅ 紅牌預測正確（預測 0，實際 0 張）
+- ⚠️ 比分略為低估（預測 0-2，實際 0-3）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Brazil win)
+- ✅ Vinicius Jr. scored as predicted, the most dangerous player on the pitch
+- ✅ Scotland failed to score — attack completely neutralised by Brazil
+- ✅ Corner count on target (predicted 9–13, actual 13)
+- ✅ Yellow card prediction correct (predicted 2–4, actual 3)
+- ✅ Red card prediction correct (predicted 0, actual 0)
+- ⚠️ Scoreline slightly underestimated (predicted 0-2, actual 0-3)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测巴西胜，实际巴西胜）
+- ✅ Vinicius Jr. 如预期破门，成为全场最具威胁的球员
+- ✅ 苏格兰无力破门，进攻完全被巴西压制
+- ✅ 角球数命中（预测 9–13，实际 13 个）
+- ✅ 黄牌预测正确（预测 2–4，实际 3 张）
+- ✅ 红牌预测正确（预测 0，实际 0 张）
+- ⚠️ 比分略为低估（预测 0-2，实际 0-3）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Brazil thắng)
+- ✅ Vinicius Jr. ghi bàn đúng như dự đoán, cầu thủ nguy hiểm nhất trận
+- ✅ Scotland không ghi được bàn — hàng công bị Brazil vô hiệu hóa hoàn toàn
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–13, thực tế 13 cái)
+- ✅ Dự đoán thẻ vàng chính xác (dự đoán 2–4, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhẹ (dự đoán 0-2, thực tế 0-3)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (บราซิลชนะ)
+- ✅ Vinicius Jr. ยิงประตูตามที่ทำนาย เป็นผู้เล่นที่อันตรายที่สุดในสนาม
+- ✅ สกอตแลนด์ไม่สามารถทำประตูได้ — แนวรุกถูกบราซิลสกัดได้อย่างสมบูรณ์
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–13, จริง 13 ลูก)
+- ✅ ทำนายใบเหลืองถูกต้อง (ทำนาย 2–4, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปเล็กน้อย (ทำนาย 0-2, จริง 0-3)

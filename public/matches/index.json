@@ -4443,10 +4443,104 @@
     "files": [
       "sonnet/m-sui-can-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 2,
+    "actualScoreAway": 1,
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        48,
+        40
+      ],
+      "possession_contested": 12,
+      "goals": [
+        2,
+        1
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        6,
+        13
+      ],
+      "attempts_on": [
+        4,
+        7
+      ],
+      "attempts_off": [
+        1,
+        6
+      ],
+      "attempts_inside": [
+        5,
+        11
+      ],
+      "attempts_outside": [
+        1,
+        2
+      ],
+      "passes": [
+        471,
+        353
+      ],
+      "passes_completed": [
+        389,
+        275
+      ],
+      "crosses": [
+        8,
+        26
+      ],
+      "crosses_completed": [
+        1,
+        8
+      ],
+      "corners": [
+        2,
+        7
+      ],
+      "free_kicks": [
+        15,
+        20
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        49,
+        50
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        19
+      ],
+      "offsides": [
+        1,
+        3
+      ],
+      "pressing": [
+        216,
+        299
+      ],
+      "line_breaks_completed": [
+        115,
+        102
+      ]
+    },
     "v": 1
   },
   {
@@ -4460,11 +4554,105 @@
       "sonnet/m-mar-hai-sonnet.md",
       "deepseek/m-mar-hai-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 4,
+    "actualScoreAway": 2,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        60,
+        31
+      ],
+      "possession_contested": 9,
+      "goals": [
+        4,
+        2
+      ],
+      "assists": [
+        3,
+        1
+      ],
+      "attempts_total": [
+        22,
+        9
+      ],
+      "attempts_on": [
+        11,
+        2
+      ],
+      "attempts_off": [
+        5,
+        3
+      ],
+      "attempts_inside": [
+        15,
+        4
+      ],
+      "attempts_outside": [
+        7,
+        5
+      ],
+      "passes": [
+        557,
+        265
+      ],
+      "passes_completed": [
+        495,
+        212
+      ],
+      "crosses": [
+        31,
+        3
+      ],
+      "crosses_completed": [
+        12,
+        2
+      ],
+      "corners": [
+        9,
+        1
+      ],
+      "free_kicks": [
+        18,
+        15
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        1,
+        0
+      ],
+      "forced_turnovers": [
+        38,
+        50
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        18,
+        10
+      ],
+      "offsides": [
+        5,
+        0
+      ],
+      "pressing": [
+        172,
+        331
+      ],
+      "line_breaks_completed": [
+        157,
+        65
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-sco-bra",
@@ -4477,11 +4665,105 @@
       "sonnet/m-sco-bra-sonnet.md",
       "deepseek/m-sco-bra-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 0,
+    "actualScoreAway": 3,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        42,
+        51
+      ],
+      "possession_contested": 7,
+      "goals": [
+        0,
+        3
+      ],
+      "assists": [
+        0,
+        3
+      ],
+      "attempts_total": [
+        14,
+        21
+      ],
+      "attempts_on": [
+        5,
+        9
+      ],
+      "attempts_off": [
+        2,
+        7
+      ],
+      "attempts_inside": [
+        10,
+        14
+      ],
+      "attempts_outside": [
+        4,
+        7
+      ],
+      "passes": [
+        520,
+        615
+      ],
+      "passes_completed": [
+        466,
+        571
+      ],
+      "crosses": [
+        24,
+        13
+      ],
+      "crosses_completed": [
+        10,
+        4
+      ],
+      "corners": [
+        7,
+        6
+      ],
+      "free_kicks": [
+        11,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        33,
+        28
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        11,
+        10
+      ],
+      "offsides": [
+        0,
+        1
+      ],
+      "pressing": [
+        241,
+        227
+      ],
+      "line_breaks_completed": [
+        113,
+        122
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-cze-mex",
@@ -4605,10 +4887,104 @@
       "sonnet/m-rsa-kor-sonnet.md",
       "deepseek/m-rsa-kor-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 1,
+    "actualScoreAway": 0,
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        30,
+        60
+      ],
+      "possession_contested": 10,
+      "goals": [
+        1,
+        0
+      ],
+      "assists": [
+        1,
+        0
+      ],
+      "attempts_total": [
+        13,
+        8
+      ],
+      "attempts_on": [
+        4,
+        3
+      ],
+      "attempts_off": [
+        7,
+        3
+      ],
+      "attempts_inside": [
+        5,
+        5
+      ],
+      "attempts_outside": [
+        8,
+        3
+      ],
+      "passes": [
+        345,
+        718
+      ],
+      "passes_completed": [
+        279,
+        657
+      ],
+      "crosses": [
+        7,
+        39
+      ],
+      "crosses_completed": [
+        1,
+        8
+      ],
+      "corners": [
+        4,
+        6
+      ],
+      "free_kicks": [
+        9,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        40,
+        28
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        9,
+        7
+      ],
+      "offsides": [
+        3,
+        0
+      ],
+      "pressing": [
+        321,
+        199
+      ],
+      "line_breaks_completed": [
+        83,
+        144
+      ]
+    },
     "v": 1
   },
   {

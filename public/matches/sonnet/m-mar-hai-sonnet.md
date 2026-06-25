@@ -561,3 +561,53 @@ Dự đoán: Morocco thắng 3-0. Chất lượng của Morocco đơn giản là
 | 🛡️ ขีดจำกัดของไฮตี | ไฮตีแสดงจิตใจต่อสกอตแลนด์แต่ความลึกและความเร็วของโมร็อกโกอยู่ในระดับที่แตกต่างกัน |
 | 🔢 การเปลี่ยนโค้ช | การเปลี่ยนผ่านโค้ชของโมร็อกโกหลังจากเรกราคีลาออกก่อนทัวร์นาเมนต์เพิ่มความไม่แน่นอนทางยุทธวิธี |
 | 📏 ผู้ตัดสินยังไม่ยืนยัน | แมตช์ที่จัดการได้ ผู้ตัดสินจะติดตามความเข้มข้นของโมร็อกโกเพื่อป้องกันใบเตือนที่ไม่จำเป็น |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測摩洛哥勝，實際摩洛哥勝）
+- ✅ 摩洛哥如預期主宰控球與進攻，完全壓制海地
+- ✅ 角球數命中（預測 10–14，實際 10 個）
+- ✅ 黃牌數命中（預測 2–4，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 3-0，實際 4-2）
+- ⚠️ 海地破門得分，封關預期落空
+- ⚠️ 犯規數大幅高於預測（預測 18–22，實際 28 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Morocco win)
+- ✅ Morocco dominated possession and attacking play as expected
+- ✅ Corner count on target (predicted 10–14, actual 10)
+- ✅ Yellow cards on target (predicted 2–4, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 3-0, actual 4-2)
+- ⚠️ Haiti scored — clean sheet prediction missed
+- ⚠️ Foul count far above prediction (predicted 18–22, actual 28)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测摩洛哥胜，实际摩洛哥胜）
+- ✅ 摩洛哥如预期主宰控球与进攻，完全压制海地
+- ✅ 角球数命中（预测 10–14，实际 10 个）
+- ✅ 黄牌数命中（预测 2–4，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 3-0，实际 4-2）
+- ⚠️ 海地破门得分，封关预期落空
+- ⚠️ 犯规数大幅高于预测（预测 18–22，实际 28 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Morocco thắng)
+- ✅ Morocco thống trị kiểm soát bóng và tấn công như dự đoán
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 10–14, thực tế 10 cái)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 2–4, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 3-0, thực tế 4-2)
+- ⚠️ Haiti ghi bàn — dự đoán giữ sạch lưới bị bỏ lỡ
+- ⚠️ Số lần phạm lỗi cao hơn nhiều dự đoán (dự đoán 18–22, thực tế 28 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โมร็อกโกชนะ)
+- ✅ โมร็อกโกครองบอลและเปิดเกมรุกได้ตามที่คาด
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 10–14, จริง 10 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–4, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 3-0, จริง 4-2)
+- ⚠️ เฮติทำประตูได้ — คาดการณ์ว่าจะคลีนชีตพลาด
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 18–22, จริง 28 ครั้ง)

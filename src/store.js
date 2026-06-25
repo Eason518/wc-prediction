@@ -22,8 +22,15 @@ async function fetchMatchFile(base, filename, version) {
     return matchFileCache.get(versionedUrl);
   }
 
-  const promise = fetch(versionedUrl, { cache: 'force-cache' }).then(r => r.text());
+  const promise = fetch(versionedUrl).then(r => {
+    if (!r.ok) {
+      matchFileCache.delete(versionedUrl);
+      throw new Error(`HTTP ${r.status}`);
+    }
+    return r.text();
+  });
   matchFileCache.set(versionedUrl, promise);
+  promise.catch(() => matchFileCache.delete(versionedUrl));
   return promise;
 }
 
@@ -71,9 +78,11 @@ async function loadVariants(entry, lang) {
     }];
   }
 
-  const variants = await Promise.all(
-    entry.files.map(f => fetchMatchFile(BASE_URL, f, entry.v).then(text => parseMatchMD(text, lang)))
+  const variantResults = await Promise.all(
+    entry.files.map(f => fetchMatchFile(BASE_URL, f, entry.v).then(text => parseMatchMD(text, lang)).catch(() => null))
   );
+  const variants = variantResults.filter(Boolean);
+  if (variants.length === 0) return matchVariantsMap[entry.id] || [];
   const actualScore = {
     home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
     away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,

@@ -5294,13 +5294,16 @@
     "v": 1
   },
   {
-    "id": "r32-m01",
+    "id": "m-rsa-can",
     "date": "2026-06-29",
     "time": "03:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "RSA",
+    "awayCode": "CAN",
+    "files": [
+      "sonnet/round-32/m-rsa-can-sonnet.md",
+      "deepseek/round-32/m-rsa-can-deepseek.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "v": 1

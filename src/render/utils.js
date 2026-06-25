@@ -17,6 +17,7 @@ export const POS_STYLES = {
 
 export function localMatchTime(dateKey, time) {
   const d = new Date(`${dateKey}T${time}:00+08:00`);
+  if (isNaN(d.getTime())) return { date: '—', time: '—', tz: '' };
   const date = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
   const localTime = `${String(d.getHours()).padStart(2, '0')}:${String(d.getMinutes()).padStart(2, '0')}`;
   const tz = new Intl.DateTimeFormat(undefined, { timeZoneName: 'short' }).formatToParts(d).find(p => p.type === 'timeZoneName')?.value || '';

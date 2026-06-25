@@ -5090,6 +5090,23 @@
     "v": 1
   },
   {
+    "id": "m-sen-irq",
+    "date": "2026-06-27",
+    "time": "03:00",
+    "stage": "group-stage",
+    "homeCode": "SEN",
+    "awayCode": "IRQ",
+    "files": [
+      "sonnet/m-sen-irq-sonnet.md",
+      "deepseek/m-sen-irq-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
     "id": "m-nor-fra",
     "date": "2026-06-27",
     "time": "03:00",
@@ -5097,7 +5114,25 @@
     "homeCode": "NOR",
     "awayCode": "FRA",
     "files": [
+      "sonnet/m-nor-fra-sonnet.md",
       "deepseek/m-nor-fra-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-uru-esp",
+    "date": "2026-06-27",
+    "time": "08:00",
+    "stage": "group-stage",
+    "homeCode": "URU",
+    "awayCode": "ESP",
+    "files": [
+      "sonnet/m-uru-esp-sonnet.md",
+      "deepseek/m-uru-esp-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5113,7 +5148,42 @@
     "homeCode": "CPV",
     "awayCode": "KSA",
     "files": [
+      "sonnet/m-cpv-ksa-sonnet.md",
       "deepseek/m-cpv-ksa-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-egy-irn",
+    "date": "2026-06-27",
+    "time": "11:00",
+    "stage": "group-stage",
+    "homeCode": "EGY",
+    "awayCode": "IRN",
+    "files": [
+      "sonnet/m-egy-irn-sonnet.md",
+      "deepseek/m-egy-irn-deepseek.md"
+    ],
+    "actualScoreHome": null,
+    "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-nzl-bel",
+    "date": "2026-06-27",
+    "time": "11:00",
+    "stage": "group-stage",
+    "homeCode": "NZL",
+    "awayCode": "BEL",
+    "files": [
+      "sonnet/m-nzl-bel-sonnet.md",
+      "deepseek/m-nzl-bel-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

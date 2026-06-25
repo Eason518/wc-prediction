@@ -2,6 +2,7 @@ import './style.css';
 import { loadData, reloadMatchData, getState, setState, subscribe, getSchedule, matchLocalDateKey, getMatchVariants, preloadNearbyMatches } from './store.js';
 import { getLang, setLang, onLangChange, t } from './i18n.js';
 import { BANNER_LINKS, JIOOLIVE_BANNER_LINKS } from './config.js';
+import { initPopup } from './popup.js';
 
 let renderModule = null;
 let renderModulePromise = null;
@@ -336,9 +337,12 @@ async function init() {
     onLangChange(lang => {
       syncBanner(lang);
       reloadMatchData().then(update);
+      initPopup(lang, t, BANNER_LINKS[lang] || BANNER_LINKS.en);
     });
     update();
     bindCtaEvents();
+    const popupLang = getLang();
+    initPopup(popupLang, t, BANNER_LINKS[popupLang] || BANNER_LINKS.en);
     const promoBar = document.getElementById('promo-bar');
     const banner = document.getElementById('banner-wrap');
     const navWrap = document.getElementById('nav-wrap');

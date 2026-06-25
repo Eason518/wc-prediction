@@ -7,7 +7,7 @@
     "homeCode": "CAN",
     "awayCode": "BIH",
     "files": [
-      "sonnet/m-can-bih-sonnet.md"
+      "sonnet/group-stage/m-can-bih-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -105,7 +105,7 @@
     "homeCode": "USA",
     "awayCode": "PAR",
     "files": [
-      "sonnet/m-usa-par-sonnet.md"
+      "sonnet/group-stage/m-usa-par-sonnet.md"
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 1,
@@ -203,7 +203,7 @@
     "homeCode": "QAT",
     "awayCode": "SUI",
     "files": [
-      "sonnet/m-qat-sui-sonnet.md"
+      "sonnet/group-stage/m-qat-sui-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -301,7 +301,7 @@
     "homeCode": "BRA",
     "awayCode": "MAR",
     "files": [
-      "sonnet/m-bra-mar-sonnet.md"
+      "sonnet/group-stage/m-bra-mar-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -399,7 +399,7 @@
     "homeCode": "HAI",
     "awayCode": "SCO",
     "files": [
-      "sonnet/m-hai-sco-sonnet.md"
+      "sonnet/group-stage/m-hai-sco-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
@@ -497,7 +497,7 @@
     "homeCode": "AUS",
     "awayCode": "TUR",
     "files": [
-      "sonnet/m-aus-tur-sonnet.md"
+      "sonnet/group-stage/m-aus-tur-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 0,
@@ -595,7 +595,7 @@
     "homeCode": "GER",
     "awayCode": "CUW",
     "files": [
-      "sonnet/m-ger-cuw-sonnet.md"
+      "sonnet/group-stage/m-ger-cuw-sonnet.md"
     ],
     "actualScoreHome": 7,
     "actualScoreAway": 1,
@@ -693,8 +693,8 @@
     "homeCode": "NED",
     "awayCode": "JPN",
     "files": [
-      "opus/m-ned-jpn-opus.md",
-      "sonnet/m-ned-jpn-sonnet.md"
+      "opus/group-stage/m-ned-jpn-opus.md",
+      "sonnet/group-stage/m-ned-jpn-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 2,
@@ -792,7 +792,7 @@
     "homeCode": "CIV",
     "awayCode": "ECU",
     "files": [
-      "sonnet/m-civ-ecu-sonnet.md"
+      "sonnet/group-stage/m-civ-ecu-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
@@ -890,7 +890,7 @@
     "homeCode": "SWE",
     "awayCode": "TUN",
     "files": [
-      "sonnet/m-swe-tun-sonnet.md"
+      "sonnet/group-stage/m-swe-tun-sonnet.md"
     ],
     "actualScoreHome": 5,
     "actualScoreAway": 1,
@@ -988,8 +988,8 @@
     "homeCode": "ESP",
     "awayCode": "CPV",
     "files": [
-      "sonnet/m-esp-cpv-sonnet.md",
-      "gemini/m-esp-cpv-gemini.md"
+      "sonnet/group-stage/m-esp-cpv-sonnet.md",
+      "gemini/group-stage/m-esp-cpv-gemini.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
@@ -1087,8 +1087,8 @@
     "homeCode": "BEL",
     "awayCode": "EGY",
     "files": [
-      "sonnet/m-bel-egy-sonnet.md",
-      "gpt/m-bel-egy-gpt.md"
+      "sonnet/group-stage/m-bel-egy-sonnet.md",
+      "gpt/group-stage/m-bel-egy-gpt.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -1178,7 +1178,7 @@
     "homeCode": "KSA",
     "awayCode": "URU",
     "files": [
-      "sonnet/m-ksa-uru-sonnet.md"
+      "sonnet/group-stage/m-ksa-uru-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -1276,7 +1276,7 @@
     "homeCode": "IRN",
     "awayCode": "NZL",
     "files": [
-      "sonnet/m-irn-nzl-sonnet.md"
+      "sonnet/group-stage/m-irn-nzl-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 2,
@@ -1374,8 +1374,8 @@
     "homeCode": "FRA",
     "awayCode": "SEN",
     "files": [
-      "opus/m-fra-sen-opus.md",
-      "sonnet/m-fra-sen-sonnet.md"
+      "opus/group-stage/m-fra-sen-opus.md",
+      "sonnet/group-stage/m-fra-sen-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 1,
@@ -1465,8 +1465,8 @@
     "homeCode": "IRQ",
     "awayCode": "NOR",
     "files": [
-      "opus/m-irq-nor-opus.md",
-      "sonnet/m-irq-nor-sonnet.md"
+      "opus/group-stage/m-irq-nor-opus.md",
+      "sonnet/group-stage/m-irq-nor-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 4,
@@ -1548,8 +1548,8 @@
     "homeCode": "ARG",
     "awayCode": "ALG",
     "files": [
-      "opus/m-arg-alg-opus.md",
-      "sonnet/m-arg-alg-sonnet.md"
+      "opus/group-stage/m-arg-alg-opus.md",
+      "sonnet/group-stage/m-arg-alg-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 0,
@@ -1631,8 +1631,8 @@
     "homeCode": "AUT",
     "awayCode": "JOR",
     "files": [
-      "opus/m-aut-jor-opus.md",
-      "sonnet/m-aut-jor-sonnet.md"
+      "opus/group-stage/m-aut-jor-opus.md",
+      "sonnet/group-stage/m-aut-jor-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 1,
@@ -1722,8 +1722,8 @@
     "homeCode": "POR",
     "awayCode": "COD",
     "files": [
-      "opus/m-por-cod-opus.md",
-      "sonnet/m-por-cod-sonnet.md"
+      "opus/group-stage/m-por-cod-opus.md",
+      "sonnet/group-stage/m-por-cod-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -1805,8 +1805,8 @@
     "homeCode": "ENG",
     "awayCode": "CRO",
     "files": [
-      "opus/m-eng-cro-opus.md",
-      "sonnet/m-eng-cro-sonnet.md"
+      "opus/group-stage/m-eng-cro-opus.md",
+      "sonnet/group-stage/m-eng-cro-sonnet.md"
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 2,
@@ -1908,7 +1908,7 @@
     "homeCode": "GHA",
     "awayCode": "PAN",
     "files": [
-      "sonnet/m-gha-pan-sonnet.md"
+      "sonnet/group-stage/m-gha-pan-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
@@ -1998,8 +1998,8 @@
     "homeCode": "UZB",
     "awayCode": "COL",
     "files": [
-      "opus/m-uzb-col-opus.md",
-      "sonnet/m-uzb-col-sonnet.md"
+      "opus/group-stage/m-uzb-col-opus.md",
+      "sonnet/group-stage/m-uzb-col-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 3,
@@ -2089,8 +2089,8 @@
     "homeCode": "CZE",
     "awayCode": "RSA",
     "files": [
-      "opus/m-cze-rsa-opus.md",
-      "sonnet/m-cze-rsa-sonnet.md"
+      "opus/group-stage/m-cze-rsa-opus.md",
+      "sonnet/group-stage/m-cze-rsa-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
@@ -2180,8 +2180,8 @@
     "homeCode": "SUI",
     "awayCode": "BIH",
     "files": [
-      "opus/m-sui-bih-opus.md",
-      "sonnet/m-sui-bih-sonnet.md"
+      "opus/group-stage/m-sui-bih-opus.md",
+      "sonnet/group-stage/m-sui-bih-sonnet.md"
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 1,
@@ -2243,8 +2243,8 @@
     "homeCode": "CAN",
     "awayCode": "QAT",
     "files": [
-      "opus/m-can-qat-opus.md",
-      "sonnet/m-can-qat-sonnet.md"
+      "opus/group-stage/m-can-qat-opus.md",
+      "sonnet/group-stage/m-can-qat-sonnet.md"
     ],
     "actualScoreHome": 6,
     "actualScoreAway": 0,
@@ -2338,7 +2338,7 @@
     "homeCode": "MEX",
     "awayCode": "KOR",
     "files": [
-      "sonnet/m-mex-kor-sonnet.md"
+      "sonnet/group-stage/m-mex-kor-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
@@ -2428,9 +2428,9 @@
     "homeCode": "USA",
     "awayCode": "AUS",
     "files": [
-      "opus/m-usa-aus-opus.md",
-      "sonnet/m-usa-aus-sonnet.md",
-      "deepseek/m-usa-aus-deepseek.md"
+      "opus/group-stage/m-usa-aus-opus.md",
+      "sonnet/group-stage/m-usa-aus-sonnet.md",
+      "deepseek/group-stage/m-usa-aus-deepseek.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 0,
@@ -2520,9 +2520,9 @@
     "homeCode": "SCO",
     "awayCode": "MAR",
     "files": [
-      "opus/m-sco-mar-opus.md",
-      "sonnet/m-sco-mar-sonnet.md",
-      "deepseek/m-sco-mor-deepseek.md"
+      "opus/group-stage/m-sco-mar-opus.md",
+      "sonnet/group-stage/m-sco-mar-sonnet.md",
+      "deepseek/group-stage/m-sco-mor-deepseek.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
@@ -2616,8 +2616,8 @@
     "homeCode": "BRA",
     "awayCode": "HAI",
     "files": [
-      "opus/m-bra-hai-opus.md",
-      "sonnet/m-bra-hai-sonnet.md"
+      "opus/group-stage/m-bra-hai-opus.md",
+      "sonnet/group-stage/m-bra-hai-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 0,
@@ -2719,8 +2719,8 @@
     "homeCode": "TUR",
     "awayCode": "PAR",
     "files": [
-      "opus/m-tur-par-opus.md",
-      "sonnet/m-tur-par-sonnet.md"
+      "opus/group-stage/m-tur-par-opus.md",
+      "sonnet/group-stage/m-tur-par-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
@@ -2736,9 +2736,9 @@
     "homeCode": "NED",
     "awayCode": "SWE",
     "files": [
-      "opus/m-ned-swe-opus.md",
-      "sonnet/m-ned-swe-sonnet.md",
-      "deepseek/m-ned-swe-deepseek.md"
+      "opus/group-stage/m-ned-swe-opus.md",
+      "sonnet/group-stage/m-ned-swe-sonnet.md",
+      "deepseek/group-stage/m-ned-swe-deepseek.md"
     ],
     "actualScoreHome": 5,
     "actualScoreAway": 1,
@@ -2840,9 +2840,9 @@
     "homeCode": "GER",
     "awayCode": "CIV",
     "files": [
-      "sonnet/m-ger-civ-sonnet.md",
-      "opus/m-ger-civ-opus.md",
-      "deepseek/m-ger-civ-deepseek.md"
+      "sonnet/group-stage/m-ger-civ-sonnet.md",
+      "opus/group-stage/m-ger-civ-opus.md",
+      "deepseek/group-stage/m-ger-civ-deepseek.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 1,
@@ -2944,9 +2944,9 @@
     "homeCode": "ECU",
     "awayCode": "CUW",
     "files": [
-      "opus/m-ecu-cuw-opus.md",
-      "sonnet/m-ecu-cuw-sonnet.md",
-      "deepseek/m-ecu-cuw-deepseek.md"
+      "opus/group-stage/m-ecu-cuw-opus.md",
+      "sonnet/group-stage/m-ecu-cuw-sonnet.md",
+      "deepseek/group-stage/m-ecu-cuw-deepseek.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
@@ -3049,9 +3049,9 @@
     "homeCode": "TUN",
     "awayCode": "JPN",
     "files": [
-      "opus/m-tun-jpn-opus.md",
-      "sonnet/m-tun-jpn-sonnet.md",
-      "deepseek/m-tun-jpn-deepseek.md"
+      "opus/group-stage/m-tun-jpn-opus.md",
+      "sonnet/group-stage/m-tun-jpn-sonnet.md",
+      "deepseek/group-stage/m-tun-jpn-deepseek.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 4,
@@ -3153,8 +3153,8 @@
     "homeCode": "ESP",
     "awayCode": "KSA",
     "files": [
-      "sonnet/m-esp-ksa-sonnet.md",
-      "deepseek/m-esp-ksa-deepseek.md"
+      "sonnet/group-stage/m-esp-ksa-sonnet.md",
+      "deepseek/group-stage/m-esp-ksa-deepseek.md"
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 0,
@@ -3264,8 +3264,8 @@
     "homeCode": "BEL",
     "awayCode": "IRI",
     "files": [
-      "sonnet/m-bel-iri-sonnet.md",
-      "deepseek/m-bel-iri-deepseek.md"
+      "sonnet/group-stage/m-bel-iri-sonnet.md",
+      "deepseek/group-stage/m-bel-iri-deepseek.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
@@ -3366,8 +3366,8 @@
     "homeCode": "URU",
     "awayCode": "CPV",
     "files": [
-      "sonnet/m-uru-cpv-sonnet.md",
-      "deepseek/m-uru-cpv-deepseek.md"
+      "sonnet/group-stage/m-uru-cpv-sonnet.md",
+      "deepseek/group-stage/m-uru-cpv-deepseek.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 2,
@@ -3383,8 +3383,8 @@
     "homeCode": "NZL",
     "awayCode": "EGY",
     "files": [
-      "sonnet/m-nzl-egy-sonnet.md",
-      "deepseek/m-nzl-egy-deepseek.md"
+      "sonnet/group-stage/m-nzl-egy-sonnet.md",
+      "deepseek/group-stage/m-nzl-egy-deepseek.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 3,
@@ -3486,7 +3486,7 @@
     "homeCode": "ARG",
     "awayCode": "AUT",
     "files": [
-      "sonnet/m-arg-aut-sonnet.md"
+      "sonnet/group-stage/m-arg-aut-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 0,
@@ -3596,7 +3596,7 @@
     "homeCode": "FRA",
     "awayCode": "IRQ",
     "files": [
-      "sonnet/m-fra-irq-sonnet.md"
+      "sonnet/group-stage/m-fra-irq-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 0,
@@ -3698,7 +3698,7 @@
     "homeCode": "NOR",
     "awayCode": "SEN",
     "files": [
-      "sonnet/m-nor-sen-sonnet.md"
+      "sonnet/group-stage/m-nor-sen-sonnet.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 2,
@@ -3800,7 +3800,7 @@
     "homeCode": "JOR",
     "awayCode": "ALG",
     "files": [
-      "sonnet/m-jor-alg-sonnet.md"
+      "sonnet/group-stage/m-jor-alg-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 2,
@@ -3902,7 +3902,7 @@
     "homeCode": "POR",
     "awayCode": "UZB",
     "files": [
-      "sonnet/m-por-uzb-sonnet.md"
+      "sonnet/group-stage/m-por-uzb-sonnet.md"
     ],
     "actualScoreHome": 5,
     "actualScoreAway": 0,
@@ -4012,7 +4012,7 @@
     "homeCode": "ENG",
     "awayCode": "GHA",
     "files": [
-      "sonnet/m-eng-gha-sonnet.md"
+      "sonnet/group-stage/m-eng-gha-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,
@@ -4122,7 +4122,7 @@
     "homeCode": "PAN",
     "awayCode": "CRO",
     "files": [
-      "sonnet/m-pan-cro-sonnet.md"
+      "sonnet/group-stage/m-pan-cro-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
@@ -4228,7 +4228,7 @@
     "homeCode": "COL",
     "awayCode": "COD",
     "files": [
-      "sonnet/m-col-cod-sonnet.md"
+      "sonnet/group-stage/m-col-cod-sonnet.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
@@ -4330,8 +4330,8 @@
     "homeCode": "BIH",
     "awayCode": "QAT",
     "files": [
-      "sonnet/m-bih-qat-sonnet.md",
-      "deepseek/m-bih-qat-deepseek.md"
+      "sonnet/group-stage/m-bih-qat-sonnet.md",
+      "deepseek/group-stage/m-bih-qat-deepseek.md"
     ],
     "actualScoreHome": 3,
     "actualScoreAway": 1,
@@ -4441,7 +4441,7 @@
     "homeCode": "SUI",
     "awayCode": "CAN",
     "files": [
-      "sonnet/m-sui-can-sonnet.md"
+      "sonnet/group-stage/m-sui-can-sonnet.md"
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 1,
@@ -4551,8 +4551,8 @@
     "homeCode": "MAR",
     "awayCode": "HAI",
     "files": [
-      "sonnet/m-mar-hai-sonnet.md",
-      "deepseek/m-mar-hai-deepseek.md"
+      "sonnet/group-stage/m-mar-hai-sonnet.md",
+      "deepseek/group-stage/m-mar-hai-deepseek.md"
     ],
     "actualScoreHome": 4,
     "actualScoreAway": 2,
@@ -4662,8 +4662,8 @@
     "homeCode": "SCO",
     "awayCode": "BRA",
     "files": [
-      "sonnet/m-sco-bra-sonnet.md",
-      "deepseek/m-sco-bra-deepseek.md"
+      "sonnet/group-stage/m-sco-bra-sonnet.md",
+      "deepseek/group-stage/m-sco-bra-deepseek.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 3,
@@ -4773,8 +4773,8 @@
     "homeCode": "CZE",
     "awayCode": "MEX",
     "files": [
-      "sonnet/m-cze-mex-sonnet.md",
-      "deepseek/m-cze-mex-deepseek.md"
+      "sonnet/group-stage/m-cze-mex-sonnet.md",
+      "deepseek/group-stage/m-cze-mex-deepseek.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 3,
@@ -4884,8 +4884,8 @@
     "homeCode": "RSA",
     "awayCode": "KOR",
     "files": [
-      "sonnet/m-rsa-kor-sonnet.md",
-      "deepseek/m-rsa-kor-deepseek.md"
+      "sonnet/group-stage/m-rsa-kor-sonnet.md",
+      "deepseek/group-stage/m-rsa-kor-deepseek.md"
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 0,
@@ -4995,8 +4995,8 @@
     "homeCode": "CUW",
     "awayCode": "CIV",
     "files": [
-      "opus/m-cuw-civ-opus.md",
-      "sonnet/m-cuw-civ-sonnet.md"
+      "opus/group-stage/m-cuw-civ-opus.md",
+      "sonnet/group-stage/m-cuw-civ-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5012,8 +5012,8 @@
     "homeCode": "ECU",
     "awayCode": "GER",
     "files": [
-      "opus/m-ecu-ger-opus.md",
-      "sonnet/m-ecu-ger-sonnet.md"
+      "opus/group-stage/m-ecu-ger-opus.md",
+      "sonnet/group-stage/m-ecu-ger-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5029,8 +5029,8 @@
     "homeCode": "JPN",
     "awayCode": "SWE",
     "files": [
-      "opus/m-jpn-swe-opus.md",
-      "sonnet/m-jpn-swe-sonnet.md"
+      "opus/group-stage/m-jpn-swe-opus.md",
+      "sonnet/group-stage/m-jpn-swe-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5046,8 +5046,8 @@
     "homeCode": "TUN",
     "awayCode": "NED",
     "files": [
-      "opus/m-tun-ned-opus.md",
-      "sonnet/m-tun-ned-sonnet.md"
+      "opus/group-stage/m-tun-ned-opus.md",
+      "sonnet/group-stage/m-tun-ned-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5063,8 +5063,8 @@
     "homeCode": "PAR",
     "awayCode": "AUS",
     "files": [
-      "opus/m-par-aus-opus.md",
-      "sonnet/m-par-aus-sonnet.md"
+      "opus/group-stage/m-par-aus-opus.md",
+      "sonnet/group-stage/m-par-aus-sonnet.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5080,8 +5080,8 @@
     "homeCode": "TUR",
     "awayCode": "USA",
     "files": [
-      "sonnet/m-tur-usa-sonnet.md",
-      "opus/m-tur-usa-opus.md"
+      "sonnet/group-stage/m-tur-usa-sonnet.md",
+      "opus/group-stage/m-tur-usa-opus.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5097,8 +5097,8 @@
     "homeCode": "SEN",
     "awayCode": "IRQ",
     "files": [
-      "sonnet/m-sen-irq-sonnet.md",
-      "deepseek/m-sen-irq-deepseek.md"
+      "sonnet/group-stage/m-sen-irq-sonnet.md",
+      "deepseek/group-stage/m-sen-irq-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5114,8 +5114,8 @@
     "homeCode": "NOR",
     "awayCode": "FRA",
     "files": [
-      "sonnet/m-nor-fra-sonnet.md",
-      "deepseek/m-nor-fra-deepseek.md"
+      "sonnet/group-stage/m-nor-fra-sonnet.md",
+      "deepseek/group-stage/m-nor-fra-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5131,8 +5131,8 @@
     "homeCode": "URU",
     "awayCode": "ESP",
     "files": [
-      "sonnet/m-uru-esp-sonnet.md",
-      "deepseek/m-uru-esp-deepseek.md"
+      "sonnet/group-stage/m-uru-esp-sonnet.md",
+      "deepseek/group-stage/m-uru-esp-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5148,8 +5148,8 @@
     "homeCode": "CPV",
     "awayCode": "KSA",
     "files": [
-      "sonnet/m-cpv-ksa-sonnet.md",
-      "deepseek/m-cpv-ksa-deepseek.md"
+      "sonnet/group-stage/m-cpv-ksa-sonnet.md",
+      "deepseek/group-stage/m-cpv-ksa-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5165,8 +5165,8 @@
     "homeCode": "EGY",
     "awayCode": "IRN",
     "files": [
-      "sonnet/m-egy-irn-sonnet.md",
-      "deepseek/m-egy-irn-deepseek.md"
+      "sonnet/group-stage/m-egy-irn-sonnet.md",
+      "deepseek/group-stage/m-egy-irn-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5182,8 +5182,8 @@
     "homeCode": "NZL",
     "awayCode": "BEL",
     "files": [
-      "sonnet/m-nzl-bel-sonnet.md",
-      "deepseek/m-nzl-bel-deepseek.md"
+      "sonnet/group-stage/m-nzl-bel-sonnet.md",
+      "deepseek/group-stage/m-nzl-bel-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5199,8 +5199,8 @@
     "homeCode": "CRO",
     "awayCode": "GHA",
     "files": [
-      "sonnet/m-cro-gha-sonnet.md",
-      "deepseek/m-cro-gha-deepseek.md"
+      "sonnet/group-stage/m-cro-gha-sonnet.md",
+      "deepseek/group-stage/m-cro-gha-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5216,8 +5216,8 @@
     "homeCode": "PAN",
     "awayCode": "ENG",
     "files": [
-      "sonnet/m-pan-eng-sonnet.md",
-      "deepseek/m-pan-eng-deepseek.md"
+      "sonnet/group-stage/m-pan-eng-sonnet.md",
+      "deepseek/group-stage/m-pan-eng-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5233,8 +5233,8 @@
     "homeCode": "COD",
     "awayCode": "UZB",
     "files": [
-      "sonnet/m-cod-uzb-sonnet.md",
-      "deepseek/m-cod-uzb-deepseek.md"
+      "sonnet/group-stage/m-cod-uzb-sonnet.md",
+      "deepseek/group-stage/m-cod-uzb-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5250,8 +5250,8 @@
     "homeCode": "COL",
     "awayCode": "POR",
     "files": [
-      "sonnet/m-col-por-sonnet.md",
-      "deepseek/m-col-por-deepseek.md"
+      "sonnet/group-stage/m-col-por-sonnet.md",
+      "deepseek/group-stage/m-col-por-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5267,8 +5267,8 @@
     "homeCode": "ALG",
     "awayCode": "AUT",
     "files": [
-      "sonnet/m-alg-aut-sonnet.md",
-      "deepseek/m-alg-aut-deepseek.md"
+      "sonnet/group-stage/m-alg-aut-sonnet.md",
+      "deepseek/group-stage/m-alg-aut-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -5284,8 +5284,8 @@
     "homeCode": "JOR",
     "awayCode": "ARG",
     "files": [
-      "sonnet/m-jor-arg-sonnet.md",
-      "deepseek/m-jor-arg-deepseek.md"
+      "sonnet/group-stage/m-jor-arg-sonnet.md",
+      "deepseek/group-stage/m-jor-arg-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

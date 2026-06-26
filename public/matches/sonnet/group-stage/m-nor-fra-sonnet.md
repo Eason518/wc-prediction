@@ -561,3 +561,48 @@ Dự đoán: Pháp thắng 2-1. Chất lượng, chiều sâu và kinh nghiệm 
 | 🏆 Chiều sâu của Pháp | Barcola, Cherki, Thuram, Doue — Deschamps có thể luân chuyển tự do mà không mất chất lượng, điều xa xỉ mà không đội nào ở World Cup này có được. |
 | 📐 Hàng thủ cao của Na Uy | Lựa chọn táo bạo giúp họ bẻ gãy Senegal và Iraq; trước Mbappe và Olise, cách tiếp cận tương tự mang theo nguy hiểm thực sự. |
 | ⚖️ Oliver kiểm soát | Michael Oliver là một trong những trọng tài hàng đầu thế giới — kỳ vọng một màn trình diễn quyết đoán nhưng công bằng; thẻ vàng có thể xuất hiện cho những pha phạm lỗi của Na Uy vào Mbappe. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測法國勝，實際法國勝）
+- ✅ Dembele 大發神威，如預期成為法國最具威脅的進攻核心
+- ✅ 挪威高位防線被 Mbappe、Dembele 一再突破，與賽前分析吻合
+- ✅ 角球數命中（預測 9–13，實際 9 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分大幅低估（預測 1-2，實際 1-4）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (France win)
+- ✅ Dembele delivered as predicted — the key attacking threat who drove France's victory
+- ✅ Norway's high defensive line exploited by Mbappe and Dembele, as analysed
+- ✅ Corner count on target (predicted 9–13, actual 9)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline heavily underestimated (predicted 1-2, actual 1-4)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测法国胜，实际法国胜）
+- ✅ Dembele 大发神威，如预期成为法国最具威胁的进攻核心
+- ✅ 挪威高位防线被 Mbappe、Dembele 一再突破，与赛前分析吻合
+- ✅ 角球数命中（预测 9–13，实际 9 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分大幅低估（预测 1-2，实际 1-4）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Pháp thắng)
+- ✅ Dembele tỏa sáng đúng như dự đoán — mối đe dọa tấn công chủ chốt của Pháp
+- ✅ Hàng thủ cao của Na Uy bị Mbappe và Dembele liên tục khai thác, đúng như phân tích
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–13, thực tế 9 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 1-2, thực tế 1-4)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
+- ✅ Dembele โดดเด่นดังที่ทำนายไว้ — แรงขับเคลื่อนหลักในการบุกของฝรั่งเศส
+- ✅ แนวรับสูงของนอร์เวย์ถูก Mbappe และ Dembele ทะลวงซ้ำแล้วซ้ำเล่า ตรงตามการวิเคราะห์
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–13, จริง 9 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 1-2, จริง 1-4)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)

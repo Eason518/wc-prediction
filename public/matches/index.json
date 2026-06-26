@@ -5637,9 +5637,95 @@
       "deepseek/group-stage/m-nor-fra-deepseek.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 3,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreAway": 4,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        45,
+        47
+      ],
+      "possession_contested": 8,
+      "goals": [
+        1,
+        4
+      ],
+      "assists": [
+        1,
+        4
+      ],
+      "attempts_total": [
+        10,
+        18
+      ],
+      "attempts_on": [
+        4,
+        9
+      ],
+      "attempts_off": [
+        3,
+        5
+      ],
+      "attempts_inside": [
+        6,
+        10
+      ],
+      "attempts_outside": [
+        4,
+        8
+      ],
+      "passes": [
+        427,
+        560
+      ],
+      "passes_completed": [
+        341,
+        495
+      ],
+      "crosses": [
+        8,
+        17
+      ],
+      "crosses_completed": [
+        2,
+        6
+      ],
+      "corners": [
+        4,
+        5
+      ],
+      "free_kicks": [
+        11,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        27,
+        17
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        10,
+        9
+      ],
+      "offsides": [
+        1,
+        2
+      ]
+    },
     "v": 1
   },
   {
@@ -5655,8 +5741,94 @@
     ],
     "actualScoreHome": 5,
     "actualScoreAway": 0,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        55,
+        39
+      ],
+      "possession_contested": 6,
+      "goals": [
+        5,
+        0
+      ],
+      "assists": [
+        5,
+        0
+      ],
+      "attempts_total": [
+        28,
+        6
+      ],
+      "attempts_on": [
+        12,
+        1
+      ],
+      "attempts_off": [
+        12,
+        1
+      ],
+      "attempts_inside": [
+        17,
+        1
+      ],
+      "attempts_outside": [
+        11,
+        5
+      ],
+      "passes": [
+        541,
+        256
+      ],
+      "passes_completed": [
+        483,
+        180
+      ],
+      "crosses": [
+        9,
+        2
+      ],
+      "crosses_completed": [
+        2,
+        0
+      ],
+      "corners": [
+        12,
+        3
+      ],
+      "free_kicks": [
+        11,
+        11
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        18,
+        14
+      ],
+      "yellow_cards": [
+        2,
+        2
+      ],
+      "red_cards": [
+        0,
+        1
+      ],
+      "fouls": [
+        11,
+        10
+      ],
+      "offsides": [
+        1,
+        0
+      ]
+    },
     "v": 1
   },
   {

@@ -581,3 +581,48 @@ Dự đoán: **Senegal 2-1 Iraq**. Mané và Jackson ghi bàn; Hussein gỡ lạ
 | ใบเหลืองรวม | 861 | #EAB308 |
 | ใบเหลือง-แดง | 12 | orange |
 | ใบแดง | 39 | #EF4444 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測塞內加爾勝，實際塞內加爾勝）
+- ✅ 塞內加爾個人技術優勢如分析所言完全主宰全場
+- ✅ 黃牌數命中（預測 4–6，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 1 張）
+- ⚠️ 比分大幅低估（預測 2-1，實際 5-0）
+- ⚠️ 伊拉克未能破門，封關預期落空（預測 Aymen Hussein 反擊進球）
+- ⚠️ 角球數大幅高於預測（預測 8–12，實際 15 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Senegal win)
+- ✅ Senegal's individual quality dominated throughout as analysed
+- ✅ Yellow card count on target (predicted 4–6, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 1)
+- ⚠️ Scoreline heavily underestimated (predicted 2-1, actual 5-0)
+- ⚠️ Iraq kept scoreless — predicted counter-attack goal for Hussein did not materialise
+- ⚠️ Corner count far above prediction (predicted 8–12, actual 15)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测塞内加尔胜，实际塞内加尔胜）
+- ✅ 塞内加尔个人技术优势如分析所言完全主宰全场
+- ✅ 黄牌数命中（预测 4–6，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 1 张）
+- ⚠️ 比分大幅低估（预测 2-1，实际 5-0）
+- ⚠️ 伊拉克未能破门，封关预期落空（预测 Aymen Hussein 反击进球）
+- ⚠️ 角球数大幅高于预测（预测 8–12，实际 15 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Senegal thắng)
+- ✅ Chất lượng cá nhân của Senegal thống trị xuyên suốt như phân tích
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 4–6, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 1 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 2-1, thực tế 5-0)
+- ⚠️ Iraq không ghi được bàn — bàn phản công của Hussein dự đoán không thành hiện thực
+- ⚠️ Số phạt góc cao hơn nhiều so với dự đoán (dự đoán 8–12, thực tế 15 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เซเนกัลชนะ)
+- ✅ คุณภาพรายบุคคลของเซเนกัลครอบงำตลอดเกมดังที่วิเคราะห์ไว้
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 4–6, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 1 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 2-1, จริง 5-0)
+- ⚠️ อิรักไม่สามารถทำประตูได้ — ประตูโต้กลับที่ทำนายสำหรับ Hussein ไม่เกิดขึ้นจริง
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนายมาก (ทำนาย 8–12, จริง 15 ลูก)

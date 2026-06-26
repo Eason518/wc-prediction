@@ -616,3 +616,48 @@ Cả hai đội đều đã có sáu điểm, vì vậy đây là cuộc chiến
 | ใบเหลืองรวม | — | #EAB308 |
 | ใบเหลือง-แดง | — | orange |
 | ใบแดง | — | #EF4444 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測法國勝，實際法國勝）
+- ✅ Dembele–Mbappe 雙核如預期發威，徹底壓制挪威高位防線
+- ✅ 法國陣容深度優勢如分析所言，替補登場同樣決定性
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分大幅低估（預測 1-2，實際 1-4）
+- ⚠️ 角球數低於預測（預測 10–14，實際 9 個）
+- ⚠️ 犯規數大幅低於預測（預測 22–28，實際 19 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (France win)
+- ✅ Dembele–Mbappe dual threat materialised as predicted, overpowering Norway's high line
+- ✅ France's squad depth advantage proved decisive, as analysed
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline heavily underestimated (predicted 1-2, actual 1-4)
+- ⚠️ Corner count below prediction (predicted 10–14, actual 9)
+- ⚠️ Foul count far below prediction (predicted 22–28, actual 19)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测法国胜，实际法国胜）
+- ✅ Dembele–Mbappe 双核如预期发威，彻底压制挪威高位防线
+- ✅ 法国阵容深度优势如分析所言，替补登场同样决定性
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分大幅低估（预测 1-2，实际 1-4）
+- ⚠️ 角球数低于预测（预测 10–14，实际 9 个）
+- ⚠️ 犯规数大幅低于预测（预测 22–28，实际 19 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Pháp thắng)
+- ✅ Cặp đôi Dembele–Mbappe thể hiện đúng như dự đoán, nghiền nát hàng thủ cao của Na Uy
+- ✅ Lợi thế chiều sâu đội hình của Pháp tỏ ra quyết định như phân tích
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhiều (dự đoán 1-2, thực tế 1-4)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 10–14, thực tế 9 cái)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 22–28, thực tế 19 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
+- ✅ คู่หู Dembele–Mbappe แสดงฝีมือดังที่ทำนาย บดขยี้แนวรับสูงของนอร์เวย์
+- ✅ ความได้เปรียบด้านความลึกของฝรั่งเศสพิสูจน์ว่าเด็ดขาดดังที่วิเคราะห์ไว้
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปมาก (ทำนาย 1-2, จริง 1-4)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 10–14, จริง 9 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 22–28, จริง 19 ครั้ง)

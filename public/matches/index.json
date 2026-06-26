@@ -5626,23 +5626,6 @@
     "v": 1
   },
   {
-    "id": "m-sen-irq",
-    "date": "2026-06-27",
-    "time": "03:00",
-    "stage": "group-stage",
-    "homeCode": "SEN",
-    "awayCode": "IRQ",
-    "files": [
-      "sonnet/group-stage/m-sen-irq-sonnet.md",
-      "deepseek/group-stage/m-sen-irq-deepseek.md"
-    ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
-  },
-  {
     "id": "m-nor-fra",
     "date": "2026-06-27",
     "time": "03:00",
@@ -5652,6 +5635,23 @@
     "files": [
       "sonnet/group-stage/m-nor-fra-sonnet.md",
       "deepseek/group-stage/m-nor-fra-deepseek.md"
+    ],
+    "actualScoreHome": 0,
+    "actualScoreAway": 2,
+    "predictionCorrect": null,
+    "liveStats": {},
+    "v": 1
+  },
+  {
+    "id": "m-sen-irq",
+    "date": "2026-06-27",
+    "time": "03:00",
+    "stage": "group-stage",
+    "homeCode": "SEN",
+    "awayCode": "IRQ",
+    "files": [
+      "sonnet/group-stage/m-sen-irq-sonnet.md",
+      "deepseek/group-stage/m-sen-irq-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

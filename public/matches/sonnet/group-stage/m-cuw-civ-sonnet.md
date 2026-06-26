@@ -621,3 +621,48 @@ Dự đoán: Ivory Coast thắng 0-3. Những chú Voi luân chuyển thông min
 | 🌊 ความภาคภูมิใจของคลื่นสีน้ำเงิน | กูราเซาเล่นเพื่อประวัติศาสตร์และความภูมิใจของชาติ คาดว่าพวกเขาจะตั้งรับด้วยวินัยและมองหาการโต้กลับผ่าน Chong |
 | 📊 บริบทการผ่านรอบ | ไอวอรีโคสต์อาจหมุนเวียนผู้เล่น หากเยอรมนีเอาชนะเอกวาดอร์ในเวลาเดียวกัน อันดับสองของไอวอรีโคสต์ปลอดภัยไม่ว่ากรณีใด |
 | 📏 รอยืนยันผู้ตัดสิน | FIFA ยังไม่ยืนยันผู้ตัดสิน คาดว่าจำนวนใบเหลืองอยู่ในระดับปานกลางเนื่องจากลักษณะเชิงยุทธวิธีของการแข่งขัน |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測象牙海岸勝，實際象牙海岸勝）
+- ✅ Pépé 雙響主宰比賽，象牙海岸攻勢如預期難以阻擋
+- ✅ 黃牌數命中（預測 3–5，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 0-3，實際 0-2）
+- ⚠️ 角球數高於預測（預測 6–9，實際 10 個）
+- ⚠️ 犯規數大幅低於預測（預測 20–25，實際 17 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Côte d'Ivoire win)
+- ✅ Pépé's double dominated as predicted; Ivory Coast's attack proved unstoppable
+- ✅ Yellow cards on target (predicted 3–5, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 0-3, actual 0-2)
+- ⚠️ Corner count above prediction (predicted 6–9, actual 10)
+- ⚠️ Foul count far below prediction (predicted 20–25, actual 17)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测象牙海岸胜，实际象牙海岸胜）
+- ✅ Pépé 梅开二度主宰比赛，象牙海岸攻势如预期难以阻挡
+- ✅ 黄牌数命中（预测 3–5，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 0-3，实际 0-2）
+- ⚠️ 角球数高于预测（预测 6–9，实际 10 个）
+- ⚠️ 犯规数大幅低于预测（预测 20–25，实际 17 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Côte d'Ivoire thắng)
+- ✅ Pépé lập cú đúp như dự đoán; cuộc tấn công của Ivory Coast không thể cản phá
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 0-3, thực tế 0-2)
+- ⚠️ Số phạt góc cao hơn dự đoán (dự đoán 6–9, thực tế 10 cái)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 20–25, thực tế 17 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โกตดิวัวร์ชนะ)
+- ✅ เปเป้ยิงสองประตูตามที่คาด การบุกของโกตดิวัวร์ไม่อาจต้านทานได้
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-3, จริง 0-2)
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนาย (ทำนาย 6–9, จริง 10 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 20–25, จริง 17 ครั้ง)

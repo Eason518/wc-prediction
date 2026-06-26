@@ -4998,11 +4998,101 @@
       "opus/group-stage/m-cuw-civ-opus.md",
       "sonnet/group-stage/m-cuw-civ-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 0,
+    "actualScoreAway": 2,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        37,
+        55
+      ],
+      "possession_contested": 8,
+      "goals": [
+        0,
+        2
+      ],
+      "assists": [
+        0,
+        2
+      ],
+      "attempts_total": [
+        11,
+        7
+      ],
+      "attempts_on": [
+        2,
+        3
+      ],
+      "attempts_off": [
+        8,
+        3
+      ],
+      "attempts_inside": [
+        6,
+        7
+      ],
+      "attempts_outside": [
+        5,
+        0
+      ],
+      "yellow_cards": [
+        2,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        6,
+        11
+      ],
+      "offsides": [
+        2,
+        1
+      ],
+      "passes": [
+        369,
+        644
+      ],
+      "passes_completed": [
+        312,
+        574
+      ],
+      "crosses": [
+        15,
+        18
+      ],
+      "crosses_completed": [
+        4,
+        4
+      ],
+      "corners": [
+        4,
+        6
+      ],
+      "free_kicks": [
+        7,
+        13
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        43,
+        44
+      ],
+      "pressing": [
+        299,
+        201
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-ecu-ger",
@@ -5015,10 +5105,100 @@
       "opus/group-stage/m-ecu-ger-opus.md",
       "sonnet/group-stage/m-ecu-ger-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 2,
+    "actualScoreAway": 1,
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        39,
+        51
+      ],
+      "possession_contested": 10,
+      "goals": [
+        2,
+        1
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        7,
+        11
+      ],
+      "attempts_on": [
+        3,
+        3
+      ],
+      "attempts_off": [
+        3,
+        5
+      ],
+      "attempts_inside": [
+        5,
+        6
+      ],
+      "attempts_outside": [
+        2,
+        5
+      ],
+      "yellow_cards": [
+        3,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        10,
+        15
+      ],
+      "offsides": [
+        0,
+        0
+      ],
+      "passes": [
+        389,
+        612
+      ],
+      "passes_completed": [
+        325,
+        537
+      ],
+      "crosses": [
+        14,
+        16
+      ],
+      "crosses_completed": [
+        4,
+        4
+      ],
+      "corners": [
+        3,
+        2
+      ],
+      "free_kicks": [
+        10,
+        15
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        49,
+        51
+      ],
+      "pressing": [
+        299,
+        231
+      ]
+    },
     "v": 1
   },
   {
@@ -5032,10 +5212,100 @@
       "opus/group-stage/m-jpn-swe-opus.md",
       "sonnet/group-stage/m-jpn-swe-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        44,
+        44
+      ],
+      "possession_contested": 12,
+      "goals": [
+        1,
+        1
+      ],
+      "assists": [
+        1,
+        1
+      ],
+      "attempts_total": [
+        8,
+        11
+      ],
+      "attempts_on": [
+        3,
+        5
+      ],
+      "attempts_off": [
+        4,
+        5
+      ],
+      "attempts_inside": [
+        4,
+        6
+      ],
+      "attempts_outside": [
+        4,
+        5
+      ],
+      "yellow_cards": [
+        1,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        11,
+        20
+      ],
+      "offsides": [
+        3,
+        2
+      ],
+      "passes": [
+        454,
+        410
+      ],
+      "passes_completed": [
+        381,
+        330
+      ],
+      "crosses": [
+        14,
+        16
+      ],
+      "crosses_completed": [
+        4,
+        4
+      ],
+      "corners": [
+        2,
+        8
+      ],
+      "free_kicks": [
+        13,
+        23
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        42,
+        37
+      ],
+      "pressing": [
+        221,
+        201
+      ]
+    },
     "v": 2
   },
   {
@@ -5049,11 +5319,101 @@
       "opus/group-stage/m-tun-ned-opus.md",
       "sonnet/group-stage/m-tun-ned-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 1,
+    "actualScoreAway": 3,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        27,
+        64
+      ],
+      "possession_contested": 9,
+      "goals": [
+        1,
+        3
+      ],
+      "assists": [
+        1,
+        2
+      ],
+      "attempts_total": [
+        10,
+        20
+      ],
+      "attempts_on": [
+        4,
+        7
+      ],
+      "attempts_off": [
+        5,
+        7
+      ],
+      "attempts_inside": [
+        3,
+        15
+      ],
+      "attempts_outside": [
+        7,
+        5
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        10,
+        11
+      ],
+      "offsides": [
+        2,
+        1
+      ],
+      "passes": [
+        265,
+        668
+      ],
+      "passes_completed": [
+        208,
+        619
+      ],
+      "crosses": [
+        13,
+        27
+      ],
+      "crosses_completed": [
+        4,
+        7
+      ],
+      "corners": [
+        4,
+        6
+      ],
+      "free_kicks": [
+        11,
+        13
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        1,
+        0
+      ],
+      "forced_turnovers": [
+        34,
+        34
+      ],
+      "pressing": [
+        346,
+        173
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-par-aus",
@@ -5066,10 +5426,100 @@
       "opus/group-stage/m-par-aus-opus.md",
       "sonnet/group-stage/m-par-aus-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        42,
+        46
+      ],
+      "possession_contested": 12,
+      "goals": [
+        0,
+        0
+      ],
+      "assists": [
+        0,
+        0
+      ],
+      "attempts_total": [
+        7,
+        12
+      ],
+      "attempts_on": [
+        2,
+        5
+      ],
+      "attempts_off": [
+        4,
+        5
+      ],
+      "attempts_inside": [
+        3,
+        7
+      ],
+      "attempts_outside": [
+        4,
+        5
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        6,
+        9
+      ],
+      "offsides": [
+        0,
+        0
+      ],
+      "passes": [
+        418,
+        526
+      ],
+      "passes_completed": [
+        345,
+        446
+      ],
+      "crosses": [
+        7,
+        13
+      ],
+      "crosses_completed": [
+        0,
+        3
+      ],
+      "corners": [
+        1,
+        3
+      ],
+      "free_kicks": [
+        6,
+        9
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        51,
+        43
+      ],
+      "pressing": [
+        284,
+        210
+      ]
+    },
     "v": 1
   },
   {
@@ -5083,10 +5533,96 @@
       "sonnet/group-stage/m-tur-usa-sonnet.md",
       "opus/group-stage/m-tur-usa-opus.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "actualScoreHome": 3,
+    "actualScoreAway": 2,
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        41,
+        49
+      ],
+      "possession_contested": 10,
+      "goals": [
+        3,
+        2
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        8,
+        18
+      ],
+      "attempts_on": [
+        2,
+        7
+      ],
+      "attempts_off": [
+        4,
+        6
+      ],
+      "attempts_inside": [
+        7,
+        16
+      ],
+      "attempts_outside": [
+        1,
+        2
+      ],
+      "yellow_cards": [
+        0,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        13
+      ],
+      "offsides": [
+        2,
+        5
+      ],
+      "passes": [
+        454,
+        501
+      ],
+      "passes_completed": [
+        333,
+        415
+      ],
+      "crosses": [
+        13,
+        20
+      ],
+      "crosses_completed": [
+        1,
+        8
+      ],
+      "corners": [
+        2,
+        9
+      ],
+      "free_kicks": [
+        18,
+        15
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        24,
+        29
+      ]
+    },
     "v": 1
   },
   {

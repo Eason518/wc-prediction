@@ -586,3 +586,48 @@ Dự đoán: Hà Lan thắng 0-3. Gakpo và Brobbey một lần nữa sẽ tạo
 | 🧮 Cuộc Chiến Hiệu Số | Bằng điểm và hiệu số với Nhật Bản, Hà Lan có động lực ghi thật nhiều bàn để chiếm ngôi đầu bảng F. |
 | ⏱️ Cùng Giờ Bóng Lăn | Hai trận cuối bảng F đá cùng giờ, nên Hà Lan phải săn bàn mà không biết tỷ số trực tiếp của Nhật Bản. |
 | 🛡️ Hàng Thủ Rò Rỉ | Tunisia đã thủng lưới chín bàn trong hai trận — kỷ luật và sự tập trung sẽ bị thử thách ngay từ phút đầu. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測荷蘭勝，實際荷蘭勝）
+- ✅ 荷蘭如預期強勢主宰比賽，Van Hecke 與 Brobbey 先後建功
+- ✅ 角球數命中（預測 9–13，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 20–26，實際 21 次）
+- ⚠️ 比分低估（預測 0-3，實際 1-3）
+- ⚠️ 黃牌數大幅低於預測（預測 3–5，實際 0 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Netherlands win)
+- ✅ Netherlands dominated as predicted; Van Hecke and Brobbey found the net
+- ✅ Corner count on target (predicted 9–13, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 20–26, actual 21)
+- ⚠️ Scoreline underestimated (predicted 0-3, actual 1-3)
+- ⚠️ Yellow cards far below prediction (predicted 3–5, actual 0)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测荷兰胜，实际荷兰胜）
+- ✅ 荷兰如预期强势主宰比赛，Van Hecke 与 Brobbey 先后建功
+- ✅ 角球数命中（预测 9–13，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 20–26，实际 21 次）
+- ⚠️ 比分低估（预测 0-3，实际 1-3）
+- ⚠️ 黄牌数大幅低于预测（预测 3–5，实际 0 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hà Lan thắng)
+- ✅ Hà Lan thống trị như dự đoán; Van Hecke và Brobbey lần lượt ghi bàn
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–13, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–26, thực tế 21 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-3, thực tế 1-3)
+- ⚠️ Thẻ vàng thấp hơn nhiều dự đoán (dự đoán 3–5, thực tế 0 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เนเธอร์แลนด์ชนะ)
+- ✅ เนเธอร์แลนด์ครองเกมตามที่คาด Van Hecke และ Brobbey ทำประตูได้
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–13, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–26, จริง 21 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-3, จริง 1-3)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 3–5, จริง 0 ใบ)

@@ -621,3 +621,48 @@ Dự đoán: 0-2 Hà Lan thắng. Đội của Koeman kiểm soát bóng, tạo 
 | 📊 ตูนิเซียต้องบุก | อยู่ท้ายตาราง ต้องการประตู ตูนิเซียละทิ้งความระมัดระวังปกติ — สิ่งนี้กลับเอื้อประโยชน์ให้กับชาวดัตช์ |
 | 🏆 เนเธอร์แลนด์กำลังก้าวหน้า | ทีมของ Koeman ต้องการชัยชนะเพื่อรักษาการควบคุมสิทธิ์ผ่านเข้ารอบ คาดว่าจะพบการแสดงที่มืออาชีพและควบคุมได้ดี |
 | 📏 กรรมการ TBC | คาดว่าจำนวนใบเหลืองอยู่ในระดับปานกลาง ความเข้มข้นในการป้องกันของตูนิเซียจะทดสอบความอดทนของกรรมการ |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測荷蘭勝，實際荷蘭勝）
+- ✅ 荷蘭如預期主宰比賽，Brobbey 與 Van Hecke 各進一球
+- ✅ 角球數命中（預測 8–11，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 0-2，實際 1-3）
+- ⚠️ 黃牌數大幅低於預測（預測 3–5，實際 0 張）
+- ⚠️ 犯規數低於預測（預測 22–26，實際 21 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Netherlands win)
+- ✅ Netherlands dominated as predicted; Brobbey and Van Hecke each scored
+- ✅ Corner count on target (predicted 8–11, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 0-2, actual 1-3)
+- ⚠️ Yellow cards far below prediction (predicted 3–5, actual 0)
+- ⚠️ Foul count below prediction (predicted 22–26, actual 21)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测荷兰胜，实际荷兰胜）
+- ✅ 荷兰如预期主宰比赛，Brobbey 与 Van Hecke 各进一球
+- ✅ 角球数命中（预测 8–11，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 0-2，实际 1-3）
+- ⚠️ 黄牌数大幅低于预测（预测 3–5，实际 0 张）
+- ⚠️ 犯规数低于预测（预测 22–26，实际 21 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hà Lan thắng)
+- ✅ Hà Lan thống trị như dự đoán; Brobbey và Van Hecke mỗi người ghi một bàn
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 8–11, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-2, thực tế 1-3)
+- ⚠️ Thẻ vàng thấp hơn nhiều dự đoán (dự đoán 3–5, thực tế 0 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 22–26, thực tế 21 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เนเธอร์แลนด์ชนะ)
+- ✅ เนเธอร์แลนด์ครองเกมตามที่คาด Brobbey และ Van Hecke ยิงคนละประตู
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 8–11, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-2, จริง 1-3)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 3–5, จริง 0 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 22–26, จริง 21 ครั้ง)

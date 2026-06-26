@@ -5653,7 +5653,7 @@
       "sonnet/group-stage/m-sen-irq-sonnet.md",
       "deepseek/group-stage/m-sen-irq-deepseek.md"
     ],
-    "actualScoreHome": 2,
+    "actualScoreHome": 3,
     "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},

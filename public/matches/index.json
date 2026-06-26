@@ -5636,8 +5636,8 @@
       "sonnet/group-stage/m-nor-fra-sonnet.md",
       "deepseek/group-stage/m-nor-fra-deepseek.md"
     ],
-    "actualScoreHome": 0,
-    "actualScoreAway": 2,
+    "actualScoreHome": 1,
+    "actualScoreAway": 3,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -5653,8 +5653,8 @@
       "sonnet/group-stage/m-sen-irq-sonnet.md",
       "deepseek/group-stage/m-sen-irq-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

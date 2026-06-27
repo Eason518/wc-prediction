@@ -1,6 +1,6 @@
 ---
 id: m-fra-swe
-date: 2026-06-30
+date: 2026-07-01
 time: "05:00"
 group: ROUND OF 32
 matchday: KNOCKOUT STAGE

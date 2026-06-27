@@ -5876,8 +5876,8 @@
       "sonnet/group-stage/m-egy-irn-sonnet.md",
       "deepseek/group-stage/m-egy-irn-deepseek.md"
     ],
-    "actualScoreHome": 0,
-    "actualScoreAway": 0,
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

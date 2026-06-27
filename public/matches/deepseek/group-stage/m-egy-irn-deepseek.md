@@ -581,3 +581,42 @@ Dự đoán: **Egypt 1-1 Iran**. Salah ghi bàn, Iran gỡ hòa muộn từ mộ
 | ใบเหลืองรวม | 853 | #EAB308 |
 | ใบเหลือง-แดง | 8 | orange |
 | ใบแดง | 38 | #EF4444 |
+## result_hits:zh
+- ✅ 勝負方向命中（預測平局，實際平局）
+- ✅ 預測比分完全命中（預測 1-1，實際 1-1）
+- ✅ 角球數命中（預測 6–10，實際 10 個）
+- ✅ 紅牌預測正確（預測 0，實際 0 張）
+- ⚠️ 黃牌數高於預測（預測 3–5，實際 7 張）
+- ⚠️ 犯規數大幅高於預測（預測 18–22，實際 27 次）
+
+## result_hits:en
+- ✅ Draw predicted correctly
+- ✅ Exact score predicted correctly (predicted 1-1, actual 1-1)
+- ✅ Corner count on target (predicted 6–10, actual 10)
+- ✅ Red card prediction correct (predicted 0, actual 0)
+- ⚠️ Yellow cards above prediction (predicted 3–5, actual 7)
+- ⚠️ Foul count far above prediction (predicted 18–22, actual 27)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测平局，实际平局）
+- ✅ 预测比分完全命中（预测 1-1，实际 1-1）
+- ✅ 角球数命中（预测 6–10，实际 10 个）
+- ✅ 红牌预测正确（预测 0，实际 0 张）
+- ⚠️ 黄牌数高于预测（预测 3–5，实际 7 张）
+- ⚠️ 犯规数大幅高于预测（预测 18–22，实际 27 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hòa)
+- ✅ Tỷ số dự đoán hoàn toàn chính xác (dự đoán 1-1, thực tế 1-1)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 6–10, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0, thực tế 0 thẻ)
+- ⚠️ Thẻ vàng cao hơn dự đoán (dự đoán 3–5, thực tế 7 thẻ)
+- ⚠️ Số lần phạm lỗi cao hơn nhiều so với dự đoán (dự đoán 18–22, thực tế 27 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เสมอ)
+- ✅ ทำนายสกอร์แน่นอนถูกต้อง (ทำนาย 1-1, จริง 1-1)
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 6–10, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0, จริง 0 ใบ)
+- ⚠️ ใบเหลืองสูงกว่าที่ทำนาย (ทำนาย 3–5, จริง 7 ใบ)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 18–22, จริง 27 ครั้ง)

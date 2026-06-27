@@ -561,3 +561,43 @@ Dự đoán: Tây Ban Nha thắng 2-0. Chất lượng, sức mạnh của Tây 
 | 💔 Araujo/De Arrascaeta vắng mặt | Uruguay thiếu hai trong số những cầu thủ tốt nhất — khả năng đọc trận của Araujo ở hàng thủ và sự sáng tạo của De Arrascaeta đều là những tổn thất lớn. |
 | ⚡ Trận chiến của Valverde | Nếu tiền vệ Real Madrid có thể phá vỡ nhịp điệu tuyến giữa Tây Ban Nha, Uruguay có cơ hội — Rodri đấu Valverde là cuộc đấu then chốt của trận. |
 | 📊 Sự thống trị lịch sử của Tây Ban Nha | Bảy chiến thắng trong mười lần gặp, 16 bàn thắng, không thua lần nào — thống kê đối đầu tự nói lên tất cả. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測西班牙勝，實際西班牙勝）
+- ✅ 烏拉圭未能攻破西班牙球門，封關如預期實現
+- ✅ 黃牌數命中（預測 3–5，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 1 張）
+- ⚠️ 比分高估（預測 0-2，實際 0-1）
+- ⚠️ 角球數低於預測（預測 8–12，實際 7 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Spain win)
+- ✅ Uruguay failed to score — clean sheet held as predicted
+- ✅ Yellow card count on target (predicted 3–5, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 1)
+- ⚠️ Scoreline overestimated (predicted 0-2, actual 0-1)
+- ⚠️ Corner count below prediction (predicted 8–12, actual 7)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测西班牙胜，实际西班牙胜）
+- ✅ 乌拉圭未能攻破西班牙球门，封关如预期实现
+- ✅ 黄牌数命中（预测 3–5，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 1 张）
+- ⚠️ 比分高估（预测 0-2，实际 0-1）
+- ⚠️ 角球数低于预测（预测 8–12，实际 7 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Tây Ban Nha thắng)
+- ✅ Uruguay không ghi được bàn — giữ sạch lưới như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 1 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 0-2, thực tế 0-1)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 8–12, thực tế 7 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สเปนชนะ)
+- ✅ อุรุกวัยไม่สามารถทำประตูได้ — รักษาคลีนชีทตามที่ทำนาย
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 1 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-2, จริง 0-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 8–12, จริง 7 ลูก)

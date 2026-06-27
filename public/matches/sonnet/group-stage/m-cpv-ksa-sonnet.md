@@ -561,3 +561,43 @@ Dự đoán: hòa 1-1. Cape Verde rất khó bị phá vỡ và thoải mái tro
 | 🧱 Khối phòng thủ của Cape Verde | Vozinha trên khung thành và sơ đồ 4-3-3 chắc chắn cực kỳ khó bị công phá — ngay cả Tây Ban Nha cũng không ghi được bàn. |
 | 🏃 Livramento là vũ khí phản công | Tốc độ của tiền đạo Nantes phía sau hàng thủ dâng cao của Saudi Arabia có thể là yếu tố quyết định trong một trận đấu căng thẳng. |
 | ⚖️ Letexier hay rút thẻ | Trọng tài người Pháp đã rút 4 thẻ ngay trong trận World Cup đầu tiên — sự tuyệt vọng của Saudi ở những phút cuối có thể khiến ông lại giơ thẻ vàng. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測平局，實際平局）
+- ✅ 維德角防守嚴密，如預期封鎖沙烏地阿拉伯進攻
+- ✅ 黃牌數命中（預測 4–6，實際 4 張）
+- ✅ 犯規數命中（預測 24–28，實際 26 次）
+- ⚠️ 比分高估（預測 1-1，實際 0-0）
+- ⚠️ 角球數低於預測（預測 8–12，實際 6 個）
+
+## result_hits:en
+- ✅ Draw predicted correctly
+- ✅ Cape Verde's tight defensive block held as expected — neither side scored
+- ✅ Yellow card count on target (predicted 4–6, actual 4)
+- ✅ Foul count on target (predicted 24–28, actual 26)
+- ⚠️ Scoreline overestimated (predicted 1-1, actual 0-0)
+- ⚠️ Corner count below prediction (predicted 8–12, actual 6)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测平局，实际平局）
+- ✅ 佛得角防守严密，如预期封锁沙特阿拉伯进攻
+- ✅ 黄牌数命中（预测 4–6，实际 4 张）
+- ✅ 犯规数命中（预测 24–28，实际 26 次）
+- ⚠️ 比分高估（预测 1-1，实际 0-0）
+- ⚠️ 角球数低于预测（预测 8–12，实际 6 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hòa)
+- ✅ Hàng thủ chặt chẽ của Cape Verde giữ vững như dự đoán — không đội nào ghi bàn
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 4–6, thực tế 4 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 24–28, thực tế 26 lần)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 1-1, thực tế 0-0)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 8–12, thực tế 6 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เสมอ)
+- ✅ แนวรับที่แน่นหนาของกาบูเวร์ดียืนหยัดได้ตามที่ทำนาย — ไม่มีทีมใดทำประตูได้
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 4–6, จริง 4 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 24–28, จริง 26 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 1-1, จริง 0-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 8–12, จริง 6 ลูก)

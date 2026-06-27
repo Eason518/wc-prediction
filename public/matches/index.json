@@ -5893,8 +5893,8 @@
       "sonnet/group-stage/m-nzl-bel-sonnet.md",
       "deepseek/group-stage/m-nzl-bel-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

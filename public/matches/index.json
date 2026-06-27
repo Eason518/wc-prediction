@@ -6449,6 +6449,7 @@
     "homeCode": "CIV",
     "awayCode": "NOR",
     "files": [
+      "sonnet/round-32/m-civ-nor-sonnet.md",
       "deepseek/round-32/m-civ-nor-deepseek.md"
     ],
     "actualScoreHome": null,
@@ -6465,6 +6466,7 @@
     "homeCode": "FRA",
     "awayCode": "SWE",
     "files": [
+      "sonnet/round-32/m-fra-swe-sonnet.md",
       "deepseek/round-32/m-fra-swe-deepseek.md"
     ],
     "actualScoreHome": null,

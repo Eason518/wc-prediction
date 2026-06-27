@@ -5839,8 +5839,7 @@
     "homeCode": "URU",
     "awayCode": "ESP",
     "files": [
-      "sonnet/group-stage/m-uru-esp-sonnet.md",
-      "deepseek/group-stage/m-uru-esp-deepseek.md"
+      "sonnet/group-stage/m-uru-esp-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
@@ -5950,8 +5949,7 @@
     "homeCode": "CPV",
     "awayCode": "KSA",
     "files": [
-      "sonnet/group-stage/m-cpv-ksa-sonnet.md",
-      "deepseek/group-stage/m-cpv-ksa-deepseek.md"
+      "sonnet/group-stage/m-cpv-ksa-sonnet.md"
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 0,

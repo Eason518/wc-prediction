@@ -6442,27 +6442,35 @@
     "v": 1
   },
   {
-    "id": "r32-m05",
+    "id": "m-civ-nor",
     "date": "2026-07-01",
     "time": "01:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "CIV",
+    "awayCode": "NOR",
+    "files": [
+      "deepseek/round-32/m-civ-nor-deepseek.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m06",
+    "id": "m-fra-swe",
     "date": "2026-07-01",
     "time": "05:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "FRA",
+    "awayCode": "SWE",
+    "files": [
+      "deepseek/round-32/m-fra-swe-deepseek.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

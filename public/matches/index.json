@@ -5842,8 +5842,8 @@
       "sonnet/group-stage/m-uru-esp-sonnet.md",
       "deepseek/group-stage/m-uru-esp-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -5859,8 +5859,8 @@
       "sonnet/group-stage/m-cpv-ksa-sonnet.md",
       "deepseek/group-stage/m-cpv-ksa-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 2

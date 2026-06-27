@@ -6391,39 +6391,54 @@
     "v": 1
   },
   {
-    "id": "r32-m02",
+    "id": "m-bra-jpn",
     "date": "2026-06-30",
     "time": "01:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "BRA",
+    "awayCode": "JPN",
+    "files": [
+      "sonnet/round-32/m-bra-jpn-sonnet.md",
+      "deepseek/round-32/m-bra-jpn-deepseek.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m03",
+    "id": "m-ger-par",
     "date": "2026-06-30",
     "time": "04:30",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "GER",
+    "awayCode": "PAR",
+    "files": [
+      "sonnet/round-32/m-ger-par-sonnet.md",
+      "deepseek/round-32/m-ger-par-deepseek.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m04",
+    "id": "m-ned-mar",
     "date": "2026-06-30",
     "time": "09:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "NED",
+    "awayCode": "MAR",
+    "files": [
+      "sonnet/round-32/m-ned-mar-sonnet.md",
+      "deepseek/round-32/m-ned-mar-deepseek.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

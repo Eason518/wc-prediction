@@ -2,7 +2,7 @@ import { getLang } from './i18n.js';
 
 const STORAGE_KEY = 'wc_popup_closed_at';
 const SUPPRESS_MS = 12 * 60 * 60 * 1000; // 12 hours
-const DELAY_MS = 3_000;                  // 3 minutes
+const DELAY_MS = 180_000;                  // 3 minutes
 
 let _timer = null;
 let _backdrop = null;
@@ -142,14 +142,14 @@ function updateText(lang, t, href) {
   const sub = _backdrop.querySelector('.wc-popup-sub');
   const btn = _backdrop.querySelector('.wc-popup-btn-text');
   const note = _backdrop.querySelector('.wc-popup-note');
-  const link   = _backdrop.querySelector('.wc-popup-btn');
+  const link = _backdrop.querySelector('.wc-popup-btn');
   const banner = _backdrop.querySelector('.wc-popup-banner');
   if (badge) badge.textContent = t('cta.hero_badge');
   if (title) title.textContent = t('cta.hero_title');
   if (sub) sub.innerHTML = t('cta.hero_sub');
   if (btn) btn.textContent = t('cta.hero_btn');
   if (note) note.textContent = t('cta.footer_note');
-  if (link)   link.href = href;
+  if (link) link.href = href;
   if (banner) banner.src = `${import.meta.env.BASE_URL}banners/banner-${lang}.png`;
 }
 

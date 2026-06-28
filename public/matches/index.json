@@ -7059,75 +7059,99 @@
     "v": 1
   },
   {
-    "id": "r32-m11",
+    "id": "m-esp-aut",
     "date": "2026-07-03",
     "time": "03:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ESP",
+    "awayCode": "AUT",
+    "files": [
+      "sonnet/round-32/m-esp-aut-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m12",
+    "id": "m-por-cro",
     "date": "2026-07-03",
     "time": "07:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "POR",
+    "awayCode": "CRO",
+    "files": [
+      "sonnet/round-32/m-por-cro-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m13",
+    "id": "m-sui-alg",
     "date": "2026-07-03",
     "time": "11:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "SUI",
+    "awayCode": "ALG",
+    "files": [
+      "sonnet/round-32/m-sui-alg-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m14",
+    "id": "m-aus-egy",
     "date": "2026-07-04",
     "time": "02:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "AUS",
+    "awayCode": "EGY",
+    "files": [
+      "sonnet/round-32/m-aus-egy-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m15",
+    "id": "m-arg-cpv",
     "date": "2026-07-04",
     "time": "06:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ARG",
+    "awayCode": "CPV",
+    "files": [
+      "sonnet/round-32/m-arg-cpv-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m16",
+    "id": "m-col-gha",
     "date": "2026-07-04",
     "time": "09:30",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "COL",
+    "awayCode": "GHA",
+    "files": [
+      "sonnet/round-32/m-col-gha-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

@@ -6819,51 +6819,67 @@
     "v": 1
   },
   {
-    "id": "r32-m07",
+    "id": "m-mex-ecu",
     "date": "2026-07-01",
     "time": "09:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "MEX",
+    "awayCode": "ECU",
+    "files": [
+      "sonnet/round-32/m-mex-ecu-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m08",
+    "id": "m-eng-cod",
     "date": "2026-07-02",
     "time": "00:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ENG",
+    "awayCode": "COD",
+    "files": [
+      "sonnet/round-32/m-eng-cod-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m09",
+    "id": "m-bel-sen",
     "date": "2026-07-02",
     "time": "04:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "BEL",
+    "awayCode": "SEN",
+    "files": [
+      "sonnet/round-32/m-bel-sen-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r32-m10",
+    "id": "m-usa-bih",
     "date": "2026-07-02",
     "time": "08:00",
     "stage": "round-32",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "USA",
+    "awayCode": "BIH",
+    "files": [
+      "sonnet/round-32/m-usa-bih-sonnet.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

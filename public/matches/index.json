@@ -6489,7 +6489,7 @@
       "sonnet/group-stage/m-cod-uzb-sonnet.md",
       "deepseek/group-stage/m-cod-uzb-deepseek.md"
     ],
-    "actualScoreHome": 0,
+    "actualScoreHome": 1,
     "actualScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {},

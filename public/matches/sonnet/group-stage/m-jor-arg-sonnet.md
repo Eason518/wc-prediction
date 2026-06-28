@@ -561,3 +561,53 @@ Dự đoán: 0-2 Argentina. Dù xoay vòng nhiều, Argentina vẫn sẽ đến 
 | 🛡️ Niềm tự hào của Jordan | Đối với một quốc gia lần đầu tham dự World Cup, mỗi phút trên sân khấu này đều là lịch sử; những cầu thủ của Sellami sẽ chiến đấu đến còi kết thúc. |
 | 💪 Álvarez là trọng tâm | Với Lautaro có thể nghỉ ngơi, Julián Álvarez sẽ đảm nhận vai trò số 9; phong cách của nhà vô địch World Cup của anh ấy thể hiện trong những khoảnh khắc quan trọng. |
 | 📏 Trọng tài chưa xác nhận | Trọng tài sẽ điều hành một trận đấu không cân xứng; việc Jordan phạm lỗi phòng thủ Messi sẽ là thách thức kỷ luật chính. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷 3-1 勝）
+- ✅ 阿爾-塔馬里如預期成為約旦最大威脅（第 55 分鐘破門）
+- ✅ 角球數命中（預測 6–9，實際 8 個）
+- ✅ 黃牌數命中（預測 2–4，實際 3 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 18–22，實際 20 次）
+- ⚠️ 比分低估（預測 0-2，實際 1-3）
+- ⚠️ 約旦意外破門，清白之身預期落空
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Al-Tamari proved Jordan's main threat as predicted — scored in the 55th minute
+- ✅ Corner count on target (predicted 6–9, actual 8)
+- ✅ Yellow cards on target (predicted 2–4, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 18–22, actual 20)
+- ⚠️ Scoreline underestimated (predicted 0-2, actual 1-3)
+- ⚠️ Jordan scored — clean sheet for Argentina did not materialise
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷 3-1 胜）
+- ✅ 阿尔-塔马里如预期成为约旦最大威胁（第 55 分钟破门）
+- ✅ 角球数命中（预测 6–9，实际 8 个）
+- ✅ 黄牌数命中（预测 2–4，实际 3 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 18–22，实际 20 次）
+- ⚠️ 比分低估（预测 0-2，实际 1-3）
+- ⚠️ 约旦意外破门，阿根廷零封预期落空
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Al-Tamari là mối đe dọa lớn nhất của Jordan như dự đoán — ghi bàn phút 55
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 6–9, thực tế 8 cái)
+- ✅ Thẻ vàng trong tầm dự đoán (dự đoán 2–4, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 18–22, thực tế 20 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-2, thực tế 1-3)
+- ⚠️ Jordan ghi bàn — Argentina không giữ được sạch lưới như dự đoán
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ Al-Tamari เป็นภัยคุกคามสำคัญของจอร์แดนตามคาด — ยิงประตูนาทีที่ 55
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 6–9, จริง 8 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–4, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 18–22, จริง 20 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-2, จริง 1-3)
+- ⚠️ จอร์แดนยิงประตูได้ — อาร์เจนตินาไม่รักษาคลีนชีตตามที่คาด

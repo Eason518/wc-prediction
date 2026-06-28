@@ -549,3 +549,53 @@ Dự đoán: Argentina 3‑0 Jordan. Messi sẽ ghi bàn hoặc kiến tạo, La
 | 🔄 ความเสี่ยงจากการหมุนเวียน | Scaloni อาจพักบางตัวหลัก แต่ผู้เล่นสำรองยังคงเป็นระดับโลก |
 | ⚽ ฟอร์มของ Lautaro | กองหน้าของ Inter ทำประตูได้ทุกแมตช์จนถึงขณะนี้ เขาต้องการรักษาสถิตินั้นไว้ |
 | 🇯🇴 การแสดงเพื่อศักดิ์ศรี | จอร์แดนต้องการหลีกเลี่ยงการแพ้แบบขาดลอย พวกเขาจะป้องกันด้วยวินัย |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷 3-1 勝）
+- ✅ 阿根廷進球數完全命中（預測 3 球，實際 3 球）
+- ✅ 角球數命中（預測 8–11，實際 8 個）
+- ✅ 黃牌數命中（預測 2–3，實際 3 張）
+- ✅ 紅牌預測正確（預測 0，實際 0 張）
+- ✅ 犯規數命中（預測 16–20，實際 20 次）
+- ⚠️ 比分略有偏差（預測 0-3，實際 1-3）
+- ⚠️ 約旦破門，預測主隊鴨蛋落空
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Argentina's goal tally was exact (predicted 3, actual 3)
+- ✅ Corner count on target (predicted 8–11, actual 8)
+- ✅ Yellow cards on target (predicted 2–3, actual 3)
+- ✅ Red card prediction correct (predicted 0, actual 0)
+- ✅ Foul count on target (predicted 16–20, actual 20)
+- ⚠️ Scoreline slightly off (predicted 0-3, actual 1-3)
+- ⚠️ Jordan scored — the shutout prediction missed
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷 3-1 胜）
+- ✅ 阿根廷进球数完全命中（预测 3 球，实际 3 球）
+- ✅ 角球数命中（预测 8–11，实际 8 个）
+- ✅ 黄牌数命中（预测 2–3，实际 3 张）
+- ✅ 红牌预测正确（预测 0，实际 0 张）
+- ✅ 犯规数命中（预测 16–20，实际 20 次）
+- ⚠️ 比分略有偏差（预测 0-3，实际 1-3）
+- ⚠️ 约旦破门，预测主队鸭蛋落空
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Số bàn thắng của Argentina chính xác hoàn toàn (dự đoán 3, thực tế 3)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 8–11, thực tế 8 cái)
+- ✅ Thẻ vàng trong tầm dự đoán (dự đoán 2–3, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 16–20, thực tế 20 lần)
+- ⚠️ Tỷ số hơi lệch (dự đoán 0-3, thực tế 1-3)
+- ⚠️ Jordan ghi bàn — dự đoán Argentina giữ sạch lưới không thành
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ จำนวนประตูของอาร์เจนตินาตรงแน่นอน (ทำนาย 3, จริง 3)
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 8–11, จริง 8 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–3, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 16–20, จริง 20 ครั้ง)
+- ⚠️ ทำนายสกอร์คลาดเคลื่อนเล็กน้อย (ทำนาย 0-3, จริง 1-3)
+- ⚠️ จอร์แดนยิงประตูได้ — การทำนายว่าอาร์เจนตินาจะรักษาคลีนชีตไม่เป็นจริง

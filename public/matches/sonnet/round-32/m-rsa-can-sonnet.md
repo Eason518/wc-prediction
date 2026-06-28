@@ -22,34 +22,34 @@ aiModel: Claude Sonnet 4.6
 ---
 
 ## home_note:zh
-南非由資深比利時名帥 Hugo Broos 執教，已創造歷史——Bafana Bafana 首度在世界盃打進淘汰賽（1998、2002、2010 年三度止步小組賽）。他們以 A 組第二名晉級，戰績為對捷克平局（1-1）、以及 Thapelo Maseko 63 分鐘一球擊敗南韓（1-0）。陣容大量起用馬梅洛迪陽光（8 人）與奧蘭多海盜（8 人）球員，是本屆最具本土色彩的球隊之一。隊長兼門將 Ronwen Williams 是核心，曾在 2023 年非洲盃四強撲出四個點球。攻線以伯恩利前鋒 Lyle Foster 為中心，兩翼由爆發力十足的 Oswin Appollis 和 Relebohile Mofokeng 輔助。中場發動機 Teboho Mokoena 是陣中靈魂。GMT+8 時間 6/28 03:00 於英格爾伍德 SoFi 球場開球。
+南非由資深比利時名帥 Hugo Broos 執教，已創造歷史——Bafana Bafana 首度在世界盃打進淘汰賽（1998、2002、2010 年三度止步小組賽）。他們以 A 組第二名晉級，戰績為對捷克平局（1-1）、以及 Thapelo Maseko 63 分鐘一球擊敗南韓（1-0）。陣容大量起用馬梅洛迪陽光與奧蘭多海盜球員，是本屆最具本土色彩的球隊之一。隊長兼門將 Ronwen Williams 是核心，曾在 2023 年非洲盃四強撲出四個點球。4-2-3-1 陣型以 Evidence Makgopa 擔任單箭頭，Appollis、Maseko、Mofokeng 在其身後支援，Mokoena（#4）與 Sithole（#13）組成雙後腰保護四後衛。對南韓攻入制勝球的 Thapelo Maseko 出任前腰正選。GMT+8 時間 6/29 03:00 於英格爾伍德 SoFi 球場開球。
 
 ## home_note:zh-cn
-南非由资深比利时名帅 Hugo Broos 执教，已创造历史——Bafana Bafana 首度在世界杯打进淘汰赛（1998、2002、2010 年三度止步小组赛）。他们以 A 组第二名晋级，战绩为对捷克平局（1-1）、以及 Thapelo Maseko 63 分钟一球击败韩国（1-0）。阵容大量起用马梅洛迪阳光（8 人）与奥兰多海盗（8 人）球员，是本届最具本土色彩的球队之一。队长兼门将 Ronwen Williams 是核心，曾在 2023 年非洲杯四强扑出四个点球。攻线以伯恩利前锋 Lyle Foster 为中心，两翼由爆发力十足的 Oswin Appollis 和 Relebohile Mofokeng 辅助。中场发动机 Teboho Mokoena 是阵中灵魂。GMT+8 时间 6/28 03:00 于英格尔伍德 SoFi 球场开球。
+南非由资深比利时名帅 Hugo Broos 执教，已创造历史——Bafana Bafana 首度在世界杯打进淘汰赛（1998、2002、2010 年三度止步小组赛）。他们以 A 组第二名晋级，战绩为对捷克平局（1-1）、以及 Thapelo Maseko 63 分钟一球击败韩国（1-0）。阵容大量起用马梅洛迪阳光与奥兰多海盗球员，是本届最具本土色彩的球队之一。队长兼门将 Ronwen Williams 是核心，曾在 2023 年非洲杯四强扑出四个点球。4-2-3-1 阵型以 Evidence Makgopa 担任单箭头，Appollis、Maseko、Mofokeng 在其身后支援，Mokoena（#4）与 Sithole（#13）组成双后腰保护四后卫。对韩国攻入制胜球的 Thapelo Maseko 出任前腰正选。GMT+8 时间 6/29 03:00 于英格尔伍德 SoFi 球场开球。
 
 ## home_note:en
-South Africa, coached by veteran Belgian tactician Hugo Broos, have made history already — Bafana Bafana reached the knockout stage for the first time in their World Cup history (1998, 2002, 2010 all ended in the group stage). They qualified from Group A in second place behind Mexico, with a draw vs Czechia (1-1) and a famous 1-0 win over South Korea (Thapelo Maseko, 63'). The squad is heavily drawn from Mamelodi Sundowns (8 players) and Orlando Pirates (8 players), making it one of the most domestically-based squads in the tournament. Captain Ronwen Williams is their standout, a world-class goalkeeper who saved four penalties in the 2023 AFCON quarter-final. Their attack revolves around Lyle Foster (Burnley) as the target striker, flanked by explosive wide forwards Oswin Appollis and Relebohile Mofokeng. Teboho Mokoena is the engine in midfield. Kick-off GMT+8 03:00 on June 28 at SoFi Stadium, Inglewood.
+South Africa, coached by veteran Belgian tactician Hugo Broos, have made history already — Bafana Bafana reached the knockout stage for the first time in their World Cup history (1998, 2002, 2010 all ended in the group stage). They qualified from Group A in second place behind Mexico, with a draw vs Czechia (1-1) and a famous 1-0 win over South Korea (Thapelo Maseko, 63'). The squad is heavily drawn from Mamelodi Sundowns and Orlando Pirates, making it one of the most domestically-based squads in the tournament. Captain Ronwen Williams is their standout, a world-class goalkeeper who saved four penalties in the 2023 AFCON quarter-final. Their 4-2-3-1 has Evidence Makgopa as the lone striker, supported by Appollis, Maseko, and Mofokeng behind him, with a double pivot of Mokoena (#4) and Sithole (#13) shielding the back four. Thapelo Maseko, who scored the winner vs South Korea, starts as the central attacking midfielder. Kick-off GMT+8 03:00 on June 29 at SoFi Stadium, Inglewood.
 
 ## home_note:vi
-Nam Phi, dưới sự dẫn dắt của HLV kỳ cựu người Bỉ Hugo Broos, đã tạo nên lịch sử — Bafana Bafana lần đầu tiên vượt qua vòng bảng World Cup (các năm 1998, 2002, 2010 đều dừng ở vòng bảng). Họ vào vòng 32 đội từ vị trí nhì bảng A sau Mexico, với kết quả hòa 1-1 với Czech và chiến thắng lịch sử 1-0 trước Hàn Quốc (Thapelo Maseko, phút 63). Đội hình chủ yếu được lấy từ Mamelodi Sundowns (8 cầu thủ) và Orlando Pirates (8 cầu thủ), là một trong những đội bóng phụ thuộc vào cầu thủ nội địa nhất giải. Thủ môn kiêm đội trưởng Ronwen Williams là điểm sáng, từng cản phá 4 quả phạt đền tại tứ kết AFCON 2023. Hàng công xoay quanh tiền đạo mục tiêu Lyle Foster (Burnley), cùng hai cánh bùng nổ Oswin Appollis và Relebohile Mofokeng. Teboho Mokoena là động cơ ở tuyến giữa. Khai cuộc 03:00 GMT+8 ngày 28/6 tại SoFi Stadium, Inglewood.
+Nam Phi, dưới sự dẫn dắt của HLV kỳ cựu người Bỉ Hugo Broos, đã tạo nên lịch sử — Bafana Bafana lần đầu tiên vượt qua vòng bảng World Cup (các năm 1998, 2002, 2010 đều dừng ở vòng bảng). Họ vào vòng 32 đội từ vị trí nhì bảng A sau Mexico, với kết quả hòa 1-1 với Czech và chiến thắng lịch sử 1-0 trước Hàn Quốc (Thapelo Maseko, phút 63). Đội hình chủ yếu được lấy từ Mamelodi Sundowns và Orlando Pirates, là một trong những đội bóng phụ thuộc vào cầu thủ nội địa nhất giải. Thủ môn kiêm đội trưởng Ronwen Williams là điểm sáng, từng cản phá 4 quả phạt đền tại tứ kết AFCON 2023. Sơ đồ 4-2-3-1 đặt Evidence Makgopa làm mũi nhọn duy nhất, với Appollis, Maseko và Mofokeng hỗ trợ phía sau; Mokoena (#4) và Sithole (#13) tạo thành bộ đôi tiền vệ phòng ngự bảo vệ hàng thủ bốn người. Thapelo Maseko, người ghi bàn thắng quyết định trước Hàn Quốc, xuất phát ở vị trí tiền vệ tấn công trung tâm. Khai cuộc 03:00 GMT+8 ngày 29/6 tại SoFi Stadium, Inglewood.
 
 ## home_note:th
-แอฟริกาใต้ภายใต้การนำของกุนซือชาวเบลเยียมผู้ช่ำชอง Hugo Broos ได้สร้างประวัติศาสตร์แล้ว — Bafana Bafana ผ่านเข้ารอบน็อคเอาท์ของฟุตบอลโลกเป็นครั้งแรกในประวัติศาสตร์ (1998, 2002, 2010 ล้วนตกรอบแบ่งกลุ่ม) พวกเขาผ่านเข้ารอบในฐานะอันดับสองกลุ่ม A รองจากเม็กซิโก ด้วยการเสมอเชก 1-1 และชัยชนะอันยิ่งใหญ่ 1-0 เหนือเกาหลีใต้ (Thapelo Maseko นาทีที่ 63) ทีมดึงนักเตะส่วนใหญ่มาจาก Mamelodi Sundowns (8 คน) และ Orlando Pirates (8 คน) ทำให้เป็นหนึ่งในทีมที่พึ่งพานักเตะในประเทศมากที่สุดในทัวร์นาเมนต์ กัปตัน Ronwen Williams คือดาวเด่น ผู้รักษาประตูระดับโลกที่เซฟได้ 4 จุดโทษในรอบก่อนรองชนะเลิศ AFCON 2023 การโจมตีหมุนรอบกองหน้าเป้าหมาย Lyle Foster (Burnley) ขนาบด้วยกองหน้าปีกระเบิดพลัง Oswin Appollis และ Relebohile Mofokeng Teboho Mokoena คือเครื่องยนต์กลางสนาม เริ่มเตะ 03:00 GMT+8 วันที่ 28 มิถุนายน ที่ SoFi Stadium เมืองอิงเกิลวูด
+แอฟริกาใต้ภายใต้การนำของกุนซือชาวเบลเยียมผู้ช่ำชอง Hugo Broos ได้สร้างประวัติศาสตร์แล้ว — Bafana Bafana ผ่านเข้ารอบน็อคเอาท์ของฟุตบอลโลกเป็นครั้งแรกในประวัติศาสตร์ (1998, 2002, 2010 ล้วนตกรอบแบ่งกลุ่ม) พวกเขาผ่านเข้ารอบในฐานะอันดับสองกลุ่ม A รองจากเม็กซิโก ด้วยการเสมอเชก 1-1 และชัยชนะอันยิ่งใหญ่ 1-0 เหนือเกาหลีใต้ (Thapelo Maseko นาทีที่ 63) ทีมดึงนักเตะส่วนใหญ่มาจาก Mamelodi Sundowns และ Orlando Pirates ทำให้เป็นหนึ่งในทีมที่พึ่งพานักเตะในประเทศมากที่สุด กัปตัน Ronwen Williams คือดาวเด่น ผู้รักษาประตูระดับโลกที่เซฟได้ 4 จุดโทษใน AFCON 2023 ระบบ 4-2-3-1 วาง Evidence Makgopa เป็นกองหน้าตัวเดียว โดยมี Appollis, Maseko และ Mofokeng อยู่เบื้องหลัง Mokoena (#4) และ Sithole (#13) ทำหน้าที่เป็นคู่กองกลางรับปกป้องแนวรับ Thapelo Maseko ผู้ยิงประตูชัยเหนือเกาหลีใต้สตาร์ตในตำแหน่งกองกลางโจมตีกลาง เริ่มเตะ 03:00 GMT+8 วันที่ 29 มิถุนายน ที่ SoFi Stadium เมืองอิงเกิลวูด
 
 ## away_note:zh
-加拿大身為共同地主，由美籍教練 Jesse Marsch（2024 年 5 月接任，合約延長至 2030 年）帶兵。他們以 B 組第二名晉級，寫下歷史：對波赫 1-1 平局（加拿大世界盃首積分）、6-0 大勝卡達（Jonathan David 帽子戲法），以及在最後一輪 2-1 負於瑞士。陣中核心為隊長兼拜仁後衛 Alphonso Davies，腿傷康復後首度確認出賽。Juventus 前鋒 Jonathan David 目前國家隊進球 39 球，本屆已取一個帽子戲法。中場 Ismaël Koné（薩蘇奧洛）在對卡達一役腿骨折，已無緣剩餘賽事；Stephen Eustaquio（洛杉磯 FC/波圖）對瑞士時因肌肉不適替補出場，預計本場恢復正選。Marsch 的戰術體系為高壓型 4-3-3「楓葉壓迫式」。
+加拿大身為共同地主，由美籍教練 Jesse Marsch（2024 年 5 月接任，合約延長至 2030 年）帶兵。他們以 B 組第二名晉級，寫下歷史：對波赫 1-1 平局（加拿大世界盃首積分）、6-0 大勝卡達（Jonathan David 帽子戲法），以及在最後一輪 2-1 負於瑞士。正選名單帶來重大驚喜：Alphonso Davies（拜仁慕尼黑）並未入選首發——Stephen Eustaquio 改戴隊長袖標出場。Richie Laryea 出任左後衛。Jonathan David（尤文圖斯）搭檔 Tani Oluwaseyi 組成雙前鋒，Tajon Buchanan 守右路，Liam Millar 與 Nathan Saliba 搭檔中場，整體採 4-4-2 陣型。中場 Ismaël Koné（薩蘇奧洛）在對卡達一役腿骨折，已無緣剩餘賽事。Davies 缺陣從根本上改變了加拿大的進攻面貌與火力配置。
 
 ## away_note:zh-cn
-加拿大身为共同东道主，由美籍教练 Jesse Marsch（2024 年 5 月接任，合同延长至 2030 年）带兵。他们以 B 组第二名晋级，写下历史：对波黑 1-1 平局（加拿大世界杯首积分）、6-0 大胜卡塔尔（Jonathan David 帽子戏法），以及在最后一轮 2-1 负于瑞士。阵中核心为队长兼拜仁后卫 Alphonso Davies，腿伤康复后首度确认出赛。Juventus 前锋 Jonathan David 目前国家队进球 39 球，本届已取一个帽子戏法。中场 Ismaël Koné（萨苏奥洛）在对卡塔尔一役腿骨折，已无缘剩余赛事；Stephen Eustaquio（洛杉矶 FC/波图）对瑞士时因肌肉不适替补出场，预计本场恢复正选。Marsch 的战术体系为高压型 4-3-3「枫叶压迫式」。
+加拿大身为共同东道主，由美籍教练 Jesse Marsch（2024 年 5 月接任，合同延长至 2030 年）带兵。他们以 B 组第二名晋级，写下历史：对波黑 1-1 平局（加拿大世界杯首积分）、6-0 大胜卡塔尔（Jonathan David 帽子戏法），以及在最后一轮 2-1 负于瑞士。正选名单带来重大惊喜：Alphonso Davies（拜仁慕尼黑）并未入选首发——Stephen Eustaquio 改戴队长袖标出场。Richie Laryea 出任左后卫。Jonathan David（尤文图斯）搭档 Tani Oluwaseyi 组成双前锋，Tajon Buchanan 守右路，Liam Millar 与 Nathan Saliba 搭档中场，整体采 4-4-2 阵型。中场 Ismaël Koné（萨苏奥洛）在对卡塔尔一役腿骨折，已无缘剩余赛事。Davies 缺阵从根本上改变了加拿大的进攻面貌与火力配置。
 
 ## away_note:en
-Canada, as co-hosts, are guided by American coach Jesse Marsch (appointed May 2024, contract extended through 2030). They qualified from Group B in second place behind Switzerland, with landmark results: a 1-1 draw vs Bosnia and Herzegovina (Canada's first-ever World Cup point), a historic 6-0 rout of Qatar (Jonathan David hat-trick), and a 2-1 loss to Switzerland in the final matchday. The squad is headlined by Alphonso Davies (Bayern Munich, captain), finally declared fit after a hamstring injury that kept him out of all three group games — Marsch confirmed he will play. Jonathan David (Juventus) leads the attack with 39 international goals and a hat-trick already in this tournament. Midfielder Ismaël Koné (Sassuolo) is out for the tournament with a broken leg suffered in the Qatar game; Stephen Eustaquio (LAFC/Porto) started the Switzerland game from the bench due to muscle tightness but is expected to be fit. Marsch runs a pressing "Maplepress" 4-3-3 system.
+Canada, as co-hosts, are guided by American coach Jesse Marsch (appointed May 2024, contract extended through 2030). They qualified from Group B in second place behind Switzerland, with landmark results: a 1-1 draw vs Bosnia and Herzegovina (Canada's first-ever World Cup point), a historic 6-0 rout of Qatar (Jonathan David hat-trick), and a 2-1 loss to Switzerland in the final matchday. The confirmed starting XI delivered a significant surprise: Alphonso Davies (Bayern Munich) is NOT in the starting lineup — Stephen Eustaquio wears the captain's armband instead. Richie Laryea starts at left back. Jonathan David (Juventus) leads the attack with 39 international goals alongside Tani Oluwaseyi in a 4-4-2, with Tajon Buchanan wide right and Liam Millar and Nathan Saliba completing the midfield. Midfielder Ismaël Koné (Sassuolo) is out for the tournament with a broken leg suffered in the Qatar game. The absence of Davies fundamentally changes Canada's attacking shape and firepower.
 
 ## away_note:vi
-Canada, với tư cách đồng chủ nhà, được dẫn dắt bởi HLV người Mỹ Jesse Marsch (bổ nhiệm tháng 5/2024, gia hạn hợp đồng đến 2030). Họ vào vòng 32 đội từ vị trí nhì bảng B sau Thụy Sĩ, với những dấu mốc lịch sử: hòa 1-1 với Bosnia và Herzegovina (điểm số World Cup đầu tiên của Canada), đại thắng 6-0 Qatar (Jonathan David lập hat-trick), và thua 2-1 trước Thụy Sĩ ở lượt cuối. Đội hình được dẫn đầu bởi đội trưởng Alphonso Davies (Bayern Munich), cuối cùng đã được tuyên bố bình phục sau chấn thương gân kheo khiến anh lỡ cả 3 trận vòng bảng — Marsch xác nhận anh sẽ ra sân. Jonathan David (Juventus) dẫn đầu hàng công với 39 bàn thắng quốc tế và đã lập hat-trick trong giải này. Tiền vệ Ismaël Koné (Sassuolo) bị gãy chân trong trận gặp Qatar, lỡ hết giải; Stephen Eustaquio (LAFC/Porto) phải ngồi dự bị trận Thụy Sĩ do căng cơ nhưng dự kiến đủ sức thi đấu. Marsch dùng hệ thống pressing 4-3-3 "Maplepress".
+Canada, với tư cách đồng chủ nhà, được dẫn dắt bởi HLV người Mỹ Jesse Marsch (bổ nhiệm tháng 5/2024, gia hạn hợp đồng đến 2030). Họ vào vòng 32 đội từ vị trí nhì bảng B sau Thụy Sĩ, với những dấu mốc lịch sử: hòa 1-1 với Bosnia và Herzegovina (điểm số World Cup đầu tiên của Canada), đại thắng 6-0 Qatar (Jonathan David lập hat-trick), và thua 2-1 trước Thụy Sĩ ở lượt cuối. Đội hình xuất phát gây bất ngờ lớn: Alphonso Davies (Bayern Munich) KHÔNG có trong đội hình — Stephen Eustaquio thay anh đeo băng đội trưởng. Richie Laryea xuất phát ở hậu vệ trái. Jonathan David (Juventus) cùng Tani Oluwaseyi tạo thành cặp tiền đạo, Tajon Buchanan bên cánh phải, Liam Millar và Nathan Saliba hoàn thiện tuyến giữa trong sơ đồ 4-4-2. Tiền vệ Ismaël Koné (Sassuolo) bị gãy chân trong trận gặp Qatar, lỡ hết giải. Sự vắng mặt của Davies thay đổi hoàn toàn hình thái và hỏa lực tấn công của Canada.
 
 ## away_note:th
-แคนาดาในฐานะเจ้าภาพร่วม ถูกนำโดย Jesse Marsch โค้ชชาวอเมริกัน (แต่งตั้งเดือนพฤษภาคม 2024 ต่อสัญญาถึง 2030) พวกเขาผ่านเข้ารอบในฐานะอันดับสองกลุ่ม B รองจากสวิตเซอร์แลนด์ พร้อมสถิติสำคัญ: เสมอบอสเนียฯ 1-1 (แต้มโลกแรกของแคนาดา), ชนะกาตาร์ 6-0 อย่างยิ่งใหญ่ (Jonathan David แฮตทริก) และแพ้สวิตเซอร์แลนด์ 2-1 ในนัดสุดท้าย Alphonso Davies (Bayern Munich) กัปตันทีมและดาวดัง ได้รับการยืนยันว่าฟิตพร้อมลงเล่นหลังหายจากอาการบาดเจ็บกล้ามเนื้อต้นขา Jonathan David (Juventus) นำหน้าในตำแหน่งกองหน้าด้วย 39 ประตูทีมชาติและแฮตทริกในทัวร์นาเมนต์นี้ Ismaël Koné (Sassuolo) กระดูกขาหัก จากเกมกาตาร์ พลาดไปตลอดทัวร์นาเมนต์ Stephen Eustaquio (LAFC/Porto) สตาร์ตจากม้านั่งสำรองในเกมสวิตเซอร์แลนด์เนื่องจากกล้ามเนื้อตึง แต่คาดว่าจะฟิตสำหรับเกมนี้ Marsch ใช้ระบบกดดันสูง 4-3-3 "Maplepress"
+แคนาดาในฐานะเจ้าภาพร่วม ถูกนำโดย Jesse Marsch โค้ชชาวอเมริกัน (แต่งตั้งเดือนพฤษภาคม 2024 ต่อสัญญาถึง 2030) พวกเขาผ่านเข้ารอบในฐานะอันดับสองกลุ่ม B รองจากสวิตเซอร์แลนด์ พร้อมสถิติสำคัญ: เสมอบอสเนียฯ 1-1 (แต้มโลกแรกของแคนาดา), ชนะกาตาร์ 6-0 อย่างยิ่งใหญ่ (Jonathan David แฮตทริก) และแพ้สวิตเซอร์แลนด์ 2-1 ในนัดสุดท้าย ตัวจริงสร้างความประหลาดใจอย่างมาก: Alphonso Davies (Bayern Munich) ไม่อยู่ใน XI ตัวจริง — Stephen Eustaquio สวมปลอกแขนกัปตันแทน Richie Laryea สตาร์ตในตำแหน่งแบ็กซ้าย Jonathan David (Juventus) คู่หูกับ Tani Oluwaseyi ในแนวหน้า, Tajon Buchanan อยู่ทางขวา, Liam Millar และ Nathan Saliba ช่วยกันรักษาแนวกลาง ในรูปแบบ 4-4-2 Ismaël Koné (Sassuolo) กระดูกขาหักจากเกมกาตาร์ พลาดไปตลอดทัวร์นาเมนต์ การขาดหายของ Davies เปลี่ยนรูปแบบและพลังโจมตีของแคนาดาอย่างสิ้นเชิง
 
 ## odds_note:zh
 賠率顯示：南非勝 5.80、平局 3.50、加拿大勝 1.65。加拿大為明顯熱門，Davies 與 David 的個人能力以及歐洲聯賽經驗均佔優勢。南非是紀律嚴明的黑馬，已擊敗強敵南韓，展現冷門能力。平局進入加時並非不可能，但加拿大的攻擊火力使其成為晉身 16 強的合理之選。注意：本場為淘汰賽，90 分鐘內無平局選項，若正規時間平手則進入加時賽，必要時踢十二碼。
@@ -131,96 +131,90 @@ Tỷ lệ cược: Nam Phi thắng 5.80, hòa 3.50, Canada thắng 1.65. Canada 
 |-----|-----|------|------|------|------|------|-------|------|
 | GK | #1 | Ronwen Williams (กัปตัน) | Mamelodi Sundowns | 🇿🇦 | 1 | starter,team | false | กัปตันและผู้รักษาประตูระดับโลก เซฟได้ 4 จุดโทษใน AFCON 2023 รอบก่อนรองชนะเลิศ เป็นแกนหลักของการรุกของ Bafana ดาวเด่นทีมและวีรบุรุษแห่งชาติ |
 | DEF | #20 | Khuliso Mudau | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | แบ็กขวาตัวจริง เชื่อถือได้และมีวินัย แข็งแกร่งในประเทศแต่มีประสบการณ์ยุโรปจำกัด |
-| DEF | #3 | Nkosinathi Sibisi | Orlando Pirates | 🇿🇦 | 3 | starter | false | เซ็นเตอร์แบ็ก มีพลังและโดดเด่นในเกมทางอากาศ เสาหลัก PSL ประสบการณ์ระดับนานาชาติชั้นนำยังมีจำกัด |
-| DEF | #5 | Khulumani Ndamane | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | เซ็นเตอร์แบ็กคู่หู สงบและอ่านเกมได้ดี แข็งแกร่งในประเทศ เปิดตัวใน World Cup ครั้งสำคัญ |
+| DEF | #14 | Mbekezeli Mbokazi | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | เซ็นเตอร์แบ็ก มีพลังและโดดเด่นในเกมทางอากาศ ตัวหลัก PSL ปกป้องแนวรับในการวิ่งทางประวัติศาสตร์ของ Bafana |
+| DEF | #21 | Ime Okon | Orlando Pirates | 🇿🇦 | 3 | starter | false | เซ็นเตอร์แบ็กคู่หู มีพลังและสงบ เสาหลัก Orlando Pirates ลุกขึ้นในนัดสำคัญที่สุดในประวัติศาสตร์ทีม |
 | DEF | #6 | Aubrey Modiba | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | แบ็กซ้ายผู้มีประสบการณ์ ครบเครื่องทั้งรุกรับ ตัวหลักของ Sundowns เสาค้ำปีกซ้าย |
-| MID | #8 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 6 | starter,team | false | เครื่องยนต์กลางสนาม กว่า 50 นัดทีมชาติ ยิงจุดโทษตีเสมอกับเช็ก คือนักเตะนอกสนามที่ดีที่สุดของแอฟริกาใต้ ดาวเด่น PSL และตำนานทีมชาติ |
-| MID | #13 | Thalente Mbatha | Orlando Pirates | 🇿🇦 | 4 | starter | false | กองกลางวิ่งทะลุ ขยันและมีพลังงานสูง ดาวเด่นในประเทศ ก้าวสู่เวที World Cup ครั้งแรก |
-| MID | #16 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | กองกลางผู้มีประสบการณ์ในลีกโปรตุเกส (Liga Portugal) คล่องตัวและมีวินัย นำประสบการณ์ยุโรปมาสู่แนวกลางที่ส่วนใหญ่เป็นนักเตะในประเทศ |
-| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | กองหน้าปีกระเบิดพลัง ความเร็วและการเลี้ยงบอลคืออาวุธ นักเตะหน้าใหม่ที่น่าตื่นเต้นที่สุดใน PSL ดาวเด่น Orlando Pirates กำลังก้าวสู่เวทีนานาชาติ |
-| FWD | #9 | Lyle Foster | Burnley | 🇬🇧 | 10 | starter,team,league | false | กองหน้าหลัก มีประสบการณ์ Premier League กับ Burnley ยิง 10 ประตูทีมชาติ ใกล้ที่สุดที่จะทำลายสถิติผู้ทำประตูตลอดกาลของแอฟริกาใต้ กองหน้าเป้าหมายและ hold-up |
-| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | กองหน้าปีกสร้างสรรค์ หนึ่งในพรสวรรค์หน้าใหม่ที่ร้อนแรงที่สุดในฟุตบอลแอฟริกา ภัยคุกคามหลากหลายบนปีกซ้ายด้วยความเร็วและวิสัยทัศน์ |
-| FWD | สำรอง | Thapelo Maseko | AEL Limassol | 🇨🇾 | 7 | squad | true | ยิงประตูชัยชนะเหนือเกาหลีใต้ (นาที 63') ตัวสำรองที่อันตราย เล่นในไซปรัส มอบแรงสดและความเร็วจากม้านั่งสำรอง |
+| MID | #4 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 7 | starter,team | false | เครื่องยนต์กลางสนาม กว่า 50 นัดทีมชาติ ยิงจุดโทษตีเสมอกับเช็ก คือนักเตะนอกสนามที่ดีที่สุดของแอฟริกาใต้ ดาวเด่น PSL และตำนานทีมชาติ |
+| MID | #13 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | กองกลางรับในลีกโปรตุเกส (Liga Portugal) มีวินัย เป็นตัวกรองหน้าแนวรับในระบบ 4-2-3-1 นำประสบการณ์ยุโรปที่หายากมาสู่ทีม |
+| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | กองหน้าปีกขวาระเบิดพลัง ความเร็วและการเลี้ยงบอลคืออาวุธ นักเตะหน้าใหม่ที่น่าตื่นเต้นที่สุดใน PSL ดาวเด่น Orlando Pirates กำลังก้าวสู่เวทีนานาชาติ |
+| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | กองหน้าปีกซ้ายสร้างสรรค์ หนึ่งในพรสวรรค์หน้าใหม่ที่ร้อนแรงที่สุดในฟุตบอลแอฟริกา ภัยคุกคามหลากหลายบนปีกซ้ายด้วยความเร็วและวิสัยทัศน์ |
+| FWD | #12 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 8 | starter | false | ยิงประตูชัยชนะเหนือเกาหลีใต้ (นาที 63') สตาร์ตในตำแหน่งกองกลางโจมตีตรงกลาง เชื่อมต่อแนวกลางกับ Makgopa ภัยคุกคามลูกตาย |
+| ST | #17 | Evidence Makgopa | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | กองหน้าตัวเดียวใน 4-2-3-1 มีพลังและ hold-up ที่ดี ดึงแนวรับแคนาดาและสร้างโอกาสให้เพื่อนร่วมทีม |
 
 ## away_squad:zh
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Maxime Crepeau | Orlando City | 🇺🇸 | 1 | starter | false | 正選門將，效力美職聯，Marsch 賽前宣布為第一守門員。在北美足球富有經驗。 |
+| GK | #16 | Maxime Crepeau | Los Angeles FC | 🇺🇸 | 1 | starter | false | 正選門將，效力美職聯，經驗豐富，加拿大無爭議的第一守門員。 |
 | DEF | #2 | Alistair Johnston | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 3 | starter,league | false | 右後衛，蘇超正選，沉穩而技術細膩，凱爾特人與加拿大隊的常規主力。 |
-| DEF | #5 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | 中衛，法甲常規主力，閱讀比賽能力出色，賽前宣稱完全恢復備戰。 |
-| DEF | #14 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | 搭檔中衛，蘇超主力，身體強硬、制空能力好，與 Bombito 組成穩固的後防搭檔。 |
-| DEF | #3 | Alphonso Davies（隊長） | Bayern Munich | 🇩🇪 | 5 | starter,team,league | false | 隊長兼全球巨星，拜仁慕尼黑左後衛，世界頂尖水準。腿傷康復後 Marsch 確認本場出賽，聯賽與國家隊雙線明星，精英級球員。 |
-| MID | #7 | Stephen Eustaquio（副隊長） | LAFC / FC Porto | 🇵🇹 | 6 | starter,team,league | false | 副隊長兼中場引擎，54 次代表國家隊，以租借形式加盟 LAFC。對瑞士時肌肉不適替換出賽，預計本場恢復正選狀態。 |
-| MID | #12 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | 寬邊中場，西甲球員，動感十足的逼搶者與奔跑者，楓葉壓迫體系的核心。 |
-| MID | #17 | Mathieu Choinière | — | 🇨🇦 | 4 | starter | false | 充滿活力的邊路球員，Marsch 體系要求邊路球員高強度付出，Choinière 完美勝任。 |
-| FWD | #9 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | 加拿大歷史射手王（39 球），尤文圖斯前鋒，本屆已對卡達射入帽子戲法。本場最危險的前鋒，聯賽與國家隊雙線明星。 |
-| FWD | #11 | Cyle Larin | Feyenoord | 🇳🇱 | 8 | starter,team,league | false | 前鋒／第二中鋒，費耶諾德球員；經驗豐富的進球手，在大勝卡達一役已破門，為 David 提供空中與身體威脅。 |
-| FWD | #22 | Tani Oluwaseyi | — | 🇨🇦 | 6 | squad,league | false | 年輕的有速度攻擊手，Marsch 輪換邊路選項時的其中一員。 |
-| FWD | 備援 | Promise David | Royale Union SG | 🇧🇪 | 7 | squad,league | true | 對瑞士射入一球（76'），來自比甲的影響力替補，為球隊帶來板凳端的進球威脅。 |
+| DEF | #13 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | 中衛，蘇超常規主力，身體強硬、制空能力好，在後場提供穩健的威懾力。 |
+| DEF | #15 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | 搭檔中衛，法甲常規主力，閱讀比賽能力出色，持球能力幫助加拿大從後場組織進攻。 |
+| DEF | #22 | Richie Laryea | — | 🇨🇦 | 3 | starter | false | 4-4-2 中的左後衛；Alphonso Davies 未入正選，Laryea 擔任左路，積極直接但比 Davies 明顯遜色。 |
+| MID | #7 | Stephen Eustaquio（隊長） | LAFC / FC Porto | 🇵🇹 | 7 | starter,team,league | false | 隊長兼中場引擎，54 次代表國家隊，以租借形式加盟 LAFC。Davies 缺陣下引領全隊，是定位球主罰與創造性組織的核心。 |
+| MID | #11 | Liam Millar | — | 🇨🇦 | 5 | starter | false | 4-4-2 左路邊路中場，速度與能量兼備；提供寬度與跑動強度，配合 Eustaquio 的中路組織。 |
+| MID | #25 | Nathan Saliba | — | 🇨🇦 | 4 | starter | false | 中路中場，自律且拼搏；與 Eustaquio 搭檔中場引擎，提供防守覆蓋與簡單的分球出球。 |
+| FWD | #10 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | 加拿大歷史射手王（39 球），尤文圖斯前鋒，本屆已對卡達射入帽子戲法。本場最危險的前鋒，聯賽與國家隊雙線明星。 |
+| FWD | #12 | Tani Oluwaseyi | — | 🇨🇦 | 7 | starter | false | 在 4-4-2 中與 David 搭檔擔任第二前鋒正選出場；速度與逼搶帶來與 Larin 不同的威脅。 |
+| FWD | #17 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | 右路寬邊前鋒，西甲球員，動感十足的衝刺者與逼搶者，在右側拉扯南非防線製造寬度。 |
 
 ## away_squad:zh-cn
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Maxime Crepeau | Orlando City | 🇺🇸 | 1 | starter | false | 正选门将，效力美职联，Marsch 赛前宣布为第一守门员。在北美足球富有经验。 |
+| GK | #16 | Maxime Crepeau | Los Angeles FC | 🇺🇸 | 1 | starter | false | 正选门将，效力美职联，经验丰富，加拿大无争议的第一守门员。 |
 | DEF | #2 | Alistair Johnston | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 3 | starter,league | false | 右后卫，苏超正选，沉稳而技术细腻，凯尔特人与加拿大队的常规主力。 |
-| DEF | #5 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | 中卫，法甲常规主力，阅读比赛能力出色，赛前宣称完全恢复备战。 |
-| DEF | #14 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | 搭档中卫，苏超主力，身体强硬、制空能力好，与 Bombito 组成稳固的后防搭档。 |
-| DEF | #3 | Alphonso Davies（队长） | Bayern Munich | 🇩🇪 | 5 | starter,team,league | false | 队长兼全球巨星，拜仁慕尼黑左后卫，世界顶尖水准。腿伤康复后 Marsch 确认本场出赛，联赛与国家队双线明星，精英级球员。 |
-| MID | #7 | Stephen Eustaquio（副队长） | LAFC / FC Porto | 🇵🇹 | 6 | starter,team,league | false | 副队长兼中场引擎，54 次代表国家队，以租借形式加盟 LAFC。对瑞士时肌肉不适替换出赛，预计本场恢复正选状态。 |
-| MID | #12 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | 宽边中场，西甲球员，动感十足的逼抢者与奔跑者，枫叶压迫体系的核心。 |
-| MID | #17 | Mathieu Choinière | — | 🇨🇦 | 4 | starter | false | 充满活力的边路球员，Marsch 体系要求边路球员高强度付出，Choinière 完美胜任。 |
-| FWD | #9 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | 加拿大历史射手王（39 球），尤文图斯前锋，本届已对卡塔尔射入帽子戏法。本场最危险的前锋，联赛与国家队双线明星。 |
-| FWD | #11 | Cyle Larin | Feyenoord | 🇳🇱 | 8 | starter,team,league | false | 前锋／第二中锋，费耶诺德球员；经验丰富的进球手，在大胜卡塔尔一役已破门，为 David 提供空中与身体威胁。 |
-| FWD | #22 | Tani Oluwaseyi | — | 🇨🇦 | 6 | squad,league | false | 年轻的有速度攻击手，Marsch 轮换边路选项时的其中一员。 |
-| FWD | 备援 | Promise David | Royale Union SG | 🇧🇪 | 7 | squad,league | true | 对瑞士射入一球（76'），来自比甲的影响力替补，为球队带来板凳端的进球威胁。 |
+| DEF | #13 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | 中卫，苏超常规主力，身体强硬、制空能力好，在后场提供稳健的威慑力。 |
+| DEF | #15 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | 搭档中卫，法甲常规主力，阅读比赛能力出色，持球能力帮助加拿大从后场组织进攻。 |
+| DEF | #22 | Richie Laryea | — | 🇨🇦 | 3 | starter | false | 4-4-2 中的左后卫；Alphonso Davies 未入正选，Laryea 担任左路，积极直接但比 Davies 明显逊色。 |
+| MID | #7 | Stephen Eustaquio（队长） | LAFC / FC Porto | 🇵🇹 | 7 | starter,team,league | false | 队长兼中场引擎，54 次代表国家队，以租借形式加盟 LAFC。Davies 缺阵下引领全队，是定位球主罚与创造性组织的核心。 |
+| MID | #11 | Liam Millar | — | 🇨🇦 | 5 | starter | false | 4-4-2 左路边路中场，速度与能量兼备；提供宽度与跑动强度，配合 Eustaquio 的中路组织。 |
+| MID | #25 | Nathan Saliba | — | 🇨🇦 | 4 | starter | false | 中路中场，自律且拼搏；与 Eustaquio 搭档中场引擎，提供防守覆盖与简单的分球出球。 |
+| FWD | #10 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | 加拿大历史射手王（39 球），尤文图斯前锋，本届已对卡塔尔射入帽子戏法。本场最危险的前锋，联赛与国家队双线明星。 |
+| FWD | #12 | Tani Oluwaseyi | — | 🇨🇦 | 7 | starter | false | 在 4-4-2 中与 David 搭档担任第二前锋正选出场；速度与逼抢带来与 Larin 不同的威胁。 |
+| FWD | #17 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | 右路宽边前锋，西甲球员，动感十足的冲刺者与逼抢者，在右侧拉扯南非防线制造宽度。 |
 
 ## away_squad:en
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Maxime Crepeau | Orlando City | 🇺🇸 | 1 | starter | false | Starting GK, MLS-based; Marsch confirmed him as No.1 ahead of the tournament. Solid and experienced in North American football. |
+| GK | #16 | Maxime Crepeau | Los Angeles FC | 🇺🇸 | 1 | starter | false | Starting goalkeeper, MLS-based; experienced and reliable in North American football, Canada's undisputed No.1. |
 | DEF | #2 | Alistair Johnston | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 3 | starter,league | false | Right back, Scottish Premiership starter; composed and technically sound, regular for Celtic and Canada. |
-| DEF | #5 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | Center back, Ligue 1 regular; reads the game well, declared fully fit for the tournament. |
-| DEF | #14 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | Center back partner, Scottish Prem; physical and aerial, solid defensive pairing with Bombito. |
-| DEF | #3 | Alphonso Davies (C) | Bayern Munich | 🇩🇪 | 5 | starter,team,league | false | Captain and global superstar; Bayern Munich left back, one of the world's best. Fully fit per Marsch for this R32 match after hamstring recovery. Team star, league star — elite level. |
-| MID | #7 | Stephen Eustaquio (VC) | LAFC / FC Porto | 🇵🇹 | 6 | starter,team,league | false | Vice-captain and midfield engine, 54 caps; loaned to LAFC from Porto. Expected fit after muscle tightness (benched vs Switzerland). Canada's midfield heartbeat. |
-| MID | #12 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | Wide midfielder/winger, La Liga; dynamic presser and runner; integral to the Maplepress system. |
-| MID | #17 | Mathieu Choinière | — | 🇨🇦 | 4 | starter | false | Energetic wide player; Marsch's system demands high work rate on the flanks and Choinière delivers. |
-| FWD | #9 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | Canada's all-time leading scorer (39 goals); Juventus striker; hat-trick vs Qatar in this tournament. The tournament's most dangerous forward in this fixture, league and national team star. |
-| FWD | #11 | Cyle Larin | Feyenoord | 🇳🇱 | 8 | starter,team,league | false | Striker/second forward, Feyenoord; experienced scorer, scored in the Qatar rout; aerial and physical threat alongside David. |
-| FWD | #22 | Tani Oluwaseyi | — | 🇨🇦 | 6 | squad,league | false | Young attacker with pace; included in the run of play as Marsch rotates wide options. |
-| FWD | Sub | Promise David | Royale Union SG | 🇧🇪 | 7 | squad,league | true | Scored in the Switzerland game (76'); impact sub from the Belgian Pro League; adds goal threat from the bench. |
+| DEF | #13 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | Center back, Scottish Prem regular; physical and aerial, provides a commanding presence at the back alongside Bombito. |
+| DEF | #15 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | Center back partner, Ligue 1 regular; reads the game well, composure on the ball helps Canada build from deep. |
+| DEF | #22 | Richie Laryea | — | 🇨🇦 | 3 | starter | false | Left back in the 4-4-2; Alphonso Davies is not in the XI — Laryea takes the left flank, energetic and direct but a significant step down from Davies. |
+| MID | #7 | Stephen Eustaquio (C) | LAFC / FC Porto | 🇵🇹 | 7 | starter,team,league | false | Captain and midfield engine, 54 caps; loaned to LAFC from Porto. Leads Canada with Davies absent; Canada's creative fulcrum and set-piece taker. |
+| MID | #11 | Liam Millar | — | 🇨🇦 | 5 | starter | false | Wide midfielder in the 4-4-2, pace and energy on the left side; provides width and work rate to complement Eustaquio centrally. |
+| MID | #25 | Nathan Saliba | — | 🇨🇦 | 4 | starter | false | Central midfielder, disciplined and industrious; partners Eustaquio in the engine room, providing defensive cover and simple distribution. |
+| FWD | #10 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | Canada's all-time leading scorer (39 goals); Juventus striker; hat-trick vs Qatar in this tournament. The most dangerous forward in this fixture, league and national team star. |
+| FWD | #12 | Tani Oluwaseyi | — | 🇨🇦 | 7 | starter | false | Starts alongside David as the second forward in the 4-4-2; pace and pressing provide a different threat to the powerful Cyle Larin. |
+| FWD | #17 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | Right-side wide forward/winger, La Liga; dynamic runner and presser, stretches South Africa's defensive shape and creates width on the right. |
 
 ## away_squad:vi
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Maxime Crepeau | Orlando City | 🇺🇸 | 1 | starter | false | Thủ môn xuất phát, thi đấu ở MLS; Marsch xác nhận anh là thủ môn số 1. Vững vàng và giàu kinh nghiệm bóng đá Bắc Mỹ. |
+| GK | #16 | Maxime Crepeau | Los Angeles FC | 🇺🇸 | 1 | starter | false | Thủ môn xuất phát, thi đấu ở MLS; vững vàng và giàu kinh nghiệm, thủ môn số 1 không thể tranh cãi của Canada. |
 | DEF | #2 | Alistair Johnston | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 3 | starter,league | false | Hậu vệ phải, xuất phát ở Scottish Premiership; bình tĩnh và kỹ thuật tốt, quen thuộc với Celtic và tuyển Canada. |
-| DEF | #5 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | Trung vệ, thường xuyên đá ở Ligue 1; đọc trận tốt, tuyên bố hoàn toàn khỏe mạnh cho giải. |
-| DEF | #14 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | Trung vệ cặp đôi, Scottish Prem; thể lực và không chiến, cặp trung vệ vững chắc cùng Bombito. |
-| DEF | #3 | Alphonso Davies (Đội trưởng) | Bayern Munich | 🇩🇪 | 5 | starter,team,league | false | Đội trưởng và siêu sao toàn cầu; hậu vệ trái Bayern Munich, một trong những cầu thủ xuất sắc nhất thế giới. Hoàn toàn bình phục theo Marsch cho trận R32 này. Ngôi sao đội và giải, đẳng cấp elite. |
-| MID | #7 | Stephen Eustaquio (Phó đội trưởng) | LAFC / FC Porto | 🇵🇹 | 6 | starter,team,league | false | Phó đội trưởng và động cơ tuyến giữa, 54 lần khoác áo ĐTQG; cho mượn LAFC từ Porto. Dự kiến bình phục sau căng cơ (dự bị trận Thụy Sĩ). Trái tim tuyến giữa của Canada. |
-| MID | #12 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | Tiền vệ cánh/winger, La Liga; pressing năng động và chạy liên tục; không thể thiếu trong hệ thống Maplepress. |
-| MID | #17 | Mathieu Choinière | — | 🇨🇦 | 4 | starter | false | Cầu thủ cánh đầy năng lượng; hệ thống của Marsch đòi hỏi cường độ làm việc cao ở cánh và Choinière đáp ứng tốt. |
-| FWD | #9 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | Chân sút đang xuất sắc nhất mọi thời đại của Canada (39 bàn); tiền đạo Juventus; hat-trick vào lưới Qatar ở giải này. Tiền đạo nguy hiểm nhất trận này, ngôi sao giải và đội tuyển. |
-| FWD | #11 | Cyle Larin | Feyenoord | 🇳🇱 | 8 | starter,team,league | false | Tiền đạo/số 9 thứ hai, Feyenoord; chân sút dày dạn, ghi bàn trong trận đại thắng Qatar; mối đe dọa không chiến và thể lực bên cạnh David. |
-| FWD | #22 | Tani Oluwaseyi | — | 🇨🇦 | 6 | squad,league | false | Tiền đạo trẻ tốc độ; được đưa vào guồng khi Marsch luân phiên các lựa chọn cánh. |
-| FWD | Dự bị | Promise David | Royale Union SG | 🇧🇪 | 7 | squad,league | true | Ghi bàn trong trận gặp Thụy Sĩ (phút 76'); người thay thế có tác động từ Pro League Bỉ; tăng cường đe dọa ghi bàn từ băng ghế. |
+| DEF | #13 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | Trung vệ, thường xuyên đá ở Scottish Prem; thể lực và không chiến, cung cấp sự hiện diện uy quyền ở hàng thủ. |
+| DEF | #15 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | Trung vệ cặp đôi, thường xuyên ở Ligue 1; đọc trận tốt, khả năng chơi bóng giúp Canada tổ chức tấn công từ sâu. |
+| DEF | #22 | Richie Laryea | — | 🇨🇦 | 3 | starter | false | Hậu vệ trái trong 4-4-2; Alphonso Davies không có trong đội hình xuất phát — Laryea trấn giữ cánh trái, năng động nhưng kém hơn Davies đáng kể. |
+| MID | #7 | Stephen Eustaquio (Đội trưởng) | LAFC / FC Porto | 🇵🇹 | 7 | starter,team,league | false | Đội trưởng và động cơ tuyến giữa, 54 lần khoác áo ĐTQG; cho mượn LAFC từ Porto. Dẫn dắt Canada khi Davies vắng mặt; trung tâm sáng tạo và người sút phạt góc. |
+| MID | #11 | Liam Millar | — | 🇨🇦 | 5 | starter | false | Tiền vệ cánh trái trong 4-4-2, tốc độ và năng lượng; cung cấp chiều rộng và cường độ làm việc bổ sung cho Eustaquio ở trung lộ. |
+| MID | #25 | Nathan Saliba | — | 🇨🇦 | 4 | starter | false | Tiền vệ trung tâm, kỷ luật và chăm chỉ; cặp đôi với Eustaquio ở tuyến giữa, cung cấp bảo vệ hàng thủ và phân phối bóng đơn giản. |
+| FWD | #10 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | Chân sút xuất sắc nhất mọi thời đại của Canada (39 bàn); tiền đạo Juventus; hat-trick vào lưới Qatar ở giải này. Tiền đạo nguy hiểm nhất trận này, ngôi sao giải và đội tuyển. |
+| FWD | #12 | Tani Oluwaseyi | — | 🇨🇦 | 7 | starter | false | Xuất phát cùng David như tiền đạo thứ hai trong 4-4-2; tốc độ và pressing mang lại mối đe dọa khác so với Larin cường tráng. |
+| FWD | #17 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | Tiền đạo cánh phải/winger, La Liga; chạy năng động và pressing, kéo giãn hàng thủ Nam Phi và tạo chiều rộng ở cánh phải. |
 
 ## away_squad:th
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
-| GK | #1 | Maxime Crepeau | Orlando City | 🇺🇸 | 1 | starter | false | ผู้รักษาประตูตัวจริง เล่นใน MLS Marsch ยืนยันให้เป็นเบอร์ 1 มีความมั่นคงและประสบการณ์ในฟุตบอลอเมริกาเหนือ |
+| GK | #16 | Maxime Crepeau | Los Angeles FC | 🇺🇸 | 1 | starter | false | ผู้รักษาประตูตัวจริง เล่นใน MLS มีความมั่นคงและประสบการณ์สูง ผู้รักษาประตูหมายเลข 1 ของแคนาดาที่ไม่มีข้อโต้แย้ง |
 | DEF | #2 | Alistair Johnston | Celtic | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 3 | starter,league | false | แบ็กขวา ตัวจริงใน Scottish Premiership สงบและมีเทคนิค เป็นตัวหลักของ Celtic และทีมชาติแคนาดา |
-| DEF | #5 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | เซ็นเตอร์แบ็ก ตัวจริงใน Ligue 1 อ่านเกมได้ดี ประกาศว่าพร้อม 100% สำหรับทัวร์นาเมนต์ |
-| DEF | #14 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | เซ็นเตอร์แบ็กคู่หู Scottish Prem มีพลังและโดดเด่นในเกมทางอากาศ คู่หลังที่แน่นหนากับ Bombito |
-| DEF | #3 | Alphonso Davies (กัปตัน) | Bayern Munich | 🇩🇪 | 5 | starter,team,league | false | กัปตันและซูเปอร์สตาร์ระดับโลก แบ็กซ้าย Bayern Munich หนึ่งในที่ดีที่สุดของโลก Marsch ยืนยันว่าพร้อมลงเล่นในนัด R32 นี้หลังหายจากบาดเจ็บ ดาวเด่นทั้งทีมและลีก ระดับ elite |
-| MID | #7 | Stephen Eustaquio (รองกัปตัน) | LAFC / FC Porto | 🇵🇹 | 6 | starter,team,league | false | รองกัปตันและเครื่องยนต์กลางสนาม 54 นัดทีมชาติ ยืมตัวมาจาก Porto เล่นให้ LAFC คาดว่าจะฟิตหลังกล้ามเนื้อตึง (นั่งสำรองกับสวิส) หัวใจกลางสนามของแคนาดา |
-| MID | #12 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | กองกลางปีก/วิงเกอร์ La Liga นักกดดันและนักวิ่งที่มีพลัง สำคัญต่อระบบ Maplepress |
-| MID | #17 | Mathieu Choinière | — | 🇨🇦 | 4 | starter | false | นักเตะปีกที่เต็มไปด้วยพลังงาน ระบบของ Marsch ต้องการการทำงานหนักบนปีก และ Choinière ก็ทำได้ |
-| FWD | #9 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | กองหน้าทำประตูสูงสุดตลอดกาลของแคนาดา (39 ประตู) กองหน้า Juventus แฮตทริกเหนือกาตาร์ในทัวร์นาเมนต์นี้ กองหน้าที่อันตรายที่สุดในนัดนี้ ดาวเด่นทั้งลีกและทีมชาติ |
-| FWD | #11 | Cyle Larin | Feyenoord | 🇳🇱 | 8 | starter,team,league | false | กองหน้า/กองหน้าที่สอง Feyenoord นักยิงประตูผู้มีประสบการณ์ ยิงในชัยชนะเหนือกาตาร์ ภัยคุกคามทางอากาศและร่างกายควบคู่กับ David |
-| FWD | #22 | Tani Oluwaseyi | — | 🇨🇦 | 6 | squad,league | false | กองหน้าวัยเยาว์ที่มีความเร็ว รวมอยู่ในตัวเลือกที่ Marsch หมุนเวียนแนวปีก |
-| FWD | สำรอง | Promise David | Royale Union SG | 🇧🇪 | 7 | squad,league | true | ยิงในเกมกับสวิตเซอร์แลนด์ (นาที 76') ตัวสำรองที่มีผลกระทบจาก Belgian Pro League เพิ่มภัยคุกคามการยิงจากม้านั่งสำรอง |
+| DEF | #13 | Derek Cornelius | Rangers FC | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 | 4 | starter,league | false | เซ็นเตอร์แบ็ก ตัวหลักใน Scottish Prem มีพลังและโดดเด่นในเกมทางอากาศ ให้ความน่าเกรงขามในแนวรับ |
+| DEF | #15 | Moïse Bombito | OGC Nice | 🇫🇷 | 4 | starter,league | false | เซ็นเตอร์แบ็กคู่หู ตัวจริงใน Ligue 1 อ่านเกมได้ดี ความสามารถเล่นบอลช่วยแคนาดาจัดระเบียบการโจมตีจากแดนหลัง |
+| DEF | #22 | Richie Laryea | — | 🇨🇦 | 3 | starter | false | แบ็กซ้ายใน 4-4-2 Alphonso Davies ไม่อยู่ใน XI ตัวจริง Laryea รับหน้าที่ปีกซ้าย กระตือรือร้นแต่ลดลงอย่างเห็นได้ชัดเมื่อเทียบกับ Davies |
+| MID | #7 | Stephen Eustaquio (กัปตัน) | LAFC / FC Porto | 🇵🇹 | 7 | starter,team,league | false | กัปตันและเครื่องยนต์กลางสนาม 54 นัดทีมชาติ ยืมตัวมาจาก Porto เล่นให้ LAFC นำแคนาดาในขณะที่ Davies ไม่อยู่ หัวใจของการสร้างสรรค์และผู้เตะลูกตาย |
+| MID | #11 | Liam Millar | — | 🇨🇦 | 5 | starter | false | กองกลางปีกซ้ายใน 4-4-2 ความเร็วและพลังงาน มอบความกว้างและความเข้มข้นในการทำงานเสริม Eustaquio ในกลางสนาม |
+| MID | #25 | Nathan Saliba | — | 🇨🇦 | 4 | starter | false | กองกลางกลาง มีวินัยและขยัน คู่หูกับ Eustaquio ในเครื่องยนต์กลางสนาม มอบการป้องกันและการส่งบอลที่เรียบง่าย |
+| FWD | #10 | Jonathan David | Juventus | 🇮🇹 | 18 | starter,team,league | false | กองหน้าทำประตูสูงสุดตลอดกาลของแคนาดา (39 ประตู) กองหน้า Juventus แฮตทริกเหนือกาตาร์ในทัวร์นาเมนต์นี้ กองหน้าที่อันตรายที่สุดในนัดนี้ ดาวเด่นทั้งลีกและทีมชาติ |
+| FWD | #12 | Tani Oluwaseyi | — | 🇨🇦 | 7 | starter | false | สตาร์ตร่วมกับ David ในฐานะกองหน้าที่สองใน 4-4-2 ความเร็วและการกดดันมอบภัยคุกคามที่แตกต่างจาก Larin ที่แข็งแกร่ง |
+| FWD | #17 | Tajon Buchanan | Villarreal | 🇪🇸 | 6 | starter,league | false | กองหน้าปีกขวา/วิงเกอร์ La Liga นักวิ่งและนักกดดันที่มีพลัง ยืดแนวรับแอฟริกาใต้และสร้างความกว้างทางขวา |
 
 ## score_predictions:zh
 | score | result | prob | color | badge | winner |
@@ -285,42 +279,42 @@ Tỷ lệ cược: Nam Phi thắng 5.80, hòa 3.50, Canada thắng 1.65. Canada 
 ## event_preds:zh
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | 預測角球數 | 加拿大的積極逼搶與 Davies、Buchanan 的寬邊進攻將製造大量角球；南非定位球威脅亦有貢獻。 |
+| ⛳ | 8–11 | 預測角球數 | 加拿大依靠 Buchanan（右路）與 Millar/Laryea（左路）的寬邊進攻製造角球；南非定位球威脅亦有貢獻。Davies 缺陣令加拿大失去最強傳中點，角球預期略有下調。 |
 | 🟡 | 3–5 | 預測黃牌數 | 南非的防守封鎖與戰術犯規干擾加拿大的轉換將累積黃牌；淘汰賽強度亦是推手。 |
-| 🟥 | 0–1 | 預測紅牌數 | 對抗激烈但雙方都謹慎——淘汰賽戒心壓低紅牌風險，南非為阻止 Davies 突破而犯規的情況最有可能出現紅牌。 |
-| ⚠️ | 20–25 | 裁判犯規數/場 | 加拿大的逼搶體系與南非的身體防守將帶來中等偏高的犯規數；預計主裁判將嚴格管控節奏。 |
+| 🟥 | 0–1 | 預測紅牌數 | 對抗激烈但雙方都謹慎——淘汰賽戒心壓低紅牌風險，南非為封鎖 David 而犯規是最有可能出現紅牌的場景。 |
+| ⚠️ | 20–25 | 裁判犯規數/場 | 加拿大的逼搶體系（缺少 Davies 後強度略降）與南非的身體防守將帶來中等偏高的犯規數；預計主裁判將嚴格管控節奏。 |
 
 ## event_preds:zh-cn
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | 预测角球数 | 加拿大的积极逼抢与 Davies、Buchanan 的宽边进攻将制造大量角球；南非定位球威胁亦有贡献。 |
+| ⛳ | 8–11 | 预测角球数 | 加拿大依靠 Buchanan（右路）与 Millar/Laryea（左路）的宽边进攻制造角球；南非定位球威胁亦有贡献。Davies 缺阵令加拿大失去最强传中点，角球预期略有下调。 |
 | 🟡 | 3–5 | 预测黄牌数 | 南非的防守封锁与战术犯规干扰加拿大的转换将累积黄牌；淘汰赛强度亦是推手。 |
-| 🟥 | 0–1 | 预测红牌数 | 对抗激烈但双方都谨慎——淘汰赛戒心压低红牌风险，南非为阻止 Davies 突破而犯规的情况最有可能出现红牌。 |
-| ⚠️ | 20–25 | 裁判犯规数/场 | 加拿大的逼抢体系与南非的身体防守将带来中等偏高的犯规数；预计主裁判将严格管控节奏。 |
+| 🟥 | 0–1 | 预测红牌数 | 对抗激烈但双方都谨慎——淘汰赛戒心压低红牌风险，南非为封锁 David 而犯规是最有可能出现红牌的场景。 |
+| ⚠️ | 20–25 | 裁判犯规数/场 | 加拿大的逼抢体系（缺少 Davies 后强度略降）与南非的身体防守将带来中等偏高的犯规数；预计主裁判将严格管控节奏。 |
 
 ## event_preds:en
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | Predicted Corners | Canada's aggressive pressing and wide play through Davies and Buchanan will generate corners; South Africa's aerial set-piece threat also contributes. |
+| ⛳ | 8–11 | Predicted Corners | Canada's wide play through Buchanan (right) and Millar/Laryea (left) will create corners; South Africa's aerial set-piece threat also contributes. Without Davies, Canada lose their most dangerous crossing outlet, reducing expected corner count slightly. |
 | 🟡 | 3–5 | Predicted Yellow Cards | South Africa's defensive block and tactical fouling to disrupt Canada's transitions will accumulate bookings; knockout-stage intensity adds to the count. |
-| 🟥 | 0–1 | Predicted Red Cards | Physical but disciplined — knockout caution from both sides keeps red card risk low, though a South African tactical foul to stop a Davies break is possible. |
-| ⚠️ | 20–25 | Referee Fouls/Match | Canada's pressing system and South Africa's physical defense will produce a moderate-to-high foul count; expect the referee to manage intensity closely. |
+| 🟥 | 0–1 | Predicted Red Cards | Physical but disciplined — knockout caution from both sides keeps red card risk low; South Africa's defensive fouling to contain David is the most likely source. |
+| ⚠️ | 20–25 | Referee Fouls/Match | Canada's pressing system (less relentless without Davies) and South Africa's physical defense will produce a moderate-to-high foul count; expect the referee to manage intensity closely. |
 
 ## event_preds:vi
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | Dự đoán số phạt góc | Pressing tích cực và lối chơi bên cánh qua Davies và Buchanan của Canada sẽ tạo ra nhiều phạt góc; mối đe dọa bóng cố định trên không của Nam Phi cũng góp phần. |
+| ⛳ | 8–11 | Dự đoán số phạt góc | Canada tạo phạt góc qua lối chơi cánh bằng Buchanan (phải) và Millar/Laryea (trái); mối đe dọa bóng cố định trên không của Nam Phi cũng góp phần. Thiếu Davies khiến Canada mất điểm tạt bóng mạnh nhất, giảm nhẹ số phạt góc dự kiến. |
 | 🟡 | 3–5 | Dự đoán số thẻ vàng | Khối phòng thủ và lỗi chiến thuật của Nam Phi để phá vỡ các pha chuyển đổi của Canada sẽ tích lũy thẻ phạt; cường độ vòng loại trực tiếp cũng tăng thêm. |
-| 🟥 | 0–1 | Dự đoán số thẻ đỏ | Thể lực nhưng kỷ luật — sự thận trọng ở vòng loại trực tiếp của cả hai bên giữ nguy cơ thẻ đỏ thấp, dù lỗi chiến thuật của Nam Phi để chặn đà đột phá của Davies là có thể. |
-| ⚠️ | 20–25 | Số phạm lỗi/trận của trọng tài | Hệ thống pressing của Canada và hàng thủ thể lực của Nam Phi sẽ tạo ra số lỗi từ trung bình đến cao; dự kiến trọng tài sẽ quản lý cường độ chặt chẽ. |
+| 🟥 | 0–1 | Dự đoán số thẻ đỏ | Thể lực nhưng kỷ luật — sự thận trọng ở vòng loại trực tiếp của cả hai bên giữ nguy cơ thẻ đỏ thấp; lỗi chiến thuật của Nam Phi để kìm hãm David là nguồn có khả năng nhất. |
+| ⚠️ | 20–25 | Số phạm lỗi/trận của trọng tài | Hệ thống pressing của Canada (cường độ giảm nhẹ khi thiếu Davies) và hàng thủ thể lực của Nam Phi sẽ tạo ra số lỗi từ trung bình đến cao; dự kiến trọng tài sẽ quản lý cường độ chặt chẽ. |
 
 ## event_preds:th
 | icon | value | label | detail |
 |------|-------|-------|--------|
-| ⛳ | 9–12 | จำนวนเตะมุมที่คาดการณ์ | การกดดันสูงและการเล่นแนวปีกของแคนาดาผ่าน Davies และ Buchanan จะสร้างเตะมุม ภัยคุกคามลูกตายทางอากาศของแอฟริกาใต้ก็มีส่วนเช่นกัน |
+| ⛳ | 8–11 | จำนวนเตะมุมที่คาดการณ์ | แคนาดาสร้างเตะมุมผ่านการเล่นแนวปีกโดย Buchanan (ขวา) และ Millar/Laryea (ซ้าย) ภัยคุกคามลูกตายทางอากาศของแอฟริกาใต้ก็มีส่วนเช่นกัน การไม่มี Davies ทำให้แคนาดาสูญเสียจุดครอสที่อันตรายที่สุด ลดจำนวนเตะมุมที่คาดการณ์ลงเล็กน้อย |
 | 🟡 | 3–5 | จำนวนใบเหลืองที่คาดการณ์ | การป้องกันแบบบล็อคและฟาวล์เชิงยุทธวิธีของแอฟริกาใต้เพื่อขัดขวางการโต้กลับของแคนาดาจะสะสมใบเหลือง ความเข้มข้นของรอบน็อคเอาท์ยิ่งเพิ่มขึ้น |
-| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | เข้มข้นทางร่างกายแต่มีวินัย ความระมัดระวังในรอบน็อคเอาท์ของทั้งสองฝ่ายทำให้ความเสี่ยงใบแดงต่ำ แม้ว่าฟาวล์เชิงยุทธวิธีของแอฟริกาใต้เพื่อหยุด Davies อาจนำไปสู่ใบแดงได้ |
-| ⚠️ | 20–25 | จำนวนฟาวล์/นัดของกรรมการ | ระบบกดดันของแคนาดาและการป้องกันที่แข็งแกร่งของแอฟริกาใต้จะให้จำนวนฟาวล์ระดับกลางถึงสูง คาดว่ากรรมการจะจัดการความเข้มข้นอย่างใกล้ชิด |
+| 🟥 | 0–1 | จำนวนใบแดงที่คาดการณ์ | เข้มข้นทางร่างกายแต่มีวินัย ความระมัดระวังในรอบน็อคเอาท์ของทั้งสองฝ่ายทำให้ความเสี่ยงใบแดงต่ำ ฟาวล์เชิงยุทธวิธีของแอฟริกาใต้เพื่อควบคุม David คือแหล่งที่เป็นไปได้มากที่สุด |
+| ⚠️ | 20–25 | จำนวนฟาวล์/นัดของกรรมการ | ระบบกดดันของแคนาดา (ความเข้มข้นลดลงเล็กน้อยเมื่อไม่มี Davies) และการป้องกันที่แข็งแกร่งของแอฟริกาใต้จะให้จำนวนฟาวล์ระดับกลางถึงสูง คาดว่ากรรมการจะจัดการความเข้มข้นอย่างใกล้ชิด |
 
 ## referee:zh
 - icon: ⚖️
@@ -435,144 +429,144 @@ Tỷ lệ cược: Nam Phi thắng 5.80, hòa 3.50, Canada thắng 1.65. Canada 
 ## battles:zh
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Alphonso Davies | 🇨🇦 LB | Khuliso Mudau | 🇿🇦 RB | 加拿大超級星插上左後衛對陣南非右後衛——Davies 的速度與傳中是本場最大的單一威脅。 |
-| Jonathan David | 🇨🇦 ST | Nkosinathi Sibisi | 🇿🇦 CB | 加拿大歷史射手王對陣南非中衛——David 的跑位與終結對抗 Sibisi 的空中與身體防守。 |
-| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 MID | 南非中場靈魂對陣加拿大副隊長——中場硬碰硬的對決，直接決定整場比賽的節奏走向。 |
-| Lyle Foster | 🇿🇦 ST | Moïse Bombito | 🇨🇦 CB | 南非目標前鋒對陣加拿大法甲中衛——Bafana 進攻核心的支點與空中對決。 |
-| Oswin Appollis | 🇿🇦 FWD | Alistair Johnston | 🇨🇦 RB | 南非最有爆發力的攻擊手對陣加拿大凱爾特人右後衛——Appollis 在左翼的速度與盤帶是南非最佳的破門路線。 |
+| Jonathan David | 🇨🇦 ST | Mbekezeli Mbokazi | 🇿🇦 CB | 加拿大歷史射手王對陣南非中衛——David 的智慧跑位與精準終結對抗 Mbokazi 的身體制空防守；這場對決取代了 Davies 的角色，成為本場最關鍵的個人對決。 |
+| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 C/MID | 南非中場靈魂對陣加拿大隊長——中場硬碰硬的對決，直接決定整場比賽的節奏走向；Davies 缺陣後，Eustaquio 需承擔更多創造責任。 |
+| Evidence Makgopa | 🇿🇦 ST | Derek Cornelius | 🇨🇦 CB | 南非單箭頭對陣加拿大中衛——Makgopa 的背身拿球與身體對抗 Cornelius 的制空與位置感；是 Bafana 反擊中的核心支點。 |
+| Oswin Appollis | 🇿🇦 RW | Richie Laryea | 🇨🇦 LB | 南非最爆發力的右路攻擊手對陣加拿大左後衛——Appollis 的速度直面 Laryea，後者比 Davies 明顯遜色；這是南非最清晰的進球路線。 |
+| Tajon Buchanan | 🇨🇦 RW | Aubrey Modiba | 🇿🇦 LB | 加拿大西甲邊鋒對陣南非經驗左後衛——Buchanan 右路的衝刺與傳中將全程考驗 Modiba 的防守紀律。 |
 
 ## battles:zh-cn
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Alphonso Davies | 🇨🇦 LB | Khuliso Mudau | 🇿🇦 RB | 加拿大超级星插上左后卫对阵南非右后卫——Davies 的速度与传中是本场最大的单一威胁。 |
-| Jonathan David | 🇨🇦 ST | Nkosinathi Sibisi | 🇿🇦 CB | 加拿大历史射手王对阵南非中卫——David 的跑位与终结对抗 Sibisi 的空中与身体防守。 |
-| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 MID | 南非中场灵魂对阵加拿大副队长——中场硬碰硬的对决，直接决定整场比赛的节奏走向。 |
-| Lyle Foster | 🇿🇦 ST | Moïse Bombito | 🇨🇦 CB | 南非目标前锋对阵加拿大法甲中卫——Bafana 进攻核心的支点与空中对决。 |
-| Oswin Appollis | 🇿🇦 FWD | Alistair Johnston | 🇨🇦 RB | 南非最有爆发力的攻击手对阵加拿大凯尔特人右后卫——Appollis 在左翼的速度与盘带是南非最佳的破门路线。 |
+| Jonathan David | 🇨🇦 ST | Mbekezeli Mbokazi | 🇿🇦 CB | 加拿大历史射手王对阵南非中卫——David 的智慧跑位与精准终结对抗 Mbokazi 的身体制空防守；这场对决取代了 Davies 的角色，成为本场最关键的个人对决。 |
+| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 C/MID | 南非中场灵魂对阵加拿大队长——中场硬碰硬的对决，直接决定整场比赛的节奏走向；Davies 缺阵后，Eustaquio 需承担更多创造责任。 |
+| Evidence Makgopa | 🇿🇦 ST | Derek Cornelius | 🇨🇦 CB | 南非单箭头对阵加拿大中卫——Makgopa 的背身拿球与身体对抗 Cornelius 的制空与位置感；是 Bafana 反击中的核心支点。 |
+| Oswin Appollis | 🇿🇦 RW | Richie Laryea | 🇨🇦 LB | 南非最爆发力的右路攻击手对阵加拿大左后卫——Appollis 的速度直面 Laryea，后者比 Davies 明显逊色；这是南非最清晰的进球路线。 |
+| Tajon Buchanan | 🇨🇦 RW | Aubrey Modiba | 🇿🇦 LB | 加拿大西甲边锋对阵南非经验左后卫——Buchanan 右路的冲刺与传中将全程考验 Modiba 的防守纪律。 |
 
 ## battles:en
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Alphonso Davies | 🇨🇦 LB | Khuliso Mudau | 🇿🇦 RB | Canada's superstar overlapping left back vs South Africa's right back — Davies' pace and crossing is the biggest single threat in this match. |
-| Jonathan David | 🇨🇦 ST | Nkosinathi Sibisi | 🇿🇦 CB | Canada's all-time top scorer vs South Africa's center back — David's movement and finishing against Sibisi's aerial and physical defending. |
-| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 MID | South Africa's midfield talisman vs Canada's vice-captain engine — the central midfield duel that could decide the tempo of the entire match. |
-| Lyle Foster | 🇿🇦 ST | Moïse Bombito | 🇨🇦 CB | South Africa's target man vs Canada's Ligue 1 center back — hold-up and aerial duels at the focal point of Bafana's attack. |
-| Oswin Appollis | 🇿🇦 FWD | Alistair Johnston | 🇨🇦 RB | South Africa's most explosive attacker vs Canada's Celtic right back — Appollis's pace and dribbling on the left flank is South Africa's best route to goal. |
+| Jonathan David | 🇨🇦 ST | Mbekezeli Mbokazi | 🇿🇦 CB | Canada's all-time top scorer vs South Africa's center back — David's intelligent movement and clinical finishing against Mbokazi's physical aerial defending; this duel replaces the Davies threat as the match's decisive individual contest. |
+| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 C/MID | South Africa's midfield talisman vs Canada's captain — the central midfield duel that could decide the tempo of the entire match; Eustaquio now carries extra creative responsibility with Davies absent. |
+| Evidence Makgopa | 🇿🇦 ST | Derek Cornelius | 🇨🇦 CB | South Africa's lone striker vs Canada's center back — Makgopa's hold-up play and physicality against Cornelius's aerial and positional defending; the focal point of Bafana's counter-attack. |
+| Oswin Appollis | 🇿🇦 RW | Richie Laryea | 🇨🇦 LB | South Africa's most explosive attacker vs Canada's left back — Appollis's pace on the right flank against Laryea, who is a significant downgrade from Davies; this is South Africa's clearest route to goal. |
+| Tajon Buchanan | 🇨🇦 RW | Aubrey Modiba | 🇿🇦 LB | Canada's La Liga winger vs South Africa's experienced left back — Buchanan's driving runs and crossing from the right will test Modiba's defensive discipline throughout. |
 
 ## battles:vi
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Alphonso Davies | 🇨🇦 LB | Khuliso Mudau | 🇿🇦 RB | Hậu vệ trái siêu sao dâng lên của Canada đối đầu hậu vệ phải Nam Phi — tốc độ và khả năng tạt bóng của Davies là mối đe dọa đơn lẻ lớn nhất trận này. |
-| Jonathan David | 🇨🇦 ST | Nkosinathi Sibisi | 🇿🇦 CB | Chân sút xuất sắc nhất mọi thời đại Canada đối đầu trung vệ Nam Phi — di chuyển và dứt điểm của David trước không chiến và thể lực của Sibisi. |
-| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 MID | Tài năng tuyến giữa của Nam Phi đối đầu cỗ máy phó đội trưởng Canada — cuộc đấu tuyến giữa rắn rỏi có thể quyết định nhịp độ toàn trận. |
-| Lyle Foster | 🇿🇦 ST | Moïse Bombito | 🇨🇦 CB | Tiền đạo mục tiêu Nam Phi đối đầu trung vệ Ligue 1 Canada — hold-up và không chiến tại trọng điểm hàng công của Bafana. |
-| Oswin Appollis | 🇿🇦 FWD | Alistair Johnston | 🇨🇦 RB | Cầu thủ tấn công bùng nổ nhất Nam Phi đối đầu hậu vệ phải Celtic Canada — tốc độ và rê bóng của Appollis trên cánh trái là con đường tốt nhất dẫn đến bàn thắng cho Nam Phi. |
+| Jonathan David | 🇨🇦 ST | Mbekezeli Mbokazi | 🇿🇦 CB | Chân sút xuất sắc nhất mọi thời đại Canada đối đầu trung vệ Nam Phi — di chuyển thông minh và dứt điểm lạnh lùng của David trước hàng thủ thể lực của Mbokazi; cuộc đấu này thay thế vai trò của Davies như là trận đấu cá nhân quyết định trận. |
+| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 C/MID | Tài năng tuyến giữa của Nam Phi đối đầu đội trưởng Canada — cuộc đấu tuyến giữa rắn rỏi có thể quyết định nhịp độ toàn trận; Eustaquio nay gánh thêm trách nhiệm sáng tạo khi Davies vắng mặt. |
+| Evidence Makgopa | 🇿🇦 ST | Derek Cornelius | 🇨🇦 CB | Tiền đạo mũi nhọn Nam Phi đối đầu trung vệ Canada — khả năng giữ bóng và thể lực của Makgopa trước không chiến và vị trí của Cornelius; trọng tâm của đòn phản công Bafana. |
+| Oswin Appollis | 🇿🇦 RW | Richie Laryea | 🇨🇦 LB | Cầu thủ tấn công bùng nổ nhất Nam Phi đối đầu hậu vệ trái Canada — tốc độ của Appollis trước Laryea, người kém hơn Davies đáng kể; đây là con đường rõ ràng nhất của Nam Phi dẫn đến bàn thắng. |
+| Tajon Buchanan | 🇨🇦 RW | Aubrey Modiba | 🇿🇦 LB | Tiền vệ cánh La Liga của Canada đối đầu hậu vệ trái giàu kinh nghiệm của Nam Phi — những pha chạy và tạt bóng của Buchanan ở cánh phải sẽ liên tục thách thức kỷ luật phòng thủ của Modiba. |
 
 ## battles:th
 | playerA | posA | playerB | posB | desc |
 |---------|------|---------|------|------|
-| Alphonso Davies | 🇨🇦 LB | Khuliso Mudau | 🇿🇦 RB | แบ็กซ้ายซูเปอร์สตาร์ที่ชอบรุกขึ้นของแคนาดา vs แบ็กขวาแอฟริกาใต้ ความเร็วและการทำครอสของ Davies คือภัยคุกคามเดี่ยวที่ใหญ่ที่สุดในนัดนี้ |
-| Jonathan David | 🇨🇦 ST | Nkosinathi Sibisi | 🇿🇦 CB | นักยิงประตูสูงสุดตลอดกาลของแคนาดา vs เซ็นเตอร์แบ็กแอฟริกาใต้ การเคลื่อนที่และการยิงของ David ปะทะการป้องกันทางอากาศและร่างกายของ Sibisi |
-| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 MID | ทาลิสแมนกลางสนามแอฟริกาใต้ vs เครื่องยนต์รองกัปตันแคนาดา การดวลกลางสนามที่ดุเดือดซึ่งอาจตัดสินจังหวะของทั้งเกม |
-| Lyle Foster | 🇿🇦 ST | Moïse Bombito | 🇨🇦 CB | กองหน้าเป้าหมายแอฟริกาใต้ vs เซ็นเตอร์แบ็ก Ligue 1 แคนาดา การดวล hold-up และทางอากาศที่จุดสำคัญของการโจมตี Bafana |
-| Oswin Appollis | 🇿🇦 FWD | Alistair Johnston | 🇨🇦 RB | นักโจมตีที่ระเบิดพลังที่สุดของแอฟริกาใต้ vs แบ็กขวา Celtic แคนาดา ความเร็วและการเลี้ยงบอลของ Appollis บนปีกซ้ายคือเส้นทางที่ดีที่สุดของแอฟริกาใต้สู่ประตู |
+| Jonathan David | 🇨🇦 ST | Mbekezeli Mbokazi | 🇿🇦 CB | นักยิงประตูสูงสุดตลอดกาลของแคนาดา vs เซ็นเตอร์แบ็กแอฟริกาใต้ การเคลื่อนที่อย่างชาญฉลาดและการยิงที่แม่นยำของ David ปะทะการป้องกันทางอากาศและร่างกายของ Mbokazi การดวลนี้แทนที่ภัยคุกคามของ Davies ในฐานะการดวลส่วนตัวที่สำคัญที่สุดในนัด |
+| Teboho Mokoena | 🇿🇦 MID | Stephen Eustaquio | 🇨🇦 C/MID | ทาลิสแมนกลางสนามแอฟริกาใต้ vs กัปตันแคนาดา การดวลกลางสนามที่ดุเดือดซึ่งอาจตัดสินจังหวะของทั้งเกม Eustaquio ต้องรับผิดชอบด้านสร้างสรรค์มากขึ้นเมื่อ Davies ไม่อยู่ |
+| Evidence Makgopa | 🇿🇦 ST | Derek Cornelius | 🇨🇦 CB | กองหน้าตัวเดียวแอฟริกาใต้ vs เซ็นเตอร์แบ็กแคนาดา การ hold-up และร่างกายของ Makgopa ปะทะทักษะทางอากาศและตำแหน่งของ Cornelius จุดสำคัญของการโต้กลับ Bafana |
+| Oswin Appollis | 🇿🇦 RW | Richie Laryea | 🇨🇦 LB | นักโจมตีที่ระเบิดพลังที่สุดของแอฟริกาใต้ vs แบ็กซ้ายแคนาดา ความเร็วของ Appollis ปะทะ Laryea ที่ด้อยกว่า Davies อย่างเห็นได้ชัด นี่คือเส้นทางที่ชัดเจนที่สุดของแอฟริกาใต้สู่ประตู |
+| Tajon Buchanan | 🇨🇦 RW | Aubrey Modiba | 🇿🇦 LB | วิงเกอร์ La Liga ของแคนาดา vs แบ็กซ้ายผู้มีประสบการณ์ของแอฟริกาใต้ การวิ่งและครอสของ Buchanan จากทางขวาจะทดสอบวินัยการป้องกันของ Modiba ตลอดเกม |
 
 ## summary_verdict:zh
-加拿大是明顯熱門，實至名歸。Alphonso Davies 在本屆世界盃首度完全康復上場，徹底改變了球隊的進攻面貌——他與 Jonathan David（對卡達帽子戲法，39 個國家隊進球）的配合、Buchanan 提供的邊路寬度，以及楓葉壓迫體系，使加拿大在每個位置上都對南非佔據戰術與個人能力的優勢。
+加拿大仍是熱門，但已確認的正選名單讓計算方式大幅改變。Alphonso Davies——整個賽前敘事的核心人物——並未入選首發。Stephen Eustaquio 改戴隊長袖標，Richie Laryea 出任左後衛。這從第一分鐘起便移除了加拿大最危險的武器與最具破壞力的進攻點。
 
-南非值得萬分肯定，僅憑站在這個舞台上已是創造歷史。Hugo Broos 的 4-3-2-1 防守陣式訓練有素、紀律嚴明，已先後壓制墨西哥與南韓。Ronwen Williams 是真正的世界級門將，Mokoena 的中場活力將考驗 Eustaquio 傷後的狀態。若加拿大的逼搶出現失誤，Appollis 與 Mofokeng 的反擊能力足以造成威脅。1-0 勝南韓證明他們有能力磨出結果。
+南非以紀律嚴明的 4-2-3-1 迎戰，現在擁有了賽前看似不可能的真實機會。沒有 Davies，Appollis 在右路面對的 Laryea 遠比 Davies 容易對付。Hugo Broos 的反擊體系——以 Makgopa 擔任單箭頭，Maseko 在後方串聯——完美校準於吸收壓力後伺機反擊。Ronwen Williams 依然是世界級門將，足以讓南非的防守陣型顯得比實際上更加難以攻破。
 
-關鍵在於 Davies。南非在小組賽從未面對與他同級別的球員。他的傷缺意味著加拿大三場小組賽只取一場大勝。有他上場，這是一支截然不同的球隊。加拿大來自歐洲頂級聯賽（尤文圖斯、拜仁、凱爾特人、費耶諾德、比利亞雷亞爾）的陣容深度遠超南非以南非足球超聯為主的陣容。
+Jonathan David（39 球、對卡達帽子戲法）依然是場上最危險的球員。他與 Tani Oluwaseyi 在 4-4-2 中的搭檔尚未經過充分考驗，但 David 的個人能力確保加拿大仍具備足夠的威脅。Eustaquio 需要承擔超出預期的創造工作，Mokoena 對陣 Eustaquio 的中場對決依然是全場焦點。
 
-預測：加拿大 2-0 勝。加拿大控制控球，Davies 在左路製造人數優勢，David 貢獻至少一球。南非或許能在 60 分鐘內保持競爭力，但終將在加拿大的逼搶壓力下疲態盡顯，連失兩球。若南非率先破門，比賽走勢將更難預測。裁判待確認；南非的犯規數是累積黃牌的重災區。
+預測：加拿大窄勝 1-0，但南非爆冷現已具備真實可能性。Davies 缺陣令賠率發生根本性變化。南非陣型緊密且反擊危險；加拿大的定位球與 David 的個人能力是最可靠的武器。若南非率先破門，加時賽將是大概率結局。*以上概率為 AI 分析用途，非投注建議。*
 
 ## summary_verdict:zh-cn
-加拿大是明显热门，实至名归。Alphonso Davies 在本届世界杯首度完全康复上场，彻底改变了球队的进攻面貌——他与 Jonathan David（对卡塔尔帽子戏法，39 个国家队进球）的配合、Buchanan 提供的边路宽度，以及枫叶压迫体系，使加拿大在每个位置上都对南非占据战术与个人能力的优势。
+加拿大仍是热门，但已确认的正选名单让计算方式大幅改变。Alphonso Davies——整个赛前叙事的核心人物——并未入选首发。Stephen Eustaquio 改戴队长袖标，Richie Laryea 出任左后卫。这从第一分钟起便移除了加拿大最危险的武器与最具破坏力的进攻点。
 
-南非值得万分肯定，仅凭站在这个舞台上已是创造历史。Hugo Broos 的 4-3-2-1 防守阵式训练有素、纪律严明，已先后压制墨西哥与韩国。Ronwen Williams 是真正的世界级门将，Mokoena 的中场活力将考验 Eustaquio 伤后的状态。若加拿大的逼抢出现失误，Appollis 与 Mofokeng 的反击能力足以造成威胁。1-0 胜韩国证明他们有能力磨出结果。
+南非以纪律严明的 4-2-3-1 迎战，现在拥有了赛前看似不可能的真实机会。没有 Davies，Appollis 在右路面对的 Laryea 远比 Davies 容易对付。Hugo Broos 的反击体系——以 Makgopa 担任单箭头，Maseko 在后方串联——完美校准于吸收压力后伺机反击。Ronwen Williams 依然是世界级门将，足以让南非的防守阵型显得比实际上更加难以攻破。
 
-关键在于 Davies。南非在小组赛从未面对与他同级别的球员。他的伤缺意味着加拿大三场小组赛只取一场大胜。有他上场，这是一支截然不同的球队。加拿大来自欧洲顶级联赛（尤文图斯、拜仁、凯尔特人、费耶诺德、比利亚雷亚尔）的阵容深度远超南非以南非足球超联为主的阵容。
+Jonathan David（39 球、对卡塔尔帽子戏法）依然是场上最危险的球员。他与 Tani Oluwaseyi 在 4-4-2 中的搭档尚未经过充分考验，但 David 的个人能力确保加拿大仍具备足够的威胁。Eustaquio 需要承担超出预期的创造工作，Mokoena 对阵 Eustaquio 的中场对决依然是全场焦点。
 
-预测：加拿大 2-0 胜。加拿大控制控球，Davies 在左路制造人数优势，David 贡献至少一球。南非或许能在 60 分钟内保持竞争力，但终将在加拿大的逼抢压力下疲态尽显，连失两球。若南非率先破门，比赛走势将更难预测。裁判待确认；南非的犯规数是累积黄牌的重灾区。
+预测：加拿大窄胜 1-0，但南非爆冷现已具备真实可能性。Davies 缺阵令赔率发生根本性变化。南非阵型紧密且反击危险；加拿大的定位球与 David 的个人能力是最可靠的武器。若南非率先破门，加时赛将是大概率结局。*以上概率为 AI 分析用途，非投注建议。*
 
 ## summary_verdict:en
-Canada are the clear favourites and deserve to be. Alphonso Davies, fully fit for the first time at this World Cup, transforms their attacking options entirely — his combination with Jonathan David (hat-trick vs Qatar, 39 international goals) and the width of Buchanan and the Maplepress pressing system gives Canada a tactical and individual edge at every position over South Africa's squad.
+Canada remain favourites but the confirmed starting XI changes the calculus significantly. Alphonso Davies — the player Canada's entire pre-match narrative revolved around — is NOT in the starting lineup. Stephen Eustaquio wears the captain's armband, and Richie Laryea takes the left back slot. This removes Canada's most dangerous weapon and most devastating attacking outlet from the first minute.
 
-South Africa deserve enormous credit for making history simply by being here. Hugo Broos's 4-3-2-1 defensive shape is well-drilled, disciplined, and has already frustrated Mexico and South Korea. Ronwen Williams is a genuine world-class performer in goal, and Mokoena's midfield energy will test Eustaquio's recovering fitness. Appollis and Mofokeng can punish Canada on the counter if the press breaks down. The 1-0 win over South Korea showed they can grind out results.
+South Africa, set up in a disciplined 4-2-3-1, now have a genuine opportunity they didn't appear to have before kick-off. Without Davies, Appollis's pace on the right flank faces a far less imposing opponent in Laryea. Hugo Broos's counter-attacking system — with Makgopa as the lone striker and Maseko pulling strings behind — is perfectly calibrated to absorb pressure and strike on the break. Ronwen Williams remains a world-class goalkeeper who can make South Africa's defensive shape look even more impenetrable than it is.
 
-The key factor is Davies. South Africa faced no one at his level in the group stage. His injury meant Canada won only one of three group games convincingly. With him fit, this is a different team — and a different match. Canada's depth from the European leagues (Juventus, Bayern, Celtic, Feyenoord, Villarreal) far exceeds South Africa's largely PSL-based squad.
+Jonathan David (39 goals, hat-trick vs Qatar) is still the most dangerous player on the pitch. His partnership with Tani Oluwaseyi in a 4-4-2 is less proven than a David-and-Davies combination, but David's individual quality ensures Canada still carry a serious threat. Eustaquio must do more creative work than anticipated. Mokoena vs Eustaquio remains the midfield duel of the match.
 
-Prediction: 2-0 Canada win. Canada control possession, Davies creates overloads on the left, and David adds at least one goal. South Africa will be competitive for 60 minutes but will tire under Canada's pressing and eventually concede twice. If South Africa score first, a more chaotic game becomes possible. Referee to be confirmed; South Africa's foul count will be the key card-accumulation area.
+Prediction: Canada narrow win, 1-0, though a South Africa upset is now genuinely plausible. The odds have shifted with Davies' absence. South Africa will be compact and dangerous on the counter; Canada's set pieces and David's individual quality are their most reliable weapons. If South Africa score first, extra time becomes the likely destination. *Probabilities are AI estimates for analytical purposes only — not betting advice.*
 
 ## summary_verdict:vi
-Canada là đội được ưa chuộng rõ ràng và xứng đáng như vậy. Alphonso Davies, lần đầu tiên hoàn toàn khỏe mạnh tại World Cup này, thay đổi hoàn toàn các lựa chọn tấn công của họ — sự kết hợp của anh với Jonathan David (hat-trick trước Qatar, 39 bàn thắng quốc tế) và chiều rộng của Buchanan cùng hệ thống pressing Maplepress mang lại cho Canada lợi thế chiến thuật và cá nhân ở mọi vị trí so với đội hình Nam Phi.
+Canada vẫn là đội được ưa chuộng nhưng đội hình xuất phát đã thay đổi đáng kể phép tính. Alphonso Davies — nhân vật trung tâm trong mọi phân tích trước trận — KHÔNG có trong đội hình xuất phát. Stephen Eustaquio đeo băng đội trưởng, còn Richie Laryea đảm nhận vị trí hậu vệ trái. Điều này từ phút đầu tiên đã loại bỏ vũ khí nguy hiểm nhất và điểm tấn công uy lực nhất của Canada.
 
-Nam Phi xứng đáng nhận được sự ghi nhận to lớn vì chỉ cần có mặt ở đây đã là tạo ra lịch sử. Hình 4-3-2-1 phòng thủ của Hugo Broos được huấn luyện bài bản, kỷ luật, và đã làm khó cả Mexico lẫn Hàn Quốc. Ronwen Williams là người chơi tầm cỡ thế giới thực sự ở khung thành, và năng lượng tuyến giữa của Mokoena sẽ kiểm tra thể lực hồi phục của Eustaquio. Appollis và Mofokeng có thể trừng phạt Canada trên phản công nếu hệ thống pressing sụp đổ. Chiến thắng 1-0 trước Hàn Quốc cho thấy họ có thể mài ra kết quả.
+Nam Phi, với sơ đồ 4-2-3-1 kỷ luật, nay có cơ hội thực sự mà trước giờ bóng lăn dường như không thể có. Thiếu Davies, Appollis ở cánh phải đối mặt với một đối thủ dễ xử hơn nhiều trong Laryea. Hệ thống phản công của Hugo Broos — Makgopa là mũi nhọn duy nhất, Maseko kết nối phía sau — được hiệu chỉnh hoàn hảo để hấp thụ áp lực rồi phản công. Ronwen Williams vẫn là thủ môn đẳng cấp thế giới có thể khiến hàng thủ Nam Phi trông còn khó xuyên thủng hơn thực tế.
 
-Yếu tố then chốt là Davies. Nam Phi chưa đối mặt với ai ở cấp độ của anh ở vòng bảng. Chấn thương của anh có nghĩa là Canada chỉ thắng thuyết phục một trong ba trận vòng bảng. Với anh trên sân, đây là một đội bóng khác — và một trận đấu khác. Chiều sâu lực lượng của Canada từ các giải châu Âu hàng đầu (Juventus, Bayern, Celtic, Feyenoord, Villarreal) vượt xa đội hình chủ yếu dựa vào PSL của Nam Phi.
+Jonathan David (39 bàn, hat-trick vào lưới Qatar) vẫn là cầu thủ nguy hiểm nhất trên sân. Cặp đôi của anh với Tani Oluwaseyi trong 4-4-2 chưa được kiểm chứng nhiều, nhưng chất lượng cá nhân của David đảm bảo Canada vẫn mang mối đe dọa nghiêm trọng. Eustaquio phải làm nhiều công việc sáng tạo hơn dự kiến. Cuộc đấu Mokoena vs Eustaquio vẫn là điểm nhấn tuyến giữa.
 
-Dự đoán: Canada thắng 2-0. Canada kiểm soát bóng, Davies tạo ra ưu thế số đông ở cánh trái, và David ghi ít nhất một bàn. Nam Phi sẽ cạnh tranh trong 60 phút nhưng sẽ mệt mỏi dưới áp lực pressing của Canada và cuối cùng để thua hai bàn. Nếu Nam Phi ghi bàn trước, trận đấu có thể hỗn loạn hơn. Trọng tài chưa được xác nhận; số lỗi của Nam Phi sẽ là khu vực tích lũy thẻ chính.
+Dự đoán: Canada thắng sát nút 1-0, nhưng một cú sốc từ Nam Phi nay là hoàn toàn có thể. Sự vắng mặt của Davies thay đổi cơ bản cán cân lực lượng. Nam Phi chắc chắn và nguy hiểm trên phản công; bóng cố định và chất lượng cá nhân của David là vũ khí đáng tin nhất của Canada. Nếu Nam Phi ghi bàn trước, hiệp phụ nhiều khả năng là đích đến. *Các xác suất chỉ là ước tính AI cho mục đích phân tích — không phải lời khuyên cá cược.*
 
 ## summary_verdict:th
-แคนาดาเป็นเต็งชัดเจนและสมควรได้รับตำแหน่งนั้น Alphonso Davies ฟิตสมบูรณ์ครั้งแรกในทัวร์นาเมนต์นี้ ได้เปลี่ยนแปลงตัวเลือกการโจมตีของพวกเขาอย่างสมบูรณ์ — การผสมผสานของเขากับ Jonathan David (แฮตทริกเหนือกาตาร์ 39 ประตูทีมชาติ) ความกว้างของ Buchanan และระบบกดดัน Maplepress มอบข้อได้เปรียบทางยุทธวิธีและส่วนตัวให้แคนาดาในทุกตำแหน่งเมื่อเทียบกับทีมแอฟริกาใต้
+แคนาดายังคงเป็นเต็ง แต่ XI ตัวจริงที่ยืนยันแล้วเปลี่ยนการคำนวณอย่างมีนัยสำคัญ Alphonso Davies — ตัวละครหลักในทุกการวิเคราะห์ก่อนเกม — ไม่อยู่ใน XI ตัวจริง Stephen Eustaquio สวมปลอกแขนกัปตัน และ Richie Laryea รับตำแหน่งแบ็กซ้าย นี่คือการถอดอาวุธที่อันตรายที่สุดและจุดโจมตีที่ทรงพลังที่สุดของแคนาดาตั้งแต่นาทีแรก
 
-แอฟริกาใต้สมควรได้รับเครดิตอย่างมากสำหรับการสร้างประวัติศาสตร์เพียงแค่การมีอยู่ที่นี่ รูปแบบการป้องกัน 4-3-2-1 ของ Hugo Broos ได้รับการฝึกฝนมาอย่างดี มีวินัย และเคยทำให้ทั้งเม็กซิโกและเกาหลีใต้หงุดหงิดมาแล้ว Ronwen Williams เป็นผู้รักษาประตูระดับโลกอย่างแท้จริง และพลังงานกลางสนามของ Mokoena จะทดสอบความฟิตหลังพักฟื้นของ Eustaquio Appollis และ Mofokeng สามารถลงโทษแคนาดาในการโต้กลับได้หากระบบกดดันพัง ชัยชนะ 1-0 เหนือเกาหลีใต้แสดงให้เห็นว่าพวกเขาสามารถบดขยี้ผลลัพธ์ได้
+แอฟริกาใต้ด้วยระบบ 4-2-3-1 ที่มีวินัย ตอนนี้มีโอกาสจริงที่ดูเหมือนจะเป็นไปไม่ได้ก่อนเริ่มเกม ไม่มี Davies, Appollis บนปีกขวาเผชิญกับ Laryea ที่เป็นคู่ต่อสู้ที่จัดการได้ง่ายกว่ามาก ระบบโต้กลับของ Hugo Broos — Makgopa เป็นกองหน้าตัวเดียว, Maseko เชื่อมต่อด้านหลัง — ถูกปรับให้เหมาะกับการรับแรงกดดันและโจมตีในการโต้กลับ Ronwen Williams ยังคงเป็นผู้รักษาประตูระดับโลกที่ทำให้แนวรับของแอฟริกาใต้ดูแข็งแกร่งยิ่งขึ้นกว่าความเป็นจริง
 
-ปัจจัยสำคัญคือ Davies แอฟริกาใต้ไม่เคยเผชิญกับใครในระดับของเขาในรอบแบ่งกลุ่ม การบาดเจ็บของเขาหมายความว่าแคนาดาชนะอย่างน่าเชื่อถือเพียงแมตช์เดียวจากสามแมตช์ในรอบแบ่งกลุ่ม เมื่อเขาฟิต นี่คือทีมที่แตกต่างและแมตช์ที่แตกต่าง ความลึกของแคนาดาจากลีกยุโรปชั้นนำ (Juventus, Bayern, Celtic, Feyenoord, Villarreal) เหนือกว่าทีมของแอฟริกาใต้ที่ส่วนใหญ่มาจาก PSL อย่างมาก
+Jonathan David (39 ประตู, แฮตทริกเหนือกาตาร์) ยังคงเป็นผู้เล่นที่อันตรายที่สุดในสนาม คู่หูของเขากับ Tani Oluwaseyi ใน 4-4-2 ยังไม่ผ่านการพิสูจน์มากนัก แต่คุณภาพส่วนตัวของ David ทำให้แคนาดายังคงมีภัยคุกคามที่จริงจัง Eustaquio ต้องทำงานสร้างสรรค์มากกว่าที่คาดไว้ การดวลกลางสนาม Mokoena vs Eustaquio ยังคงเป็นจุดสนใจของเกม
 
-การทำนาย: แคนาดาชนะ 2-0 แคนาดาควบคุมการครองบอล Davies สร้างความได้เปรียบด้านตัวเลขทางซ้าย และ David ยิงอย่างน้อยหนึ่งประตู แอฟริกาใต้จะแข่งขันได้ใน 60 นาที แต่จะอ่อนล้าภายใต้การกดดันของแคนาดาและเสียสองประตูในที่สุด หากแอฟริกาใต้ยิงประตูแรก เกมที่ยุ่งเหยิงกว่านี้ก็เป็นไปได้ กรรมการยังรอการยืนยัน จำนวนฟาวล์ของแอฟริกาใต้จะเป็นพื้นที่สะสมใบเหลืองหลัก
+การทำนาย: แคนาดาชนะแคบๆ 1-0 แต่การพลิกสถานการณ์ของแอฟริกาใต้นั้นเป็นไปได้จริงในตอนนี้ การไม่มี Davies เปลี่ยนสมดุลอย่างสิ้นเชิง แอฟริกาใต้มีระเบียบและอันตรายในการโต้กลับ ลูกตายและคุณภาพส่วนตัวของ David คืออาวุธที่เชื่อถือได้ที่สุดของแคนาดา หากแอฟริกาใต้ยิงก่อน ต่อเวลาพิเศษน่าจะเป็นปลายทางที่เป็นไปได้มาก *ความน่าจะเป็นเป็นการประมาณของ AI สำหรับการวิเคราะห์เท่านั้น ไม่ใช่คำแนะนำการพนัน*
 
 ## observations:zh
 | title | detail |
 |-------|--------|
 | 🏆 歷史性時刻 | 兩隊均是首度站上世界盃淘汰賽舞台，誰勝出誰便寫下本國世界盃淘汰賽首勝。 |
-| ⭐ Davies 歸來 | Alphonso Davies（拜仁慕尼黑）腿傷康復，本屆首度上場——他的存在徹底改變加拿大的左路攻勢。 |
-| 🎯 David 火力全開 | Jonathan David 是加拿大歷史射手王（39 球），本屆已取帽子戲法；他是本場最危險的前鋒，毫無爭議。 |
+| 🚨 Davies 缺陣 | Alphonso Davies（拜仁慕尼黑）並未入選正選——這是一個重大驚喜，移除了加拿大最危險的武器。Richie Laryea 改守左後衛，從根本上改變了本場的力量對比。 |
+| 🎯 David 火力全開 | Jonathan David 是加拿大歷史射手王（39 球），本屆已取帽子戲法；即便缺少 Davies 的輔助，他依然是本場最危險的前鋒。 |
 | 🧤 Williams 鐵壁 | Ronwen Williams 是南非最佳球員，也是南非製造爆冷的最大希望——他的撲救能力，包括 2023 年非洲盃撲出 4 個點球，足以讓他們撐住場面。 |
-| ⚡ Appollis 威脅 | Oswin Appollis（奧蘭多海盜）是南非的反擊武器——他在左翼的速度足以利用加拿大插上全後衛留下的空間。 |
-| 🤕 Koné 缺陣 | Ismaël Koné（對卡達腿骨折）已無緣剩餘賽事——加拿大中場需要 Eustaquio 完全康復才能正常運轉，他的狀態是關鍵觀察點。 |
-| 📏 裁判待定 | 尚無裁判確認；在這場身體對抗激烈的淘汰賽中，主裁早早建立對犯規和黃牌的執法基調至關重要，以壓制南非的防守犯規行為。 |
+| ⚡ Appollis 對陣 Laryea | Oswin Appollis（奧蘭多海盜）現在右路面對的是 Richie Laryea 而非 Alphonso Davies——對南非最爆發力攻擊手而言，這是一個重大機會。 |
+| 🎽 Makgopa 正選出場 | Evidence Makgopa 確認擔任南非單箭頭，Thapelo Maseko（對南韓進球的功臣）以前腰身份正選出場。 |
+| 📏 裁判待定 | 尚無裁判確認；在這場身體對抗激烈的淘汰賽中，主裁早早建立對犯規和黃牌的執法基調至關重要。 |
 
 ## observations:zh-cn
 | title | detail |
 |-------|--------|
 | 🏆 历史性时刻 | 两队均是首度站上世界杯淘汰赛舞台，谁胜出谁便写下本国世界杯淘汰赛首胜。 |
-| ⭐ Davies 归来 | Alphonso Davies（拜仁慕尼黑）腿伤康复，本届首度上场——他的存在彻底改变加拿大的左路攻势。 |
-| 🎯 David 火力全开 | Jonathan David 是加拿大历史射手王（39 球），本届已取帽子戏法；他是本场最危险的前锋，毫无争议。 |
+| 🚨 Davies 缺阵 | Alphonso Davies（拜仁慕尼黑）并未入选正选——这是一个重大惊喜，移除了加拿大最危险的武器。Richie Laryea 改守左后卫，从根本上改变了本场的力量对比。 |
+| 🎯 David 火力全开 | Jonathan David 是加拿大历史射手王（39 球），本届已取帽子戏法；即便缺少 Davies 的辅助，他依然是本场最危险的前锋。 |
 | 🧤 Williams 铁壁 | Ronwen Williams 是南非最佳球员，也是南非制造爆冷的最大希望——他的扑救能力，包括 2023 年非洲杯扑出 4 个点球，足以让他们撑住场面。 |
-| ⚡ Appollis 威胁 | Oswin Appollis（奥兰多海盗）是南非的反击武器——他在左翼的速度足以利用加拿大插上全后卫留下的空间。 |
-| 🤕 Koné 缺阵 | Ismaël Koné（对卡塔尔腿骨折）已无缘剩余赛事——加拿大中场需要 Eustaquio 完全康复才能正常运转，他的状态是关键观察点。 |
-| 📏 裁判待定 | 尚无裁判确认；在这场身体对抗激烈的淘汰赛中，主裁早早建立对犯规和黄牌的执法基调至关重要，以压制南非的防守犯规行为。 |
+| ⚡ Appollis 对阵 Laryea | Oswin Appollis（奥兰多海盗）现在右路面对的是 Richie Laryea 而非 Alphonso Davies——对南非最爆发力攻击手而言，这是一个重大机会。 |
+| 🎽 Makgopa 正选出场 | Evidence Makgopa 确认担任南非单箭头，Thapelo Maseko（对韩国进球的功臣）以前腰身份正选出场。 |
+| 📏 裁判待定 | 尚无裁判确认；在这场身体对抗激烈的淘汰赛中，主裁早早建立对犯规和黄牌的执法基调至关重要。 |
 
 ## observations:en
 | title | detail |
 |-------|--------|
-| 🏆 Historic Occasion | Both sides are making their first-ever World Cup knockout appearance. Whoever wins records their nation's first-ever World Cup victory in a knockout match. |
-| ⭐ Davies Returns | Alphonso Davies (Bayern Munich), fully fit after hamstring recovery, plays his first minutes of this World Cup — his presence completely transforms Canada's left flank. |
-| 🎯 David on Fire | Jonathan David enters as Canada's all-time top scorer (39 goals) with a hat-trick already in this tournament; he is the most dangerous striker in this fixture by far. |
+| 🏆 Historic Occasion | Both sides are making their first-ever World Cup knockout appearance. Whoever wins records their nation's first-ever World Cup knockout victory. |
+| 🚨 Davies Absent | Alphonso Davies (Bayern Munich) is NOT in the starting XI — a major surprise that removes Canada's most dangerous weapon. Richie Laryea starts at left back instead, fundamentally shifting the match's balance. |
+| 🎯 David on Fire | Jonathan David enters as Canada's all-time top scorer (39 goals) with a hat-trick already in this tournament; still the most dangerous striker in this fixture even without Davies as his foil. |
 | 🧤 Williams the Wall | Ronwen Williams is South Africa's best player and their most likely route to an upset — his shot-stopping, including 4 AFCON 2023 penalty saves, could keep them in it. |
-| ⚡ Appollis Threat | Oswin Appollis (Orlando Pirates) is South Africa's counter-attack weapon — his pace on the left could exploit space left by Canada's attacking full backs. |
-| 🤕 Koné Absent | Ismaël Koné (broken leg, vs Qatar) is out for the tournament — Canada's midfield needs Eustaquio fully fit to function at its best, and his fitness for this game is key to watch. |
+| ⚡ Appollis vs Laryea | Oswin Appollis (Orlando Pirates) now faces Richie Laryea instead of Alphonso Davies on the right flank — a significant opportunity for South Africa's most explosive attacker. |
+| 🎽 Makgopa Starts | Evidence Makgopa is the confirmed lone striker for South Africa, with Thapelo Maseko (scorer vs South Korea) starting at the attacking midfield position behind him. |
 | 📏 Referee TBC | No referee has been confirmed; in a physical knockout match expect the official to set the tone early on fouls and bookings to keep South Africa's defensive fouling in check. |
 
 ## observations:vi
 | title | detail |
 |-------|--------|
 | 🏆 Khoảnh khắc lịch sử | Cả hai đội đều lần đầu tiên tham dự vòng loại trực tiếp World Cup. Ai thắng sẽ ghi lại chiến thắng World Cup vòng loại trực tiếp đầu tiên trong lịch sử quốc gia. |
-| ⭐ Davies trở lại | Alphonso Davies (Bayern Munich), hoàn toàn bình phục sau chấn thương gân kheo, ra sân lần đầu tại World Cup này — sự hiện diện của anh thay đổi hoàn toàn cánh trái của Canada. |
-| 🎯 David đang bùng cháy | Jonathan David vào trận với tư cách chân sút xuất sắc nhất mọi thời đại Canada (39 bàn) và đã lập hat-trick trong giải này; anh là tiền đạo nguy hiểm nhất trong trận này, không ai bằng. |
+| 🚨 Davies vắng mặt | Alphonso Davies (Bayern Munich) KHÔNG có trong đội hình xuất phát — bất ngờ lớn loại bỏ vũ khí nguy hiểm nhất của Canada. Richie Laryea xuất phát ở hậu vệ trái, thay đổi cơ bản thế cân bằng trận đấu. |
+| 🎯 David đang bùng cháy | Jonathan David vào trận với tư cách chân sút xuất sắc nhất mọi thời đại Canada (39 bàn) và đã lập hat-trick trong giải này; vẫn là tiền đạo nguy hiểm nhất dù thiếu sự hỗ trợ của Davies. |
 | 🧤 Williams — Bức tường thành | Ronwen Williams là cầu thủ xuất sắc nhất Nam Phi và là con đường khả dĩ nhất cho một cú sốc — khả năng cản phá của anh, bao gồm 4 penalty tại AFCON 2023, có thể giữ họ trong trận. |
-| ⚡ Mối đe dọa Appollis | Oswin Appollis (Orlando Pirates) là vũ khí phản công của Nam Phi — tốc độ của anh ở cánh trái có thể khai thác khoảng trống mà các hậu vệ cánh tấn công của Canada để lại. |
-| 🤕 Koné vắng mặt | Ismaël Koné (gãy chân trong trận Qatar) đã lỡ hết giải — tuyến giữa Canada cần Eustaquio hoàn toàn khỏe mạnh để vận hành tốt nhất, và thể lực của anh là điều quan trọng cần theo dõi. |
+| ⚡ Appollis đấu Laryea | Oswin Appollis (Orlando Pirates) nay đối mặt với Richie Laryea thay vì Alphonso Davies ở cánh phải — cơ hội lớn cho cầu thủ tấn công bùng nổ nhất của Nam Phi. |
+| 🎽 Makgopa xuất phát | Evidence Makgopa được xác nhận là tiền đạo mũi nhọn duy nhất của Nam Phi, với Thapelo Maseko (người ghi bàn vào lưới Hàn Quốc) xuất phát ở vị trí tiền vệ tấn công. |
 | 📏 Trọng tài chờ xác nhận | Chưa có trọng tài nào được xác nhận; trong một trận loại trực tiếp thể lực cao, hãy kỳ vọng quan chức này thiết lập chuẩn mực sớm về lỗi và thẻ để kiểm soát việc phạm lỗi phòng thủ của Nam Phi. |
 
 ## observations:th
 | title | detail |
 |-------|--------|
 | 🏆 โอกาสสร้างประวัติศาสตร์ | ทั้งสองทีมกำลังปรากฏตัวในรอบน็อคเอาท์ของ World Cup เป็นครั้งแรก ผู้ชนะจะบันทึกชัยชนะรอบน็อคเอาท์ World Cup ครั้งแรกในประวัติศาสตร์ชาติของตน |
-| ⭐ Davies กลับมา | Alphonso Davies (Bayern Munich) ฟิตสมบูรณ์หลังหายจากบาดเจ็บกล้ามเนื้อต้นขา ลงเล่นนาทีแรกของ World Cup นี้ การปรากฏตัวของเขาเปลี่ยนแปลงปีกซ้ายของแคนาดาอย่างสมบูรณ์ |
-| 🎯 David กำลังลุกโชน | Jonathan David เข้าสู่การแข่งขันในฐานะนักยิงประตูสูงสุดตลอดกาลของแคนาดา (39 ประตู) พร้อมกับแฮตทริกในทัวร์นาเมนต์นี้ เขาคือกองหน้าที่อันตรายที่สุดในนัดนี้อย่างไม่มีข้อโต้แย้ง |
+| 🚨 Davies ไม่อยู่ใน XI | Alphonso Davies (Bayern Munich) ไม่อยู่ใน XI ตัวจริง — ความประหลาดใจครั้งใหญ่ที่ถอดอาวุธที่อันตรายที่สุดของแคนาดา Richie Laryea สตาร์ตในตำแหน่งแบ็กซ้าย เปลี่ยนสมดุลของเกมอย่างสิ้นเชิง |
+| 🎯 David กำลังลุกโชน | Jonathan David เข้าสู่การแข่งขันในฐานะนักยิงประตูสูงสุดตลอดกาลของแคนาดา (39 ประตู) พร้อมแฮตทริกในทัวร์นาเมนต์นี้ ยังคงเป็นกองหน้าที่อันตรายที่สุดแม้ไม่มี Davies เป็นตัวเสริม |
 | 🧤 Williams กำแพงเหล็ก | Ronwen Williams คือผู้เล่นที่ดีที่สุดของแอฟริกาใต้และเป็นเส้นทางที่น่าจะเป็นไปได้มากที่สุดสู่ความพลิกผัน ความสามารถในการเซฟรวมถึง 4 จุดโทษใน AFCON 2023 สามารถทำให้พวกเขาอยู่ในเกมได้ |
-| ⚡ ภัยคุกคาม Appollis | Oswin Appollis (Orlando Pirates) คืออาวุธโต้กลับของแอฟริกาใต้ ความเร็วของเขาบนปีกซ้ายสามารถใช้ประโยชน์จากพื้นที่ที่แบ็กเต็มที่รุกขึ้นของแคนาดาเปิดทิ้งไว้ |
-| 🤕 Koné ไม่ได้ลงเล่น | Ismaël Koné (กระดูกขาหัก ในเกมกาตาร์) พลาดทัวร์นาเมนต์ที่เหลือ กลางสนามแคนาดาต้องการให้ Eustaquio ฟิตสมบูรณ์เพื่อทำงานได้ดีที่สุด และความฟิตของเขาในเกมนี้เป็นสิ่งสำคัญที่ต้องจับตา |
+| ⚡ Appollis ปะทะ Laryea | Oswin Appollis (Orlando Pirates) ตอนนี้เผชิญกับ Richie Laryea แทน Alphonso Davies บนปีกขวา — โอกาสสำคัญสำหรับนักโจมตีที่ระเบิดพลังที่สุดของแอฟริกาใต้ |
+| 🎽 Makgopa สตาร์ต | Evidence Makgopa ได้รับการยืนยันให้เป็นกองหน้าตัวเดียวของแอฟริกาใต้ โดยมี Thapelo Maseko (ผู้ยิงประตูเหนือเกาหลีใต้) สตาร์ตในตำแหน่งกองกลางโจมตี |
 | 📏 กรรมการรอการยืนยัน | ยังไม่มีการยืนยันกรรมการ ในนัดน็อคเอาท์ที่เข้มข้นทางร่างกาย คาดว่าผู้ตัดสินจะกำหนดมาตรฐานตั้งแต่ต้นเกี่ยวกับฟาวล์และใบเหลืองเพื่อควบคุมการฟาวล์เชิงป้องกันของแอฟริกาใต้ |

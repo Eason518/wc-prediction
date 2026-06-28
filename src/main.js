@@ -103,7 +103,7 @@ function syncBanner(lang) {
   const heroCta = document.getElementById('hero-cta-btn');
   if (heroBadge) heroBadge.textContent = t('cta.hero_badge');
   if (heroTitle) heroTitle.textContent = t('cta.hero_title');
-  if (heroSub) heroSub.textContent = t('cta.hero_sub');
+  if (heroSub) heroSub.innerHTML = t('cta.hero_sub');
   if (heroBtn) heroBtn.textContent = t('cta.hero_btn');
   if (heroCta) heroCta.href = href;
 

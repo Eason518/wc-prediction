@@ -9,8 +9,8 @@ status: upcoming
 homeCode: RSA
 awayCode: CAN
 referee: TBC
-homeFormation: 4-3-2-1
-awayFormation: 4-3-3
+homeFormation: 4-2-3-1
+awayFormation: 4-4-2
 homeCoach: Hugo Broos
 awayCoach: Jesse Marsch
 oddsHome: "5.80"
@@ -71,64 +71,60 @@ Tỷ lệ cược: Nam Phi thắng 5.80, hòa 3.50, Canada thắng 1.65. Canada 
 |-----|-----|------|------|------|------|------|-------|------|
 | GK | #1 | Ronwen Williams（隊長） | Mamelodi Sundowns | 🇿🇦 | 1 | starter,team | false | 隊長兼世界級門將，2023 年非洲盃四強連撲四個點球，是 Bafana 本屆的精神支柱與國家英雄。 |
 | DEF | #20 | Khuliso Mudau | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 主力右後衛，穩定可靠，紀律嚴明，國內聯賽表現扎實，但歐洲頂級賽事經驗有限。 |
-| DEF | #3 | Nkosinathi Sibisi | Orlando Pirates | 🇿🇦 | 3 | starter | false | 中衛，對抗強悍、防空出色，南非超級聯賽主力，頂級國際賽事經驗尚待累積。 |
-| DEF | #5 | Khulumani Ndamane | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 搭檔中衛，沉穩自信、閱讀比賽能力佳，國內賽事核心，世界盃初體驗。 |
+| DEF | #14 | Mbekezeli Mbokazi | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 中衛，制空與防守能力穩健，聯賽常規主力，在南非創歷史的淘汰賽中守住後防核心。 |
+| DEF | #21 | Ime Okon | Orlando Pirates | 🇿🇦 | 3 | starter | false | 搭檔中衛，身體強硬、沉穩自信，奧蘭多海盜主力，迎戰加拿大的關鍵時刻挺身而出。 |
 | DEF | #6 | Aubrey Modiba | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 經驗豐富的左後衛，攻守俱佳，陽光隊主力，左路防守核心。 |
-| MID | #8 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 6 | starter,team | false | 中場發動機，逾 50 帽上陣，對捷克罰球扳平是關鍵貢獻。南非最佳外場球員，聯賽標誌性球星。 |
-| MID | #13 | Thalente Mbatha | Orlando Pirates | 🇿🇦 | 4 | starter | false | 前後跑動型中場，勤奮拼搏，能量充沛，國內明星球員，首屆世界盃挑戰大舞台。 |
-| MID | #16 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | 效力葡萄牙聯賽（葡超）的有經驗中場，多功能且自律，為以本土球員為主的中場帶來難得的歐洲歷練。 |
-| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | 爆發力強的邊鋒，速度與盤帶是利器，南非超聯最令人興奮的年輕球員，奧蘭多海盜招牌，新興國際明星。 |
-| FWD | #9 | Lyle Foster | Burnley | 🇬🇧 | 10 | starter,team,league | false | 主力中鋒，擁有英超伯恩利的聯賽經驗；國際賽進 10 球，距離破南非歷史射手紀錄最近的現役球員。 |
-| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | 創造型邊鋒，非洲最炙手可熱的年輕才俊之一，左翼威脅多元，兼具速度與視野。 |
-| FWD | 備援 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 7 | squad | true | 對南韓攻入制勝球（63'），危險的替補武器，效力塞浦路斯聯賽，能為球隊注入新鮮腿力與速度。 |
+| MID | #4 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 7 | starter,team | false | 中場發動機，逾 50 帽上陣，對捷克罰球扳平是關鍵貢獻。南非最佳外場球員，聯賽標誌性球星。 |
+| MID | #13 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | 在葡萄牙聯賽（葡超）效力的防守型中場，紀律嚴明，是雙後腰體系的重要一環，帶來稀缺的歐洲歷練。 |
+| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | 右路爆發力強的邊鋒，速度與盤帶是利器，南非超聯最令人興奮的年輕球員，奧蘭多海盜招牌，新興國際明星。 |
+| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | 左路創造型邊鋒，非洲最炙手可熱的年輕才俊之一，左翼威脅多元，兼具速度與視野。 |
+| FWD | #12 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 8 | starter | false | 對南韓攻入制勝球（63'），今場擔任前腰，串聯中場與前鋒 Makgopa，定位球威脅十足。 |
+| ST | #17 | Evidence Makgopa | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | 4-2-3-1 中的單箭頭，身體強壯、善於背身拿球，拉扯加拿大後防線、製造機會的關鍵。 |
 
 ## home_squad:zh-cn
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
 | GK | #1 | Ronwen Williams（队长） | Mamelodi Sundowns | 🇿🇦 | 1 | starter,team | false | 队长兼世界级门将，2023 年非洲杯四强连扑四个点球，是 Bafana 本届的精神支柱与国家英雄。 |
 | DEF | #20 | Khuliso Mudau | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 主力右后卫，稳定可靠，纪律严明，国内联赛表现扎实，但欧洲顶级赛事经验有限。 |
-| DEF | #3 | Nkosinathi Sibisi | Orlando Pirates | 🇿🇦 | 3 | starter | false | 中卫，对抗强悍、防空出色，南非超级联赛主力，顶级国际赛事经验尚待积累。 |
-| DEF | #5 | Khulumani Ndamane | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 搭档中卫，沉稳自信、阅读比赛能力佳，国内赛事核心，世界杯初体验。 |
+| DEF | #14 | Mbekezeli Mbokazi | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 中卫，制空与防守能力稳健，联赛常规主力，在南非创历史的淘汰赛中守住后防核心。 |
+| DEF | #21 | Ime Okon | Orlando Pirates | 🇿🇦 | 3 | starter | false | 搭档中卫，身体强硬、沉稳自信，奥兰多海盗主力，迎战加拿大的关键时刻挺身而出。 |
 | DEF | #6 | Aubrey Modiba | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | 经验丰富的左后卫，攻守俱佳，阳光队主力，左路防守核心。 |
-| MID | #8 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 6 | starter,team | false | 中场发动机，逾 50 帽上阵，对捷克罚球扳平是关键贡献。南非最佳外场球员，联赛标志性球星。 |
-| MID | #13 | Thalente Mbatha | Orlando Pirates | 🇿🇦 | 4 | starter | false | 前后跑动型中场，勤奋拼搏，能量充沛，国内明星球员，首届世界杯挑战大舞台。 |
-| MID | #16 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | 效力葡萄牙联赛（葡超）的有经验中场，多功能且自律，为以本土球员为主的中场带来难得的欧洲历练。 |
-| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | 爆发力强的边锋，速度与盘带是利器，南非超联最令人兴奋的年轻球员，奥兰多海盗招牌，新兴国际明星。 |
-| FWD | #9 | Lyle Foster | Burnley | 🇬🇧 | 10 | starter,team,league | false | 主力中锋，拥有英超伯恩利的联赛经验；国际赛进 10 球，距离破南非历史射手纪录最近的现役球员。 |
-| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | 创造型边锋，非洲最炙手可热的年轻才俊之一，左翼威胁多元，兼具速度与视野。 |
-| FWD | 备援 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 7 | squad | true | 对韩国攻入制胜球（63'），危险的替补武器，效力塞浦路斯联赛，能为球队注入新鲜腿力与速度。 |
+| MID | #4 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 7 | starter,team | false | 中场发动机，逾 50 帽上阵，对捷克罚球扳平是关键贡献。南非最佳外场球员，联赛标志性球星。 |
+| MID | #13 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | 在葡萄牙联赛（葡超）效力的防守型中场，纪律严明，是双后腰体系的重要一环，带来稀缺的欧洲历练。 |
+| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | 右路爆发力强的边锋，速度与盘带是利器，南非超联最令人兴奋的年轻球员，奥兰多海盗招牌，新兴国际明星。 |
+| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | 左路创造型边锋，非洲最炙手可热的年轻才俊之一，左翼威胁多元，兼具速度与视野。 |
+| FWD | #12 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 8 | starter | false | 对韩国攻入制胜球（63'），今场担任前腰，串联中场与前锋 Makgopa，定位球威胁十足。 |
+| ST | #17 | Evidence Makgopa | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | 4-2-3-1 中的单箭头，身体强壮、善于背身拿球，拉扯加拿大后防线、制造机会的关键。 |
 
 ## home_squad:en
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
 | GK | #1 | Ronwen Williams (C) | Mamelodi Sundowns | 🇿🇦 | 1 | starter,team | false | Captain and world-class shot-stopper. Saved 4 penalties at AFCON 2023; the backbone of Bafana's run. Squad star and national icon. |
 | DEF | #20 | Khuliso Mudau | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Starting right back, reliable and disciplined; solid domestically but limited European exposure. |
-| DEF | #3 | Nkosinathi Sibisi | Orlando Pirates | 🇿🇦 | 3 | starter | false | Center back, physical presence and aerial ability; PSL mainstay, limited top-level international experience. |
-| DEF | #5 | Khulumani Ndamane | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Center back partner, composure and reading of the game; domestically strong, key World Cup debut. |
+| DEF | #14 | Mbekezeli Mbokazi | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Center back, strong aerial presence and disciplined defending; PSL regular earning his place in this historic knockout run. |
+| DEF | #21 | Ime Okon | Orlando Pirates | 🇿🇦 | 3 | starter | false | Center back partner, physical and composed; Orlando Pirates mainstay, stepping up for Bafana's biggest ever match. |
 | DEF | #6 | Aubrey Modiba | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Experienced left back, two-way, core of the left flank; Sundowns regular, left-side anchor. |
-| MID | #8 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 6 | starter,team | false | Midfield engine, over 50 caps; scored the penalty equaliser vs Czechia. South Africa's best outfield player, PSL star and national team talisman. |
-| MID | #13 | Thalente Mbatha | Orlando Pirates | 🇿🇦 | 4 | starter | false | Box-to-box midfielder; industrious and high-energy. Domestic star, stepping up at his first World Cup. |
-| MID | #16 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | Experienced midfielder based in Portugal (Liga Portugal); versatile and disciplined, brings European exposure to otherwise domestic-heavy midfield. |
-| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | Explosive wide forward, speed and dribbling; PSL's most exciting young player, Orlando Pirates standout; emerging international star. |
-| FWD | #9 | Lyle Foster | Burnley | 🇬🇧 | 10 | starter,team,league | false | Main striker, Premier League experience with Burnley; 10 international goals, nearest player to breaking SA's all-time scoring record. Target man and hold-up threat. |
-| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | Creative wide forward; one of the hottest young talents in African football, versatile left-flank threat with pace and vision. |
-| FWD | Sub | Thapelo Maseko | AEL Limassol | 🇨🇾 | 7 | squad | true | Scored the winner vs South Korea (63'); dangerous impact substitute; plays in Cyprus, brings fresh legs and pace off the bench. |
+| MID | #4 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 7 | starter,team | false | Midfield engine, over 50 caps; scored the penalty equaliser vs Czechia. South Africa's best outfield player, PSL star and national team talisman. |
+| MID | #13 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | Experienced defensive midfielder based in Portugal (Liga Portugal); disciplined screen in front of the back four, brings rare European exposure to the squad. |
+| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | Explosive right-side wide forward, speed and dribbling; PSL's most exciting young player, Orlando Pirates standout; emerging international star. |
+| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | Creative left-side wide forward; one of the hottest young talents in African football, versatile left-flank threat with pace and vision. |
+| FWD | #12 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 8 | starter | false | Scored the winner vs South Korea (63'); starts as the central attacking midfielder behind Makgopa, bringing directness and set-piece threat. |
+| ST | #17 | Evidence Makgopa | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | Target striker and lone forward in the 4-2-3-1; powerful and physical, holds up play and stretches Canada's defensive line. |
 
 ## home_squad:vi
 | pos | num | name | club | flag | prob | tags | bench | desc |
 |-----|-----|------|------|------|------|------|-------|------|
 | GK | #1 | Ronwen Williams (Đội trưởng) | Mamelodi Sundowns | 🇿🇦 | 1 | starter,team | false | Đội trưởng kiêm thủ môn đẳng cấp thế giới. Cản phá 4 quả penalty tại AFCON 2023; xương sống của hành trình Bafana. Ngôi sao đội và biểu tượng quốc gia. |
 | DEF | #20 | Khuliso Mudau | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Hậu vệ phải xuất phát, đáng tin cậy và kỷ luật; vững chắc ở trong nước nhưng ít kinh nghiệm châu Âu. |
-| DEF | #3 | Nkosinathi Sibisi | Orlando Pirates | 🇿🇦 | 3 | starter | false | Trung vệ, thể lực và khả năng không chiến tốt; trụ cột PSL, kinh nghiệm quốc tế đỉnh cao còn hạn chế. |
-| DEF | #5 | Khulumani Ndamane | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Trung vệ cặp đôi, bình tĩnh và đọc trận tốt; mạnh ở nội địa, ra mắt World Cup quan trọng. |
+| DEF | #14 | Mbekezeli Mbokazi | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Trung vệ, thể lực và không chiến tốt; trụ cột PSL, bảo vệ hàng thủ trong màn trình diễn lịch sử của Bafana. |
+| DEF | #21 | Ime Okon | Orlando Pirates | 🇿🇦 | 3 | starter | false | Trung vệ cặp đôi, thể lực và bình tĩnh; trụ cột Orlando Pirates, bước lên trong trận đấu lớn nhất lịch sử đội tuyển. |
 | DEF | #6 | Aubrey Modiba | Mamelodi Sundowns | 🇿🇦 | 3 | starter | false | Hậu vệ trái giàu kinh nghiệm, công thủ toàn diện, trụ cột Sundowns, neo giữ cánh trái. |
-| MID | #8 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 6 | starter,team | false | Động cơ tuyến giữa, hơn 50 lần khoác áo ĐTQG; ghi bàn phạt đền gỡ hòa với Czech. Cầu thủ ngoài sân tốt nhất Nam Phi, ngôi sao PSL và tài năng số một đội tuyển. |
-| MID | #13 | Thalente Mbatha | Orlando Pirates | 🇿🇦 | 4 | starter | false | Tiền vệ box-to-box; cần cù và tràn đầy năng lượng. Ngôi sao nội địa, bước lên sân khấu World Cup lần đầu. |
-| MID | #16 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | Tiền vệ giàu kinh nghiệm thi đấu tại Bồ Đào Nha (Liga Portugal); linh hoạt và kỷ luật, mang đến kinh nghiệm châu Âu cho tuyến giữa chủ yếu là cầu thủ nội địa. |
-| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | Tiền vệ cánh bùng nổ, tốc độ và rê bóng là vũ khí; cầu thủ trẻ hấp dẫn nhất PSL, ngôi sao Orlando Pirates; tài năng quốc tế đang nổi. |
-| FWD | #9 | Lyle Foster | Burnley | 🇬🇧 | 10 | starter,team,league | false | Tiền đạo chính, kinh nghiệm Premier League tại Burnley; 10 bàn thắng quốc tế, gần nhất với việc phá kỷ lục ghi bàn mọi thời đại của Nam Phi. Tiền đạo mục tiêu và hold-up. |
-| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | Tiền vệ cánh sáng tạo; một trong những tài năng trẻ nóng bỏng nhất bóng đá châu Phi, đa dạng trên cánh trái với tốc độ và tầm nhìn. |
-| FWD | Dự bị | Thapelo Maseko | AEL Limassol | 🇨🇾 | 7 | squad | true | Ghi bàn thắng quyết định trận Hàn Quốc (phút 63'); người dự bị nguy hiểm; thi đấu ở Cyprus, mang lại sức tươi và tốc độ từ băng ghế. |
+| MID | #4 | Teboho Mokoena | Mamelodi Sundowns | 🇿🇦 | 7 | starter,team | false | Động cơ tuyến giữa, hơn 50 lần khoác áo ĐTQG; ghi bàn phạt đền gỡ hòa với Czech. Cầu thủ ngoài sân tốt nhất Nam Phi, ngôi sao PSL và tài năng số một đội tuyển. |
+| MID | #13 | Sphephelo Sithole | CD Tondela | 🇵🇹 | 4 | starter,league | false | Tiền vệ phòng ngự thi đấu tại Bồ Đào Nha (Liga Portugal); kỷ luật và là tấm lá chắn trong hệ thống 4-2-3-1, mang kinh nghiệm châu Âu hiếm có. |
+| FWD | #7 | Oswin Appollis | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | Tiền vệ cánh phải bùng nổ, tốc độ và rê bóng là vũ khí; cầu thủ trẻ hấp dẫn nhất PSL, ngôi sao Orlando Pirates; tài năng quốc tế đang nổi. |
+| FWD | #10 | Relebohile Mofokeng | Orlando Pirates | 🇿🇦 | 8 | starter,team | false | Tiền vệ cánh trái sáng tạo; một trong những tài năng trẻ nóng bỏng nhất bóng đá châu Phi, đa dạng trên cánh trái với tốc độ và tầm nhìn. |
+| FWD | #12 | Thapelo Maseko | AEL Limassol | 🇨🇾 | 8 | starter | false | Ghi bàn thắng quyết định trận Hàn Quốc (phút 63'); xuất phát ở vị trí tiền vệ tấn công trung tâm, kết nối tuyến giữa với Makgopa, mối đe dọa bóng cố định. |
+| ST | #17 | Evidence Makgopa | Orlando Pirates | 🇿🇦 | 9 | starter,team | false | Tiền đạo mũi nhọn duy nhất trong 4-2-3-1; thể lực và giữ bóng tốt, kéo giãn hàng thủ Canada và tạo cơ hội cho đồng đội. |
 
 ## home_squad:th
 | pos | num | name | club | flag | prob | tags | bench | desc |

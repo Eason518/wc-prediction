@@ -6826,7 +6826,8 @@
     "homeCode": "MEX",
     "awayCode": "ECU",
     "files": [
-      "sonnet/round-32/m-mex-ecu-sonnet.md"
+      "sonnet/round-32/m-mex-ecu-sonnet.md",
+      "deepseek/round-32/m-mex-ecu-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -6842,7 +6843,8 @@
     "homeCode": "ENG",
     "awayCode": "COD",
     "files": [
-      "sonnet/round-32/m-eng-cod-sonnet.md"
+      "sonnet/round-32/m-eng-cod-sonnet.md",
+      "deepseek/round-32/m-eng-cod-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -6858,7 +6860,8 @@
     "homeCode": "BEL",
     "awayCode": "SEN",
     "files": [
-      "sonnet/round-32/m-bel-sen-sonnet.md"
+      "sonnet/round-32/m-bel-sen-sonnet.md",
+      "deepseek/round-32/m-bel-sen-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
@@ -6874,7 +6877,8 @@
     "homeCode": "USA",
     "awayCode": "BIH",
     "files": [
-      "sonnet/round-32/m-usa-bih-sonnet.md"
+      "sonnet/round-32/m-usa-bih-sonnet.md",
+      "deepseek/round-32/m-usa-bih-deepseek.md"
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,

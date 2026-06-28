@@ -561,3 +561,53 @@ Dự đoán: 2-1 Congo DR. Người Congo thắng thoải mái, mặc dù Uzbeki
 | 🛡️ Mbemba's Leadership | Đội trưởng Chancel Mbemba mang 109 lần ra sân đầy kinh nghiệm; khả năng tổ chức hàng thủ của anh rất quan trọng với Congo DR. |
 | 💪 Cannavaro's Challenge | Đội trưởng vô địch World Cup nay là huấn luyện viên lần đầu dự World Cup; Fabio Cannavaro phải chuẩn bị Uzbekistan cho lần chia tay cuối cùng này. |
 | 📏 Referee TBC | Trọng tài sẽ cần quản lý những pha phạm lỗi xuất phát từ sự thất vọng của Uzbekistan trong khi duy trì nhịp độ tấn công cao của Congo DR. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測剛果(金)勝，實際剛果(金)勝）
+- ✅ Wissa 如預期攻入關鍵進球，成為球隊攻擊核心
+- ✅ 烏茲別克如預期拿下一球（Shomurodov 10'）
+- ✅ 黃牌數命中（預測 3–5，實際 5 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 20–24，實際 22 次）
+- ⚠️ 比分略為低估（預測 2-1，實際 3-1）
+- ⚠️ 角球數低於預測（預測 7–10，實際 6 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (DR Congo win)
+- ✅ Wissa scored as predicted — he was the attacking focal point (2 goals)
+- ✅ Uzbekistan grabbed one as predicted (Shomurodov 10')
+- ✅ Yellow cards on target (predicted 3–5, actual 5)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 20–24, actual 22)
+- ⚠️ Scoreline slightly underestimated (predicted 2-1, actual 3-1)
+- ⚠️ Corner count below prediction (predicted 7–10, actual 6)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测刚果(金)胜，实际刚果(金)胜）
+- ✅ Wissa 如预期攻入关键进球，成为球队攻击核心
+- ✅ 乌兹别克如预期拿下一球（Shomurodov 10'）
+- ✅ 黄牌数命中（预测 3–5，实际 5 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 20–24，实际 22 次）
+- ⚠️ 比分略为低估（预测 2-1，实际 3-1）
+- ⚠️ 角球数低于预测（预测 7–10，实际 6 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (DR Congo thắng)
+- ✅ Wissa ghi bàn đúng như dự đoán — anh là trung tâm tấn công (2 bàn)
+- ✅ Uzbekistan ghi bàn đúng như dự đoán (Shomurodov 10')
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 5 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–24, thực tế 22 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-1, thực tế 3-1)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 7–10, thực tế 6 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (DR Congo ชนะ)
+- ✅ Wissa ทำประตูตามที่ทำนาย — เขาคือแกนหลักในการรุก (2 ประตู)
+- ✅ อุซเบกิสถานทำประตูได้ตามที่ทำนาย (Shomurodov 10')
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 5 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–24, จริง 22 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-1, จริง 3-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 7–10, จริง 6 ลูก)

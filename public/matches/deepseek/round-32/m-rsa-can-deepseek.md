@@ -585,3 +585,52 @@ Dự đoán: **Canada 2-0 Nam Phi**. Jonathan David và Cyle Larin sẽ tạo ra
 | ใบเหลืองรวม | — | #EAB308 |
 | ใบเหลือง-แดง | — | orange |
 | ใบแดง | — | #EF4444 |
+## result_hits:zh
+- ✅ 勝負方向命中（預測加拿大勝，實際加拿大勝）
+- ✅ 南非全程未能破門，預測零失球命中
+- ✅ Eustaquio 作為加拿大核心，90'+2' 打入決勝球，符合賽前對其攻擊組織能力的分析
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 0-2，實際 0-1）
+- ⚠️ 角球數大幅低於預測（預測 9–13，實際 5 個）
+- ⚠️ 黃牌數低於預測（預測 4–6，實際 2 張）
+- ⚠️ 犯規數略高於預測（預測 20–24，實際 25 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Canada win)
+- ✅ South Africa failed to score — clean sheet prediction correct
+- ✅ Eustaquio delivered as Canada's midfield key — scored the decisive goal at 90'+2'
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 0-2, actual 0-1)
+- ⚠️ Corner count far below prediction (predicted 9–13, actual 5)
+- ⚠️ Yellow cards below prediction (predicted 4–6, actual 2)
+- ⚠️ Foul count slightly above prediction (predicted 20–24, actual 25)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测加拿大胜，实际加拿大胜）
+- ✅ 南非全程未能破门，预测零失球命中
+- ✅ Eustaquio 作为加拿大核心，90'+2' 打入决胜球，符合赛前对其攻击组织能力的分析
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 0-2，实际 0-1）
+- ⚠️ 角球数大幅低于预测（预测 9–13，实际 5 个）
+- ⚠️ 黄牌数低于预测（预测 4–6，实际 2 张）
+- ⚠️ 犯规数略高于预测（预测 20–24，实际 25 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Canada thắng)
+- ✅ Nam Phi không ghi được bàn nào — dự đoán không thủng lưới chính xác
+- ✅ Eustaquio là chìa khóa — ghi bàn quyết định ở phút 90'+2'
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 0-2, thực tế 0-1)
+- ⚠️ Số phạt góc thấp hơn dự đoán nhiều (dự đoán 9–13, thực tế 5 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–6, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi cao hơn dự đoán nhẹ (dự đoán 20–24, thực tế 25 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (แคนาดาชนะ)
+- ✅ แอฟริกาใต้ไม่สามารถทำประตูได้ตลอดเกม — ทำนายคลีนชีตถูกต้อง
+- ✅ Eustaquio สำคัญ — ยิงประตูชัยนาที 90'+2'
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-2, จริง 0-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–13, จริง 5 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–6, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายเล็กน้อย (ทำนาย 20–24, จริง 25 ครั้ง)

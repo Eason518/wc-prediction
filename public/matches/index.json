@@ -6901,9 +6901,97 @@
       "sonnet/round-32/m-rsa-can-sonnet.md",
       "deepseek/round-32/m-rsa-can-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "v": 3
+    "actualScoreHome": 0,
+    "actualScoreAway": 1,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        50,
+        42
+      ],
+      "possession_contested": 8,
+      "goals": [
+        0,
+        1
+      ],
+      "assists": [
+        0,
+        0
+      ],
+      "attempts_total": [
+        6,
+        12
+      ],
+      "attempts_on": [
+        1,
+        7
+      ],
+      "attempts_off": [
+        4,
+        5
+      ],
+      "attempts_inside": [
+        1,
+        9
+      ],
+      "attempts_outside": [
+        5,
+        3
+      ],
+      "yellow_cards": [
+        0,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        16,
+        9
+      ],
+      "offsides": [
+        1,
+        0
+      ],
+      "passes": [
+        560,
+        402
+      ],
+      "passes_completed": [
+        472,
+        315
+      ],
+      "crosses": [
+        3,
+        14
+      ],
+      "crosses_completed": [
+        2,
+        5
+      ],
+      "corners": [
+        1,
+        4
+      ],
+      "free_kicks": [
+        15,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        25,
+        26
+      ]
+    },
+    "v": 4
   },
   {
     "id": "m-bra-jpn",

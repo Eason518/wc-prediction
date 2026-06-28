@@ -549,3 +549,48 @@ Dự đoán: Croatia 1-0 Ghana. Một bàn thắng muộn từ phạt góc hoặ
 | 🚀 การโต้กลับของกานา | Inaki Williams และ Semenyo สามารถสร้างความเสียหายให้แนวรับใดก็ได้เมื่อโต้กลับ |
 | 📊 โครเอเชียต้องชนะ | การเสมออาจไม่เพียงพอหากอังกฤษชนะปานามา – โครเอเชียต้องการสามแต้ม |
 | 🧠 การต่อสู้ทางยุทธวิธี | โครงสร้างป้องกันของ Otto Addo เทียบกับการบิลด์อัพที่อดทนของ Dalić – เกมหมากรุก |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測克羅埃西亞勝，實際克羅埃西亞勝）
+- ✅ 克羅埃西亞如預期在關鍵時刻展現大賽經驗
+- ✅ 紅牌預測正確（預測 0，實際 0 張）
+- ✅ 犯規數命中（預測 22–26，實際 22 次）
+- ⚠️ 比分低估（預測 1-0，實際 2-1）
+- ⚠️ 角球數低於預測（預測 7–10，實際 5 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Croatia win)
+- ✅ Croatia showed tournament experience as expected in a crucial match
+- ✅ Red card prediction correct (predicted 0, actual 0)
+- ✅ Foul count on target (predicted 22–26, actual 22)
+- ⚠️ Scoreline underestimated (predicted 1-0, actual 2-1)
+- ⚠️ Corner count below prediction (predicted 7–10, actual 5)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测克罗地亚胜，实际克罗地亚胜）
+- ✅ 克罗地亚如预期在关键时刻展现大赛经验
+- ✅ 红牌预测正确（预测 0，实际 0 张）
+- ✅ 犯规数命中（预测 22–26，实际 22 次）
+- ⚠️ 比分低估（预测 1-0，实际 2-1）
+- ⚠️ 角球数低于预测（预测 7–10，实际 5 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Croatia thắng)
+- ✅ Croatia thể hiện kinh nghiệm thi đấu lớn đúng như dự đoán
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 22–26, thực tế 22 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 1-0, thực tế 2-1)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 7–10, thực tế 5 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โครเอเชียชนะ)
+- ✅ โครเอเชียแสดงประสบการณ์ในเกมสำคัญดังที่ทำนายไว้
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 22–26, จริง 22 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 1-0, จริง 2-1)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 7–10, จริง 5 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)

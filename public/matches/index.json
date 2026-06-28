@@ -6281,14 +6281,99 @@
     "homeCode": "CRO",
     "awayCode": "GHA",
     "files": [
-      "sonnet/group-stage/m-cro-gha-sonnet.md",
       "deepseek/group-stage/m-cro-gha-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 2,
+    "actualScoreAway": 1,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        51,
+        43
+      ],
+      "possession_contested": 6,
+      "goals": [
+        2,
+        1
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        8,
+        6
+      ],
+      "attempts_on": [
+        4,
+        1
+      ],
+      "attempts_off": [
+        2,
+        3
+      ],
+      "attempts_inside": [
+        3,
+        3
+      ],
+      "attempts_outside": [
+        5,
+        3
+      ],
+      "passes": [
+        497,
+        456
+      ],
+      "passes_completed": [
+        445,
+        400
+      ],
+      "crosses": [
+        11,
+        8
+      ],
+      "crosses_completed": [
+        3,
+        1
+      ],
+      "corners": [
+        3,
+        2
+      ],
+      "free_kicks": [
+        15,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        14,
+        17
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        9
+      ],
+      "offsides": [
+        1,
+        2
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-pan-eng",
@@ -6301,11 +6386,97 @@
       "sonnet/group-stage/m-pan-eng-sonnet.md",
       "deepseek/group-stage/m-pan-eng-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "actualScoreHome": 0,
+    "actualScoreAway": 2,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        39,
+        53
+      ],
+      "possession_contested": 8,
+      "goals": [
+        0,
+        2
+      ],
+      "assists": [
+        0,
+        2
+      ],
+      "attempts_total": [
+        13,
+        17
+      ],
+      "attempts_on": [
+        2,
+        6
+      ],
+      "attempts_off": [
+        8,
+        9
+      ],
+      "attempts_inside": [
+        8,
+        12
+      ],
+      "attempts_outside": [
+        5,
+        5
+      ],
+      "passes": [
+        302,
+        555
+      ],
+      "passes_completed": [
+        215,
+        489
+      ],
+      "crosses": [
+        9,
+        29
+      ],
+      "crosses_completed": [
+        3,
+        4
+      ],
+      "corners": [
+        3,
+        7
+      ],
+      "free_kicks": [
+        17,
+        20
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        33,
+        25
+      ],
+      "yellow_cards": [
+        2,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        13,
+        16
+      ],
+      "offsides": [
+        4,
+        4
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-cod-uzb",

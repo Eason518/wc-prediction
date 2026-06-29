@@ -73,7 +73,7 @@ export function renderHero() {
         <span style="color:${h.color}">${m.penalty.home}</span>
         <span class="pk-sep">–</span>
         <span style="color:${a.color}">${m.penalty.away}</span>
-        <span class="pk-advance">✅ ${m.penalty.home > m.penalty.away ? h.code : a.code} ${t('hero.advance')}</span>
+        <span class="pk-advance">${m.penalty.home > m.penalty.away ? h.code : a.code} ${t('hero.advance')}</span>
       </div>`
     : '';
 

@@ -629,6 +629,78 @@ button {
   margin-top: 2px;
 }
 
+.actual-score-aet {
+  font-size: 26px;
+  letter-spacing: 1px;
+  margin-left: 8px;
+  opacity: 0.85;
+}
+
+.result-score-aet {
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  margin-left: 6px;
+  opacity: 0.85;
+}
+
+.pk-result {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 8px;
+  font-family: 'Bebas Neue';
+  font-size: 22px;
+  letter-spacing: 1px;
+  line-height: 1;
+}
+
+.pk-label {
+  font-family: inherit;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #94A3B8;
+  background: rgba(148, 163, 184, 0.12);
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.pk-sep {
+  color: #475569;
+  margin: 0 2px;
+}
+
+.pk-advance {
+  font-family: -apple-system, system-ui, sans-serif;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #4ade80;
+  background: rgba(74, 222, 128, 0.1);
+  border: 1px solid rgba(74, 222, 128, 0.3);
+  border-radius: 999px;
+  padding: 3px 10px;
+  margin-left: 4px;
+}
+
+.result-score-et {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #F59E0B;
+  margin-top: 4px;
+}
+
+.result-score-pk {
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  color: #94A3B8;
+  margin-top: 2px;
+}
+
 .hero-live-badge {
   display: flex;
   align-items: center;

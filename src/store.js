@@ -58,6 +58,13 @@ async function loadVariants(entry, lang) {
         home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
         away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
       },
+      extraTime: !!entry.extraTime,
+      regScore: (entry.regScoreHome != null && entry.regScoreAway != null)
+        ? { home: Number(entry.regScoreHome), away: Number(entry.regScoreAway) }
+        : null,
+      penalty: (entry.penaltyHome != null && entry.penaltyAway != null)
+        ? { home: Number(entry.penaltyHome), away: Number(entry.penaltyAway) }
+        : null,
       aiModel: null,
       homeNote: '',
       awayNote: '',
@@ -89,6 +96,13 @@ async function loadVariants(entry, lang) {
   };
   variants.forEach(v => {
     v.actualScore = actualScore;
+    v.extraTime = !!entry.extraTime;
+    v.regScore = (entry.regScoreHome != null && entry.regScoreAway != null)
+      ? { home: Number(entry.regScoreHome), away: Number(entry.regScoreAway) }
+      : null;
+    v.penalty = (entry.penaltyHome != null && entry.penaltyAway != null)
+      ? { home: Number(entry.penaltyHome), away: Number(entry.penaltyAway) }
+      : null;
     v.stage = entry.stage || 'group-stage';
     v.liveStats = (entry.liveStats && Object.keys(entry.liveStats).length > 0) ? entry.liveStats : null;
     v.predictionCorrect = entry.predictionCorrect ?? null;
@@ -143,6 +157,13 @@ export async function loadData() {
         home: entry.actualScoreHome != null ? Number(entry.actualScoreHome) : 0,
         away: entry.actualScoreAway != null ? Number(entry.actualScoreAway) : 0,
       },
+      extraTime: !!entry.extraTime,
+      regScore: (entry.regScoreHome != null && entry.regScoreAway != null)
+        ? { home: Number(entry.regScoreHome), away: Number(entry.regScoreAway) }
+        : null,
+      penalty: (entry.penaltyHome != null && entry.penaltyAway != null)
+        ? { home: Number(entry.penaltyHome), away: Number(entry.penaltyAway) }
+        : null,
       aiModel: null,
       homeNote: '',
       awayNote: '',

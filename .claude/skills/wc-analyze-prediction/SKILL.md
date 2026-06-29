@@ -46,8 +46,17 @@ Compare **winner direction only** (not exact score):
 | draw | draw | `true` |
 | any mismatch | — | `false` |
 
+**Knockout matches** (`round-32` onward) cannot draw: compare the predicted winner
+direction against the team that **advanced** (the PK winner if there was a shootout,
+otherwise the regulation/ET winner). A predicted draw → `false`. See
+`references/knockout-fields.md`.
+
 ### 4. Update index.json
 Insert `"predictionCorrect": true` or `false` after the `"stage"` field in the match entry.
+
+For knockout matches, also record extra time / penalties in the same write —
+`actualScoreHome` / `actualScoreAway` hold the **a.e.t.-inclusive** score, with
+`extraTime` / `penaltyHome` / `penaltyAway` set per `references/knockout-fields.md`.
 
 ### 5. Compare Stats Predictions (if liveStats present)
 If `liveStats` exists in the index entry, compute actuals and compare against `event_preds` ranges:
@@ -75,3 +84,8 @@ When the user asks to process all matches:
 1. Scan `index.json` for entries where `actualScoreHome` is not null AND `predictionCorrect` is missing
 2. For each: run steps 2–6
 3. Batch the `grep` calls for predicted scores, then do all edits
+
+## References
+
+- `references/result_hits_format.md` — result_hits format, language templates, stats bullets.
+- `references/knockout-fields.md` — extra time / penalty fields and knockout `predictionCorrect` rules.

@@ -30,6 +30,9 @@ const locales = {
     'hero.group': '小組',
     'hero.pred_hit': '預測命中',
     'hero.pred_miss': '預測失準',
+    'hero.aet': '延長賽 a.e.t.',
+    'hero.pk': 'PK',
+    'hero.advance': '晉級',
 
     'tabs.summary': '🏆 總結',
     'tabs.players': '球員',
@@ -154,6 +157,9 @@ const locales = {
     'hero.group': 'GROUP',
     'hero.pred_hit': 'Prediction Hit',
     'hero.pred_miss': 'Prediction Miss',
+    'hero.aet': 'a.e.t.',
+    'hero.pk': 'Pens',
+    'hero.advance': 'advances',
 
     'tabs.summary': '🏆 Summary',
     'tabs.players': 'Players',
@@ -278,6 +284,9 @@ const locales = {
     'hero.group': '小组',
     'hero.pred_hit': '预测命中',
     'hero.pred_miss': '预测失准',
+    'hero.aet': '加时赛 a.e.t.',
+    'hero.pk': 'PK',
+    'hero.advance': '晋级',
 
     'tabs.summary': '🏆 总结',
     'tabs.players': '球员',
@@ -402,6 +411,9 @@ const locales = {
     'hero.group': 'BẢNG',
     'hero.pred_hit': 'Dự Đoán Đúng',
     'hero.pred_miss': 'Dự Đoán Sai',
+    'hero.aet': 'Hiệp phụ a.e.t.',
+    'hero.pk': 'Pen',
+    'hero.advance': 'đi tiếp',
 
     'tabs.summary': '🏆 Tổng Kết',
     'tabs.players': 'Cầu Thủ',
@@ -526,6 +538,9 @@ const locales = {
     'hero.group': 'กลุ่ม',
     'hero.pred_hit': 'ทำนายถูก',
     'hero.pred_miss': 'ทำนายผิด',
+    'hero.aet': 'ต่อเวลา a.e.t.',
+    'hero.pk': 'ดวลจุดโทษ',
+    'hero.advance': 'เข้ารอบ',
 
     'tabs.summary': '🏆 สรุป',
     'tabs.players': 'นักเตะ',

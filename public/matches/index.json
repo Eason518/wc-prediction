@@ -6903,6 +6903,11 @@
     ],
     "actualScoreHome": 0,
     "actualScoreAway": 1,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": true,
     "liveStats": {
       "possession": [
@@ -7006,6 +7011,11 @@
     ],
     "actualScoreHome": 2,
     "actualScoreAway": 1,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": true,
     "liveStats": {
       "possession": [
@@ -7109,7 +7119,12 @@
     ],
     "actualScoreHome": 1,
     "actualScoreAway": 1,
-    "predictionCorrect": false,
+    "extraTime": true,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": 1,
+    "regScoreAway": 1,
+    "predictionCorrect": null,
     "liveStats": {},
     "v": 1
   },
@@ -7126,6 +7141,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7143,6 +7163,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7160,6 +7185,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7177,6 +7207,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7194,6 +7229,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7211,6 +7251,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7228,6 +7273,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7244,6 +7294,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7260,6 +7315,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7276,6 +7336,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7292,6 +7357,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7308,6 +7378,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7324,6 +7399,11 @@
     ],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1
@@ -7338,6 +7418,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7350,6 +7435,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7362,6 +7452,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7374,6 +7469,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7386,6 +7486,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7398,6 +7503,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7410,6 +7520,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7422,6 +7537,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7434,6 +7554,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7446,6 +7571,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7458,6 +7588,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7470,6 +7605,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7482,6 +7622,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7494,6 +7639,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7506,6 +7656,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   },
   {
@@ -7518,6 +7673,11 @@
     "files": [],
     "actualScoreHome": null,
     "actualScoreAway": null,
+    "extraTime": null,
+    "penaltyHome": null,
+    "penaltyAway": null,
+    "regScoreHome": null,
+    "regScoreAway": null,
     "v": 1
   }
 ]

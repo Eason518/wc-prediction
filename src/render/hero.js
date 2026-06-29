@@ -59,6 +59,25 @@ export function renderHero() {
     ? `<div class="hero-pred-result ${m.predictionCorrect ? 'pred-hit' : 'pred-miss'}">${m.predictionCorrect ? '✅' : '❌'} ${m.predictionCorrect ? t('hero.pred_hit') : t('hero.pred_miss')}</div>`
     : '';
 
+  const isFinished = !isLive && !isUpcoming;
+  const scoreLabel = isLive ? t('hero.live_score') : isUpcoming ? countdownLabel : (m.extraTime ? t('hero.aet') : t('hero.final_score'));
+  // Knockout went to extra time and the regulation (90') score is recorded:
+  // show regulation as the primary score with the a.e.t. total in parentheses — 正規比分(延長比分).
+  const showReg = isFinished && m.extraTime && m.regScore;
+  const primaryScore = showReg ? m.regScore : m.actualScore;
+  const aetParen = showReg
+    ? `<span class="actual-score-aet">(<span style="color:${h.color}">${m.actualScore.home}</span>–<span style="color:${a.color}">${m.actualScore.away}</span>)</span>`
+    : '';
+  const pkHtml = (isFinished && m.penalty)
+    ? `<div class="pk-result">
+        <span class="pk-label">${t('hero.pk')}</span>
+        <span style="color:${h.color}">${m.penalty.home}</span>
+        <span class="pk-sep">–</span>
+        <span style="color:${a.color}">${m.penalty.away}</span>
+        <span class="pk-advance">✅ ${m.penalty.home > m.penalty.away ? h.code : a.code} ${t('hero.advance')}</span>
+      </div>`
+    : '';
+
   return `
     <div class="hero-badge">FIFA WORLD CUP 2026${m.group ? ` · ${t('hero.group')} ${m.group}` : ''} · ${t('stage.' + (m.stage || 'group-stage'))}</div>
     <div class="hero-teams">
@@ -70,11 +89,13 @@ export function renderHero() {
         ${isLive ? `<div class="hero-live-badge"><span class="hero-live-dot"></span>${t('hero.live')}</div>` : ''}
         ${predResultHtml}
         <div class="actual-score">
-          <span style="color:${h.color}">${m.actualScore.home}</span>
+          <span style="color:${h.color}">${primaryScore.home}</span>
           <span class="actual-score-sep">–</span>
-          <span style="color:${a.color}">${m.actualScore.away}</span>
+          <span style="color:${a.color}">${primaryScore.away}</span>
+          ${aetParen}
         </div>
-        <div class="actual-score-label">${isLive ? t('hero.live_score') : isUpcoming ? countdownLabel : t('hero.final_score')}</div>
+        <div class="actual-score-label">${scoreLabel}</div>
+        ${pkHtml}
       </div>
       <div class="hero-team">
         <div class="hero-flag">${a.flag}</div>

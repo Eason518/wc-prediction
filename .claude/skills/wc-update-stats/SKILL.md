@@ -32,6 +32,11 @@ Read the provided PDF or data. Map FIFA page labels to `liveStats` fields using 
 Compare the PDF's final score against `actualScoreHome` / `actualScoreAway` in `index.json`.
 If they differ, update both score fields in the same write.
 
+**Knockout matches** (`round-32` onward) may go to extra time / penalties. Put the score
+**including extra-time goals** in `actualScoreHome/Away`, the 90-minute score in
+`regScoreHome/Away`, and set `extraTime` / `penaltyHome` / `penaltyAway` as described in
+`../wc-analyze-prediction/references/knockout-fields.md` (UI shows 正規比分(延長比分)).
+
 ### 4. Update index.json
 Use a Python one-liner to update only the target match entry:
 
@@ -43,6 +48,9 @@ for m in data:
         m['liveStats'] = { ...full liveStats dict... }
         # also fix score if needed:
         # m['actualScoreHome'] = X; m['actualScoreAway'] = Y
+        # knockout only — extra time / penalties (see knockout-fields.md):
+        # m['extraTime'] = True; m['regScoreHome'] = 1; m['regScoreAway'] = 1
+        # m['penaltyHome'] = 4; m['penaltyAway'] = 3   # actualScore = a.e.t. total
         break
 with open('public/matches/index.json', 'w') as f: json.dump(data, f, ensure_ascii=False, indent=2)
 ```
@@ -64,6 +72,11 @@ Compare the **predicted winner direction** against the actual score (direction o
 All model files for a match normally share the same direction; if they differ, judge each file by
 its own prediction. Set `"predictionCorrect": true` / `false` in the match entry (place it right
 after `"stage"`) in the same or a follow-up write to `index.json`.
+
+For **knockout matches**, compare the predicted winner direction against the team that
+**advanced** (PK winner if there was a shootout) — see
+`../wc-analyze-prediction/references/knockout-fields.md`. A level a.e.t. score decided on
+penalties is not a draw.
 
 ### 6. Write result_hits to the MD files (only when predictionCorrect is true)
 For each file in `files[]`, append `result_hits` sections in **5 languages** (`zh`, `en`, `zh-cn`,
@@ -87,3 +100,4 @@ Print the updated `liveStats` dict, the `predictionCorrect` value, and which fil
 
 - `references/livestats-schema.md` — full field list, array format, and FIFA label mapping.
 - `../wc-analyze-prediction/references/result_hits_format.md` — result_hits format and templates.
+- `../wc-analyze-prediction/references/knockout-fields.md` — extra time / penalty fields for knockout matches.

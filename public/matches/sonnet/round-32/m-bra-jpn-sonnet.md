@@ -569,3 +569,48 @@ Dự đoán: Brazil thắng 2-1. Chất lượng cá nhân của Vinícius và B
 | 🔑 Kubo là chìa khóa | Ngôi sao sáng tạo của Real Sociedad phải phá khóa hàng thủ Brazil — nếu anh tìm được không gian giữa các tuyến, Nhật Bản có thể ghi bàn. |
 | 🛡️ Hàng thủ Brazil không ổn định | Để thủng lưới trong cả ba trận vòng bảng; Alisson và Marquinhos cung cấp chất lượng nhưng vẫn còn khoảng trống để Nhật Bản khai thác. |
 | 📏 Trọng tài chờ xác nhận | FIFA chưa xác nhận quan chức — cường độ vòng knock-out cộng với kỹ thuật của Brazil và pressing của Nhật Bản sẽ đòi hỏi sự kiểm soát chặt chẽ. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測巴西勝，實際巴西勝）
+- ✅ 精準比分命中（預測 2-1，實際 2-1）——首選比分完美命中
+- ✅ 日本如預期進球（預測巴西防線有漏洞、日本可得分）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 黃牌數命中（預測 3–5，實際 5 張）
+- ⚠️ 角球數低於預測（預測 9–12，實際 8 個）
+- ⚠️ 犯規數大幅低於預測（預測 20–25，實際 17 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Brazil win)
+- ✅ Exact scoreline hit (predicted 2-1, actual 2-1) — Top Pick confirmed
+- ✅ Japan scored as predicted (Brazil's defensive gaps noted; Japan found the net)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Yellow cards on target (predicted 3–5, actual 5)
+- ⚠️ Corner count below prediction (predicted 9–12, actual 8)
+- ⚠️ Foul count far below prediction (predicted 20–25, actual 17)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测巴西胜，实际巴西胜）
+- ✅ 精准比分命中（预测 2-1，实际 2-1）——首选比分完美命中
+- ✅ 日本如预期进球（预测巴西防线有漏洞、日本可得分）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 黄牌数命中（预测 3–5，实际 5 张）
+- ⚠️ 角球数低于预测（预测 9–12，实际 8 个）
+- ⚠️ 犯规数大幅低于预测（预测 20–25，实际 17 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Brazil thắng)
+- ✅ Dự đoán chính xác tỷ số (dự đoán 2-1, thực tế 2-1) — Lựa chọn hàng đầu chính xác hoàn toàn
+- ✅ Nhật Bản ghi bàn như dự đoán (phòng thủ Brazil có kẽ hở; Nhật Bản tận dụng được)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 5 thẻ)
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 9–12, thực tế 8 cái)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 20–25, thực tế 17 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (บราซิลชนะ)
+- ✅ ทำนายสกอร์แม่นยำ (ทำนาย 2-1, จริง 2-1) — ตัวเลือกแรกถูกต้องสมบูรณ์
+- ✅ ญี่ปุ่นทำประตูได้ตามที่ทำนาย (แนวรับบราซิลมีช่องว่าง ญี่ปุ่นใช้ประโยชน์ได้)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 5 ใบ)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 9–12, จริง 8 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 20–25, จริง 17 ครั้ง)

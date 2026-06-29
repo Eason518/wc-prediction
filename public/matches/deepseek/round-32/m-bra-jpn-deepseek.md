@@ -561,3 +561,48 @@ Dự đoán: Brazil 2-0 Nhật Bản. Vinícius và Cunha sẽ ghi bàn. Sự ki
 | ใบเหลืองรวม | — | #EAB308 |
 | ใบเหลือง-แดง | — | orange |
 | ใบแดง | — | #EF4444 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測巴西勝，實際巴西勝）
+- ✅ 巴西攻擊主導如預期（控球率55%，19次射門）
+- ✅ 黃牌數命中（預測 3–5，實際 5 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 2-0，實際 2-1）——日本突破巴西防線成功進球
+- ⚠️ 角球數低於預測（預測 9–12，實際 8 個）
+- ⚠️ 犯規數低於預測（預測 18–24，實際 17 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Brazil win)
+- ✅ Brazil's attacking dominance as predicted (55% possession, 19 shots)
+- ✅ Yellow cards on target (predicted 3–5, actual 5)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 2-0, actual 2-1) — Japan broke through for a consolation
+- ⚠️ Corner count below prediction (predicted 9–12, actual 8)
+- ⚠️ Foul count below prediction (predicted 18–24, actual 17)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测巴西胜，实际巴西胜）
+- ✅ 巴西攻击主导如预期（控球率55%，19次射门）
+- ✅ 黄牌数命中（预测 3–5，实际 5 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 2-0，实际 2-1）——日本突破巴西防线成功进球
+- ⚠️ 角球数低于预测（预测 9–12，实际 8 个）
+- ⚠️ 犯规数低于预测（预测 18–24，实际 17 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Brazil thắng)
+- ✅ Sự thống trị tấn công của Brazil như dự đoán (55% kiểm soát bóng, 19 cú sút)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 5 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-0, thực tế 2-1) — Nhật Bản vẫn ghi được bàn danh dự
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 9–12, thực tế 8 cái)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 18–24, thực tế 17 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (บราซิลชนะ)
+- ✅ การครองเกมรุกของบราซิลตามที่ทำนาย (ครองบอล 55%, ยิง 19 ครั้ง)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 5 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-0, จริง 2-1) — ญี่ปุ่นยังสามารถทำประตูได้
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 9–12, จริง 8 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 18–24, จริง 17 ครั้ง)

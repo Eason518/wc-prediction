@@ -62,11 +62,10 @@ export function renderHero() {
   const isFinished = !isLive && !isUpcoming;
   const scoreLabel = isLive ? t('hero.live_score') : isUpcoming ? countdownLabel : (m.extraTime ? t('hero.aet') : t('hero.final_score'));
   // Knockout went to extra time and the regulation (90') score is recorded:
-  // show regulation as the primary score with the a.e.t. total in parentheses — 正規比分(延長比分).
+  // show the a.e.t. total as the primary score with the regulation score in parentheses — 延長比分(正規比分).
   const showReg = isFinished && m.extraTime && m.regScore;
-  const primaryScore = showReg ? m.regScore : m.actualScore;
-  const aetParen = showReg
-    ? `<span class="actual-score-aet">(<span style="color:${h.color}">${m.actualScore.home}</span>–<span style="color:${a.color}">${m.actualScore.away}</span>)</span>`
+  const regParen = showReg
+    ? `<span class="actual-score-sub">(<span style="color:${h.color}">${m.regScore.home}</span>–<span style="color:${a.color}">${m.regScore.away}</span>)</span>`
     : '';
   const pkHtml = (isFinished && m.penalty)
     ? `<div class="pk-result">
@@ -89,10 +88,10 @@ export function renderHero() {
         ${isLive ? `<div class="hero-live-badge"><span class="hero-live-dot"></span>${t('hero.live')}</div>` : ''}
         ${predResultHtml}
         <div class="actual-score">
-          <span style="color:${h.color}">${primaryScore.home}</span>
+          <span style="color:${h.color}">${m.actualScore.home}</span>
           <span class="actual-score-sep">–</span>
-          <span style="color:${a.color}">${primaryScore.away}</span>
-          ${aetParen}
+          <span style="color:${a.color}">${m.actualScore.away}</span>
+          ${regParen}
         </div>
         <div class="actual-score-label">${scoreLabel}</div>
         ${pkHtml}

@@ -35,7 +35,7 @@ If they differ, update both score fields in the same write.
 **Knockout matches** (`round-32` onward) may go to extra time / penalties. Put the score
 **including extra-time goals** in `actualScoreHome/Away`, the 90-minute score in
 `regScoreHome/Away`, and set `extraTime` / `penaltyHome` / `penaltyAway` as described in
-`../wc-analyze-prediction/references/knockout-fields.md` (UI shows 正規比分(延長比分)).
+`../wc-analyze-prediction/references/knockout-fields.md` (UI shows 延長比分(正規比分)).
 
 ### 4. Update index.json
 Use a Python one-liner to update only the target match entry:

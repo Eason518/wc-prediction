@@ -629,14 +629,14 @@ button {
   margin-top: 2px;
 }
 
-.actual-score-aet {
+.actual-score-sub {
   font-size: 26px;
   letter-spacing: 1px;
   margin-left: 8px;
   opacity: 0.85;
 }
 
-.result-score-aet {
+.result-score-sub {
   font-size: 16px;
   letter-spacing: 0.5px;
   margin-left: 6px;

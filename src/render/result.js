@@ -11,7 +11,6 @@ export function renderResult() {
   const ac = away.color;
   const correct = m.predictionCorrect;
   const showReg = m.extraTime && m.regScore;
-  const primaryActual = showReg ? m.regScore : m.actualScore;
 
   const badge = correct
     ? `<div class="result-badge result-badge-hit">✅ ${t('result.correct')}</div>`
@@ -39,10 +38,10 @@ export function renderResult() {
       <div class="result-score-card result-score-card-actual">
         <div class="result-score-label">${t('result.actual_score')}</div>
         <div class="result-score-nums">
-          <span style="color:${hc}">${primaryActual.home}</span>
+          <span style="color:${hc}">${m.actualScore.home}</span>
           <span class="result-score-dash">–</span>
-          <span style="color:${ac}">${primaryActual.away}</span>
-          ${showReg ? `<span class="result-score-aet">(<span style="color:${hc}">${m.actualScore.home}</span>–<span style="color:${ac}">${m.actualScore.away}</span>)</span>` : ''}
+          <span style="color:${ac}">${m.actualScore.away}</span>
+          ${showReg ? `<span class="result-score-sub">(<span style="color:${hc}">${m.regScore.home}</span>–<span style="color:${ac}">${m.regScore.away}</span>)</span>` : ''}
         </div>
         ${m.extraTime ? `<div class="result-score-et">${t('hero.aet')}</div>` : ''}
         ${m.penalty ? `<div class="result-score-pk">${t('hero.pk')} <span style="color:${hc}">${m.penalty.home}</span>–<span style="color:${ac}">${m.penalty.away}</span></div>` : ''}

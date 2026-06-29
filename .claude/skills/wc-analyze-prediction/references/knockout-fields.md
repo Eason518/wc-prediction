@@ -17,9 +17,9 @@ The advancing team is derived automatically by the UI from `penaltyHome` vs
 `penaltyAway` (higher advances) — no separate "winner" field is stored.
 
 **Display format**: when `extraTime` is set and `regScore` is recorded, the UI shows the
-regulation score with the a.e.t. total in parentheses — **正規比分(延長比分)**, e.g.
-`1–1 (2–2)`. So `regScoreHome/Away` = the 90-minute score, `actualScoreHome/Away` = the
-score after extra time.
+a.e.t. total as the primary score with the regulation score in parentheses —
+**延長比分(正規比分)**, e.g. `2–2 (1–1)`. So `actualScoreHome/Away` = the score after extra
+time (the primary/final score), `regScoreHome/Away` = the 90-minute score.
 
 ## Rules when recording a knockout result
 

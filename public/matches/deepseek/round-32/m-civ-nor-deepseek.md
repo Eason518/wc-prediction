@@ -546,3 +546,52 @@ Dự đoán: Na Uy 2-1 Côte d'Ivoire. Haaland và Ødegaard sẽ tạo ra sự 
 | ใบเหลืองรวม | — | #EAB308 |
 | ใบเหลือง-แดง | — | orange |
 | ใบแดง | — | #EF4444 |
+## result_hits:zh
+- ✅ 勝負方向命中（預測挪威勝，實際挪威勝）
+- ✅ 比分精準命中（預測 1-2，實際 1-2）
+- ✅ Haaland 如預期攻入致勝球（第86分鐘絕殺）
+- ✅ 象牙海岸如預期從反擊中破門（Amad Diallo 第74分鐘扳平）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 角球數大幅高於預測（預測 9–12，實際 17 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 1 張）
+- ⚠️ 犯規數大幅低於預測（預測 18–24，實際 13 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Norway win)
+- ✅ Exact scoreline predicted (1-2)
+- ✅ Haaland scored as predicted, netting the 86th-minute winner
+- ✅ Ivory Coast scored from a counter-attack as predicted (Amad Diallo, 74')
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Corner count far above prediction (predicted 9–12, actual 17)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 1)
+- ⚠️ Foul count far below prediction (predicted 18–24, actual 13)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测挪威胜，实际挪威胜）
+- ✅ 比分精准命中（预测 1-2，实际 1-2）
+- ✅ Haaland 如预期攻入致胜球（第86分钟绝杀）
+- ✅ 象牙海岸如预期从反击中破门（Amad Diallo 第74分钟扳平）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 角球数大幅高于预测（预测 9–12，实际 17 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 1 张）
+- ⚠️ 犯规数大幅低于预测（预测 18–24，实际 13 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Na Uy thắng)
+- ✅ Dự đoán chính xác tỷ số (1-2)
+- ✅ Haaland ghi bàn như dự đoán, ấn định chiến thắng phút 86
+- ✅ Bờ Biển Ngà ghi bàn từ phản công như dự đoán (Amad Diallo, phút 74)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Số phạt góc cao hơn nhiều so với dự đoán (dự đoán 9–12, thực tế 17 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 1 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều so với dự đoán (dự đoán 18–24, thực tế 13 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (นอร์เวย์ชนะ)
+- ✅ ทำนายสกอร์ถูกต้องเป๊ะ (1-2)
+- ✅ ฮาแลนด์ทำประตูตามที่ทำนาย ยิงประตูชัยนาทีที่ 86
+- ✅ ไอวอรีโคสต์ทำประตูจากการโต้กลับตามที่ทำนาย (อามาด ดิยัลโล นาทีที่ 74)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนายมาก (ทำนาย 9–12, จริง 17 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 1 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 18–24, จริง 13 ครั้ง)

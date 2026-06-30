@@ -7327,6 +7327,7 @@
     "date": "2026-07-01",
     "time": "01:00",
     "stage": "round-32",
+    "predictionCorrect": true,
     "homeCode": "CIV",
     "awayCode": "NOR",
     "files": [
@@ -7340,8 +7341,93 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "liveStats": {
+      "possession": [
+        48,
+        44
+      ],
+      "possession_contested": 8,
+      "goals": [
+        1,
+        2
+      ],
+      "assists": [
+        1,
+        2
+      ],
+      "attempts_total": [
+        14,
+        9
+      ],
+      "attempts_on": [
+        5,
+        4
+      ],
+      "attempts_off": [
+        6,
+        3
+      ],
+      "attempts_inside": [
+        9,
+        8
+      ],
+      "attempts_outside": [
+        4,
+        1
+      ],
+      "passes": [
+        401,
+        484
+      ],
+      "passes_completed": [
+        340,
+        418
+      ],
+      "crosses": [
+        30,
+        16
+      ],
+      "crosses_completed": [
+        9,
+        8
+      ],
+      "corners": [
+        14,
+        3
+      ],
+      "free_kicks": [
+        9,
+        8
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        18,
+        22
+      ],
+      "yellow_cards": [
+        0,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        7,
+        6
+      ],
+      "offsides": [
+        2,
+        2
+      ]
+    },
     "v": 1
   },
   {

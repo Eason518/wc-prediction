@@ -7225,9 +7225,9 @@
       "sonnet/round-32/m-ned-mar-sonnet.md",
       "deepseek/round-32/m-ned-mar-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,

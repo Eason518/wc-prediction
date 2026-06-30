@@ -34,7 +34,8 @@ export function renderNav() {
     const isFt = m.status === 'ft';
     const startMs = new Date(`${m.dateKey || ''}T${m.time || '00:00'}:00+08:00`).getTime() || 0;
     const nowMs = Date.now();
-    const isLive = m.status === 'live' || (!isFt && nowMs >= startMs - 10 * 60 * 1000 && nowMs < startMs + 120 * 60 * 1000);
+    const liveWindowMs = (120 + (m.extraTime ? 40 : 0)) * 60 * 1000;
+    const isLive = m.status === 'live' || (!isFt && nowMs >= startMs - 10 * 60 * 1000 && nowMs < startMs + liveWindowMs);
     const dotColor = isLive ? '#22c55e' : isFt ? '#64748B' : 'transparent';
     const lt = localMatchTime(m.dateKey, m.time);
     const isPlaceholder = m.placeholder || m.homeCode === 'TBD';

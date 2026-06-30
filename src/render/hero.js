@@ -29,7 +29,8 @@ export function renderHero() {
   const matchStartMs = new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
   const nowMs = Date.now();
   const diffMs = matchStartMs - nowMs;
-  const isLive = m.status === 'live' || (!isFt && nowMs >= matchStartMs && nowMs < matchStartMs + 120 * 60 * 1000);
+  const liveWindowMs = (120 + (m.extraTime ? 40 : 0)) * 60 * 1000;
+  const isLive = m.status === 'live' || (!isFt && nowMs >= matchStartMs && nowMs < matchStartMs + liveWindowMs);
   const isUpcoming = !isFt && !isLive && diffMs > 0;
 
   let countdownLabel = '';

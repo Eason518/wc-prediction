@@ -191,9 +191,9 @@ export async function loadData() {
   // Determine the default match
   const now = new Date();
   const nowMs = now.getTime();
-  const MATCH_WINDOW_MS = 120 * 60 * 1000;
   const startMs = m => new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
-  const ongoingMatch = schedule.find(m => nowMs >= startMs(m) && nowMs < startMs(m) + MATCH_WINDOW_MS);
+  const matchWindowMs = m => (120 + (m.extraTime ? 40 : 0)) * 60 * 1000;
+  const ongoingMatch = schedule.find(m => nowMs >= startMs(m) && nowMs < startMs(m) + matchWindowMs(m));
 
   let defaultMatch;
   if (ongoingMatch) {
@@ -201,9 +201,9 @@ export async function loadData() {
   } else {
     const todayKey = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
     // Find today's matches that haven't finished yet (either not started or within match window)
-    const todayMatch = schedule.find(m => 
-      matchLocalDateKey(m) === todayKey && 
-      (startMs(m) > nowMs || nowMs < startMs(m) + MATCH_WINDOW_MS)
+    const todayMatch = schedule.find(m =>
+      matchLocalDateKey(m) === todayKey &&
+      (startMs(m) > nowMs || nowMs < startMs(m) + matchWindowMs(m))
     );
     const nextMatch = schedule.find(m => startMs(m) > nowMs);
     defaultMatch = todayMatch || nextMatch || schedule[0];

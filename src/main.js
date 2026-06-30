@@ -288,10 +288,9 @@ function bindCtaEvents() {
 function hasActiveMatch() {
   const nowMs = Date.now();
   const BEFORE = 15 * 60 * 1000;
-  const AFTER = 130 * 60 * 1000;
   return getSchedule().some(m => {
     const startMs = new Date(`${m.dateKey}T${m.time}:00+08:00`).getTime();
-    return nowMs >= startMs - BEFORE && nowMs < startMs + AFTER;
+    return nowMs >= startMs - BEFORE && nowMs < startMs + (130 + (m.extraTime ? 40 : 0)) * 60 * 1000;
   });
 }
 

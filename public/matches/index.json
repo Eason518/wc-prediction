@@ -7333,8 +7333,8 @@
       "sonnet/round-32/m-civ-nor-sonnet.md",
       "deepseek/round-32/m-civ-nor-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,

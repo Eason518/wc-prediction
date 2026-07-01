@@ -7781,16 +7781,102 @@
       "sonnet/round-32/m-bel-sen-sonnet.md",
       "deepseek/round-32/m-bel-sen-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 3,
+    "actualScoreAway": 2,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
-    "regScoreHome": null,
-    "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "regScoreHome": 2,
+    "regScoreAway": 2,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        51,
+        41
+      ],
+      "possession_contested": 8,
+      "goals": [
+        3,
+        2
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        19,
+        16
+      ],
+      "attempts_on": [
+        5,
+        5
+      ],
+      "attempts_off": [
+        8,
+        10
+      ],
+      "attempts_inside": [
+        11,
+        10
+      ],
+      "attempts_outside": [
+        8,
+        6
+      ],
+      "passes": [
+        695,
+        640
+      ],
+      "passes_completed": [
+        608,
+        547
+      ],
+      "crosses": [
+        30,
+        27
+      ],
+      "crosses_completed": [
+        9,
+        7
+      ],
+      "corners": [
+        4,
+        2
+      ],
+      "free_kicks": [
+        13,
+        23
+      ],
+      "penalties_scored": [
+        1,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        29,
+        28
+      ],
+      "yellow_cards": [
+        2,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        21
+      ],
+      "offsides": [
+        2,
+        2
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-usa-bih",

@@ -561,3 +561,53 @@ Dự đoán: Bỉ thắng 2-1. De Bruyne tạo ra bàn thắng quyết định, 
 | 🤕 Thể lực Lukaku | Số 9 của Bỉ chỉ thi đấu khoảng một giờ trong cả mùa tại Napoli vì chấn thương — phong độ thi đấu của anh là ẩn số lớn nhất. |
 | ⚡ Doku vs Diatta | Cuộc đấu cánh phải này có thể là trận song đấu trực tiếp hấp dẫn nhất trong ngày — hai cầu thủ nhanh như chớp đang ở đỉnh phong độ. |
 | 📏 Trọng tài chưa xác nhận | Gueye có trung bình số lần phạm lỗi thuộc hàng cao nhất tại các giải đấu lớn — trọng tài phải kiểm soát điều này cẩn thận ngay từ tiếng còi khai cuộc. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測比利時勝，實際比利時晉級）
+- ✅ 賽事如預測般成為本輪最勢均力敵的一戰，塞內加爾造成真正的冷門威脅
+- ✅ 比賽一路拉鋸至加時賽，呼應「最後20分鐘比利時將倍感壓力」的判斷
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 角球數大幅低於預測（預測 9–12，實際 6 個）
+- ⚠️ 黃牌數低於預測（預測 4–6，實際 3 張）
+- ⚠️ 犯規數大幅高於預測（預測 24–28，實際 33 次）
+- ⚠️ 比分低估，且賽事出人意料地打入加時才分出勝負（預測 2-1，實際 3-2 加時獲勝）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Belgium win)
+- ✅ Match played out as the tightest contest of the round, with Senegal posing a genuine upset threat as forecast
+- ✅ Game stayed tense into extra time, matching the "uncomfortable final stretch for Belgium" call
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Corner count far below prediction (predicted 9–12, actual 6)
+- ⚠️ Yellow cards below prediction (predicted 4–6, actual 3)
+- ⚠️ Foul count far above prediction (predicted 24–28, actual 33)
+- ⚠️ Scoreline underestimated — the match unexpectedly needed extra time to settle (predicted 2-1, actual 3-2 a.e.t.)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测比利时胜，实际比利时晋级）
+- ✅ 赛事如预测般成为本轮最势均力敌的一战，塞内加尔造成真正的冷门威胁
+- ✅ 比赛一路拉锯至加时赛，呼应“最后20分钟比利时将倍感压力”的判断
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 角球数大幅低于预测（预测 9–12，实际 6 个）
+- ⚠️ 黄牌数低于预测（预测 4–6，实际 3 张）
+- ⚠️ 犯规数大幅高于预测（预测 24–28，实际 33 次）
+- ⚠️ 比分低估，且赛事出人意料地打入加时才分出胜负（预测 2-1，实际 3-2 加时获胜）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Bỉ thắng)
+- ✅ Trận đấu diễn ra căng thẳng nhất trong vòng này, Senegal thực sự tạo ra mối đe dọa bất ngờ như dự báo
+- ✅ Trận đấu kéo dài căng thẳng đến hiệp phụ, đúng như nhận định "20 phút cuối sẽ khó chịu cho Bỉ"
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Số phạt góc thấp hơn nhiều so với dự đoán (dự đoán 9–12, thực tế 6 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–6, thực tế 3 thẻ)
+- ⚠️ Số lần phạm lỗi cao hơn nhiều so với dự đoán (dự đoán 24–28, thực tế 33 lần)
+- ⚠️ Tỷ số bị đánh giá thấp — trận đấu bất ngờ phải cần đến hiệp phụ để phân định thắng bại (dự đoán 2-1, thực tế 3-2 sau hiệp phụ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (เบลเยียมชนะ)
+- ✅ เกมดำเนินไปอย่างสูสีที่สุดในรอบนี้ เซเนกัลสร้างภัยคุกคามที่แท้จริงตามที่คาดการณ์
+- ✅ เกมตึงเครียดจนต้องต่อเวลาพิเศษ ตรงกับคำทำนาย "20 นาทีสุดท้ายเบลเยียมจะอึดอัด"
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 9–12, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–6, จริง 3 ใบ)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 24–28, จริง 33 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป — เกมต้องต่อเวลาพิเศษอย่างไม่คาดคิดเพื่อตัดสินผล (ทำนาย 2-1, จริง 3-2 หลังต่อเวลาพิเศษ)

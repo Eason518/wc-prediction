@@ -7441,16 +7441,110 @@
       "sonnet/round-32/m-fra-swe-sonnet.md",
       "deepseek/round-32/m-fra-swe-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 3,
+    "actualScoreAway": 0,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        53,
+        38
+      ],
+      "possession_contested": 9,
+      "goals": [
+        3,
+        0
+      ],
+      "assists": [
+        3,
+        0
+      ],
+      "attempts_total": [
+        25,
+        8
+      ],
+      "attempts_on": [
+        12,
+        3
+      ],
+      "attempts_off": [
+        10,
+        4
+      ],
+      "attempts_inside": [
+        15,
+        6
+      ],
+      "attempts_outside": [
+        10,
+        2
+      ],
+      "passes": [
+        548,
+        365
+      ],
+      "passes_completed": [
+        498,
+        296
+      ],
+      "crosses": [
+        22,
+        11
+      ],
+      "crosses_completed": [
+        5,
+        2
+      ],
+      "corners": [
+        9,
+        1
+      ],
+      "free_kicks": [
+        11,
+        17
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        35,
+        34
+      ],
+      "pressing": [
+        213,
+        258
+      ],
+      "yellow_cards": [
+        0,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        10,
+        14
+      ],
+      "offsides": [
+        3,
+        1
+      ],
+      "line_breaks_completed": [
+        146,
+        77
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-mex-ecu",
@@ -7463,16 +7557,110 @@
       "sonnet/round-32/m-mex-ecu-sonnet.md",
       "deepseek/round-32/m-mex-ecu-deepseek.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        37,
+        52
+      ],
+      "possession_contested": 11,
+      "goals": [
+        2,
+        0
+      ],
+      "assists": [
+        2,
+        0
+      ],
+      "attempts_total": [
+        15,
+        7
+      ],
+      "attempts_on": [
+        3,
+        1
+      ],
+      "attempts_off": [
+        10,
+        4
+      ],
+      "attempts_inside": [
+        9,
+        5
+      ],
+      "attempts_outside": [
+        6,
+        2
+      ],
+      "passes": [
+        317,
+        420
+      ],
+      "passes_completed": [
+        259,
+        353
+      ],
+      "crosses": [
+        10,
+        27
+      ],
+      "crosses_completed": [
+        5,
+        3
+      ],
+      "corners": [
+        3,
+        8
+      ],
+      "free_kicks": [
+        15,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        33,
+        35
+      ],
+      "pressing": [
+        215,
+        191
+      ],
+      "yellow_cards": [
+        0,
+        3
+      ],
+      "red_cards": [
+        0,
+        1
+      ],
+      "fouls": [
+        14,
+        10
+      ],
+      "offsides": [
+        0,
+        1
+      ],
+      "line_breaks_completed": [
+        96,
+        83
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-eng-cod",

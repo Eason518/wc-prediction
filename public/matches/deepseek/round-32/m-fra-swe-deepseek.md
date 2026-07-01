@@ -546,3 +546,53 @@ Dự đoán: Pháp 2-1 Thụy Điển. Mbappé ghi bàn, với Isak ghi bàn dan
 | ใบเหลืองรวม | 4 | #EAB308 |
 | ใบเหลือง-แดง | 0 | orange |
 | ใบแดง | 0 | #EF4444 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測法國勝，實際法國勝）
+- ✅ 法國如預期般主宰比賽，控球與射門均大幅領先
+- ✅ 法國成功零封瑞典
+- ✅ 角球數命中（預測 9–12，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數落在預測區間（預測 18–24，實際 24 次）
+- ⚠️ 比分低估（預測 2-1，實際 3-0）
+- ⚠️ 黃牌數大幅低於預測（預測 3–5，實際 0 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (France win)
+- ✅ France dominated possession and shots as expected
+- ✅ France kept a clean sheet
+- ✅ Corner count on target (predicted 9–12, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count within prediction (predicted 18–24, actual 24)
+- ⚠️ Scoreline underestimated (predicted 2-1, actual 3-0)
+- ⚠️ Yellow cards far below prediction (predicted 3–5, actual 0)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测法国胜，实际法国胜）
+- ✅ 法国如预期般主宰比赛，控球与射门均大幅领先
+- ✅ 法国成功零封瑞典
+- ✅ 角球数命中（预测 9–12，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数落在预测区间（预测 18–24，实际 24 次）
+- ⚠️ 比分低估（预测 2-1，实际 3-0）
+- ⚠️ 黄牌数大幅低于预测（预测 3–5，实际 0 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Pháp thắng)
+- ✅ Pháp áp đảo về kiểm soát bóng và số cú sút như dự đoán
+- ✅ Pháp giữ sạch lưới
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 18–24, thực tế 24 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-1, thực tế 3-0)
+- ⚠️ Thẻ vàng thấp hơn nhiều so với dự đoán (dự đoán 3–5, thực tế 0 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
+- ✅ ฝรั่งเศสครองเกมทั้งการครองบอลและการยิงประตูตามคาด
+- ✅ ฝรั่งเศสรักษาคลีนชีตได้
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์อยู่ในช่วงที่ทำนาย (ทำนาย 18–24, จริง 24 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-1, จริง 3-0)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 3–5, จริง 0 ใบ)

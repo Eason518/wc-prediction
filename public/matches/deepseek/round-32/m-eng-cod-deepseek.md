@@ -516,3 +516,53 @@ Anh là ứng cử viên vượt trội, và chất lượng của họ sẽ chi
 | ใบเหลืองรวม | — | #EAB308 |
 | ใบเหลือง-แดง | — | orange |
 | ใบแดง | — | #EF4444 |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測英格蘭勝，實際英格蘭勝）
+- ✅ 主隊比分預測精準（英格蘭進 2 球，與預測相符）
+- ✅ 紅牌預測正確（預測 0 張，實際 0 張）
+- ✅ 犯規數落在預測區間（預測 18–22，實際 21 次）
+- ⚠️ 比分略為低估（預測 2-0，實際 2-1）
+- ⚠️ 剛果（金）意外破門，封關預期落空
+- ⚠️ 角球數低於預測（預測 9–12，實際 8 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (England win)
+- ✅ Home score prediction exact (England scored 2 as predicted)
+- ✅ Red card prediction correct (predicted 0, actual 0)
+- ✅ Foul count in range (predicted 18–22, actual 21)
+- ⚠️ Scoreline slightly underestimated (predicted 2-0, actual 2-1)
+- ⚠️ Congo DR scored — clean sheet prediction missed
+- ⚠️ Corner count below prediction (predicted 9–12, actual 8)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测英格兰胜，实际英格兰胜）
+- ✅ 主队比分预测精准（英格兰进 2 球，与预测相符）
+- ✅ 红牌预测正确（预测 0 张，实际 0 张）
+- ✅ 犯规数落在预测区间（预测 18–22，实际 21 次）
+- ⚠️ 比分略为低估（预测 2-0，实际 2-1）
+- ⚠️ 刚果（金）意外破门，封关预期落空
+- ⚠️ 角球数低于预测（预测 9–12，实际 8 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Anh thắng)
+- ✅ Dự đoán bàn thắng đội chủ nhà chính xác (Anh ghi 2 bàn đúng như dự đoán)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 18–22, thực tế 21 lần)
+- ⚠️ Tỷ số bị đánh giá thấp một chút (dự đoán 2-0, thực tế 2-1)
+- ⚠️ CHDC Congo ghi bàn — dự đoán giữ sạch lưới không thành hiện thực
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 9–12, thực tế 8 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อังกฤษชนะ)
+- ✅ ทำนายประตูทีมเหย้าแม่นยำ (อังกฤษยิง 2 ประตูตามที่ทำนาย)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์อยู่ในช่วงที่ทำนาย (ทำนาย 18–22, จริง 21 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำไปเล็กน้อย (ทำนาย 2-0, จริง 2-1)
+- ⚠️ คองโก (กิน) ยิงประตูได้ — การทำนายคลีนชีตพลาด
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 9–12, จริง 8 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)

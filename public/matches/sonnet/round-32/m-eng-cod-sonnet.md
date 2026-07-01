@@ -561,3 +561,53 @@ Dự đoán: Anh thắng 3-0. Kane mở tỷ số, Bellingham và Saka ghi thêm
 | 🛡️ Rice như bức tường | Declan Rice là neo phòng thủ của Anh; vô hiệu hóa khả năng giữ bóng của Bakambu và cắt đứt đường phục vụ cho Wissa là nhiệm vụ chính của anh. |
 | 🌍 Khoảnh khắc lịch sử | CHDC Congo chưa chơi trận World Cup nào kể từ năm 1974 — đây là dịp trọng đại cho bóng đá Congo bất kể kết quả ra sao. |
 | 📏 Trọng tài TBC | Trọng tài trận đấu vẫn chưa được xác nhận; xu hướng phạm lỗi của CHDC Congo có nghĩa là thẻ vàng có khả năng cao xảy ra với đội Báo Đốm. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測英格蘭勝，實際英格蘭勝）
+- ✅ 哈里·凱恩如預期般成為進攻箭頭，梅開二度鎖定勝局
+- ✅ 角球數命中（預測 8–11，實際 8 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數落在預測區間（預測 20–24，實際 21 次）
+- ⚠️ 比分高估（預測 3-0，實際 2-1）
+- ⚠️ 剛果（金）意外破門，封關預期落空
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (England win)
+- ✅ Harry Kane delivered as the focal point, scoring twice to seal the win
+- ✅ Corner count on target (predicted 8–11, actual 8)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count in range (predicted 20–24, actual 21)
+- ⚠️ Scoreline overestimated (predicted 3-0, actual 2-1)
+- ⚠️ Congo DR scored — clean sheet prediction missed
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测英格兰胜，实际英格兰胜）
+- ✅ 哈里·凯恩如预期般成为进攻箭头，梅开二度锁定胜局
+- ✅ 角球数命中（预测 8–11，实际 8 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数落在预测区间（预测 20–24，实际 21 次）
+- ⚠️ 比分高估（预测 3-0，实际 2-1）
+- ⚠️ 刚果（金）意外破门，封关预期落空
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Anh thắng)
+- ✅ Harry Kane tỏa sáng đúng như dự đoán, ghi cú đúp ấn định chiến thắng
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 8–11, thực tế 8 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–24, thực tế 21 lần)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 3-0, thực tế 2-1)
+- ⚠️ CHDC Congo ghi bàn — dự đoán giữ sạch lưới không thành hiện thực
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อังกฤษชนะ)
+- ✅ แฮร์รี่ เคน โชว์ฟอร์มเป็นตัวรุกหลักตามคาด ยิงสองประตูปิดเกม
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 8–11, จริง 8 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์อยู่ในช่วงที่ทำนาย (ทำนาย 20–24, จริง 21 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 3-0, จริง 2-1)
+- ⚠️ คองโก (กิน) ยิงประตูได้ — การทำนายคลีนชีตพลาด
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)

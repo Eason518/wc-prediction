@@ -7673,16 +7673,102 @@
       "sonnet/round-32/m-eng-cod-sonnet.md",
       "deepseek/round-32/m-eng-cod-deepseek.md"
     ],
-    "actualScoreHome": null,
+    "actualScoreHome": 2,
     "actualScoreAway": 1,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        48,
+        41
+      ],
+      "possession_contested": 11,
+      "goals": [
+        2,
+        1
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        16,
+        6
+      ],
+      "attempts_on": [
+        7,
+        2
+      ],
+      "attempts_off": [
+        5,
+        3
+      ],
+      "attempts_inside": [
+        12,
+        2
+      ],
+      "attempts_outside": [
+        4,
+        4
+      ],
+      "passes": [
+        521,
+        391
+      ],
+      "passes_completed": [
+        471,
+        310
+      ],
+      "crosses": [
+        43,
+        16
+      ],
+      "crosses_completed": [
+        9,
+        1
+      ],
+      "corners": [
+        5,
+        3
+      ],
+      "free_kicks": [
+        16,
+        9
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        25,
+        27
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        9
+      ],
+      "offsides": [
+        0,
+        3
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-bel-sen",

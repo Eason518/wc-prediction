@@ -7674,7 +7674,7 @@
       "deepseek/round-32/m-eng-cod-deepseek.md"
     ],
     "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreAway": 1,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,

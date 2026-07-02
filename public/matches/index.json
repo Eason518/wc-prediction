@@ -8004,16 +8004,102 @@
     "files": [
       "sonnet/round-32/m-esp-aut-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 3,
+    "actualScoreAway": 0,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        56,
+        35
+      ],
+      "possession_contested": 9,
+      "goals": [
+        3,
+        0
+      ],
+      "assists": [
+        3,
+        0
+      ],
+      "attempts_total": [
+        23,
+        5
+      ],
+      "attempts_on": [
+        10,
+        0
+      ],
+      "attempts_off": [
+        7,
+        4
+      ],
+      "attempts_inside": [
+        15,
+        4
+      ],
+      "attempts_outside": [
+        8,
+        1
+      ],
+      "passes": [
+        639,
+        354
+      ],
+      "passes_completed": [
+        583,
+        289
+      ],
+      "crosses": [
+        23,
+        11
+      ],
+      "crosses_completed": [
+        6,
+        3
+      ],
+      "corners": [
+        9,
+        0
+      ],
+      "free_kicks": [
+        20,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        24,
+        24
+      ],
+      "yellow_cards": [
+        0,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        15,
+        8
+      ],
+      "offsides": [
+        2,
+        5
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-por-cro",

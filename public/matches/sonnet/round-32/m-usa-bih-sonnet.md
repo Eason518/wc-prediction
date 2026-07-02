@@ -454,6 +454,56 @@ Prediction: 2-0 USA win. Pulisic creates the first, Balogun scores the second. B
 | 🧲 อันตรายจากเซตพีซ | กองหลังที่แข็งแกร่งของบอสเนีย (โคลาชินัค, มูฮาเรโมวิช) และภัยโหม่งของดเชโก หมายความว่าสหรัฐฯ ไม่สามารถหยุดระวังตัวที่คอร์เนอร์ |
 | 📏 ผู้ตัดสินรอการยืนยัน | ยังไม่ได้รับการยืนยันอย่างเป็นทางการ; การฟาล์วยุทธวิธีและการต่อสู้เซตพีซทางกายภาพของบอสเนียจะทดสอบเกณฑ์ใบของผู้ตัดสินในช่วงต้น |
 
+## result_hits:zh
+- ✅ 勝負方向命中（預測美國勝，實際美國勝）
+- ✅ 巴洛貢如預期進球
+- ✅ 美國如預期守住零封
+- ⚠️ 普利希奇未能進球——提爾曼取代他打進另一球
+- ⚠️ 角球數低於預測（預測 8–11，實際 7 個）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 1 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 1 張）
+- ✅ 犯規數命中（預測 20–24，實際 20 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (USA win)
+- ✅ Balogun scored as predicted
+- ✅ USA kept a clean sheet as predicted
+- ⚠️ Pulisic did not get on the scoresheet — Tillman scored the other goal instead
+- ⚠️ Corners below prediction (predicted 8–11, actual 7)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 1)
+- ✅ Red card prediction correct (predicted 0–1, actual 1)
+- ✅ Foul count on target (predicted 20–24, actual 20)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测美国胜，实际美国胜）
+- ✅ 巴洛贡如预期进球
+- ✅ 美国如预期守住零封
+- ⚠️ 普利希奇未能进球——蒂尔曼取代他打进另一球
+- ⚠️ 角球数低于预测（预测 8–11，实际 7 个）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 1 张）
+- ✅ 红牌预测正确（预测 0–1，实际 1 张）
+- ✅ 犯规数命中（预测 20–24，实际 20 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Hoa Kỳ thắng)
+- ✅ Balogun ghi bàn đúng như dự đoán
+- ✅ Hoa Kỳ giữ sạch lưới như dự đoán
+- ⚠️ Pulisic không ghi bàn — Tillman đã ghi bàn còn lại thay anh
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 8–11, thực tế 7 quả)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 1 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 1 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–24, thực tế 20 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สหรัฐอเมริกาชนะ)
+- ✅ บาโลกุนทำประตูตามที่ทำนายไว้
+- ✅ สหรัฐอเมริการักษาคลีนชีตได้ตามที่ทำนาย
+- ⚠️ ปูลิซิชไม่ได้ทำประตู — ทิลล์แมนทำประตูที่เหลือแทน
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 8–11, จริง 7 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 1 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 1 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–24, จริง 20 ครั้ง)
+
 ## home_note:vi
 Hoa Kỳ dẫn đầu Bảng D với bảy điểm — đánh bại Paraguay 4-1, thắng Australia 2-0, và thua Thổ Nhĩ Kỳ 3-2 với đội hình dự bị — và bước vào Levi's Stadium tại Santa Clara với tư cách là ứng cử viên sáng giá để vào vòng 16 đội. Hệ thống 4-3-3 được tập luyện bài bản của Mauricio Pochettino đã gây bất ngờ lớn: Christian Pulisic (AC Milan, 33 bàn thắng quốc tế) đã trở lại sau chấn thương bắp chân và vào sân 30 phút trong trận gặp Thổ Nhĩ Kỳ, suýt ghi bàn khi đánh trúng cột dọc. Folarin Balogun (Monaco) dẫn đầu danh sách ghi bàn với hai bàn ở vòng bảng và có chỉ số xG tổng hợp cao nhất trong đội. Weston McKennie (Juventus) có chỉ số xA 1.54 cao nhất giải đấu từ vị trí tiền vệ. Sự cổ vũ nhiệt tình của khán giả ở miền Bắc California mang lại thêm lợi thế sân nhà cho đội chủ nhà đồng đăng cai. Trận đấu khởi tranh lúc 08:00 GMT+8 ngày 2 tháng 7.
 

@@ -8207,13 +8207,15 @@
     "v": 1
   },
   {
-    "id": "r16-m01",
+    "id": "m-can-mar",
     "date": "2026-07-05",
     "time": "01:00",
     "stage": "round-16",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "CAN",
+    "awayCode": "MAR",
+    "files": [
+      "fable/round-16/m-can-mar-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -8221,16 +8223,20 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r16-m02",
+    "id": "m-par-fra",
     "date": "2026-07-05",
     "time": "05:00",
     "stage": "round-16",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "PAR",
+    "awayCode": "FRA",
+    "files": [
+      "fable/round-16/m-par-fra-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -8238,6 +8244,8 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

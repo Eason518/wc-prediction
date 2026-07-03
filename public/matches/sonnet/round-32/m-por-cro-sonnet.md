@@ -561,3 +561,48 @@ Dự đoán: Bồ Đào Nha thắng 2-1. Chất lượng đội hình rộng hơ
 | ⚡ Mối Nguy Của Leão | Tốc độ và sự trực tiếp của tiền vệ cánh Milan là cơn đau đầu phòng thủ lớn nhất của Croatia ở cột sau. |
 | 🛡️ Sự Trở Lại Của Gvardiol | Trung vệ Man City hồi phục từ chấn thương và là trụ cột phòng thủ của Croatia — sự có mặt của anh là yếu tố then chốt. |
 | 📏 Trọng Tài Chờ Xác Nhận | Chưa xác nhận; lối chơi thể lực của cả hai đội có thể sẽ kích hoạt thẻ phạt sớm trong trận đấu nhiều áp lực này. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測葡萄牙勝，實際葡萄牙勝）
+- ✅ 比分完全命中（預測2-1，實際2-1）
+- ✅ 替補前鋒岡薩洛·拉莫斯補時建功，如預期成為板凳奇兵
+- ✅ 黃牌預測命中（預測3–5張，實際3張）
+- ✅ 紅牌預測正確（預測0–1張，實際0張）
+- ⚠️ 角球數略高於預測（預測8–12個，實際14個）
+- ⚠️ 犯規數大幅低於預測（預測24–28次，實際18次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Portugal win)
+- ✅ Exact scoreline hit (predicted 2-1, actual 2-1)
+- ✅ Substitute striker Gonçalo Ramos delivered a late goal as anticipated
+- ✅ Yellow cards prediction on target (predicted 3–5, actual 3)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Corner count slightly above prediction (predicted 8–12, actual 14)
+- ⚠️ Foul count far below prediction (predicted 24–28, actual 18)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测葡萄牙胜，实际葡萄牙胜）
+- ✅ 比分完全命中（预测2-1，实际2-1）
+- ✅ 替补前锋冈萨洛·拉莫斯补时建功，如预期成为板凳奇兵
+- ✅ 黄牌预测命中（预测3–5张，实际3张）
+- ✅ 红牌预测正确（预测0–1张，实际0张）
+- ⚠️ 角球数略高于预测（预测8–12个，实际14个）
+- ⚠️ 犯规数大幅低于预测（预测24–28次，实际18次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Bồ Đào Nha thắng)
+- ✅ Trùng khớp chính xác tỷ số (dự đoán 2-1, thực tế 2-1)
+- ✅ Tiền đạo dự bị Gonçalo Ramos ghi bàn muộn đúng như dự đoán
+- ✅ Dự đoán thẻ vàng chính xác (dự đoán 3–5, thực tế 3 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Số phạt góc cao hơn một chút so với dự đoán (dự đoán 8–12, thực tế 14 quả)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều so với dự đoán (dự đoán 24–28, thực tế 18 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โปรตุเกสชนะ)
+- ✅ ทำนายสกอร์ตรงเป๊ะ (ทำนาย 2-1, จริง 2-1)
+- ✅ กองหน้าสำรอง กอนซาโล ราโมส ยิงประตูช่วงท้ายเกมตามที่คาดการณ์
+- ✅ ทำนายใบเหลืองถูกต้อง (ทำนาย 3–5 ใบ, จริง 3 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1 ใบ, จริง 0 ใบ)
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนายเล็กน้อย (ทำนาย 8–12 ลูก, จริง 14 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 24–28 ครั้ง, จริง 18 ครั้ง)

@@ -73,6 +73,8 @@ Parse the predicted range (e.g. `"8–11"` → min=8, max=11). Mark ✅ if actua
 ### 6. Write result_hits to MD files (only if predictionCorrect: true)
 Append `result_hits` sections in 5 languages to each MD file listed in `files[]`.
 See `references/result_hits_format.md` for exact format, language templates, and stats bullet examples.
+Team names in every language must use the official translations from `public/teams.json`
+(fields `zh`, `zh-cn`, `en`, `vi`, `th`) — do not invent alternate translations.
 
 **Per-model note**: each model file may have different predicted scores and different `event_preds` ranges — compare each model file against its own predictions independently.
 

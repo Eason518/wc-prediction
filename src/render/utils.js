@@ -33,7 +33,8 @@ export function posType(p) {
 }
 
 export function teamName(team) {
-  return getLang() === 'zh' ? team.zh : team.en;
+  const lang = getLang();
+  return team[lang] ?? (lang === 'zh-cn' ? team.zh : team.en) ?? team.en;
 }
 
 export function renderPlaceholder(m) {

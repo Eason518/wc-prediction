@@ -2,7 +2,10 @@
   "AUS": {
     "code": "AUS",
     "zh": "澳洲",
+    "zh-cn": "澳大利亚",
     "en": "AUSTRALIA",
+    "vi": "Úc",
+    "th": "ออสเตรเลีย",
     "flag": "🇦🇺",
     "color": "#FFD100",
     "barColor": "linear-gradient(90deg,#00843D,#FFD100)"
@@ -10,7 +13,10 @@
   "TUR": {
     "code": "TUR",
     "zh": "土耳其",
+    "zh-cn": "土耳其",
     "en": "TÜRKİYE",
+    "vi": "Thổ Nhĩ Kỳ",
+    "th": "ตุรกี",
     "flag": "🇹🇷",
     "color": "#E30A17",
     "barColor": "linear-gradient(90deg,#E30A17,#ff8080)"
@@ -18,7 +24,10 @@
   "ESP": {
     "code": "ESP",
     "zh": "西班牙",
+    "zh-cn": "西班牙",
     "en": "SPAIN",
+    "vi": "Tây Ban Nha",
+    "th": "สเปน",
     "flag": "🇪🇸",
     "color": "#E03A3E",
     "barColor": "linear-gradient(90deg,#E03A3E,#F59E0B)"
@@ -26,7 +35,10 @@
   "MAR": {
     "code": "MAR",
     "zh": "摩洛哥",
+    "zh-cn": "摩洛哥",
     "en": "MOROCCO",
+    "vi": "Maroc",
+    "th": "โมร็อกโก",
     "flag": "🇲🇦",
     "color": "#C1272D",
     "barColor": "linear-gradient(90deg,#C1272D,#F59E0B)"
@@ -34,7 +46,10 @@
   "BRA": {
     "code": "BRA",
     "zh": "巴西",
+    "zh-cn": "巴西",
     "en": "BRAZIL",
+    "vi": "Brazil",
+    "th": "บราซิล",
     "flag": "🇧🇷",
     "color": "#1FA148",
     "barColor": "linear-gradient(90deg,#1FA148,#F59E0B)"
@@ -42,7 +57,10 @@
   "FRA": {
     "code": "FRA",
     "zh": "法國",
+    "zh-cn": "法国",
     "en": "FRANCE",
+    "vi": "Pháp",
+    "th": "ฝรั่งเศส",
     "flag": "🇫🇷",
     "color": "#3B6FB6",
     "barColor": "linear-gradient(90deg,#3B6FB6,#F59E0B)"
@@ -50,7 +68,10 @@
   "CAN": {
     "code": "CAN",
     "zh": "加拿大",
+    "zh-cn": "加拿大",
     "en": "CANADA",
+    "vi": "Canada",
+    "th": "แคนาดา",
     "flag": "🇨🇦",
     "color": "#FF4136",
     "barColor": "linear-gradient(90deg,#FF4136,#F59E0B)"
@@ -58,7 +79,10 @@
   "JPN": {
     "code": "JPN",
     "zh": "日本",
+    "zh-cn": "日本",
     "en": "JAPAN",
+    "vi": "Nhật Bản",
+    "th": "ญี่ปุ่น",
     "flag": "🇯🇵",
     "color": "#D64550",
     "barColor": "linear-gradient(90deg,#D64550,#F59E0B)"
@@ -66,7 +90,10 @@
   "GHA": {
     "code": "GHA",
     "zh": "迦納",
+    "zh-cn": "加纳",
     "en": "GHANA",
+    "vi": "Ghana",
+    "th": "กานา",
     "flag": "🇬🇭",
     "color": "#1FA148",
     "barColor": "linear-gradient(90deg,#1FA148,#F59E0B)"
@@ -74,7 +101,10 @@
   "ARG": {
     "code": "ARG",
     "zh": "阿根廷",
+    "zh-cn": "阿根廷",
     "en": "ARGENTINA",
+    "vi": "Argentina",
+    "th": "อาร์เจนตินา",
     "flag": "🇦🇷",
     "color": "#5BA4D8",
     "barColor": "linear-gradient(90deg,#5BA4D8,#F59E0B)"
@@ -82,7 +112,10 @@
   "KOR": {
     "code": "KOR",
     "zh": "南韓",
+    "zh-cn": "韩国",
     "en": "KOREA",
+    "vi": "Hàn Quốc",
+    "th": "เกาหลีใต้",
     "flag": "🇰🇷",
     "color": "#2B6CB0",
     "barColor": "linear-gradient(90deg,#2B6CB0,#F59E0B)"
@@ -90,7 +123,10 @@
   "USA": {
     "code": "USA",
     "zh": "美國",
+    "zh-cn": "美国",
     "en": "USA",
+    "vi": "Mỹ",
+    "th": "สหรัฐอเมริกา",
     "flag": "🇺🇸",
     "color": "#4C5FAF",
     "barColor": "linear-gradient(90deg,#4C5FAF,#F59E0B)"
@@ -98,7 +134,10 @@
   "MEX": {
     "code": "MEX",
     "zh": "墨西哥",
+    "zh-cn": "墨西哥",
     "en": "MEXICO",
+    "vi": "Mexico",
+    "th": "เม็กซิโก",
     "flag": "🇲🇽",
     "color": "#1B7A3D",
     "barColor": "linear-gradient(90deg,#1B7A3D,#F59E0B)"
@@ -106,7 +145,10 @@
   "GER": {
     "code": "GER",
     "zh": "德國",
+    "zh-cn": "德国",
     "en": "GERMANY",
+    "vi": "Đức",
+    "th": "เยอรมนี",
     "flag": "🇩🇪",
     "color": "#185FA5",
     "barColor": "linear-gradient(90deg,#185FA5,#FFFFFF)"
@@ -114,7 +156,10 @@
   "CUW": {
     "code": "CUW",
     "zh": "庫拉索",
+    "zh-cn": "库拉索",
     "en": "CURAÇAO",
+    "vi": "Curaçao",
+    "th": "กือราเซา",
     "flag": "🇨🇼",
     "color": "#0F6E56",
     "barColor": "linear-gradient(90deg,#0F6E56,#F59E0B)"
@@ -122,7 +167,10 @@
   "CIV": {
     "code": "CIV",
     "zh": "象牙海岸",
+    "zh-cn": "科特迪瓦",
     "en": "CÔTE D'IVOIRE",
+    "vi": "Bờ Biển Ngà",
+    "th": "โกตดิวัวร์",
     "flag": "🇨🇮",
     "color": "#F97316",
     "barColor": "linear-gradient(90deg,#F97316,#1A7A3D)"
@@ -130,7 +178,10 @@
   "ECU": {
     "code": "ECU",
     "zh": "厄瓜多",
+    "zh-cn": "厄瓜多尔",
     "en": "ECUADOR",
+    "vi": "Ecuador",
+    "th": "เอกวาดอร์",
     "flag": "🇪🇨",
     "color": "#FACC15",
     "barColor": "linear-gradient(90deg,#FACC15,#1B4FB6)"
@@ -138,7 +189,10 @@
   "NED": {
     "code": "NED",
     "zh": "荷蘭",
+    "zh-cn": "荷兰",
     "en": "NETHERLANDS",
+    "vi": "Hà Lan",
+    "th": "เนเธอร์แลนด์",
     "flag": "🇳🇱",
     "color": "#FF6B00",
     "barColor": "linear-gradient(90deg,#FF6B00,#FFFFFF)"
@@ -146,7 +200,10 @@
   "SWE": {
     "code": "SWE",
     "zh": "瑞典",
+    "zh-cn": "瑞典",
     "en": "SWEDEN",
+    "vi": "Thụy Điển",
+    "th": "สวีเดน",
     "flag": "🇸🇪",
     "color": "#3B82F6",
     "barColor": "linear-gradient(90deg,#3B82F6,#FACC15)"
@@ -154,7 +211,10 @@
   "TUN": {
     "code": "TUN",
     "zh": "突尼西亞",
+    "zh-cn": "突尼斯",
     "en": "TUNISIA",
+    "vi": "Tunisia",
+    "th": "ตูนิเซีย",
     "flag": "🇹🇳",
     "color": "#EF4444",
     "barColor": "linear-gradient(90deg,#EF4444,#FFFFFF)"
@@ -162,7 +222,10 @@
   "CPV": {
     "code": "CPV",
     "zh": "維德角",
+    "zh-cn": "佛得角",
     "en": "CABO VERDE",
+    "vi": "Cabo Verde",
+    "th": "กาบูเวร์ดี",
     "flag": "🇨🇻",
     "color": "#002A8F",
     "barColor": "linear-gradient(90deg,#002A8F,#D21034)"
@@ -170,7 +233,10 @@
   "QAT": {
     "code": "QAT",
     "zh": "卡達",
+    "zh-cn": "卡塔尔",
     "en": "QATAR",
+    "vi": "Qatar",
+    "th": "กาตาร์",
     "flag": "🇶🇦",
     "color": "#8B1538",
     "barColor": "linear-gradient(90deg,#8B1538,#FFFFFF)"
@@ -178,7 +244,10 @@
   "SUI": {
     "code": "SUI",
     "zh": "瑞士",
+    "zh-cn": "瑞士",
     "en": "SWITZERLAND",
+    "vi": "Thụy Sĩ",
+    "th": "สวิตเซอร์แลนด์",
     "flag": "🇨🇭",
     "color": "#EF4444",
     "barColor": "linear-gradient(90deg,#EF4444,#FFFFFF)"
@@ -186,7 +255,10 @@
   "HAI": {
     "code": "HAI",
     "zh": "海地",
+    "zh-cn": "海地",
     "en": "HAITI",
+    "vi": "Haiti",
+    "th": "เฮติ",
     "flag": "🇭🇹",
     "color": "#003F87",
     "barColor": "linear-gradient(90deg,#003F87,#D21034)"
@@ -194,7 +266,10 @@
   "SCO": {
     "code": "SCO",
     "zh": "蘇格蘭",
+    "zh-cn": "苏格兰",
     "en": "SCOTLAND",
+    "vi": "Scotland",
+    "th": "สกอตแลนด์",
     "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     "color": "#003DA5",
     "barColor": "linear-gradient(90deg,#003DA5,#FFFFFF)"
@@ -202,7 +277,10 @@
   "BIH": {
     "code": "BIH",
     "zh": "波赫",
+    "zh-cn": "波黑",
     "en": "BOSNIA & HERZEGOVINA",
+    "vi": "Bosnia & Herzegovina",
+    "th": "บอสเนียและเฮอร์เซโกวีนา",
     "flag": "🇧🇦",
     "color": "#0072CE",
     "barColor": "linear-gradient(90deg,#0072CE,#FFCD00)"
@@ -210,7 +288,10 @@
   "PAR": {
     "code": "PAR",
     "zh": "巴拉圭",
+    "zh-cn": "巴拉圭",
     "en": "PARAGUAY",
+    "vi": "Paraguay",
+    "th": "ปารากวัย",
     "flag": "🇵🇾",
     "color": "#D52B1E",
     "barColor": "linear-gradient(90deg,#D52B1E,#FFFFFF)"
@@ -218,7 +299,10 @@
   "BEL": {
     "code": "BEL",
     "zh": "比利時",
+    "zh-cn": "比利时",
     "en": "BELGIUM",
+    "vi": "Bỉ",
+    "th": "เบลเยียม",
     "flag": "🇧🇪",
     "color": "#EF4444",
     "barColor": "linear-gradient(90deg,#1F1F1F,#F59E0B)"
@@ -226,7 +310,10 @@
   "EGY": {
     "code": "EGY",
     "zh": "埃及",
+    "zh-cn": "埃及",
     "en": "EGYPT",
+    "vi": "Ai Cập",
+    "th": "อียิปต์",
     "flag": "🇪🇬",
     "color": "#C41E3A",
     "barColor": "linear-gradient(90deg,#C41E3A,#FFFFFF)"
@@ -234,7 +321,10 @@
   "IRN": {
     "code": "IRN",
     "zh": "伊朗",
+    "zh-cn": "伊朗",
     "en": "IRAN",
+    "vi": "Iran",
+    "th": "อิหร่าน",
     "flag": "🇮🇷",
     "color": "#239F40",
     "barColor": "linear-gradient(90deg,#239F40,#FFFFFF)"
@@ -242,7 +332,10 @@
   "NZL": {
     "code": "NZL",
     "zh": "紐西蘭",
+    "zh-cn": "新西兰",
     "en": "NEW ZEALAND",
+    "vi": "New Zealand",
+    "th": "นิวซีแลนด์",
     "flag": "🇳🇿",
     "color": "#00247D",
     "barColor": "linear-gradient(90deg,#00247D,#CC0000)"
@@ -250,7 +343,10 @@
   "KSA": {
     "code": "KSA",
     "zh": "沙烏地阿拉伯",
+    "zh-cn": "沙特阿拉伯",
     "en": "SAUDI ARABIA",
+    "vi": "Ả Rập Xê Út",
+    "th": "ซาอุดีอาระเบีย",
     "flag": "🇸🇦",
     "color": "#006C35",
     "barColor": "linear-gradient(90deg,#006C35,#FFFFFF)"
@@ -258,7 +354,10 @@
   "URU": {
     "code": "URU",
     "zh": "烏拉圭",
+    "zh-cn": "乌拉圭",
     "en": "URUGUAY",
+    "vi": "Uruguay",
+    "th": "อุรุกวัย",
     "flag": "🇺🇾",
     "color": "#5DADE2",
     "barColor": "linear-gradient(90deg,#5DADE2,#FFFFFF)"
@@ -266,7 +365,10 @@
   "SEN": {
     "code": "SEN",
     "zh": "塞內加爾",
+    "zh-cn": "塞内加尔",
     "en": "SENEGAL",
+    "vi": "Senegal",
+    "th": "เซเนกัล",
     "flag": "🇸🇳",
     "color": "#00853F",
     "barColor": "linear-gradient(90deg,#00853F,#FDEF42)"
@@ -274,7 +376,10 @@
   "IRQ": {
     "code": "IRQ",
     "zh": "伊拉克",
+    "zh-cn": "伊拉克",
     "en": "IRAQ",
+    "vi": "Iraq",
+    "th": "อิรัก",
     "flag": "🇮🇶",
     "color": "#CE1126",
     "barColor": "linear-gradient(90deg,#CE1126,#FFFFFF)"
@@ -282,7 +387,10 @@
   "NOR": {
     "code": "NOR",
     "zh": "挪威",
+    "zh-cn": "挪威",
     "en": "NORWAY",
+    "vi": "Na Uy",
+    "th": "นอร์เวย์",
     "flag": "🇳🇴",
     "color": "#EF2B2D",
     "barColor": "linear-gradient(90deg,#EF2B2D,#003087)"
@@ -290,7 +398,10 @@
   "ALG": {
     "code": "ALG",
     "zh": "阿爾及利亞",
+    "zh-cn": "阿尔及利亚",
     "en": "ALGERIA",
+    "vi": "Algeria",
+    "th": "แอลจีเรีย",
     "flag": "🇩🇿",
     "color": "#006233",
     "barColor": "linear-gradient(90deg,#006233,#FFFFFF)"
@@ -298,7 +409,10 @@
   "AUT": {
     "code": "AUT",
     "zh": "奧地利",
+    "zh-cn": "奥地利",
     "en": "AUSTRIA",
+    "vi": "Áo",
+    "th": "ออสเตรีย",
     "flag": "🇦🇹",
     "color": "#ED2939",
     "barColor": "linear-gradient(90deg,#ED2939,#FFFFFF)"
@@ -306,7 +420,10 @@
   "JOR": {
     "code": "JOR",
     "zh": "約旦",
+    "zh-cn": "约旦",
     "en": "JORDAN",
+    "vi": "Jordan",
+    "th": "จอร์แดน",
     "flag": "🇯🇴",
     "color": "#007A3D",
     "barColor": "linear-gradient(90deg,#007A3D,#CE1126)"
@@ -314,7 +431,10 @@
   "ENG": {
     "code": "ENG",
     "zh": "英格蘭",
+    "zh-cn": "英格兰",
     "en": "ENGLAND",
+    "vi": "Anh",
+    "th": "อังกฤษ",
     "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "color": "#C8102E",
     "barColor": "linear-gradient(90deg,#C8102E,#FFFFFF)"
@@ -322,7 +442,10 @@
   "CRO": {
     "code": "CRO",
     "zh": "克羅埃西亞",
+    "zh-cn": "克罗地亚",
     "en": "CROATIA",
+    "vi": "Croatia",
+    "th": "โครเอเชีย",
     "flag": "🇭🇷",
     "color": "#C4152D",
     "barColor": "linear-gradient(90deg,#C4152D,#FFFFFF)"
@@ -330,7 +453,10 @@
   "PAN": {
     "code": "PAN",
     "zh": "巴拿馬",
+    "zh-cn": "巴拿马",
     "en": "PANAMA",
+    "vi": "Panama",
+    "th": "ปานามา",
     "flag": "🇵🇦",
     "color": "#B00D15",
     "barColor": "linear-gradient(90deg,#B00D15,#003087)"
@@ -338,7 +464,10 @@
   "POR": {
     "code": "POR",
     "zh": "葡萄牙",
+    "zh-cn": "葡萄牙",
     "en": "PORTUGAL",
+    "vi": "Bồ Đào Nha",
+    "th": "โปรตุเกส",
     "flag": "🇵🇹",
     "color": "#006600",
     "barColor": "linear-gradient(90deg,#006600,#CC0000)"
@@ -346,7 +475,10 @@
   "COD": {
     "code": "COD",
     "zh": "剛果民主",
+    "zh-cn": "刚果（金）",
     "en": "DR CONGO",
+    "vi": "CHDC Congo",
+    "th": "ดีอาร์คองโก",
     "flag": "🇨🇩",
     "color": "#007FFF",
     "barColor": "linear-gradient(90deg,#007FFF,#F7D000)"
@@ -354,7 +486,10 @@
   "UZB": {
     "code": "UZB",
     "zh": "烏茲別克",
+    "zh-cn": "乌兹别克斯坦",
     "en": "UZBEKISTAN",
+    "vi": "Uzbekistan",
+    "th": "อุซเบกิสถาน",
     "flag": "🇺🇿",
     "color": "#1EB53A",
     "barColor": "linear-gradient(90deg,#1EB53A,#FFFFFF)"
@@ -362,7 +497,10 @@
   "COL": {
     "code": "COL",
     "zh": "哥倫比亞",
+    "zh-cn": "哥伦比亚",
     "en": "COLOMBIA",
+    "vi": "Colombia",
+    "th": "โคลอมเบีย",
     "flag": "🇨🇴",
     "color": "#FCD116",
     "barColor": "linear-gradient(90deg,#FCD116,#003087)"
@@ -370,7 +508,10 @@
   "CZE": {
     "code": "CZE",
     "zh": "捷克",
+    "zh-cn": "捷克",
     "en": "CZECHIA",
+    "vi": "CH Séc",
+    "th": "เช็กเกีย",
     "flag": "🇨🇿",
     "color": "#D7001B",
     "barColor": "linear-gradient(90deg,#D7001B,#003DA5)"
@@ -378,7 +519,10 @@
   "RSA": {
     "code": "RSA",
     "zh": "南非",
+    "zh-cn": "南非",
     "en": "SOUTH AFRICA",
+    "vi": "Nam Phi",
+    "th": "แอฟริกาใต้",
     "flag": "🇿🇦",
     "color": "#007A4D",
     "barColor": "linear-gradient(90deg,#007A4D,#FFB612)"
@@ -386,7 +530,10 @@
   "TBD": {
     "code": "TBD",
     "zh": "待定",
+    "zh-cn": "待定",
     "en": "TBD",
+    "vi": "Chưa xác định",
+    "th": "รอยืนยัน",
     "flag": "🏴",
     "color": "#64748B",
     "barColor": "linear-gradient(90deg,#475569,#64748B)"

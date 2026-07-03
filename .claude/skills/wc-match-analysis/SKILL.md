@@ -170,6 +170,10 @@ If the directory does not exist, create it.
 
 Write the file in **five passes**. After each pass, save/append to the file before starting the next.
 
+**Team name consistency**: whenever a team name appears in any language section, use the
+official translation from `public/teams.json` (fields `zh`, `zh-cn`, `en`, `vi`, `th`).
+Do not invent alternate translations (e.g. use 南韓/韩国 per teams.json, not 韓國/南朝鲜).
+
 **Pass 1 — English (`:en`)**
 Write all `:en` sections in one go:
 1. YAML frontmatter

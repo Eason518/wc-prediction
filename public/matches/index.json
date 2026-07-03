@@ -8218,16 +8218,110 @@
     "files": [
       "sonnet/round-32/m-sui-alg-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        40,
+        51
+      ],
+      "possession_contested": 9,
+      "goals": [
+        2,
+        0
+      ],
+      "assists": [
+        1,
+        0
+      ],
+      "attempts_total": [
+        11,
+        8
+      ],
+      "attempts_on": [
+        5,
+        2
+      ],
+      "attempts_off": [
+        4,
+        2
+      ],
+      "attempts_inside": [
+        9,
+        5
+      ],
+      "attempts_outside": [
+        2,
+        3
+      ],
+      "passes": [
+        451,
+        571
+      ],
+      "passes_completed": [
+        371,
+        491
+      ],
+      "crosses": [
+        18,
+        7
+      ],
+      "crosses_completed": [
+        5,
+        3
+      ],
+      "corners": [
+        4,
+        2
+      ],
+      "free_kicks": [
+        14,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        56,
+        47
+      ],
+      "yellow_cards": [
+        0,
+        2
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        10
+      ],
+      "offsides": [
+        0,
+        2
+      ],
+      "pressing": [
+        283,
+        266
+      ],
+      "line_breaks_completed": [
+        107,
+        128
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-aus-egy",

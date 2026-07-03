@@ -561,3 +561,53 @@ Dự đoán: Thụy Sĩ thắng 2-1. Tổ chức phòng thủ của Thụy Sĩ v
 | ⚡ Mối đe dọa từ Amoura | Chân sút hàng đầu vòng loại với 10 bàn của Algeria, mạnh mẽ và quyết liệt, phải gây khó khăn cho hàng thủ Thụy Sĩ. |
 | 🎯 Embolo đấu với hậu vệ Algeria | Tiền đạo 24 bàn của Thụy Sĩ đối mặt với cặp trung vệ thể lực — cuộc chiến trên không và thể chất mang tính quyết định. |
 | 📏 Trọng tài chờ xác nhận | Chưa xác nhận; cả hai đội chơi bóng thể lực và pressing — thẻ phạt và khả năng bị đuổi khỏi sân là hoàn toàn có thể xảy ra. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測瑞士勝，實際瑞士勝）
+- ✅ 恩博洛建功，如預期成為瑞士鋒線威脅
+- ✅ 瑞士後防守住零封，馬赫雷茲未能改寫歷史
+- ✅ 紅牌預測正確（預測0–1張，實際0張）
+- ⚠️ 比分略為高估（預測2-1，實際2-0）
+- ⚠️ 角球數略低於預測（預測7–10個，實際6個）
+- ⚠️ 黃牌數略低於預測（預測3–6張，實際2張）
+- ⚠️ 犯規數略低於預測（預測23–27次，實際22次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Switzerland win)
+- ✅ Embolo delivered as anticipated, scoring Switzerland's attacking threat
+- ✅ Swiss defence (Xhaka, Akanji, Rodriguez) held firm, denying Mahrez a fairytale finish
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline slightly overestimated (predicted 2-1, actual 2-0)
+- ⚠️ Corner count slightly below prediction (predicted 7–10, actual 6)
+- ⚠️ Yellow cards slightly below prediction (predicted 3–6, actual 2)
+- ⚠️ Foul count slightly below prediction (predicted 23–27, actual 22)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测瑞士胜，实际瑞士胜）
+- ✅ 恩博洛建功，如预期成为瑞士锋线威胁
+- ✅ 瑞士后防守住零封，马赫雷斯未能改写历史
+- ✅ 红牌预测正确（预测0–1张，实际0张）
+- ⚠️ 比分略为高估（预测2-1，实际2-0）
+- ⚠️ 角球数略低于预测（预测7–10个，实际6个）
+- ⚠️ 黄牌数略低于预测（预测3–6张，实际2张）
+- ⚠️ 犯规数略低于预测（预测23–27次，实际22次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Thụy Sĩ thắng)
+- ✅ Embolo ghi bàn đúng như kỳ vọng về mối đe dọa tấn công của Thụy Sĩ
+- ✅ Hàng thủ Thụy Sĩ (Xhaka, Akanji, Rodriguez) đứng vững, không để Mahrez viết nên câu chuyện cổ tích
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số hơi bị đánh giá cao (dự đoán 2-1, thực tế 2-0)
+- ⚠️ Số phạt góc hơi thấp hơn dự đoán (dự đoán 7–10, thực tế 6 quả)
+- ⚠️ Thẻ vàng hơi thấp hơn dự đoán (dự đoán 3–6, thực tế 2 thẻ)
+- ⚠️ Số lần phạm lỗi hơi thấp hơn dự đoán (dự đoán 23–27, thực tế 22 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สวิตเซอร์แลนด์ชนะ)
+- ✅ เอ็มโบโลยิงประตูตามที่คาดการณ์ไว้สำหรับภัยคุกคามเชิงรุกของสวิส
+- ✅ แนวรับสวิส (ชาก้า, อากันจี, โรดริเกซ) ยืนหยัดได้ ไม่ให้มาห์เรซได้เขียนเทพนิยาย
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1 ใบ, จริง 0 ใบ)
+- ⚠️ สกอร์ถูกประเมินสูงไปเล็กน้อย (ทำนาย 2-1, จริง 2-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายเล็กน้อย (ทำนาย 7–10 ลูก, จริง 6 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายเล็กน้อย (ทำนาย 3–6 ใบ, จริง 2 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายเล็กน้อย (ทำนาย 23–27 ครั้ง, จริง 22 ครั้ง)

@@ -8338,8 +8338,8 @@
     "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
-    "regScoreHome": 0,
-    "regScoreAway": 0,
+    "regScoreHome": 1,
+    "regScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

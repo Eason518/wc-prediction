@@ -8333,9 +8333,9 @@
     "files": [
       "sonnet/round-32/m-aus-egy-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,

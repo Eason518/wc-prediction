@@ -8440,13 +8440,13 @@
     "files": [
       "sonnet/round-32/m-arg-cpv-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
-    "regScoreHome": null,
-    "regScoreAway": null,
+    "regScoreHome": 1,
+    "regScoreAway": 1,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

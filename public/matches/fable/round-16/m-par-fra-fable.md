@@ -571,3 +571,53 @@ Dự đoán: 0-3 Pháp thắng. Kỳ vọng Pháp sẽ tìm kiếm bàn thắng 
 | 🧱 Kịch bản kiểu Đức | Paraguay đã trụ vững trước 73% thời lượng kiểm soát bóng của Đức trong 120 phút; hãy kỳ vọng vào hàng thủ lùi sâu, quản lý thời gian và hướng tới loạt luân lưu tương tự. |
 | 🇫🇷 Tiếng vọng từ năm 1998 | Lần cuối hai đội gặp nhau tại World Cup, phải cần đến bàn thắng vàng đầu tiên trong lịch sử (Blanc, phút 114) mới phân định được thắng thua ở cùng vòng đấu này. |
 | 📏 Trọng tài chưa xác định | Chưa được xác nhận cho đến 24–48 giờ trước trận; một trọng tài nghiêm khắc sẽ nhân lên nguy cơ thẻ vàng thứ hai của Paraguay do kế hoạch thi đấu thiên về phạm lỗi của họ. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測法國勝，實際法國勝晉級）
+- ✅ 姆巴佩如預期進球——全場最可能進球者於第70分鐘射入點球
+- ✅ 法國零封晉級，巴拉圭如預期未能破門
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 0-3，實際 0-1）
+- ⚠️ 角球數大幅高於預測（預測 8–11，實際 14 個）
+- ⚠️ 黃牌數低於預測（預測 4–6，實際 3 張）
+- ⚠️ 犯規數低於預測（預測 24–28，實際 23 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (France win)
+- ✅ Mbappé scored as predicted — the likeliest scorer converted a 70th-minute penalty
+- ✅ France kept a clean sheet; Paraguay couldn't score as expected
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 0-3, actual 0-1)
+- ⚠️ Corner count far above prediction (predicted 8–11, actual 14)
+- ⚠️ Yellow cards below prediction (predicted 4–6, actual 3)
+- ⚠️ Foul count below prediction (predicted 24–28, actual 23)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测法国胜，实际法国胜晋级）
+- ✅ 姆巴佩如预期进球——全场最可能进球者于第70分钟射入点球
+- ✅ 法国零封晋级，巴拉圭如预期未能破门
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 0-3，实际 0-1）
+- ⚠️ 角球数大幅高于预测（预测 8–11，实际 14 个）
+- ⚠️ 黄牌数低于预测（预测 4–6，实际 3 张）
+- ⚠️ 犯规数低于预测（预测 24–28，实际 23 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Pháp thắng)
+- ✅ Mbappé ghi bàn như dự đoán — sút thành công quả phạt đền ở phút 70
+- ✅ Pháp giữ sạch lưới; Paraguay không thể ghi bàn như dự đoán
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 0-3, thực tế 0-1)
+- ⚠️ Số phạt góc cao hơn nhiều so với dự đoán (dự đoán 8–11, thực tế 14 cái)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 4–6, thực tế 3 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn dự đoán (dự đoán 24–28, thực tế 23 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
+- ✅ เอ็มบัปเป้ยิงประตูตามที่ทำนาย — สังหารจุดโทษในนาทีที่ 70
+- ✅ ฝรั่งเศสเก็บคลีนชีต ปารากวัยไม่สามารถทำประตูได้ตามคาด
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 0-3, จริง 0-1)
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนายมาก (ทำนาย 8–11, จริง 14 ลูก)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 4–6, จริง 3 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนาย (ทำนาย 24–28, จริง 23 ครั้ง)

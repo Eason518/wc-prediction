@@ -8547,16 +8547,110 @@
     "files": [
       "sonnet/round-32/m-col-gha-sonnet.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 0,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        54,
+        38
+      ],
+      "possession_contested": 8,
+      "goals": [
+        1,
+        0
+      ],
+      "assists": [
+        1,
+        0
+      ],
+      "attempts_total": [
+        20,
+        8
+      ],
+      "attempts_on": [
+        8,
+        0
+      ],
+      "attempts_off": [
+        10,
+        4
+      ],
+      "attempts_inside": [
+        11,
+        1
+      ],
+      "attempts_outside": [
+        9,
+        7
+      ],
+      "passes": [
+        598,
+        390
+      ],
+      "passes_completed": [
+        540,
+        329
+      ],
+      "crosses": [
+        17,
+        15
+      ],
+      "crosses_completed": [
+        5,
+        2
+      ],
+      "corners": [
+        3,
+        2
+      ],
+      "free_kicks": [
+        10,
+        16
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        35,
+        36
+      ],
+      "yellow_cards": [
+        2,
+        3
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        10,
+        14
+      ],
+      "offsides": [
+        2,
+        0
+      ],
+      "pressing": [
+        217,
+        297
+      ],
+      "line_breaks_completed": [
+        110,
+        90
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-can-mar",

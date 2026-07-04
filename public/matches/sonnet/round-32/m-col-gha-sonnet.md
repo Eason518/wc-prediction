@@ -561,3 +561,48 @@ Dự đoán: 2-1 Colombia thắng. Díaz ghi một bàn và kiến tạo một b
 | ⚡ Semenyo & Williams | Tốc độ của Manchester City và Athletic Club trên hai cánh — các hậu vệ biên Colombia phải đối mặt với bài kiểm tra nghiêm khắc. |
 | 🧠 Kinh nghiệm của Queiroz | Năm kỳ World Cup với tư cách HLV — ông lão 73 tuổi sẽ tổ chức Ghana hoàn hảo và thiết lập để phá rối. |
 | 📏 Trọng tài chưa xác nhận | Chưa được xác nhận; Díaz sẽ bị phạm lỗi thường xuyên — Owusu và Partey cần quản lý thẻ cẩn thận. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測哥倫比亞勝，實際哥倫比亞勝）
+- ✅ 哥倫比亞如預期主宰進攻（射門 20 比 8，控球 54%）
+- ✅ 黃牌數命中（預測 3–5，實際 5 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 22–26，實際 24 次）
+- ⚠️ 比分高估（預測 2-1，實際 1-0）
+- ⚠️ 角球數大幅低於預測（預測 8–11，實際 5 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Colombia win)
+- ✅ Colombia dominated the attack as expected (20 attempts to 8, 54% possession)
+- ✅ Yellow card count on target (predicted 3–5, actual 5)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 22–26, actual 24)
+- ⚠️ Scoreline overestimated (predicted 2-1, actual 1-0)
+- ⚠️ Corner count far below prediction (predicted 8–11, actual 5)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测哥伦比亚胜，实际哥伦比亚胜）
+- ✅ 哥伦比亚如预期主宰进攻（射门 20 比 8，控球 54%）
+- ✅ 黄牌数命中（预测 3–5，实际 5 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 22–26，实际 24 次）
+- ⚠️ 比分高估（预测 2-1，实际 1-0）
+- ⚠️ 角球数大幅低于预测（预测 8–11，实际 5 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Colombia thắng)
+- ✅ Colombia thống trị tấn công như dự đoán (20 pha dứt điểm so với 8, kiểm soát bóng 54%)
+- ✅ Thẻ vàng trong tầm dự đoán (dự đoán 3–5, thực tế 5 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 22–26, thực tế 24 lần)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 2-1, thực tế 1-0)
+- ⚠️ Số phạt góc thấp hơn nhiều so với dự đoán (dự đoán 8–11, thực tế 5 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โคลอมเบียชนะ)
+- ✅ โคลอมเบียครองเกมรุกตามคาด (ยิง 20 ต่อ 8 ครั้ง ครองบอล 54%)
+- ✅ ใบเหลืองตรงตามที่ทำนาย (ทำนาย 3–5, จริง 5 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 22–26, จริง 24 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 2-1, จริง 1-0)
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนายมาก (ทำนาย 8–11, จริง 5 ลูก)

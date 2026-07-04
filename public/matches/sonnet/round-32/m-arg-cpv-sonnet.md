@@ -561,3 +561,53 @@ Dự đoán: 4-0 Argentina thắng. Messi sẽ ghi bàn. Lautaro sẽ ghi bàn. 
 | ⚡ Alvarez từ băng ghế dự bị | Tiền đạo Atletico Madrid ghi bàn trong trận chung kết 2022 — anh có thể thêm vào nỗi đau với tư cách dự bị. |
 | 🛡️ Cabo Verde phòng thủ sâu | Đội của Brito chỉ thủng lưới một bàn trong ba trận vòng bảng — họ sẽ không đầu hàng dễ dàng. |
 | 📏 Trọng tài TBC | Chưa xác nhận; chất lượng của Argentina sẽ thống trị kiểm soát bóng — các lỗi phạm của Cabo Verde có thể thu hút thẻ vàng sớm. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷勝）
+- ✅ Messi 如預期破門
+- ✅ 黃牌數命中（預測 2–4，實際 2 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分高估（預測 4-0，實際 3-2，佛得角頑強纏鬥至延長賽才分出勝負）
+- ⚠️ 佛得角兩度破門，封關預期落空
+- ⚠️ 角球數高於預測（預測 10–14，實際 16 個）
+- ⚠️ 犯規數大幅高於預測（預測 18–22，實際 25 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Messi scored as predicted
+- ✅ Yellow card count on target (predicted 2–4, actual 2)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline overestimated (predicted 4-0, actual 3-2 — Cabo Verde fought all the way to extra time)
+- ⚠️ Cabo Verde scored twice — clean sheet prediction missed
+- ⚠️ Corner count above prediction (predicted 10–14, actual 16)
+- ⚠️ Foul count far above prediction (predicted 18–22, actual 25)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷胜）
+- ✅ Messi 如预期破门
+- ✅ 黄牌数命中（预测 2–4，实际 2 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分高估（预测 4-0，实际 3-2，佛得角顽强缠斗至加时赛才分出胜负）
+- ⚠️ 佛得角两度破门，零封预期落空
+- ⚠️ 角球数高于预测（预测 10–14，实际 16 个）
+- ⚠️ 犯规数大幅高于预测（预测 18–22，实际 25 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Messi ghi bàn như dự đoán
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 2–4, thực tế 2 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 4-0, thực tế 3-2 — Cabo Verde chiến đấu kiên cường đến tận hiệp phụ)
+- ⚠️ Cabo Verde ghi hai bàn — dự đoán giữ sạch lưới không thành
+- ⚠️ Số phạt góc cao hơn dự đoán (dự đoán 10–14, thực tế 16 cái)
+- ⚠️ Số lần phạm lỗi cao hơn nhiều so với dự đoán (dự đoán 18–22, thực tế 25 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ เมสซียิงประตูตามที่ทำนาย
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 2–4, จริง 2 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 4-0, จริง 3-2 — กาบูเวร์ดีสู้ถึงช่วงต่อเวลาพิเศษ)
+- ⚠️ กาบูเวร์ดียิงได้สองประตู — การทำนายคลีนชีตพลาด
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนาย (ทำนาย 10–14, จริง 16 ลูก)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 18–22, จริง 25 ครั้ง)

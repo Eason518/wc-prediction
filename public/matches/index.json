@@ -8435,21 +8435,107 @@
     "date": "2026-07-04",
     "time": "06:00",
     "stage": "round-32",
+    "predictionCorrect": true,
     "homeCode": "ARG",
     "awayCode": "CPV",
     "files": [
       "sonnet/round-32/m-arg-cpv-sonnet.md"
     ],
-    "actualScoreHome": 1,
-    "actualScoreAway": 1,
+    "actualScoreHome": 3,
+    "actualScoreAway": 2,
     "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": 1,
     "regScoreAway": 1,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "liveStats": {
+      "possession": [
+        55,
+        38
+      ],
+      "possession_contested": 7,
+      "goals": [
+        3,
+        2
+      ],
+      "assists": [
+        2,
+        2
+      ],
+      "attempts_total": [
+        22,
+        16
+      ],
+      "attempts_on": [
+        10,
+        5
+      ],
+      "attempts_off": [
+        6,
+        6
+      ],
+      "attempts_inside": [
+        15,
+        6
+      ],
+      "attempts_outside": [
+        7,
+        10
+      ],
+      "passes": [
+        862,
+        495
+      ],
+      "passes_completed": [
+        793,
+        415
+      ],
+      "crosses": [
+        19,
+        19
+      ],
+      "crosses_completed": [
+        5,
+        7
+      ],
+      "corners": [
+        8,
+        8
+      ],
+      "free_kicks": [
+        14,
+        16
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        1
+      ],
+      "forced_turnovers": [
+        27,
+        26
+      ],
+      "yellow_cards": [
+        1,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        13
+      ],
+      "offsides": [
+        3,
+        2
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-col-gha",

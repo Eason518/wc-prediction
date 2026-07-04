@@ -8779,13 +8779,15 @@
     "v": 1
   },
   {
-    "id": "r16-m07",
+    "id": "m-arg-egy",
     "date": "2026-07-08",
     "time": "00:00",
     "stage": "round-16",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ARG",
+    "awayCode": "EGY",
+    "files": [
+      "fable/round-16/m-arg-egy-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -8793,16 +8795,20 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "r16-m08",
+    "id": "m-sui-col",
     "date": "2026-07-08",
     "time": "04:00",
     "stage": "round-16",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "SUI",
+    "awayCode": "COL",
+    "files": [
+      "fable/round-16/m-sui-col-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -8810,6 +8816,8 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

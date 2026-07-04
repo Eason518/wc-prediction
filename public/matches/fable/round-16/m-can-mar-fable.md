@@ -571,3 +571,48 @@ Dự đoán: 0-1 Morocco thắng. Kỳ vọng Morocco sẽ kiểm soát bóng, C
 | ⚡ Quân bài bất ngờ Davies | Thời gian thi đấu của ngôi sao Bayern đang được quản lý sau chấn thương; anh đến gần một trận đấu trọn vẹn đến mức nào có thể định hình giới hạn tối đa của Canada. |
 | 😮‍💨 Khoảng cách nghỉ ngơi | Canada thắng trong 90 phút; Morocco phải trải qua 120 phút cộng luân lưu tại Monterrey — đôi chân sung sức hơn của Canada có thể quan trọng vào cuối trận. |
 | 📏 Trọng tài TBC | FIFA xác nhận trọng tài 24–48 giờ trước trận; một sự chỉ định thích rút thẻ sẽ làm tăng rủi ro bị phạt thẻ cho lối phạm lỗi chiến thuật của Canada. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測摩洛哥勝，實際摩洛哥勝）
+- ✅ 摩洛哥如預期零封取勝，加拿大全場未能破門
+- ✅ 角球數命中（預測 9–12，實際 12 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分低估（預測 0-1，實際 0-3）
+- ⚠️ 黃牌數大幅高於預測（預測 3–5，實際 8 張）
+- ⚠️ 犯規數大幅高於預測（預測 22–26，實際 38 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Morocco win)
+- ✅ Morocco won to nil as expected — Canada never scored
+- ✅ Corner count on target (predicted 9–12, actual 12)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline underestimated (predicted 0-1, actual 0-3)
+- ⚠️ Yellow cards far above prediction (predicted 3–5, actual 8)
+- ⚠️ Foul count far above prediction (predicted 22–26, actual 38)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测摩洛哥胜，实际摩洛哥胜）
+- ✅ 摩洛哥如预期零封取胜，加拿大全场未能破门
+- ✅ 角球数命中（预测 9–12，实际 12 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分低估（预测 0-1，实际 0-3）
+- ⚠️ 黄牌数大幅高于预测（预测 3–5，实际 8 张）
+- ⚠️ 犯规数大幅高于预测（预测 22–26，实际 38 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Morocco thắng)
+- ✅ Morocco thắng giữ sạch lưới như dự đoán — Canada không thể ghi bàn
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 12 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 0-1, thực tế 0-3)
+- ⚠️ Thẻ vàng cao hơn nhiều so với dự đoán (dự đoán 3–5, thực tế 8 thẻ)
+- ⚠️ Số lần phạm lỗi cao hơn nhiều so với dự đoán (dự đoán 22–26, thực tế 38 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (โมร็อกโกชนะ)
+- ✅ โมร็อกโกชนะแบบคลีนชีตตามคาด — แคนาดาไม่สามารถทำประตูได้
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 12 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 0-1, จริง 0-3)
+- ⚠️ ใบเหลืองสูงกว่าที่ทำนายมาก (ทำนาย 3–5, จริง 8 ใบ)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 22–26, จริง 38 ครั้ง)

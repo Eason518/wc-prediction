@@ -8662,16 +8662,102 @@
     "files": [
       "fable/round-16/m-can-mar-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 3,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        42,
+        45
+      ],
+      "possession_contested": 13,
+      "goals": [
+        0,
+        3
+      ],
+      "assists": [
+        0,
+        3
+      ],
+      "attempts_total": [
+        11,
+        5
+      ],
+      "attempts_on": [
+        3,
+        4
+      ],
+      "attempts_off": [
+        3,
+        1
+      ],
+      "attempts_inside": [
+        6,
+        3
+      ],
+      "attempts_outside": [
+        4,
+        2
+      ],
+      "passes": [
+        360,
+        505
+      ],
+      "passes_completed": [
+        276,
+        409
+      ],
+      "crosses": [
+        21,
+        6
+      ],
+      "crosses_completed": [
+        3,
+        3
+      ],
+      "corners": [
+        11,
+        1
+      ],
+      "free_kicks": [
+        17,
+        26
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        36,
+        29
+      ],
+      "yellow_cards": [
+        4,
+        4
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        14,
+        24
+      ],
+      "offsides": [
+        2,
+        3
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-par-fra",

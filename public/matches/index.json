@@ -8876,15 +8876,101 @@
     "files": [
       "fable/round-16/m-bra-nor-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 2,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        35,
+        55
+      ],
+      "possession_contested": 10,
+      "goals": [
+        1,
+        2
+      ],
+      "assists": [
+        0,
+        2
+      ],
+      "attempts_total": [
+        14,
+        9
+      ],
+      "attempts_on": [
+        4,
+        5
+      ],
+      "attempts_off": [
+        5,
+        4
+      ],
+      "attempts_inside": [
+        10,
+        6
+      ],
+      "attempts_outside": [
+        4,
+        2
+      ],
+      "passes": [
+        348,
+        648
+      ],
+      "passes_completed": [
+        291,
+        581
+      ],
+      "crosses": [
+        13,
+        13
+      ],
+      "crosses_completed": [
+        0,
+        2
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "free_kicks": [
+        5,
+        8
+      ],
+      "penalties_scored": [
+        1,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        20,
+        18
+      ],
+      "yellow_cards": [
+        1,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        6,
+        7
+      ],
+      "offsides": [
+        1,
+        1
+      ]
+    },
     "v": 1
   },
   {

@@ -561,3 +561,53 @@ Dự đoán: Tây Ban Nha thắng 1-2. Khả năng kiểm soát tuyến giữa v
 | 👑 Điệu Nhảy Cuối Của Ronaldo | Bàn thắng knock-out World Cup đầu tiên trong sự nghiệp đến trước Croatia; anh chấp nhận rời sân ở phút 81 — một CR7 vì tập thể hơn khiến Bồ Đào Nha nguy hiểm hơn. |
 | 🚀 Tốc Độ Của Leão | Kiến tạo bàn ấn định của Ramos và sở hữu tốc độ chuyển trạng thái — con đường khai thác điểm yếu duy nhất đã được kiểm chứng của hàng thủ dâng cao Tây Ban Nha. |
 | 📏 Trọng Tài Chưa Xác Định | Trọng tài chưa được công bố; mức độ nghiêm khắc với thẻ phạt sẽ rất quan trọng trong trận derby mà Bồ Đào Nha có thể phạm lỗi chiến thuật để phá nhịp Tây Ban Nha. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測西班牙勝，實際西班牙勝）
+- ✅ 西班牙如預期以中場控制主導比賽（控球 48%-39%，傳球 534-427）
+- ✅ 「西班牙牆」延續整屆零失球紀錄，葡萄牙全場未能破門
+- ✅ 角球數命中（預測 9–12，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 20–24，實際 21 次）
+- ⚠️ 比分略為高估（預測 1-2，實際 0-1）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 2 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Spain win)
+- ✅ Spain's midfield control dictated the game as expected (48%-39% possession, 534-427 passes)
+- ✅ The Spanish wall held — tournament-long clean-sheet run continued as Portugal failed to score
+- ✅ Corner count on target (predicted 9–12, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 20–24, actual 21)
+- ⚠️ Scoreline slightly overestimated (predicted 1-2, actual 0-1)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 2)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测西班牙胜，实际西班牙胜）
+- ✅ 西班牙如预期以中场控制主导比赛（控球 48%-39%，传球 534-427）
+- ✅ "西班牙墙"延续整届零失球纪录，葡萄牙全场未能破门
+- ✅ 角球数命中（预测 9–12，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 20–24，实际 21 次）
+- ⚠️ 比分略为高估（预测 1-2，实际 0-1）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 2 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Tây Ban Nha thắng)
+- ✅ Tây Ban Nha kiểm soát trận đấu bằng tuyến giữa như dự đoán (kiểm soát bóng 48%-39%, 534-427 đường chuyền)
+- ✅ "Bức tường Tây Ban Nha" tiếp tục giữ sạch lưới cả giải, Bồ Đào Nha không thể ghi bàn
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 20–24, thực tế 21 lần)
+- ⚠️ Tỷ số bị đánh giá cao (dự đoán 1-2, thực tế 0-1)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 2 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (สเปนชนะ)
+- ✅ สเปนคุมเกมด้วยแดนกลางตามคาด (ครองบอล 48%-39%, ส่งบอล 534-427 ครั้ง)
+- ✅ "กำแพงสเปน" ยังคงคลีนชีตตลอดทัวร์นาเมนต์ โปรตุเกสทำประตูไม่ได้
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 20–24, จริง 21 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันสูงเกินไป (ทำนาย 1-2, จริง 0-1)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 2 ใบ)

@@ -566,3 +566,53 @@ Dự đoán: 1-2 Anh thắng. Chuỗi trận giữ sạch lưới của Mexico s
 | 🧱 Bốn Trận Sạch Lưới | Rangel, Montes và Vásquez chưa để thủng lưới suốt giải — nhưng họ chưa từng đối mặt với một hàng công nào gần giống như thế này. |
 | 🚨 Vấn Đề Hậu Vệ Phải | Reece James chấn thương, Spence bị khai thác trước CHDC Congo; những pha chồng biên của Quiñones và Gallardo sẽ tấn công không ngừng vào cánh đó. |
 | 💎 Nhân Tố Mora | Gilberto Mora, 17 tuổi, là phát hiện của Mexico — một nhà sáng tạo không hề nao núng có thể biến trận này thành một trận đấu để đời. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測英格蘭勝，實際英格蘭勝）
+- ✅ 如預期，墨西哥的零封紀錄在這等級的攻擊火力面前終結
+- ✅ Kane 一如預測挺身而出，罰進點球展現淘汰賽冷靜
+- ✅ 紅牌預測正確（預測 0–1，實際 1 張）
+- ✅ 黃牌數命中（預測 4–6，實際 6 張）
+- ⚠️ 比分略為低估（預測 1-2，實際 2-3）
+- ⚠️ 角球數大幅高於預測（預測 8–11，實際 14 個）
+- ⚠️ 犯規數大幅低於預測（預測 24–28，實際 21 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (England win)
+- ✅ Mexico's clean-sheet run ended against this caliber of attack, as predicted
+- ✅ Kane stepped up as predicted, converting a penalty with knockout composure
+- ✅ Red card prediction correct (predicted 0–1, actual 1)
+- ✅ Yellow card count on target (predicted 4–6, actual 6)
+- ⚠️ Scoreline slightly underestimated (predicted 1-2, actual 2-3)
+- ⚠️ Corner count far above prediction (predicted 8–11, actual 14)
+- ⚠️ Foul count far below prediction (predicted 24–28, actual 21)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测英格兰胜，实际英格兰胜）
+- ✅ 如预期，墨西哥的零封纪录在这等级的攻击火力面前终结
+- ✅ Kane 一如预测挺身而出，罚进点球展现淘汰赛冷静
+- ✅ 红牌预测正确（预测 0–1，实际 1 张）
+- ✅ 黄牌数命中（预测 4–6，实际 6 张）
+- ⚠️ 比分略为低估（预测 1-2，实际 2-3）
+- ⚠️ 角球数大幅高于预测（预测 8–11，实际 14 个）
+- ⚠️ 犯规数大幅低于预测（预测 24–28，实际 21 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Anh thắng)
+- ✅ Chuỗi giữ sạch lưới của Mexico chấm dứt trước hàng công đẳng cấp này, đúng như dự đoán
+- ✅ Kane tỏa sáng đúng như dự đoán, ghi bàn từ chấm phạt đền với bản lĩnh knock-out
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 1 thẻ)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 4–6, thực tế 6 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhẹ (dự đoán 1-2, thực tế 2-3)
+- ⚠️ Số phạt góc cao hơn nhiều so với dự đoán (dự đoán 8–11, thực tế 14 cái)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều so với dự đoán (dự đoán 24–28, thực tế 21 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อังกฤษชนะ)
+- ✅ สถิติคลีนชีตของเม็กซิโกสิ้นสุดลงเมื่อเจอเกมรุกระดับนี้ ตรงตามที่ทำนาย
+- ✅ เคนก้าวขึ้นมาตามคาด ยิงจุดโทษด้วยความนิ่งในเกมน็อคเอาท์
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 1 ใบ)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 4–6, จริง 6 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปเล็กน้อย (ทำนาย 1-2, จริง 2-3)
+- ⚠️ จำนวนเตะมุมสูงกว่าที่ทำนายมาก (ทำนาย 8–11, จริง 14 ลูก)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 24–28, จริง 21 ครั้ง)

@@ -95,7 +95,7 @@
         70
       ]
     },
-    "v": 1
+    "v": 2
   },
   {
     "id": "m-usa-par",
@@ -9193,7 +9193,7 @@
         1
       ]
     },
-    "v": 1
+    "v": 2
   },
   {
     "id": "m-usa-bel",
@@ -9205,8 +9205,8 @@
     "files": [
       "fable/round-16/m-usa-bel-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 3,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,

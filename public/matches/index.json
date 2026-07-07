@@ -9200,21 +9200,107 @@
     "date": "2026-07-07",
     "time": "08:00",
     "stage": "round-16",
+    "predictionCorrect": false,
     "homeCode": "USA",
     "awayCode": "BEL",
     "files": [
       "fable/round-16/m-usa-bel-fable.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 3,
+    "actualScoreAway": 4,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "liveStats": {
+      "possession": [
+        52,
+        40
+      ],
+      "possession_contested": 8,
+      "goals": [
+        1,
+        4
+      ],
+      "assists": [
+        0,
+        3
+      ],
+      "attempts_total": [
+        7,
+        15
+      ],
+      "attempts_on": [
+        2,
+        7
+      ],
+      "attempts_off": [
+        5,
+        4
+      ],
+      "attempts_inside": [
+        5,
+        10
+      ],
+      "attempts_outside": [
+        2,
+        5
+      ],
+      "passes": [
+        548,
+        421
+      ],
+      "passes_completed": [
+        470,
+        338
+      ],
+      "crosses": [
+        14,
+        18
+      ],
+      "crosses_completed": [
+        2,
+        8
+      ],
+      "corners": [
+        3,
+        5
+      ],
+      "free_kicks": [
+        10,
+        11
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        29,
+        22
+      ],
+      "yellow_cards": [
+        2,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        9,
+        11
+      ],
+      "offsides": [
+        0,
+        1
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-arg-egy",

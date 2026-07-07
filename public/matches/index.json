@@ -9345,13 +9345,16 @@
     "v": 1
   },
   {
-    "id": "qf-m01",
+    "id": "m-fra-mar",
     "date": "2026-07-10",
     "time": "04:00",
     "stage": "quarter-final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "predictionCorrect": null,
+    "homeCode": "FRA",
+    "awayCode": "MAR",
+    "files": [
+      "fable/quarter-final/m-fra-mar-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -9359,16 +9362,20 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "qf-m02",
+    "id": "m-esp-bel",
     "date": "2026-07-11",
     "time": "03:00",
     "stage": "quarter-final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "predictionCorrect": null,
+    "homeCode": "ESP",
+    "awayCode": "BEL",
+    "files": [
+      "fable/quarter-final/m-esp-bel-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -9376,16 +9383,20 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "liveStats": {},
     "v": 1
   },
   {
-    "id": "qf-m03",
+    "id": "m-nor-eng",
     "date": "2026-07-12",
     "time": "05:00",
     "stage": "quarter-final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "predictionCorrect": null,
+    "homeCode": "NOR",
+    "awayCode": "ENG",
+    "files": [
+      "fable/quarter-final/m-nor-eng-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -9393,6 +9404,7 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "liveStats": {},
     "v": 1
   },
   {

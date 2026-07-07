@@ -566,3 +566,48 @@ Dự đoán: Argentina thắng 2-0. Khoảng cách đẳng cấp và sự tiêu 
 | ⚡ Marmoush Khai Thác Chiều Sâu | Hàng thủ dâng cao của Argentina đối đầu tốc độ đẳng cấp Man City là con đường sạch nhất đến bàn thắng của Ai Cập. |
 | 🥅 Vận Đen Phản Lưới Của Hany | Đã hai lần phản lưới nhà giải này; khối lượng tạt bóng và tình huống cố định của Argentina sẽ lại thử thách thần kinh của anh. |
 | 🔋 Sổ Cái Thể Lực | Cả hai đội đều đá 120 phút ở vòng 32, nhưng Ai Cập còn trải qua loạt luân lưu và có đội hình mỏng hơn — chiều sâu cuối trận nghiêng về Argentina. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷勝）
+- ✅ 梅西如預期主宰比賽，第83分鐘破門延續金靴狂奔
+- ✅ 黃牌數命中（預測 4–6，實際 5 張）——埃及的戰術犯規如預期堆高吃牌數
+- ✅ 紅牌預測正確（預測 0–1，實際 1 張）
+- ✅ 犯規數命中（預測 24–28，實際 24 次）
+- ⚠️ 比分低估（預測 2-0，實際 3-2）——埃及兩度破門，封關預期落空
+- ⚠️ 角球數低於預測（預測 9–12，實際 7 個）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Messi dominated as expected, scoring in the 83rd minute to extend his golden-boot run
+- ✅ Yellow cards on target (predicted 4–6, actual 5) — Egypt's tactical fouling piled up bookings as forecast
+- ✅ Red card prediction correct (predicted 0–1, actual 1)
+- ✅ Foul count on target (predicted 24–28, actual 24)
+- ⚠️ Scoreline underestimated (predicted 2-0, actual 3-2) — Egypt scored twice, clean sheet prediction missed
+- ⚠️ Corner count below prediction (predicted 9–12, actual 7)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷胜）
+- ✅ 梅西如预期主宰比赛，第83分钟破门延续金靴狂奔
+- ✅ 黄牌数命中（预测 4–6，实际 5 张）——埃及的战术犯规如预期堆高吃牌数
+- ✅ 红牌预测正确（预测 0–1，实际 1 张）
+- ✅ 犯规数命中（预测 24–28，实际 24 次）
+- ⚠️ 比分低估（预测 2-0，实际 3-2）——埃及两度破门，零封预期落空
+- ⚠️ 角球数低于预测（预测 9–12，实际 7 个）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Messi thống trị trận đấu như dự đoán, ghi bàn phút 83 nối dài cuộc đua Giày Vàng
+- ✅ Thẻ vàng trong tầm dự đoán (dự đoán 4–6, thực tế 5 thẻ) — lối phạm lỗi chiến thuật của Ai Cập đẩy số thẻ tăng đúng như dự báo
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 1 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 24–28, thực tế 24 lần)
+- ⚠️ Tỷ số bị đánh giá thấp (dự đoán 2-0, thực tế 3-2) — Ai Cập ghi hai bàn, dự đoán giữ sạch lưới không thành
+- ⚠️ Số phạt góc thấp hơn dự đoán (dự đoán 9–12, thực tế 7 cái)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ เมสซีครองเกมตามคาด ยิงประตูนาที 83 ต่อเส้นทางดาวซัลโว
+- ✅ ใบเหลืองตรงตามที่ทำนาย (ทำนาย 4–6, จริง 5 ใบ) — การฟาวล์เชิงแทคติกของอียิปต์ดันยอดใบเหลืองตามคาด
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 1 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 24–28, จริง 24 ครั้ง)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไป (ทำนาย 2-0, จริง 3-2) — อียิปต์ยิงได้สองประตู คลีนชีตที่คาดไว้ไม่เกิดขึ้น
+- ⚠️ จำนวนเตะมุมต่ำกว่าที่ทำนาย (ทำนาย 9–12, จริง 7 ลูก)

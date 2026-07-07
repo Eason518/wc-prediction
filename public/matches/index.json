@@ -9307,21 +9307,107 @@
     "date": "2026-07-08",
     "time": "00:00",
     "stage": "round-16",
+    "predictionCorrect": true,
     "homeCode": "ARG",
     "awayCode": "EGY",
     "files": [
       "fable/round-16/m-arg-egy-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 3,
+    "actualScoreAway": 2,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "liveStats": {
+      "possession": [
+        53,
+        37
+      ],
+      "possession_contested": 10,
+      "goals": [
+        3,
+        2
+      ],
+      "assists": [
+        3,
+        2
+      ],
+      "attempts_total": [
+        19,
+        5
+      ],
+      "attempts_on": [
+        7,
+        2
+      ],
+      "attempts_off": [
+        7,
+        2
+      ],
+      "attempts_inside": [
+        11,
+        4
+      ],
+      "attempts_outside": [
+        8,
+        1
+      ],
+      "passes": [
+        616,
+        382
+      ],
+      "passes_completed": [
+        543,
+        300
+      ],
+      "crosses": [
+        24,
+        5
+      ],
+      "crosses_completed": [
+        9,
+        2
+      ],
+      "corners": [
+        6,
+        1
+      ],
+      "free_kicks": [
+        10,
+        16
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        19,
+        25
+      ],
+      "yellow_cards": [
+        0,
+        5
+      ],
+      "red_cards": [
+        0,
+        1
+      ],
+      "fouls": [
+        11,
+        13
+      ],
+      "offsides": [
+        3,
+        0
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-sui-col",

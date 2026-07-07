@@ -9419,13 +9419,13 @@
     "files": [
       "fable/round-16/m-sui-col-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 0,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
-    "regScoreHome": null,
-    "regScoreAway": null,
+    "regScoreHome": 0,
+    "regScoreAway": 0,
     "predictionCorrect": null,
     "liveStats": {},
     "v": 1

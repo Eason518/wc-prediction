@@ -9580,13 +9580,15 @@
     "v": 1
   },
   {
-    "id": "qf-m04",
+    "id": "m-arg-sui",
     "date": "2026-07-12",
     "time": "09:00",
     "stage": "quarter-final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ARG",
+    "awayCode": "SUI",
+    "files": [
+      "fable/quarter-final/m-arg-sui-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -9594,6 +9596,8 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

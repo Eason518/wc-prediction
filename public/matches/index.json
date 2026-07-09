@@ -9521,21 +9521,107 @@
     "date": "2026-07-10",
     "time": "04:00",
     "stage": "quarter-final",
-    "predictionCorrect": null,
+    "predictionCorrect": true,
     "homeCode": "FRA",
     "awayCode": "MAR",
     "files": [
       "fable/quarter-final/m-fra-mar-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 2,
+    "actualScoreAway": 0,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "liveStats": {},
-    "v": 1
+    "liveStats": {
+      "possession": [
+        44,
+        49
+      ],
+      "possession_contested": 7,
+      "goals": [
+        2,
+        0
+      ],
+      "assists": [
+        2,
+        0
+      ],
+      "attempts_total": [
+        21,
+        4
+      ],
+      "attempts_on": [
+        8,
+        1
+      ],
+      "attempts_off": [
+        9,
+        2
+      ],
+      "attempts_inside": [
+        12,
+        1
+      ],
+      "attempts_outside": [
+        8,
+        3
+      ],
+      "passes": [
+        491,
+        508
+      ],
+      "passes_completed": [
+        435,
+        441
+      ],
+      "crosses": [
+        15,
+        16
+      ],
+      "crosses_completed": [
+        4,
+        2
+      ],
+      "corners": [
+        5,
+        5
+      ],
+      "free_kicks": [
+        11,
+        10
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        22,
+        18
+      ],
+      "yellow_cards": [
+        0,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        10
+      ],
+      "offsides": [
+        0,
+        0
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-esp-bel",

@@ -561,3 +561,53 @@ Dự đoán: Pháp thắng 2-0. Hãy chờ đợi một cuộc vây hãm kiên n
 | 🩹 Theo Dõi Thể Lực | Tchouaméni (háng) và Saliba (lưng) bên Pháp; Saibari (gân kheo) và Riad (đầu gối) bên Maroc có thể làm nghiêng cán cân. |
 | 🧤 Nhân Tố Bounou | Nếu phải đá luân lưu, thủ môn của Maroc đã thắng một loạt đấu súng tại giải này và hai loạt trong năm 2022. |
 | 📏 Trọng Tài Chưa Xác Định | FIFA sẽ công bố sau; dù thế nào, các pha phạm lỗi chiến thuật khi chuyển trạng thái sẽ là ngòi nổ thẻ phạt. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測法國勝，實際法國勝）
+- ✅ 比分完全命中（預測 2-0，實際 2-0）
+- ✅ 姆巴佩與登貝萊如預期破門——正是預測點名最有可能的兩位進球者
+- ✅ 法國如預期封關，摩洛哥全場僅1次射正
+- ✅ 角球數命中（預測 9–12，實際 10 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ✅ 犯規數命中（預測 22–26，實際 22 次）
+- ⚠️ 黃牌數低於預測（預測 3–5，實際 1 張）
+
+## result_hits:en
+- ✅ Winner predicted correctly (France win)
+- ✅ Exact scoreline hit (predicted 2-0, actual 2-0)
+- ✅ Mbappé and Dembélé scored as predicted — the two named likeliest scorers
+- ✅ Clean sheet held as expected; Morocco managed just 1 shot on target
+- ✅ Corner count on target (predicted 9–12, actual 10)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ✅ Foul count on target (predicted 22–26, actual 22)
+- ⚠️ Yellow cards below prediction (predicted 3–5, actual 1)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测法国胜，实际法国胜）
+- ✅ 比分完全命中（预测 2-0，实际 2-0）
+- ✅ 姆巴佩与登贝莱如预期破门——正是预测点名最有可能的两位进球者
+- ✅ 法国如预期零封，摩洛哥全场仅1次射正
+- ✅ 角球数命中（预测 9–12，实际 10 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ✅ 犯规数命中（预测 22–26，实际 22 次）
+- ⚠️ 黄牌数低于预测（预测 3–5，实际 1 张）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Pháp thắng)
+- ✅ Tỷ số chính xác tuyệt đối (dự đoán 2-0, thực tế 2-0)
+- ✅ Mbappé và Dembélé ghi bàn đúng như dự đoán — hai cái tên được nêu là dễ ghi bàn nhất
+- ✅ Giữ sạch lưới như kỳ vọng; Maroc chỉ có 1 cú sút trúng đích
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 10 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ✅ Số lần phạm lỗi trong tầm dự đoán (dự đoán 22–26, thực tế 22 lần)
+- ⚠️ Thẻ vàng thấp hơn dự đoán (dự đoán 3–5, thực tế 1 thẻ)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (ฝรั่งเศสชนะ)
+- ✅ ทำนายสกอร์แม่นยำ (ทำนาย 2-0, จริง 2-0)
+- ✅ เอ็มบัปเปและเดมเบเลยิงประตูตามที่ทำนาย — สองชื่อที่ถูกระบุว่ามีโอกาสยิงมากที่สุด
+- ✅ เก็บคลีนชีตตามคาด โมร็อกโกยิงตรงกรอบเพียง 1 ครั้ง
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 10 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ✅ จำนวนฟาวล์ตรงตามที่ทำนาย (ทำนาย 22–26, จริง 22 ครั้ง)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนาย (ทำนาย 3–5, จริง 1 ใบ)

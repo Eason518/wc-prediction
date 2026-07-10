@@ -9773,13 +9773,15 @@
     "v": 1
   },
   {
-    "id": "sf-m01",
+    "id": "m-fra-esp",
     "date": "2026-07-15",
     "time": "03:00",
     "stage": "semi-final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "FRA",
+    "awayCode": "ESP",
+    "files": [
+      "fable/semi-final/m-fra-esp-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -9787,6 +9789,8 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
+    "predictionCorrect": null,
+    "liveStats": {},
     "v": 1
   },
   {

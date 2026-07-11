@@ -9735,21 +9735,107 @@
     "date": "2026-07-12",
     "time": "05:00",
     "stage": "quarter-final",
-    "predictionCorrect": null,
+    "predictionCorrect": true,
     "homeCode": "NOR",
     "awayCode": "ENG",
     "files": [
       "fable/quarter-final/m-nor-eng-fable.md"
     ],
     "actualScoreHome": 1,
-    "actualScoreAway": 1,
+    "actualScoreAway": 2,
     "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
-    "regScoreHome": null,
-    "regScoreAway": null,
-    "liveStats": {},
-    "v": 1
+    "regScoreHome": 1,
+    "regScoreAway": 1,
+    "liveStats": {
+      "possession": [
+        42,
+        49
+      ],
+      "possession_contested": 9,
+      "goals": [
+        1,
+        2
+      ],
+      "assists": [
+        1,
+        1
+      ],
+      "attempts_total": [
+        13,
+        14
+      ],
+      "attempts_on": [
+        4,
+        7
+      ],
+      "attempts_off": [
+        6,
+        5
+      ],
+      "attempts_inside": [
+        10,
+        8
+      ],
+      "attempts_outside": [
+        3,
+        6
+      ],
+      "passes": [
+        562,
+        653
+      ],
+      "passes_completed": [
+        482,
+        576
+      ],
+      "crosses": [
+        20,
+        22
+      ],
+      "crosses_completed": [
+        5,
+        7
+      ],
+      "corners": [
+        7,
+        4
+      ],
+      "free_kicks": [
+        12,
+        11
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        24,
+        21
+      ],
+      "yellow_cards": [
+        1,
+        0
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        8,
+        10
+      ],
+      "offsides": [
+        1,
+        5
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-arg-sui",

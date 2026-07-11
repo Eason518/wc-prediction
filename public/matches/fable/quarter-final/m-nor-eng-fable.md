@@ -561,3 +561,58 @@ Dự đoán: Anh thắng 1-2. Na Uy được kỳ vọng sẽ ghi bàn — Haala
 | 🕳️ Gót Chân Achilles Của Na Uy | Thủng lưới cả năm trận kể cả trước Iraq; một đội hình nặng về tấn công với số hậu vệ đẳng cấp ít hơn hẳn số tiền đạo. |
 | 🎯 Đường Tiếp Tế Của Ødegaard | Cắt nguồn cung cấp bóng của đội trưởng Arsenal cho Haaland có thể quan trọng hơn cả việc kèm người — Rice hiểu anh nhất. |
 | 📏 Trọng Tài Chưa Xác Định | Tông điều hành giải này (13+ thẻ đỏ, các án nâng mức qua VAR như của Quansah) thưởng cho sự thận trọng; nhân sự cuối cùng sẽ định hình số thẻ. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測英格蘭勝，實際英格蘭勝）
+- ✅ 比分完全命中（預測 1-2，實際 1-2——90分鐘1-1，加時第93分鐘由貝林漢絕殺）
+- ✅ 貝林漢如預期成為進球者——梅開二度扭轉戰局
+- ✅ 挪威如預期取得進球（破門的謝爾德魯普正是預測點名的變局奇兵）
+- ✅ 角球數命中（預測 9–12，實際 11 個）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 黃牌數大幅低於預測（預測 4–6，實際 1 張）
+- ⚠️ 犯規數大幅低於預測（預測 22–26，實際 18 次）
+- ⚠️ 哈蘭德未能如預期破門
+
+## result_hits:en
+- ✅ Winner predicted correctly (England win)
+- ✅ Exact scoreline hit (predicted 1-2, actual 1-2 — 1-1 after 90 minutes, settled by Bellingham's 93rd-minute extra-time winner)
+- ✅ Bellingham scored as predicted — a match-winning brace
+- ✅ Norway scored as expected (Schjelderup, the game-changing sub the analysis flagged, got the goal)
+- ✅ Corner count on target (predicted 9–12, actual 11)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Yellow cards far below prediction (predicted 4–6, actual 1)
+- ⚠️ Foul count far below prediction (predicted 22–26, actual 18)
+- ⚠️ Haaland failed to score as predicted
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测英格兰胜，实际英格兰胜）
+- ✅ 比分完全命中（预测 1-2，实际 1-2——90分钟1-1，加时第93分钟由贝林厄姆绝杀）
+- ✅ 贝林厄姆如预期成为进球者——梅开二度扭转战局
+- ✅ 挪威如预期取得进球（破门的谢尔德鲁普正是预测点名的变局奇兵）
+- ✅ 角球数命中（预测 9–12，实际 11 个）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 黄牌数大幅低于预测（预测 4–6，实际 1 张）
+- ⚠️ 犯规数大幅低于预测（预测 22–26，实际 18 次）
+- ⚠️ 哈兰德未能如预期破门
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Anh thắng)
+- ✅ Tỷ số chính xác tuyệt đối (dự đoán 1-2, thực tế 1-2 — hòa 1-1 sau 90 phút, Bellingham ấn định ở phút 93 trong hiệp phụ)
+- ✅ Bellingham ghi bàn như dự đoán — cú đúp định đoạt trận đấu
+- ✅ Na Uy ghi bàn như kỳ vọng (Schjelderup, quân bài thay người xoay chuyển cục diện mà bài phân tích đã điểm mặt, là người lập công)
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 11 cái)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Thẻ vàng thấp hơn nhiều dự đoán (dự đoán 4–6, thực tế 1 thẻ)
+- ⚠️ Số lần phạm lỗi thấp hơn nhiều dự đoán (dự đoán 22–26, thực tế 18 lần)
+- ⚠️ Haaland không ghi bàn như dự đoán
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อังกฤษชนะ)
+- ✅ สกอร์ตรงเป๊ะ (ทำนาย 1-2, จริง 1-2 — เสมอ 1-1 ใน 90 นาที ก่อนเบลลิงแฮมยิงชัยนาทีที่ 93 ในช่วงต่อเวลาพิเศษ)
+- ✅ เบลลิงแฮมทำประตูตามคาด — เบิ้ลสองลูกพลิกเกม
+- ✅ นอร์เวย์ทำประตูได้ตามคาด (เชลเดอรุป ตัวสำรองพลิกเกมที่บทวิเคราะห์ชี้ไว้ เป็นคนยิง)
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 11 ลูก)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ใบเหลืองต่ำกว่าที่ทำนายมาก (ทำนาย 4–6, จริง 1 ใบ)
+- ⚠️ จำนวนฟาวล์ต่ำกว่าที่ทำนายมาก (ทำนาย 22–26, จริง 18 ครั้ง)
+- ⚠️ ฮาลันด์ไม่สามารถทำประตูได้ตามที่ทำนาย

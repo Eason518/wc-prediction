@@ -9741,9 +9741,9 @@
     "files": [
       "fable/quarter-final/m-nor-eng-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 1,
+    "actualScoreAway": 1,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,

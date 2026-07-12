@@ -556,3 +556,58 @@ Dự đoán: Argentina thắng 2-1. Kỳ vọng Thụy Sĩ giữ được đội
 | 🩹 Mất Manzambi Và Vargas | Chấn thương đầu gối của Manzambi và việc Vargas rời trại cướp đi hai cầu thủ chạy cánh sáng tạo nhất của Yakin — hàng công Thụy Sĩ giờ phụ thuộc vào Embolo. |
 | 🔁 Dư Âm 2014 | Lần gặp nhau gần nhất tại World Cup cần đến 118 phút và pha kiến tạo của Messi cho Di María; Thụy Sĩ vẫn chưa từng thắng Argentina (0 thắng-2 hòa-5 thua). |
 | ⏱️ Khuôn Mẫu Bàn Thắng Muộn | Argentina ghi những bàn quyết định sau phút 90 ở hai vòng knock-out liên tiếp — Thụy Sĩ phải sống sót qua 15 phút cuối, quãng thời gian săn bàn tốt nhất của đối thủ trong lịch sử. |
+
+## result_hits:zh
+- ✅ 勝負方向命中（預測阿根廷勝，實際阿根廷勝）
+- ✅ 準確預言延長賽劇本——「重演2014年式的延長賽消耗戰」成真，阿根廷靠第112分鐘與第120+1分鐘的進球才鎖定勝局
+- ✅ 替補勞塔羅的衝擊如預期發揮作用，延長賽壓哨進球
+- ✅ 瑞士如預測面對頂級對手單場進球未超過一球
+- ✅ 角球數命中（預測 9–12，實際 10 個）
+- ✅ 黃牌數命中（預測 4–6，實際 4 張）
+- ✅ 紅牌預測正確（預測 0–1，實際 0 張）
+- ⚠️ 比分略為低估（預測 2-1，實際 3-1 延長賽）
+- ⚠️ 犯規數大幅高於預測（預測 22–28，實際 33 次）
+
+## result_hits:en
+- ✅ Winner predicted correctly (Argentina win)
+- ✅ Extra-time script called exactly — the "2014-style extra-time grind" materialised, settled by goals in the 112th and 120+1st minutes
+- ✅ Substitute Lautaro Martínez made the predicted late impact, scoring in extra time
+- ✅ Switzerland never scored more than once, as predicted against elite opposition
+- ✅ Corner count on target (predicted 9–12, actual 10)
+- ✅ Yellow card count on target (predicted 4–6, actual 4)
+- ✅ Red card prediction correct (predicted 0–1, actual 0)
+- ⚠️ Scoreline slightly underestimated (predicted 2-1, actual 3-1 a.e.t.)
+- ⚠️ Foul count far above prediction (predicted 22–28, actual 33)
+
+## result_hits:zh-cn
+- ✅ 胜负方向命中（预测阿根廷胜，实际阿根廷胜）
+- ✅ 准确预言加时赛剧本——「重演2014年式的加时赛消耗战」成真，阿根廷靠第112分钟与第120+1分钟的进球才锁定胜局
+- ✅ 替补劳塔罗的冲击如预期发挥作用，加时赛压哨进球
+- ✅ 瑞士如预测面对顶级对手单场进球未超过一球
+- ✅ 角球数命中（预测 9–12，实际 10 个）
+- ✅ 黄牌数命中（预测 4–6，实际 4 张）
+- ✅ 红牌预测正确（预测 0–1，实际 0 张）
+- ⚠️ 比分略为低估（预测 2-1，实际 3-1 加时赛）
+- ⚠️ 犯规数大幅高于预测（预测 22–28，实际 33 次）
+
+## result_hits:vi
+- ✅ Dự đoán đúng kết quả (Argentina thắng)
+- ✅ Kịch bản hiệp phụ được gọi tên chính xác — màn "nghiền nát trong hiệp phụ kiểu 2014" thành hiện thực, định đoạt bởi các bàn thắng phút 112 và 120+1
+- ✅ Lautaro Martínez vào sân từ ghế dự bị tạo dấu ấn muộn như dự đoán, ghi bàn trong hiệp phụ
+- ✅ Thụy Sĩ không ghi quá một bàn, đúng như dự đoán trước đối thủ hàng đầu
+- ✅ Số phạt góc trong tầm dự đoán (dự đoán 9–12, thực tế 10 cái)
+- ✅ Số thẻ vàng trong tầm dự đoán (dự đoán 4–6, thực tế 4 thẻ)
+- ✅ Dự đoán thẻ đỏ chính xác (dự đoán 0–1, thực tế 0 thẻ)
+- ⚠️ Tỷ số bị đánh giá thấp nhẹ (dự đoán 2-1, thực tế 3-1 sau hiệp phụ)
+- ⚠️ Số lần phạm lỗi cao hơn nhiều so với dự đoán (dự đoán 22–28, thực tế 33 lần)
+
+## result_hits:th
+- ✅ ทำนายทิศทางผลการแข่งขันถูกต้อง (อาร์เจนตินาชนะ)
+- ✅ ทำนายบทต่อเวลาพิเศษได้เป๊ะ — ฉาก "บดเคี้ยวช่วงต่อเวลาสไตล์ปี 2014" เกิดขึ้นจริง ชี้ขาดด้วยประตูนาที 112 และ 120+1
+- ✅ เลาตาโร มาร์ติเนซ ตัวสำรองสร้างอิมแพ็กช่วงท้ายตามที่ทำนาย ยิงประตูในช่วงต่อเวลา
+- ✅ สวิตเซอร์แลนด์ยิงไม่เกินหนึ่งประตูตามที่ทำนายไว้เมื่อเจอคู่แข่งระดับหัวแถว
+- ✅ จำนวนเตะมุมตรงตามที่ทำนาย (ทำนาย 9–12, จริง 10 ลูก)
+- ✅ จำนวนใบเหลืองตรงตามที่ทำนาย (ทำนาย 4–6, จริง 4 ใบ)
+- ✅ ทำนายใบแดงถูกต้อง (ทำนาย 0–1, จริง 0 ใบ)
+- ⚠️ ประเมินผลการแข่งขันต่ำเกินไปเล็กน้อย (ทำนาย 2-1, จริง 3-1 หลังต่อเวลาพิเศษ)
+- ⚠️ จำนวนฟาวล์สูงกว่าที่ทำนายมาก (ทำนาย 22–28, จริง 33 ครั้ง)

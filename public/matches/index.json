@@ -9847,16 +9847,102 @@
     "files": [
       "fable/quarter-final/m-arg-sui-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
-    "extraTime": null,
+    "actualScoreHome": 3,
+    "actualScoreAway": 1,
+    "extraTime": true,
     "penaltyHome": null,
     "penaltyAway": null,
-    "regScoreHome": null,
-    "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
-    "v": 1
+    "regScoreHome": 2,
+    "regScoreAway": 1,
+    "predictionCorrect": true,
+    "liveStats": {
+      "possession": [
+        53,
+        40
+      ],
+      "possession_contested": 7,
+      "goals": [
+        3,
+        1
+      ],
+      "assists": [
+        2,
+        1
+      ],
+      "attempts_total": [
+        22,
+        11
+      ],
+      "attempts_on": [
+        7,
+        5
+      ],
+      "attempts_off": [
+        11,
+        3
+      ],
+      "attempts_inside": [
+        11,
+        5
+      ],
+      "attempts_outside": [
+        10,
+        6
+      ],
+      "passes": [
+        659,
+        461
+      ],
+      "passes_completed": [
+        586,
+        388
+      ],
+      "crosses": [
+        3,
+        11
+      ],
+      "crosses_completed": [
+        0,
+        3
+      ],
+      "corners": [
+        8,
+        2
+      ],
+      "free_kicks": [
+        21,
+        17
+      ],
+      "penalties_scored": [
+        0,
+        0
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        17,
+        27
+      ],
+      "yellow_cards": [
+        3,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        19,
+        14
+      ],
+      "offsides": [
+        4,
+        2
+      ]
+    },
+    "v": 2
   },
   {
     "id": "m-fra-esp",

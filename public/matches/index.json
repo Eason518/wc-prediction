@@ -9966,13 +9966,15 @@
     "v": 1
   },
   {
-    "id": "sf-m02",
+    "id": "m-eng-arg",
     "date": "2026-07-16",
     "time": "03:00",
     "stage": "semi-final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ENG",
+    "awayCode": "ARG",
+    "files": [
+      "fable/semi-final/m-eng-arg-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -9980,7 +9982,9 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "v": 1
+    "v": 1,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
     "id": "tp-m01",

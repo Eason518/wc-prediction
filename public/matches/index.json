@@ -9954,15 +9954,101 @@
     "files": [
       "fable/semi-final/m-fra-esp-fable.md"
     ],
-    "actualScoreHome": null,
-    "actualScoreAway": null,
+    "actualScoreHome": 0,
+    "actualScoreAway": 2,
     "extraTime": null,
     "penaltyHome": null,
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "predictionCorrect": null,
-    "liveStats": {},
+    "predictionCorrect": false,
+    "liveStats": {
+      "possession": [
+        44,
+        48
+      ],
+      "possession_contested": 8,
+      "goals": [
+        0,
+        2
+      ],
+      "assists": [
+        0,
+        1
+      ],
+      "attempts_total": [
+        8,
+        10
+      ],
+      "attempts_on": [
+        2,
+        2
+      ],
+      "attempts_off": [
+        5,
+        6
+      ],
+      "attempts_inside": [
+        3,
+        5
+      ],
+      "attempts_outside": [
+        5,
+        5
+      ],
+      "passes": [
+        480,
+        511
+      ],
+      "passes_completed": [
+        388,
+        434
+      ],
+      "crosses": [
+        18,
+        10
+      ],
+      "crosses_completed": [
+        4,
+        2
+      ],
+      "corners": [
+        7,
+        1
+      ],
+      "free_kicks": [
+        17,
+        14
+      ],
+      "penalties_scored": [
+        0,
+        1
+      ],
+      "own_goals": [
+        0,
+        0
+      ],
+      "forced_turnovers": [
+        25,
+        28
+      ],
+      "yellow_cards": [
+        2,
+        1
+      ],
+      "red_cards": [
+        0,
+        0
+      ],
+      "fouls": [
+        12,
+        11
+      ],
+      "offsides": [
+        3,
+        5
+      ]
+    },
     "v": 1
   },
   {

@@ -10159,13 +10159,15 @@
     }
   },
   {
-    "id": "tp-m01",
+    "id": "m-fra-eng",
     "date": "2026-07-19",
     "time": "05:00",
     "stage": "third-place",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "FRA",
+    "awayCode": "ENG",
+    "files": [
+      "fable/third-place/m-fra-eng-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -10173,16 +10175,20 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "v": 1
+    "v": 1,
+    "predictionCorrect": null,
+    "liveStats": {}
   },
   {
-    "id": "fin-m01",
+    "id": "m-esp-arg",
     "date": "2026-07-20",
     "time": "03:00",
     "stage": "final",
-    "homeCode": "TBD",
-    "awayCode": "TBD",
-    "files": [],
+    "homeCode": "ESP",
+    "awayCode": "ARG",
+    "files": [
+      "fable/final/m-esp-arg-fable.md"
+    ],
     "actualScoreHome": null,
     "actualScoreAway": null,
     "extraTime": null,
@@ -10190,6 +10196,8 @@
     "penaltyAway": null,
     "regScoreHome": null,
     "regScoreAway": null,
-    "v": 1
+    "v": 1,
+    "predictionCorrect": null,
+    "liveStats": {}
   }
 ]
